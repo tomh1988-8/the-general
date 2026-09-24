@@ -2,6 +2,8 @@
 
 The General is a Shiny application for exploring CSV datasets without writing code. Review suggested column roles, filter your data, create tables and plots, and pin useful results to a dashboard. Download commented R scripts to reproduce your analyses.
 
+**[Try the live demo on Posit Connect Cloud](https://01a0d419-4104-c4d7-a2c5-aa9e1cd23e70.share.connect.posit.cloud/)**
+
 ## Run from a checkout
 
 Clone this repository, then open its root in Positron, RStudio or a terminal. The lockfile records R 4.5.2 and renv 1.1.4. Access to this GitHub repository is required while it is private.
