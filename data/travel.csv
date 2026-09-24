@@ -1,0 +1,1001 @@
+DATE, transport mode , purpose , Class ,TICKET TYPE,bookingChannel,airline/Carrier,loyaltyTier, seat_preference ,accom_type,continent,Visa Required,Season,travel insurance,currency,Duration Band,distance_km,co₂_kg, trip cost £ ,DAYS AWAY, stops ,Layover H,bags,Delay Min,travel_speed_km/h,LOYALTY POINTS
+"Aug 29, 2022",plane,business,premium,one-way, Walk-In , emirates ,missing,window,resort,N. AMERICA,no,low,BASIC,jpy,1-2w,2109,   439," 7,128","16,893",388," 2,417","18,673",12278,18060,11153
+,train,STUDY,business,open,APP,qatar,platinum,aisle,couchsurf,Europe,yes,low,none,AUD,>1m,16952,6684,    80,12759,14656,5029,9622," 3,164",£16628,2805
+2024-09-17, Car ,RELOCATION,premium,one-way,AGENT,emirates, bronze , bulkhead ,NA, asia ,-999,LOW,comprehensive,jpy,3-7d,missing,7012,3406,10467,£8433,14726,"11,568",13608,£7538,14021
+2021-08-05,car,holiday,premium,open,Online,easyjet,BRONZE,AISLE,hotel,europe,yes,shoulder,missing,NaN,1-2w,17858,12383,NA,10166,14862,10562,7003,8038,13749," 8,039"
+14/07/2022,NA,backpacking,NaN,Return,ONLINE,NA,gold,Bulkhead,HOTEL, n. america ,yes,shoulder,missing,usd,3-7d,,£6077,16236,-999,2848,5649,6817,£5822,16733,£19624
+12/02/2024,Bike,holiday,economy,OPEN,WALK-IN,qatar,NA,NaN,airbnb,OCEANIA,no,low,comprehensive,gbp,2-4W,NaN,7761,15638,16280,-999,missing,£17665,7935,11177,5886
+2021-07-23,car,business, first ,missing,walk-In,lufthansa,gold,-999,resort,S. AMERICA,yes,HIGH,NaN,aud,<3d,,18433,17458,12029,3545,2489," 4,774",£4207,12214,17754
+2023-08-31,boat,backpacking,Business,one-way,app,lufthansa,GOLD,window,Hostel,s._america,yes,missing,,USD,missing,12371,11830,6204,16196,4753,19524,19944,2960,£12598,NA
+02/11/2023,boat,event,economy,open,agent,EASYJET,Silver,NaN,resort,S. America,yes,shoulder,none,gbp,1-2w,8187,286,931,,1042,5403,-999,529,£8959,9512
+01/05/2021,missing,backpacking,ECONOMY,open,walk-In,emirates,gold,aisle,couchsurf,S. AMERICA,Yes,low,-999,aud,<3D,1570,13245,9189,3830,18528,9116,NA,-999,NaN," 5,315"
+NaN,Plane,relocation,Economy,-999,Agent,lufthansa,gold,bulkhead,resort,OCEANIA,yes,NA,BASIC,jpy,2-4W,19531,8509,8351,9863,"14,267",17930,1035,15126,,2895
+28/11/2024,Train,business,premium,NaN,agent,,silver,BULKHEAD,,Oceania,no,high,none,aud,>1m,£13796,£13140,16583,-999,12966," 8,303",£15253,3449,19692," 5,745"
+2022-02-24,Boat,study,FIRST,ONE-WAY,agent,LUFTHANSA,platinum,Window,hotel,oceania,Yes,SHOULDER,Comprehensive,gbp,<3d,,1259,£15237,NaN,£2218,17798,2623,-999,-999,11633
+05/05/2024,TRAIN,STUDY,premium,open,walk-In,Emirates,bronze,Window,Hostel,oceania,YES,high,Basic,NA,1-2w,NaN,15216,19626,,£3745,," 8,673",3736,£12989,10988
+,,Study,business,return,online,ba,bronze,Window,airbnb,europe,no,shoulder,none,eur,3-7d,9889,16014,NA,10572,18827,1195,15693,"16,426",17955,"18,350"
+26/02/2021,bus,event,premium,one-Way,APP,emirates, platinum ,middle,Hostel,n. america,yes,high,none,jpy,1-2w,10892,10935,16900,16681,£2781,missing," 2,812",£12226,5778,18497
+27/06/2021,plane,event,-999,Open,App,missing, bronze ,,NA, asia , no ,shoulder,none,Jpy,<3D,"15,609",7623,4128,£3794,6770,5300,15743,8277,19342,1486
+2021-07-07,Boat,business,Premium,open,app,-999, BRONZE , window ,hotel,OCEANIA,Yes,low,BASIC,,<3d,£17280,6174,9433," 4,217",9535,-999,"11,473",6063,157,£13169
+27/11/2021,train,Study,FIRST,-999,Walk-In,Emirates,gold,aisle,Couchsurf,ASIA,No,NA,NONE,GBP,>1m,19075,-999,12777,13748,12335,£4398,NaN,17798,6868,5739
+"Oct 26, 2024",Car,holiday,ECONOMY,OPEN,WALK-IN,Emirates,Gold,Window,Hotel,n.America,No,Low,Basic,Jpy,1-2w,£19243,10474,5731,16358,15934,12141,10859,7844,9487,missing
+2021-03-19,Bike,holiday,economy,NA,WALK-IN,lufthansa,silver,middle,AIRBNB, africa ,no,low, none ,aud,>1m,19936,"11,332",£12110,-999,£17282,"17,943",2637,13147,17793,£15407
+23/06/2021,-999, business ,First,open,Walk-In,BA,gold,MIDDLE,HOTEL,n._america,NO,high,comprehensive,NaN,<3D,"16,531",3624,19918,,470,£4874,£18862,-999,115,9616
+30/07/2021,missing,BACKPACKING,business,Return,app,BA,Gold,BULKHEAD,resort,africa,yes,low,Basic,Jpy,2-4w,7143,"15,134",NA,"15,505",6979,16813,15894,10060,12313,12512
+29/08/2023,TRAIN,backpacking,Economy,one-way, agent ,BA,,WINDOW,AIRBNB,s. america,no,NaN,basic,Eur,2-4w,£2276,6072,8072,£5011,8194,£14597,8785,NA,"16,270",£11437
+23/12/2023,TRAIN,Study,first,RETURN,walk-In,ba,PLATINUM,middle,AIRBNB,EUROPE,no,low,,Eur,3-7d,14664,"19,010",NaN,7601,£19923,7569,16722,18578,£7212,16534
+13/09/2024,bike,,first,Return,Agent,EMIRATES,bronze,aisle,Couchsurf,s. america,,high, None ,gbp,3-7d,8428,NaN,11532,£7348,£12433,6689,£16366,6183,"10,173"," 1,546"
+04/02/2021,plane,backpacking,premium,open,ONLINE,qatar, bronze ,bulkhead, airbnb ,n._america,Yes,Shoulder,Basic,usd,1-2w,15598,1461,£8624,3514,5046,1882,8497," 2,469",missing,4029
+28/03/2021,-999,missing,economy,one-Way,App,EASYJET,bronze,aisle,hotel,S. AMERICA,No,low,None,Eur,<3d," 1,616",£4420,NaN,£15817,9925,£15107," 1,262",14145,9293,£13609
+"Jun 13, 2023",train,Event,FIRST,ONE-WAY,AGENT,emirates,-999,bulkhead,couchsurf,asia,no,high,basic,aud,2-4w,"11,936",8807,277,1285,18434,12815,"13,997"," 5,048",10107," 4,436"
+-999, BIKE ,holiday,premium,open,app, lufthansa ,PLATINUM,Window,missing,s._america,no,shoulder,none,gbp,1-2w,missing,£11891,11118,10802,£9240,12841,£5001," 7,473",8378,£11131
+2024-08-22,train,holiday, business ,return,online,,silver,middle,Hostel,s. america,NaN,Low, Comprehensive ,NA,<3d,13405,3085,NA,15319,18887,14505,£2431,"18,017",missing,"19,492"
+03/10/2022,bike,missing,first,Return,app,ba,gold,Window,hostel,asia,no,shoulder,comprehensive,jpy,2-4W,£7581,15157,18111,5064,6298,4073,12721,12680,£15556,6959
+27/01/2021,car,Holiday,business,OPEN,agent,emirates,bronze,missing,hostel,AFRICA,yes,shoulder,none,jpy,<3d,NA,NA,NaN,5219,19101,10066,missing,13557,"12,072",-999
+05/09/2023,boat,relocation, first ,RETURN,App,QATAR,GOLD,middle,hotel,S. America,no,Shoulder,None, Eur ,NaN,10789,£18239," 3,594"," 1,409",2323,3219,"19,439",£13393,NaN,12842
+04/09/2022,train,NaN,PREMIUM,open,agent,easyjet,silver,NaN,Airbnb,AFRICA,-999,missing, None ,eur,2-4w,£14514,£11466,£7075,"16,374",£11313,   131,3799,4824,4347,6171
+2024-06-28,Plane,Backpacking, business ,One-Way,app,missing,gold,Aisle,NA,n._america, Yes ,high,None,gbp,2-4W,7830," 7,094",17121,14921," 4,144",    37,-999,£4988,NA,9944
+29/06/2022,bus,BACKPACKING,business,open,walk-In,qatar,NaN,Bulkhead,hostel,asia,yes,Shoulder,None,JPY,>1m,"19,157",14650,-999,3263,,£12820,"12,495",15162,"17,494",4615
+31/12/2022,bus, STUDY ,premium,,online,lufthansa,gold,window,hotel,europe,yes,high, comprehensive ,gbp,>1m," 1,421",16901,15977,14043,3760,15922,"19,479",-999,missing,18647
+2024-04-15,car,business,business,return,app,lufthansa,-999,window,missing,OCEANIA,NO,Shoulder,none,jpy, >1m ,15476,£12406,NaN,15898,14849,12972,4245,565,2323,154
+2023-11-21,car,,business,RETURN,agent,-999,gold, Window ,hostel,n._america,no,shoulder,none,Usd,missing,5067,,,"12,514",9000,£13557,3512," 4,633","14,112",£10506
+2021-09-05,boat,business,business,One-Way,,easyjet,PLATINUM, middle ,Resort,europe,YES,SHOULDER,NONE,usd,2-4w,10152,2624," 4,573",13916,1218,-999,"17,227","18,219",19709,£12576
+missing,bike,holiday,premium,Open,online,ba, platinum ,window,NaN,-999,no, high ,none,GBP,2-4w,12419,9468,16174,£14284,NA,£12508," 1,565","11,052",-999,£4488
+2024-05-03,Bike,relocation,NA,return,NA,qatar,NA,bulkhead,hostel, n._america ,yes,shoulder,Basic,eur,3-7d,16848,9237,£12766,£19029,2493,5380,6137,13162,3400,17594
+,plane, study ,first,OPEN,walk-in,Easyjet,gold, middle ,couchsurf,Europe,no,high,none,Jpy,3-7d,18145,9334,14246,-999,NA,4850,13593," 8,074",£11168,8313
+2022-05-25,Train,Backpacking,NaN,RETURN,APP,NaN,Bronze,MIDDLE,hostel,oceania,NO,high,COMPREHENSIVE,NA,2-4W,£14100,18649,11472,8681,9542,4223,£9158,9066,NaN,13232
+NaN,bike,event,economy, open ,App,lufthansa,-999,NaN,couchsurf,Oceania,yes,SHOULDER,BASIC,EUR,1-2w,"12,175",£6263,18273,£6834," 6,952",4851,8816,,6672,7138
+02/12/2024,bus,NaN,business,RETURN,-999,lufthansa,Bronze,aisle,couchsurf,S. AMERICA, no , high ,comprehensive,Usd,1-2w,missing,12049,-999,missing,17012,15121,1681,17723,1314,£16102
+24/05/2024,plane, Holiday ,Business, one-way ,walk-In,Qatar,SILVER,Middle,hostel,s. america,,HIGH, basic ,gbp,>1m,NA,11229,£6022,18244,10581,14501,9962,17991,13065,9197
+,plane,BACKPACKING,PREMIUM,return,online,NaN,bronze,window, RESORT ,oceania,Yes,high,,NA,<3d,14997,1838,£15833,18188,£11031,NA,8435,3164,14912,14951
+2021-01-29,BOAT,relocation, Business , return ,NA,ba,silver,,hotel,Europe,yes,high,NA,gbp,<3d,18515,"16,123",11444," 8,073",£18412," 4,637","13,358",1110,8666,6546
+08/04/2023,Bike,study, Economy ,missing,WALK-IN,Lufthansa,GOLD,AISLE,HOTEL,s. america,yes,high,None,usd,3-7d,£16449,"15,074",10051,8715,133,"15,458",7271,19498,16934,14396
+29/12/2022,Train,Study,premium,RETURN,AGENT,ba,missing,WINDOW,airbnb,Africa,no,low,None, usd ,>1m,16499,"10,836",   505,599," 8,010",£6125,4127,"14,432",1763," 3,780"
+02/07/2022,BUS,event,premium,ONE-WAY,app,ba,platinum,AISLE,RESORT,S. AMERICA,NO,high,comprehensive,eur,3-7d,18392,   120,"10,757","16,505",£16902,£10536," 3,016",NaN,8111,"13,916"
+12/08/2021,Plane,Business,first,open,NaN,Emirates,silver,middle,Hostel,asia, no , low ,none,Gbp,1-2w,"16,771",NaN,5218,153," 3,625",£6576,NaN,£13098,£10670,missing
+,PLANE,BUSINESS,first,missing,App,QATAR,silver,missing,hotel,N. AMERICA,YES,shoulder,none,eur,3-7D,£10251,missing,£974,11729,"13,498",£7328,19402,18679,5072,NA
+2022-08-22,car,study,Economy,RETURN, Walk-In ,EMIRATES,PLATINUM,bulkhead,couchsurf,s. america,NA,low,none, jpy ,2-4w,13720,10401,3083,4889,NA,6624,9388,£13577,missing,15946
+"Jul 09, 2024",Boat, backpacking ,economy,-999,agent,EMIRATES,gold,Middle,RESORT,NaN,Yes,shoulder,NA,eur,>1m,NaN,3600,11026,8088,£514,£14934,£3177,,16266,£6133
+2023-06-02,train, backpacking ,business,NaN,walk-in,Lufthansa,bronze,NA,Airbnb,n._america,-999,low,COMPREHENSIVE,Eur,2-4w,"13,829","12,952",11103," 9,731",13090,£1687,missing,£5353,"16,263",14119
+13/09/2023,CAR,Holiday,first,open,Walk-In,Ba,silver,BULKHEAD,airbnb,Africa,missing,HIGH,Comprehensive,missing,3-7d,NaN,17499,7995,£15839,NaN,2567,10917,£12519," 2,905",£13222
+2023-04-22,bike,HOLIDAY,Business, one-way ,app,missing,gold,aisle,hotel,s. america,YES,shoulder,BASIC,aud,>1m,£8042,18430,15292,£11542,9133,£4681,£5282,6332,9469,14034
+2023-05-28,bike,Business,,return,AGENT,lufthansa,Bronze,window,HOSTEL, Europe ,yes,SHOULDER,BASIC,NA,NaN,7846,£19599,"15,935",£5377,4318,15547,£7474,,17637,£15999
+NaN,bus,holiday,business,one-way,missing,EMIRATES,platinum, Middle ,hostel,n.America,no,shoulder,none,eur,2-4w,"10,241",16104,13792,1668,£7454,19529,5168," 8,781",10020,18833
+15/08/2023,car,BACKPACKING,economy,return,agent,-999,Silver,Bulkhead,,Africa,no,low,COMPREHENSIVE,,-999,2929,£19216,17783,17309,-999,£8777,12737,37,"15,034",7650
+27/04/2024,TRAIN,Holiday,Business,open,Online,easyjet,NA,bulkhead,airbnb,NaN,NO,low,Comprehensive, eur ,>1m,missing,5491,6523,£12150,1773,"11,090",4169,"15,488",17529,15354
+2022-03-02, train ,EVENT, business ,one-Way,agent,ba,Bronze,Aisle, airbnb ,europe,no,high,none,NaN,<3d,17664,8754,"12,129",9510,18928,£10624,£3286,"10,813",£10498,9464
+26/05/2023,car,NaN,economy,open,NaN,missing,-999,Aisle,AIRBNB,n. america,yes,SHOULDER,basic,aud,3-7D,10314,-999,17581,6896,13213,£13503,13863,NA,£19487,NA
+2021-09-06,-999,relocation,FIRST,open,Walk-In,missing,gold,NaN,hotel, Oceania ,no,SHOULDER,missing,eur,>1M,10450,2896,13481,2619,£4898,17571,2442,"18,052",8037," 6,308"
+2024-01-06, car ,Holiday,first,one-way,app,Easyjet,Platinum,MIDDLE,HOTEL,europe,No,low,BASIC,usd,3-7d,£17317,9438,,12318,NA,13174,"15,628",11532,13494,"17,294"
+16/03/2023,Bus,relocation,Economy,, APP ,lufthansa,Platinum,BULKHEAD,hostel,-999,no,HIGH,Comprehensive, aud ,<3D,£3588,6418,16777,4142,11915,NA,13341,18044,1939,£242
+18/10/2024,Boat,EVENT, Economy ,ONE-WAY,walk-in,qatar,bronze,aisle,couchsurf,ASIA,missing,Low,-999,usd,3-7D," 9,272",3136," 8,554",17349,11239,2968,"11,617",£8741," 7,967",£19944
+13/08/2021,bus,Backpacking,Business,one-way,walk-In, lufthansa , Gold ,bulkhead,hostel,n._america,-999,high,BASIC,gbp,2-4w," 2,937",-999,18930,£17474,10990,15794,19111,NA,8798,"16,153"
+29/03/2021, boat ,Backpacking,business,ONE-WAY,app,BA,bronze,MIDDLE,hotel,asia,yes,SHOULDER,COMPREHENSIVE,NA,<3d,981,18755,missing,12478,"16,349",£712,"12,307",£4696,£6976,7895
+2023-07-23,,Event,ECONOMY,one-way,ONLINE,-999,gold,window,-999,africa,yes,shoulder,basic,AUD,3-7d,2878,13534,6535,£13650,15689,1577,5703,8804,8603,19806
+2024-04-16,Bike,relocation,Business,one-Way,app,lufthansa,,Bulkhead,airbnb,AFRICA,YES,high,None, aud ,>1m,6321,16689," 5,924",13042,£17299,18133,NaN,missing,£16078,10953
+2021-11-20,plane,missing,first,return,agent,Ba,gold,Bulkhead,RESORT,asia,no,shoulder,NONE, Aud ,missing,NA,19275,£5422,-999,£14922,619,7354,"11,957",NaN," 7,465"
+01/02/2022,,business,FIRST,One-Way,agent, easyjet ,platinum, AISLE ,airbnb,asia,no,low,COMPREHENSIVE,usd,2-4W,"17,995"," 9,129",£810,£10415,£7599,£11183,"12,500",£8126,3165,11782
+"Mar 01, 2023",TRAIN,Event,ECONOMY,return,agent,lufthansa,Bronze,window,couchsurf,Africa,missing,shoulder,Comprehensive,Jpy,NA," 7,518",11693,NA,£12543,992,4115,11005,missing,4603,£19632
+2024-01-26,NaN,Holiday,first,Open,agent, emirates ,Gold,Window,couchsurf,n. america,No,LOW,-999,missing,<3d,"13,987",942," 9,135",-999,£18963,2794,£17076,£16684,NaN,2712
+14/06/2021,Boat,Event,economy,Open, AGENT ,Ba,Gold, middle ,COUCHSURF,EUROPE,yes,shoulder,-999,gbp,>1m,4006,8552,10027,7373,£12686,9373,16513,£9504,£10841,-999
+2021-10-04,boat,relocation,premium,one-way,agent,easyjet,platinum,,Airbnb,missing,Yes,high,COMPREHENSIVE,gbp,2-4w,16572,1705,£11525," 7,726",1919,"13,877",16490,,missing,12339
+24/10/2021,bus,HOLIDAY,PREMIUM,one-way,agent, lufthansa ,platinum,middle,airbnb,-999,no,Shoulder,BASIC,eur,1-2W,18685,"15,704",12664,6690,19937,missing,missing,£16756,"12,119",NA
+"Sep 07, 2022", train ,NA,BUSINESS,OPEN,App,easyjet,NaN,aisle, resort ,europe,yes,HIGH,comprehensive,usd,3-7d," 2,652",12009," 3,165",7227,19228,15225,4774,4553,NA,4433
+missing,train,relocation,business,ONE-WAY,app,ba,PLATINUM,Middle,couchsurf,asia,YES,LOW,basic,,>1m,£15487,£9270,2896,-999,"12,712",£18956,missing,12441,3276,missing
+2022-08-26,bus,STUDY, economy ,-999,online,Ba, platinum ,bulkhead,resort,missing,No,shoulder,none,jpy, 1-2w ,NaN," 2,333",8994," 7,418",1485,12406,9229,9222,"15,006",1813
+2022-08-14,Boat,study,premium, One-Way ,online,emirates,gold,BULKHEAD,COUCHSURF,S. AMERICA,Yes,shoulder,none,aud, <3d ,13315,16236,£1022,£16319,3932,12625,14962,"11,649",10931,£16590
+2022-08-15,train,relocation,First,ONE-WAY,app, easyjet ,gold,middle,couchsurf,s.America,Yes,LOW,basic,aud,3-7d," 9,914",,"18,085",NA,NA,9822,NA,£2290," 9,595",£15785
+04/04/2024,plane,STUDY,business, one-way ,app,BA,,window,Airbnb,EUROPE,NO,high,NaN,eur,2-4w," 9,960",18683,2254,£1309,8130,3011,   520,6779,18517," 7,333"
+"Aug 18, 2024",TRAIN,relocation,ECONOMY,return,agent, qatar ,-999,bulkhead,resort,n.America,no,low,,usd,<3d,4698,missing,3203," 7,899",£11714,11785,1818,£14255,"11,163",10294
+31/05/2024, train ,BACKPACKING,business,one-Way,AGENT,Qatar,platinum,NA,Airbnb,s.America, YES ,low,none,gbp,1-2w,"13,936",2322,15676,11100,,16744,£1677,5787,11206,£9924
+2021-07-30,NaN, Holiday ,first,RETURN,Online,qatar,GOLD,missing,couchsurf,Oceania,no,high,basic,NaN,>1m,18499,,4309,4343,5755,6259,£17378,9462,-999,£4339
+15/09/2021,NaN,Event,premium,return,agent,Ba,gold,WINDOW,Hotel,NA,,low,None,gbp,NA,£10019,15455,1384,6156,12909,6947,11109,12064,£16504,9161
+2024-11-09,,BACKPACKING,first,open,App,missing,bronze,aisle,hotel,s.America,no,low,NaN,Jpy,2-4w,£16729,7619,17546,,2410,18754,-999,2293,9223,£12020
+2023-11-26,BUS,backpacking,first,one-way,Walk-In,emirates,silver,Bulkhead,AIRBNB,africa,no,Shoulder,COMPREHENSIVE,GBP,,-999,,11875,£8812,15358,5319,£19074,£12312,£12376,£16598
+2022-02-13,Train,-999,ECONOMY,-999,online, qatar , PLATINUM ,window,airbnb,africa,missing,High,BASIC,USD,2-4w,£15966,   829,"11,022",17375,18540,£17572,12453,13638,2355,9674
+2023-11-11,,RELOCATION,ECONOMY,ONE-WAY,app,emirates,silver,aisle,Airbnb,asia,no,shoulder,basic,jpy,1-2w,11824,NaN,£7567,10736,3456,£5974,4798,4720,18940,13458
+28/07/2024,bike,study,economy,Open,app, ba ,bronze,middle,hostel,Africa,yes,shoulder,Comprehensive,-999,2-4w,,196,13344,8145,missing,1442,9740,16819,14955,18669
+01/07/2021,boat,HOLIDAY, Premium ,return,online,easyjet,missing,bulkhead,airbnb, asia ,YES,high,comprehensive,gbp,2-4w,19192,18649,12711,17480,£2757,£12606,4518,£3092,,4051
+"Sep 15, 2021",BUS,BUSINESS,PREMIUM, Open ,App,LUFTHANSA,gold,window,HOSTEL,africa,yes,low,NONE,jpy,1-2w,12379,8588,14463,6396,11466,711,18507,17079,11635,11305
+27/01/2024,boat,EVENT,-999,one-way, walk-in , easyjet , Bronze ,MIDDLE,hotel,oceania,YES,low,none,Usd,3-7D,19900,,11038,-999,1597," 5,602",£4391,1471,6505,5474
+04/03/2024,BUS,Relocation,business,one-Way,NA,QATAR,Platinum,window,NaN,n._america,No, high ,BASIC,jpy,3-7d,-999,"11,377",12839,6741,,14214,741,NA,-999,£15989
+30/11/2022,bike,business,Business,Open,walk-in,qatar,BRONZE, bulkhead ,Couchsurf,europe, no ,low,basic,usd,missing,NA,12532,6783,17595,979,£17107,8273,7628,10116,5925
+2021-06-07,plane,HOLIDAY,NaN,RETURN, walk-In ,ba,SILVER, Window ,hostel,africa,no,low,comprehensive,aud,1-2w,19612,4505,,NaN,17889,15155,4563,3645,16159,1529
+26/08/2021, boat ,backpacking,business,RETURN,ONLINE,ba,platinum,window,COUCHSURF, Asia ,yes,high,comprehensive,Gbp,2-4w,8603,7329,"19,835",1571,£9525,£13003,19323,3797,2674," 3,422"
+2023-04-01,bike,STUDY,BUSINESS,Return,app,BA,platinum,bulkhead,hostel,africa,yes,NaN,comprehensive,Aud,>1m,NaN," 1,326",6988,6391,4275,17843,£14234,13782,NaN,£15699
+"Jan 08, 2021",bus,backpacking,First,one-way,app,lufthansa,NaN,NaN,Hotel,N. America,yes, SHOULDER ,none,missing,1-2w," 4,155",£4975,4602,13480,£14835,794,NaN,13168,"12,645",6010
+27/09/2024,BUS,Holiday,NaN,RETURN,-999,emirates,platinum,MIDDLE,Couchsurf,,No,high,comprehensive,USD, 2-4W ,£6185,£7968,5724,3854,15860,4852,12044,,13708,£17790
+2021-09-18,Car,event,business,OPEN,App,EASYJET,NaN,window, couchsurf ,Asia,,high, None ,AUD,<3d,517,9994,£4931,12362,NA,1855,16911,NaN,16517,7549
+"Mar 13, 2024",-999,-999,premium,return,-999,lufthansa,platinum,window,hotel,,Yes,Shoulder,Comprehensive,usd,>1M,£1710,-999,NaN,17124,NaN,7793,12753,6305,7203,3411
+20/03/2024,Bike,study,business,return,APP,easyjet, silver , WINDOW ,couchsurf,asia,no,low,none,,2-4w,2192,17912,17372,12840,4386,£6083,"10,810",7054,17985," 5,501"
+05/01/2024,CAR,business,First,return,walk-In,QATAR,Bronze,bulkhead,Resort,oceania,YES,LOW, basic ,NA,3-7d,12590," 8,540"," 9,878"," 3,893"," 6,481",1032,10337,8149,412,NaN
+"Jun 16, 2022",BUS,business,premium,Return,Walk-In,EMIRATES,GOLD,MIDDLE,Airbnb,n._america,no,shoulder,NONE, Usd ,3-7d,3368,,12605,19824,663,"19,683","10,514",5923,4235,missing
+01/07/2022,-999,Holiday,premium,-999,WALK-IN,lufthansa, silver ,WINDOW,couchsurf,africa,No,low,none,jpy,1-2w,1393,   200,8065,19078,10078,£5419," 2,031",4946,17908," 9,406"
+12/12/2021, plane ,Business,missing,RETURN,agent,EMIRATES,BRONZE,aisle,hotel,asia,No,HIGH,Basic,AUD,3-7d,12744,6029,"12,076",NA," 1,417",16705,3245,NaN,3748,8059
+2022-11-05,boat,-999,premium,NA,online, QATAR ,Silver,bulkhead,couchsurf,n.America,yes,high,basic,Aud,3-7d,18486,"18,624",£3675,£4269,10601,,19635,6236,-999,15118
+26/03/2023,train,NaN,Economy,open,agent,lufthansa,silver, aisle ,couchsurf,Oceania,YES,high,comprehensive, JPY ,3-7D,£9299,18486,£6594,-999,£11590,17269,,"14,497",-999,13521
+2022-05-16, BUS ,relocation,Business,open,online,ba,NaN,WINDOW,resort,NaN, no ,Low,Basic, usd ,,16956," 6,881",10663,£6384,1308,£9584,17308,6433,£13370,9168
+2023-06-24,boat,study,economy, Open ,-999,qatar,silver,MIDDLE,NaN,S. AMERICA,yes,missing,comprehensive, Usd , <3d ,-999,4355,"17,164",NA,19869,939,6753,NaN,£18428,£2458
+20/01/2022,Bike,Event,NA,One-Way,walk-in,Easyjet,bronze,Bulkhead,hotel, N. America ,NO,high,basic,,3-7d,18450," 4,752",4418," 5,133",missing,12497,NA,6234,£18024,-999
+2024-10-13,bike,study, FIRST ,one-way,app, Emirates ,Silver,window,HOSTEL,n. america,no,shoulder,none,Usd,3-7d,4170,"14,986",4367,£16160,£6815,18787,19114,£8235,8155,£12846
+2023-12-06,bus,STUDY,Business,open,app,Emirates,silver,missing, airbnb ,AFRICA,no,Low,NaN,aud,-999,16090,13385,6282,5127,5968,16633," 5,968",NaN,11929,11184
+2022-06-07,train,study, premium ,OPEN,WALK-IN,Ba,platinum,BULKHEAD,NA,,no, High ,none,GBP,2-4W,NaN,"17,950",17019,9819," 1,362",10192,11094,," 8,676",19521
+2021-11-27, train ,Relocation,NA,one-way,walk-In, Qatar ,GOLD,window,Hotel,africa,No,low,none,aud,2-4w,16508,1577,"11,189",-999,2149,NA,9089," 9,301",1546,missing
+-999,bike,,economy,one-way,ONLINE,LUFTHANSA,BRONZE, aisle ,-999,AFRICA,no,High,comprehensive,Aud,>1M," 5,043",,7816,NaN," 4,302",NA,£15446,"19,658",4440,£18268
+17/02/2022,bus,holiday,premium,missing,Agent,ba, Gold ,middle,resort,s._america,yes,Low,none,EUR,2-4w,£15155,NaN,11905,10091,"19,040"," 3,487",979,14476,17233,"15,894"
+2023-04-24,train,-999,Premium,missing,online,Ba,-999,window,hostel,N. AMERICA,No,high,Comprehensive, gbp ,1-2w,10427," 1,384",2490,4673,19031,£15918,5917,3212,19107,£3862
+29/08/2023,Boat, holiday , premium ,open,app,easyjet,,NaN, HOSTEL ,oceania,no,low,basic,eur,<3D,"14,349",14012," 9,837","17,218",11540,3878,5945,£7826,"15,851",19783
+18/01/2021,CAR,business,economy,RETURN,app,emirates,platinum,Bulkhead,Hostel,asia,no,high,basic,AUD,1-2w,5236,279,NaN,3295," 3,717",16945,7471,1723,6853,£5930
+24/07/2023,Train,Holiday,economy, one-way ,app,EASYJET,PLATINUM,MIDDLE,Hotel,OCEANIA,No,shoulder,-999,JPY,2-4w,2146,£5431,4822,1862,14124,"10,923",16945,15672,4702,£13778
+15/03/2024,bike,NA,economy,One-Way,online,emirates,,-999,AIRBNB,africa,No,shoulder,NA,gbp,<3d,19503,8058,,6677," 9,745",3420,3816," 2,557","13,121","11,629"
+14/11/2022,Car,study,economy,Return,walk-in,lufthansa, bronze ,missing,airbnb,,no,-999,comprehensive,GBP,1-2W,6750,8860,13474,missing,8536,18347,"12,739",£13601,£3594,13576
+"May 16, 2021",bus,Backpacking,NaN,return,AGENT,EMIRATES,,Middle,hotel,AFRICA,no,HIGH,Basic,eur,-999,"11,123"," 9,624",,4114,381,6516,8541,1245,£19580,14732
+"Sep 09, 2022",bike, Relocation ,NA,one-Way,ONLINE,emirates,platinum,BULKHEAD,couchsurf,S. America,no,high,COMPREHENSIVE,eur,<3d," 3,536",11999,NA,NaN,3528,11032,10582,9196,," 2,190"
+2023-12-21,train,event,,return,NA, emirates ,bronze,Middle, Hostel ,Oceania,no,SHOULDER,COMPREHENSIVE,jpy,<3d,13123,-999," 6,374",5349,18039,16180," 2,821",£12428,18596,£17370
+2024-02-27,CAR,holiday,economy,ONE-WAY,app, Emirates ,PLATINUM,window,airbnb,oceania,,high,comprehensive,USD, 2-4W ,4416,6616,3736,£13882,1094,9199,3978,£10920,"14,365",£9786
+26/03/2023, car ,HOLIDAY,business,OPEN,App,qatar,platinum,middle,resort,,yes,shoulder,BASIC,gbp, 2-4w ,4990,NA,16150,7565,"14,279",3125,11186," 4,269",16895,15179
+01/11/2023,BIKE, relocation ,economy,one-way,walk-In,NA,bronze,window,COUCHSURF,N. America,NO,NaN,missing,usd,>1m,12994,12925,3654,52,10577,NaN,17352,93,8452,4182
+2021-10-23,bike,business,economy,Return,Online,Qatar,Gold,AISLE,,s._america,no,Shoulder,NA,aud,<3d," 3,987",£13453,NaN,£4940,5157,NaN,"15,557",1785,£630,16568
+11/05/2022,Bike,relocation,economy, open ,walk-in,ba,bronze,Middle,HOSTEL,asia,no,high,none,jpy, 2-4w ,£17084,18372,2204,7408,"18,418"," 5,250",4170,£8428,6272,164
+04/01/2021,bus,event,Business,ONE-WAY,missing,Lufthansa,GOLD,MIDDLE,hotel,N. AMERICA,No,low,none,gbp,<3d,8755,"10,376",9297,19669,,15620,1558,14879,£12686,£4391
+2022-04-24,Plane,event,premium,open,online,ba,Silver,NA,,europe,NO,LOW,NONE,usd,3-7d,19074,18283,8706,11638,14343,11033,7548,-999,9105,£17661
+07/02/2023, boat ,BACKPACKING,first,one-Way,AGENT,qatar,platinum,middle,couchsurf,africa,no, low ,none,gbp,<3d,18409,5761,8016,11596,missing,£8787,19387,£17921,missing,14050
+10/02/2023,bike,EVENT,missing,return,ONLINE,emirates,gold,BULKHEAD,resort,europe,yes,,Comprehensive,jpy,2-4w,£4213,"14,232",,,360,15007,£15370,1914,18278,13541
+2024-04-29,Bus,backpacking,missing,return,app,emirates,Bronze,NaN,resort,n. america,No,HIGH, comprehensive ,eur,2-4w,13473,£19004,"12,372",£3624,1680,£18741,7855,10004,"13,457",13303
+missing,BIKE,holiday,economy,return,Walk-In,Qatar,gold,,couchsurf,Asia,no,,none,JPY,1-2w,13301,13398,,5001," 9,730",-999,15984,4970,missing,£15648
+2021-01-29,NaN,study,economy,one-way,app,lufthansa,missing,middle,Airbnb,africa,No,high,comprehensive,JPY,2-4w,9772,NaN,6801,-999,missing,£7381,NaN,NaN," 2,388",4954
+2021-09-28,missing,HOLIDAY,economy,return,app, lufthansa ,BRONZE,NA,hostel,n. america, yes ,Low,BASIC,gbp,1-2w,5288," 5,590",19071,£7962,£1331,5841,1858,£18403,£13509,2451
+10/02/2021,bike,Study,premium,ONE-WAY,walk-In, lufthansa ,silver,Window,airbnb,n. america,no,low, comprehensive ,gbp,-999,8070,NaN,£14083,10338,NA,£8722,8714,11188," 7,216","17,889"
+2023-08-16,Bike,BUSINESS,first,return,APP,emirates,Bronze,window,hostel,asia,no,high,comprehensive,usd,NaN,14028,"13,507",£5921,£7158,"14,882",13117,£16276,"16,060",244,3847
+"Oct 27, 2022",BUS,holiday,first,-999,agent,emirates,GOLD,middle,Resort,NA,no,high,NaN,Aud,NaN,1534,10510,10219,11341," 3,031",   864,12572,missing,"17,418",NaN
+,bus,Event,ECONOMY,one-way,NaN,lufthansa,bronze,window,,ASIA,no,Shoulder,Basic,missing,2-4w,7241,1250," 9,361","17,383",7282,11332,4409,19618,NaN," 2,615"
+02/03/2023,car,holiday,BUSINESS,One-Way,agent,Easyjet,bronze,window,couchsurf,Asia,No,High, Comprehensive ,Eur,3-7d,NA,11227,3525,2475,9667," 5,430",NA,14622,19715,£8201
+10/09/2023,CAR,missing,business,Return,app,missing,BRONZE,bulkhead,missing,Asia,Yes,SHOULDER,NA,Eur,-999,13193,12213,-999,£17063,14791,13047,NA,6935,3477,39
+03/03/2022,-999,holiday,business,open,app,Lufthansa,bronze,AISLE,-999,n._america,no,high,NONE,gbp,>1m,£420,7298,,861,15171,14985,13076,4817,18111,10307
+missing,boat,-999,Economy,ONE-WAY,app,ba,bronze,bulkhead,resort,oceania,yes,High,none,aud,<3d,£2123,£15796,"13,687",   654,£9094,6692,2757,6752,£17159,5996
+2024-04-02,train, EVENT ,economy,Return,Agent,Qatar,silver,Bulkhead,hostel,asia,no,shoulder,None,gbp,-999," 9,019",6527,missing,11992,,9001,"10,996",,£14198,16678
+20/05/2022,train,NaN, FIRST ,NaN,Walk-In,qatar,gold,middle,hostel, n.America , yes ,high,none,aud,<3D,8534,15843,828,missing,11198,782,15939,£3975,1643,7587
+07/10/2023,BIKE,backpacking,business,one-Way,walk-in,BA,BRONZE, bulkhead ,hostel,,no,low,comprehensive,EUR, <3d ,14413,18988,£18112,11636,4237,£2257,,6860,NA,13415
+2022-01-16, car ,event,FIRST,Open,Agent,lufthansa,,window,HOSTEL,europe,no,SHOULDER,basic,Aud,NA," 2,232",14496,12685," 3,755",1258,13189,9247," 6,326",£14334,"16,240"
+2023-11-22,bus,relocation,premium,return,online,emirates,gold,WINDOW,Couchsurf, europe ,YES,shoulder,basic,-999,1-2w,13301,17615,9879,5881,7734,"19,058",10076,9598,609,8549
+2022-07-06,bike,Relocation,economy,OPEN,walk-in,Easyjet,gold,window,Hotel,asia,,low,none,gbp,1-2w,   805,10248,£8670,11014,17082,9255,6264,18240,1951,"19,279"
+"Sep 05, 2023",train, business ,premium,one-way,online,QATAR,PLATINUM,AISLE,hostel,Africa,NO,high,comprehensive,eur, 2-4w ,10654,9325,8929,9656,5088,1668,"17,193",NA,"15,593",3928
+24/04/2021,bus,STUDY,economy,one-Way,Agent,emirates, platinum ,AISLE,-999,missing,NO, High ,basic,gbp,1-2w,15024,16298,1225,£581,£14597,"15,835",15857,790,-999,14648
+2021-11-08,bus,Relocation,economy, OPEN ,Walk-In,qatar,platinum,BULKHEAD,couchsurf,-999,no,high,comprehensive,JPY,missing,£1021,12246,11278,missing,16929,8613,19360,10111,NA,9607
+2023-08-06,car,Study,Economy,Open,online,easyjet,NA,bulkhead,hostel,S. America,no,shoulder, basic ,eur,1-2W,-999,12428,£15803,13046," 8,999",£10556,18890,8556,£8652,7898
+01/07/2023,plane,backpacking,Business,return,app,EMIRATES,NA,AISLE,couchsurf,-999,no,high,NaN,eur,<3d,15446,275,missing,8950,3861,18199,6726,16189," 7,203",£6129
+17/06/2021,bus,backpacking,business,,NA,LUFTHANSA,Platinum,,hotel, africa ,yes,SHOULDER,basic,eur,>1M," 4,511",17765,8860,11202,19401,£16917,£19920,," 6,895",NA
+missing,Plane,holiday,PREMIUM,one-way,NA,emirates,Platinum,aisle,couchsurf,africa,no,Low,COMPREHENSIVE,eur,1-2w,£2119,"13,869",9160,1862,12998," 7,642",963,11746,£18670,13375
+26/07/2021,boat,NaN,Premium, return , agent ,lufthansa,silver,AISLE, AIRBNB ,n._america,yes,low, None ,NA,1-2w,"17,733",17153,19069,-999,£4939,NA,£18210,£3784,19613,"13,403"
+2024-08-05,bike,RELOCATION,premium,,app,QATAR,platinum,Window, COUCHSURF , S. America ,no,NaN,Comprehensive,eur,>1m,4399,NaN,13731,£7366,"11,147",11677,9812,£13586,4980,-999
+-999, plane ,study,NaN,return,NA, ba ,gold,Bulkhead,missing,Oceania,no,shoulder,basic, jpy ,3-7d,14981,3623,7079,2104,missing,18493,,11494,NaN,£18961
+05/05/2024,car,STUDY,premium,return,Agent, easyjet ,platinum,aisle,hostel,NaN,no, Low ,comprehensive, aud ,1-2w,6425,6492," 4,814",6108,9863,10398,missing,6369,£12210,£1555
+2022-02-10,plane,Business,business,-999,online,Ba,silver,middle,hotel,S. America,no,-999,missing,usd,1-2W,9366,12516,3918,16937,-999,16872,"19,045",2028,£16968,missing
+2021-06-22,-999, Holiday ,First,OPEN,APP,qatar,Silver,middle, airbnb , s. america ,NO,high,NONE,jpy, <3d ,,17271,3217,8323,2577,7500,£15203," 1,979",13658,10657
+"Dec 20, 2021",-999,study,PREMIUM,ONE-WAY,APP,BA,NaN,bulkhead,couchsurf,Asia, Yes ,low,comprehensive,Aud,<3d," 5,105","10,094",16333,19692,missing,£10105,11705,NA,16948,
+NaN,plane,event,first,NA,walk-in,EASYJET,Gold,bulkhead,couchsurf,Oceania,no,Low,missing,,-999,missing,8776,12318,£385,"10,098",9624,missing,3588," 9,329",£16571
+2022-03-26, Bus ,business,Premium,return,WALK-IN,qatar,silver,window,resort,asia,missing,Low,NONE,usd,missing,"13,402"," 2,155",10712,NaN,£13569,19233,9574,19259,5122,£14169
+21/03/2023,, study ,business,NaN,walk-in,easyjet,bronze,aisle,couchsurf,EUROPE,Yes,HIGH,None,,NaN,11582,NaN,12509,11700,missing,3679,£9377,10397,16692,£19022
+2024-11-09,boat,Event,premium,OPEN,online,ba,BRONZE,aisle,couchsurf,asia,no,high, COMPREHENSIVE ,eur,>1m,5514,,6284,14004,8777,1878,"14,223",,15993,17813
+2023-05-16,TRAIN,holiday,first,one-way,online,easyjet,Bronze,missing,resort,n.America,no,NA, Comprehensive ,JPY,3-7d,£8346,18615,8600,£10175,NA,"17,108",13961,"19,594",£14965,10997
+2022-11-01,boat,HOLIDAY,PREMIUM,open,app,lufthansa,BRONZE,bulkhead,missing,Africa,yes,HIGH,NA,aud,2-4W,"14,600",15059,missing,4917,£3460,"16,121",3003,12877,,14866
+2023-01-18,train,EVENT,economy,missing,online,emirates,,NaN,Resort, asia ,NO,low,None,AUD,>1M,2565,8299,1982,6474,£721,2629,£1376,£6624,9852,NaN
+01/11/2024,plane,NA,business,return,NaN,emirates,silver,window,Resort,asia,NA,missing, COMPREHENSIVE , Jpy ,2-4W,3800,-999,1583,missing,1189,£11074,NaN,15929," 2,430","10,740"
+27/11/2024,boat,relocation,first,NA,WALK-IN,easyjet,gold,AISLE,HOSTEL,s._america,missing,low, comprehensive ,usd,<3d,4792,6751,13138,"19,739",£14012,"18,502",£14620,NaN,4958,8790
+07/01/2024,boat,study,first, open ,Online,NA,missing, Aisle ,couchsurf,NaN,no,SHOULDER,Comprehensive,eur,<3d,4621,4212,£2128,"18,696",10807,11680,5479,4555,NaN,19718
+2023-09-08,boat,Relocation,ECONOMY,one-Way,agent,ba,gold,Window,HOSTEL,n. america,yes,low,none,Aud,>1m,11815,8348," 1,854",£18686,12324,18205,10836,14118,18147,18771
+20/10/2024,boat,study,first,missing,online, Lufthansa ,NA,Aisle,airbnb,N. AMERICA,missing,low,Comprehensive,USD,3-7d,£12794,£6921,"14,063",,11016,11400," 6,665",11687,1238,"12,824"
+"Jan 13, 2021",CAR, relocation ,first,open,NaN,Ba,Gold,middle,Hotel,s. america,missing, HIGH ,basic,jpy,NaN,5231,NaN,3397,9556,£10339,14376,2989,5622,15771," 9,714"
+16/06/2021,boat,backpacking,premium,open,walk-in,Easyjet,gold,window,hostel,europe,no,Low,none,Gbp,,"12,666",18830,6889,19692,8270,missing,8791,9618,6232,£10991
+03/06/2023,bike, backpacking ,First,OPEN, agent ,Ba,gold,-999,Resort,ASIA,yes,High,none,,3-7d,"16,356",missing,6276,12168," 7,488",16983,6074," 2,266","12,810",17211
+29/12/2022,BOAT, business , FIRST ,open,online,Ba,bronze,bulkhead,Hotel,Asia,yes,SHOULDER,comprehensive,GBP,3-7d," 7,305",17063,£12929,-999,1078,14098,9921,10440,8108,165
+17/08/2021,BIKE,business,economy,OPEN,online,easyjet,platinum,AISLE,resort,NaN,yes,SHOULDER,NaN,gbp, 1-2w ,8761,11887,£2690,8529,19779,402,£9869,10932,"13,316",9061
+2023-11-29,car,backpacking,ECONOMY,return,Online,qatar,gold, window ,resort,n.America,YES,low,-999,USD,>1m,,12380,"16,127",13534," 8,126",missing,4520,NA,16935,
+12/03/2022, BUS ,holiday,premium, ONE-WAY ,App,BA,platinum,Window,resort,europe,Yes,SHOULDER,, Usd ,1-2w,£6152,737,£19727,4496," 8,121",10919,"11,405",10302,8791,3669
+06/07/2023,NaN,business,-999,-999, agent ,lufthansa,silver,aisle,RESORT,oceania,NO,shoulder,None,eur,>1m,-999,1741,NaN,15823,NaN,3114,19455,4239,10844,17792
+16/04/2021,-999,business,,ONE-WAY,App, ba ,silver,WINDOW,missing,S. AMERICA,no,SHOULDER,comprehensive,eur,NaN,-999,11756,12443,1392,5516,missing,14542,£1191,,6269
+25/07/2024,bike,Study,ECONOMY,RETURN,agent,ba,silver,NaN,airbnb,n. america,yes,HIGH,missing, GBP ,1-2w,2211,£8020,6759,1728,"11,355",8946,6155,1761,10681,NA
+26/12/2021,BOAT,backpacking,first,OPEN,walk-in,-999,missing,aisle,Hotel,europe,no,low,none,Aud,<3D,1588,,8893,£16356," 7,796",19290,3248,5314,16670,£5209
+2022-08-09,Car,STUDY,FIRST,one-way,agent,ba,Gold,Bulkhead,hostel,n._america,yes,high,BASIC,usd, 3-7d ,11683,13076,"16,398",15651,13865,18603,"16,721",,"14,774",-999
+2023-06-30,TRAIN,business,First,open,Walk-In,Qatar,,Middle, Hostel ,ASIA,NO,,comprehensive,usd,<3d,NaN,304,6206,13074," 5,292","19,264",NaN,398,£5061,£2143
+2023-06-19,bike,NA,PREMIUM,Open, agent ,easyjet,GOLD,WINDOW,resort,europe,missing,HIGH,NONE,aud,2-4W,£15488,"11,713",13707,2386,12140,6802,3384,£4624,"17,931",NaN
+30/04/2021,BUS,backpacking,premium,RETURN,walk-In,NA,-999,middle,resort,NA,NaN,shoulder, NONE ,usd,3-7d,8049,"16,171",£4276,15546,17443,-999,"10,707",£654,missing,17467
+,Bike,Backpacking, PREMIUM ,ONE-WAY,APP,easyjet,bronze,middle,Hostel,NA,yes,high,basic,jpy,<3d,1952,2727,5551,NA,NaN,"19,289",12016,missing,"13,533"," 1,672"
+2024-12-23, BUS ,holiday,first,open,agent,Ba, PLATINUM ,aisle,Hostel,N. AMERICA,NA,high,basic,USD,>1m,£9514,19958,8274,£18850,10706,"15,384",missing,9616,9950,£8864
+23/07/2022,car,missing,business,return,NaN,easyjet,bronze, MIDDLE ,HOTEL,NA,yes,NA,None,eur,1-2w,2742,£12861,," 3,676",£72,13803," 7,974",6110,966,13021
+"Aug 29, 2022",car,study,Economy,open,agent,BA,bronze,WINDOW,NA,EUROPE,-999,NaN,basic,gbp,2-4w,14158,   947,-999,19934,4877,12352,missing,5694,£13492,£17521
+08/11/2022,BUS, Relocation ,FIRST,one-way,ONLINE,NA,platinum,MIDDLE,Resort,europe,no,high,none,aud,2-4w," 6,344",16142,19474,3030,2759,13910,£1585,"18,256",16979," 9,716"
+13/11/2023,Train,backpacking,-999,one-way,walk-in,EASYJET,Gold,aisle,hotel,s._america,no,low,-999,EUR,1-2w,£18483,19960,£16297,18303,4467,1327,19730,10432,2963,15600
+NA,PLANE,business,premium,RETURN,Online,Easyjet,platinum,window,airbnb,Europe,no,High,COMPREHENSIVE,aud,2-4w,9897,14494,19851,£15414,"18,241",1927,15284,8196,18139,"19,789"
+2021-10-31,CAR,Backpacking,business,Return,walk-In,Easyjet,-999, window , airbnb ,EUROPE,No,low,basic, GBP ,3-7d,£5093,missing,£2748,14048,11427,188,14966,2041,NA,"11,856"
+"Jul 15, 2021",Car,backpacking,business,open,online,Emirates,missing,middle,-999,africa,No,LOW,BASIC,jpy,1-2w,1565,-999,8081,7204,£11374," 4,869",7182," 2,455",18732,NA
+06/10/2021,car,missing,first,RETURN,walk-in,Lufthansa,GOLD,middle,couchsurf,N. AMERICA,no,shoulder,comprehensive,gbp,2-4W,£2814,9028,4267,8528,missing,11977,18935,7985,"17,110",missing
+"Sep 02, 2023",NA,relocation,,return,agent, Ba ,Platinum,bulkhead,HOTEL,-999,no,missing,basic,JPY,1-2w,18751,6283,15369,15231,13367,£14376,9141,12512,£15431,15101
+16/11/2021,PLANE,Study,missing, OPEN ,agent,LUFTHANSA,NaN,NA,HOTEL,NA,No,Shoulder,basic,aud,2-4W,1179,,7927,£16823,   121,NaN,17494,NA," 1,540",14918
+20/05/2023,NA,Holiday,First,Return,agent,NaN,platinum,Window,AIRBNB,europe,NO,low,none,NaN,,5217,2570,8221,£19212,17828,11380,6234,£2801,8130,16446
+09/03/2024,,backpacking,ECONOMY,return,agent,EMIRATES,Platinum,NA,Hotel,EUROPE,yes,LOW,COMPREHENSIVE,Gbp, 3-7d ,£4301,£10685,£4204,£8611,15911,NaN,3223,7614,£12363,-999
+04/10/2021,Plane,holiday,premium,one-way,NA,emirates,Platinum,bulkhead,AIRBNB,N. AMERICA,No,high,NaN,eur,3-7d,13210,"17,725",NaN,NA,2697,NaN,17011,7561,£12182," 6,201"
+2022-09-05,bus,holiday,Economy,return, online ,NaN,Bronze,aisle,airbnb,africa,no,LOW,Comprehensive, jpy ,<3d,10487,   882,11204,10354,19630,£14680,-999,£5702,£4265,£5725
+07/03/2023,plane,STUDY,first,return,walk-In,qatar,-999,WINDOW,Hotel,EUROPE,NaN,high,NONE,jpy,1-2w,9730,missing,16033,5145,462,10299,,missing,NA,16463
+2024-02-15,Car,relocation,First, RETURN ,app,QATAR,platinum,window,NA,Europe,no,low,basic,Gbp,3-7d,£3819,14448,3883,-999,8792,£14094,   914,10625,2239,NA
+11/10/2022,bus,relocation,FIRST,-999,Walk-In,Easyjet,silver,MIDDLE,,EUROPE,No,high,missing,gbp,3-7D,18566,missing,£4492,183,missing," 1,939",£19372,8778,17964,-999
+NaN, car ,backpacking,ECONOMY,,missing,qatar,Gold,AISLE,HOSTEL,AFRICA,yes,low,COMPREHENSIVE,Usd,>1m,£4509,£14021,11577,"18,984",£10520,7847,£15541,4308,17336,£2358
+,missing,EVENT,first,NA,APP,Qatar,bronze,missing,airbnb,EUROPE,NO,Low,missing,,2-4w,5047,15800,16277,17651,13824,4658,1472,6675,4764,"14,552"
+24/10/2021,Train,HOLIDAY,,,,Emirates, PLATINUM ,window, couchsurf ,oceania,Yes,SHOULDER,Comprehensive,Jpy,1-2w,NA,£1719," 4,887",8750,3564,6454,NA,"16,068",13994,11257
+NaN,plane,event,Business,one-way,WALK-IN,,BRONZE,Bulkhead,couchsurf,S. AMERICA,Yes,missing,NONE,Jpy,3-7d,3603,5587,13245,9937,9367,292,12114,17053,5354,"19,183"
+26/10/2021,car,NaN, first , open ,app,NaN,platinum, bulkhead ,HOSTEL,-999,yes,missing,BASIC,Aud,<3d,NaN,£5513,NaN,3319,6673,1694,19644,16548,2111,1154
+2023-10-10,BIKE,business,economy,RETURN,app,emirates,BRONZE,window,hotel,n. america,no,low,none,GBP,3-7d,5740,missing,19366,5869,"19,210",4715,14320,1421,,missing
+2022-03-28,missing,Business,business,OPEN,online,qatar,platinum,window,airbnb,N. America,no,-999,comprehensive,usd,2-4w,"18,349",710,£12143,-999,£13607,2455,19689,13758,13247," 2,229"
+missing,Bike, holiday ,Premium, Open ,agent,easyjet,SILVER,NaN,airbnb, s.America ,no,shoulder,none,usd,1-2w,missing,11813,4993,10168,11085,10785,"16,786",1024,1035,£8830
+25/12/2022,bus,BACKPACKING,FIRST,one-way,app,QATAR,gold,bulkhead,resort,asia,yes,high,BASIC,GBP,<3d,"13,067",1472,NaN,4168,"10,578",£14524," 9,899",13572,£7353,14890
+07/06/2023,-999,study,PREMIUM,RETURN,AGENT,emirates,BRONZE,aisle,,asia,yes,high,BASIC,gbp,<3D,4955,missing,"10,784",4630,£2575,," 2,141",19832,4745,missing
+2023-09-24,NA,Event, business ,open,Agent,missing,bronze,bulkhead,-999,asia,No,high,basic,gbp,<3d,12485,13436,1275,£18791,£9907,481,missing,17193,13664,£9614
+04/10/2023, bike ,Study,first,RETURN,walk-In,easyjet,BRONZE,aisle,Resort,europe,no, shoulder ,basic,GBP,NaN,"10,705",12701," 2,202",458,£11535,11184,£13023,12839,4514,2176
+2023-09-04,bike,study,ECONOMY,NaN,walk-in,EASYJET,bronze,window,HOSTEL,Europe,No,Shoulder,comprehensive,aud,>1m," 6,454",18193,14301,16384,11908,4275,12642,15650,10995,£12105
+26/01/2024, train ,study, business ,return,online,ba,Platinum,AISLE,airbnb,africa,yes,low,comprehensive,Jpy,3-7d,11938,11263,,missing,"18,653"," 1,383",13750,8215,,£2278
+"Mar 10, 2022",plane,study,business,-999,walk-in,qatar,,bulkhead,RESORT,n.America,No,low,BASIC,usd,<3D,missing," 5,360",£3494,£12898,,15065,5594,,£16273,1145
+2022-11-19,Plane,relocation,Business,return,app,Qatar,PLATINUM,middle,NA,oceania, yes ,low, None ,gbp,missing,£1516,NaN,15562,NaN,2514,4110,missing,15947,£10796,£14537
+24/10/2024,Car,Event,BUSINESS,Open,NaN,,Silver,MIDDLE,resort,s.America,yes,shoulder,COMPREHENSIVE,usd,NA,£3233,£16211," 7,874",8253,NaN,£8460,"13,195",8397,7312,£10047
+03/08/2024,BUS,EVENT,business,-999,agent,easyjet,BRONZE,AISLE,resort,Europe,yes,Shoulder,comprehensive,-999,>1m,£10288,3450,£11477,4212,5093,5267,NaN,27,5705,
+04/04/2024,bike,holiday,,return,Online,Qatar,Bronze,NA, resort , Asia ,no,shoulder,basic,usd,3-7D,,233,7831,530,£8600,3343,NA,6862," 4,012","15,720"
+18/10/2024,BOAT,Holiday, premium ,open, online ,Qatar,gold,aisle, COUCHSURF ,oceania,YES,LOW,missing,Usd,3-7D,£10879,6681,8443,233,15869,"11,845",19072,-999,£1183,11051
+05/06/2024,bus,, ECONOMY ,Return,AGENT,QATAR,gold,missing,hotel,Asia,No,low,None,USD,>1M,"11,365",12225,"11,365",8379,7499,1950,£4442,3413,"18,152",13157
+"Mar 28, 2022",plane,relocation,First,RETURN,ONLINE,lufthansa,BRONZE,aisle,airbnb,S. America,no, low ,, jpy ,1-2w,15153,"15,301",14603,14728,7818,£8778,2630,-999,£4135,8442
+29/01/2024,train,business,economy,missing,online,qatar,gold,Middle,Hotel,-999,NA,NaN,none,aud,>1m,17536,10384,NA,"19,407",13148,missing,-999,,NA,16553
+missing,train, Event ,business,open,APP,Lufthansa,bronze,window,couchsurf,europe,no,SHOULDER,None,gbp,3-7d,14568,100,14759,14912,£17561,3212,2171,"12,443",15853,3041
+"Oct 27, 2023",plane,BACKPACKING,Premium,return,APP,easyjet, Platinum ,BULKHEAD, airbnb ,africa,yes,HIGH,basic,Gbp,<3d,£1077,£7164,12003,£5558,11295,9610,14529,13934,£8609,
+26/08/2024,,event,first,one-Way,walk-in,EASYJET,SILVER,NA,hostel,n.America,no,HIGH,basic,USD,2-4W,18862,2480,16147,18418,£7665,17350,missing,£14522,18568,missing
+2023-02-22,plane,backpacking,Premium,return,Walk-In,Emirates, PLATINUM ,BULKHEAD,hostel,oceania,no,high,None,jpy,1-2w,3730,12185," 3,545",14318,4805,1246,,19611,£5981,
+2023-07-21,,relocation,NA,one-way,missing,EMIRATES,gold, middle ,couchsurf,NaN,no,Shoulder,comprehensive,eur,3-7d,£14096,,7163,£11806,NA,8889,"13,893",£11475,9797,12753
+missing,train,business,Economy,OPEN,missing,LUFTHANSA,gold,,Hotel,asia,yes,high,None,usd,2-4W,£16474,4478,2346," 8,007",£5856,11278,2250,8839," 3,539",18115
+24/11/2024,train,Backpacking,business,-999,WALK-IN,lufthansa,bronze,NaN,airbnb,EUROPE,Yes,Low,none,eur,>1M,"19,444",8200,19695," 7,857",NA,£16069,16627,£12665,17711,13548
+"Dec 01, 2022",BOAT,,premium,RETURN, agent ,qatar,silver,Aisle,NA,OCEANIA,NO,low, Basic ,gbp,>1m,1364,£7331,"14,688",6018,3306,526," 2,579"," 7,705",15202,3091
+NA,Bus,backpacking,-999,Open,online, Emirates ,platinum,window,Airbnb,asia,no,shoulder, comprehensive ,aud,>1m,4214,,14540,7763,£19845,1127,," 8,507",1144,13057
+24/03/2022,Bus,backpacking,business, return ,agent,Easyjet,silver,aisle,HOSTEL,asia,NO,shoulder,none,GBP, 3-7D ,16411,"17,347",missing,16670,NaN,10471,18497,12481,11300,5646
+2024-06-12,missing,relocation,missing, ONE-WAY ,App,BA,missing,aisle,airbnb,asia,NA,SHOULDER,None,GBP,<3d,£17383,£13481," 5,933",£4013,10157,3781,9006,   776,12476,5822
+2022-12-23,BIKE,business,First,Open,AGENT,Easyjet,bronze,middle,couchsurf,europe, yes , LOW ,none,gbp,2-4W,16329,29,£1905,2152,£4282," 3,828",£7262,8526,5564," 7,037"
+28/09/2021,train,holiday, economy ,One-Way,App,Qatar,Gold,middle,hostel,n.America,YES,shoulder,comprehensive,Aud,<3d,6264,15993,6566,£8399,1566,,£17266,£18808,8715,£6708
+2024-08-31,CAR, holiday ,economy,return,agent,EMIRATES,bronze,missing,hotel,,yes,high,NONE,Aud, <3D ,£15183,8470,7717,NA," 6,634",£5359,9447,13693," 6,561",
+"Apr 22, 2024",Bus,business,first,Open,app,qatar,platinum,middle,airbnb,ASIA,no,-999,comprehensive, Usd ,>1m,14933,£18173," 9,526",8454,£10587,5536,5451,1353,6554,16684
+08/09/2024,bike,relocation,Premium,Return,online,ba,Silver,Bulkhead, couchsurf ,Europe,YES,shoulder,COMPREHENSIVE,NA,NA,NaN,13442,12708,,6325,-999," 3,533",16666,£9619,6623
+06/08/2024,boat,business,NaN,return,agent,QATAR,BRONZE,middle,resort,AFRICA, YES ,LOW, NONE , aud ,2-4w,5283,missing,£13129,13300,18288,19844,9633,1436,2151,£3239
+30/12/2024,BUS,business,first,-999,online,ba,PLATINUM,window,,OCEANIA,NA,low, None ,usd,>1m,£5293,5710,3694,10323,14717,£12362,18512," 4,196",£8995,"19,276"
+NA,BUS,event, premium ,NA,Agent,lufthansa,Silver,NaN,AIRBNB,N. AMERICA,YES,SHOULDER,BASIC,NaN,3-7d,1225,19877,-999,£18354,2846,18615,,£18630,NA,7149
+2023-03-01,train, holiday ,Premium,one-way,walk-in,easyjet, Platinum ,bulkhead,couchsurf,Africa,yes,-999,basic,EUR,3-7D,9646,NA,£10016,10632," 8,030",£605,9233,9848,£5301,9061
+2022-06-23,plane,study,first,one-Way,online,missing, platinum ,window,HOSTEL,s._america,yes,low,comprehensive,Aud,>1m,19068,£3475,1174,£9275,4499,9531,16616,NaN,14851,11807
+2022-08-05,Bike,event,NaN,Open,-999, ba ,Gold,NA,hostel,N. America,no,low,none,usd, 2-4w ,NaN,9016,£5194,£695,NaN,13096,£11098,16619,,£5617
+22/11/2022,bike, RELOCATION ,first,one-Way,app, easyjet ,Silver,Middle,hotel,asia,yes,Shoulder,basic,Usd,>1m,4758," 5,762",,3208,13480," 3,475",-999,9929,£3146,1653
+2023-03-30,bike,backpacking,business,Return,APP,-999,bronze,NaN,hostel,S. AMERICA,yes,shoulder,Basic,eur, <3D ,£4617,10817,16530,16430,4247,19625,£2711," 4,746",13414," 5,834"
+2022-10-17,Bike,backpacking,FIRST,Return,Online,emirates,platinum,Window,Airbnb,s._america,Yes, low ,Comprehensive,EUR,>1m,"18,243",12853,£11258,missing,12052,-999,524,8650,662,16354
+"Mar 25, 2021",BOAT,NaN,economy,One-Way,NaN,BA,GOLD,NA,couchsurf,NaN,yes,high,Comprehensive,usd,NaN,16270,3139,3218,£5304,16134,6089,11838,£4729,£16544,19070
+17/12/2024,-999,RELOCATION,first,-999,App,Lufthansa,gold,WINDOW,COUCHSURF,africa,Yes,shoulder,Basic, JPY ,3-7d,-999,"13,749",£11708,2588,3256,1953,£6927,NaN,£15636,8140
+2024-01-17,bike,study,premium,RETURN, online ,Lufthansa,Bronze,middle,COUCHSURF, n._america ,, SHOULDER ,Basic,,1-2w,£5656,"15,682",2921,"12,234",,13611,5387,   304,£19090,15525
+missing,plane,study,PREMIUM,OPEN,NaN,BA,gold,window,hotel,oceania,NO,low,NONE,jpy,3-7d,£17917,472,   173,14641,£11172,6829,12446,10858,,11864
+-999,,study,economy,missing,online,emirates,silver,bulkhead,airbnb,N. AMERICA,YES,LOW,COMPREHENSIVE,GBP,3-7d,"19,636",19999,18933,15614,19955,6782,19894,5226,1549," 3,219"
+"May 03, 2023",BIKE,-999,Economy,One-Way,walk-in,ba,bronze,bulkhead,COUCHSURF,africa,Yes,low,None,Gbp,,2026,10267,"11,403",5214,4256,16848,9664," 4,846",£4283,
+2024-03-08,-999,-999,economy,one-way,AGENT,EASYJET,Platinum,bulkhead,hotel,africa,yes,high,COMPREHENSIVE,EUR,2-4w,18809,"12,757",90,£8692,3563,1731,19703,missing,12919,2661
+"Dec 11, 2022",train,business,NA,Open, walk-In ,EMIRATES,platinum,Bulkhead,hotel,S. America,no,Shoulder,Basic,AUD,3-7d,£16697,7151," 3,425",2754,17376,£6892,18875,8209,10216,127
+2024-02-04, Bus ,holiday,first,-999,agent,emirates,silver,missing,Hotel,Africa,yes, low ,basic,usd,2-4w,8445,8466,6581,£9057,18076,4196,4962,14299,5088,13124
+11/09/2022,Bus,STUDY,Premium,One-Way,agent,QATAR,NA,AISLE,resort,NaN,no,Shoulder,comprehensive,eur,3-7d,6680,8734,16665,£13577,6627,missing,"10,189",14356,320,3565
+-999, plane ,holiday, first ,One-Way,online, lufthansa ,SILVER,middle,NA,europe,NaN,Shoulder,comprehensive,USD,1-2w,195,"10,552",£6252,   829,£8113,17918,14704,7990,   373,17893
+2021-07-08, train ,event,first,Open,online,Ba,GOLD,bulkhead,hostel,europe,NO,shoulder,comprehensive,usd,3-7d,3389,7665,5856,18989,-999,NA,NaN,2230,missing,16392
+07/04/2021,Boat, Relocation ,economy,one-Way,Online,QATAR, platinum ,Window,couchsurf,asia,,Low,BASIC,eur,>1m,£10738,£3920,6412,8851,1887,3530,-999,18352,£3771,£8590
+2024-04-15, plane ,,missing,RETURN,WALK-IN,BA,SILVER,bulkhead,hostel,oceania,NO,shoulder,basic,GBP,>1m," 9,192"," 9,031",£893,£18784,10029,10066,6724," 5,559",2001,
+missing,Bus,study,economy,one-Way,walk-in,EMIRATES,,Window,HOSTEL,europe,NA,shoulder,NONE,usd,3-7d,1866,£7096," 7,176",£3596,8040,18483,£12157,NaN,-999,774
+10/08/2021,train,EVENT,-999,one-Way,online,lufthansa,bronze,window,resort,europe,No,high,,Gbp,2-4w,£7550,15898,11929,NaN,,12284,14310,19347," 8,878","18,560"
+"Aug 23, 2021",bus,missing,ECONOMY,return, app ,ba,BRONZE,window,Hotel,s.America,No,high,Basic,JPY,<3d,7755,£3117,-999," 1,782",£6272,2293," 4,299",£8666,missing,19299
+2021-03-20,plane,study,premium,Return,walk-in,ba,PLATINUM,Bulkhead,airbnb,europe,Yes,shoulder,BASIC,,1-2W,4043,18741,1956,£13231,"19,226",-999,£12421,£115,,£9212
+2023-06-01, bus ,EVENT,premium, RETURN ,walk-in,emirates,silver,aisle,couchsurf,EUROPE, no ,low,NaN,aud,1-2w,3511,NA,10553,,£2341,missing,17402,12331,,7892
+15/05/2021,TRAIN,business,economy, open ,-999,lufthansa,bronze,aisle,Couchsurf,oceania,NaN,shoulder,none, GBP ,2-4w,4707,709," 6,035",£4366,12297,,£13747,£12544," 2,134",213
+17/10/2024,,Relocation,business,open,Online,Lufthansa,BRONZE,Aisle,missing,s._america,YES,low,NONE,EUR,>1m,11555,8796,3822,missing,15553,£11137,£19138,NaN,3001,"11,358"
+2022-06-30,bike,business,Economy, open , app ,lufthansa,silver,window,HOTEL, Asia , yes ,high,Comprehensive,usd,<3d,,£5549," 2,042",19478,"16,273",17306,£10282,-999,7897,£16874
+14/10/2022,,backpacking,economy,ONE-WAY,App,Emirates,bronze,aisle,hostel,asia,missing,shoulder,none,Jpy,1-2w,12283," 8,681",529,17658,-999,missing,16606,18924,12460,£3838
+02/12/2024, CAR ,holiday,premium,return,ONLINE,EMIRATES,gold,bulkhead,airbnb,Oceania,No,low,,eur,1-2w,18999,6919,£9611," 1,442","11,095",14691,£13776,NaN," 4,823",14733
+2023-12-25,Train,holiday,NaN,ONE-WAY, WALK-IN ,EMIRATES,bronze, middle ,airbnb,Europe, YES ,High, NONE , Usd ,3-7D,2147,4959,5965,£1426,1553,14771,16038,18525,11410,14404
+2021-10-15,missing,business,NA,return, walk-in ,easyjet,silver,Aisle,Hostel, s. america ,NO,NA,basic,JPY,3-7d,£2422,11820,£15225,"14,596","13,826",£17704,£10258," 3,886",-999,5668
+2021-12-01,car,,Business,Return,online,emirates, BRONZE ,window,hostel,s._america,no,shoulder, basic ,usd,,missing,NA,5042,£8851,-999,    26,12113,1472," 7,131",£12918
+"Feb 26, 2023",car,HOLIDAY,first, RETURN ,WALK-IN,easyjet,bronze,Window,Couchsurf,europe,yes,SHOULDER,comprehensive,JPY,1-2W,missing,10090,£16197,5738," 4,211","16,764",5188,16805,£8706,1427
+04/12/2024,boat,relocation,Economy,return,WALK-IN,Emirates,platinum,Aisle,Resort,N. AMERICA,NO,low,COMPREHENSIVE,Jpy,2-4w,14343,19009,8177," 9,046","10,240",11580,2937,-999,£16512," 1,568"
+2023-10-18,boat,holiday,economy,Return,walk-in,LUFTHANSA,bronze,-999,Couchsurf,europe,Yes,low,,usd,1-2w,362,3,12532,533,,2868,£2446,2789,,14326
+14/06/2024,car,-999,economy,One-Way, walk-in ,ba,gold,bulkhead,Hotel,asia,no,NA,basic,Jpy,>1m,£8769,NaN,13767,£18214,18873,3064,19169,9034,17043,2640
+25/08/2022,plane,NA,economy,open,missing,ba,PLATINUM,WINDOW,couchsurf,oceania,No,High,COMPREHENSIVE,aud,,7721,17869,2789,8312,5876,5051,19101,NA,795,9346
+2022-11-15,car,HOLIDAY,first,one-Way,online,lufthansa,BRONZE,NaN,hotel,s.America,yes,High,comprehensive,aud,3-7d,17252,missing,7019,-999,£7989,806,6805,"14,269",12054,8473
+2021-09-19,boat,Relocation,business,return,online,Qatar,bronze,window,Airbnb,missing,YES,high,None,usd,missing,5563,£16266,3343,"15,314",£16615,1872,4544,12089,NA,-999
+NA,Boat,NaN, First ,return,app,qatar, PLATINUM ,window,hostel,ASIA,no,LOW,comprehensive,JPY,2-4w,2032,4286," 2,960",5812,9963,15351,16814,16950,£10421,15089
+2022-10-24,Car, BACKPACKING ,,open,Online,lufthansa,gold,Aisle, AIRBNB ,Oceania,No,low,basic,,NA,14646,,14383," 3,645",,-999,NaN,18951,£11028,4745
+10/09/2022,NA,event,economy,return,-999,qatar,bronze,AISLE,airbnb,NA,NA,high,basic,eur,1-2w,£7287,£18599,19045,£19902,£11769,£6643,,9476," 2,203",18697
+"Jan 03, 2023",NA,STUDY,economy,OPEN,app,BA, silver ,middle,hostel,s. america, no ,-999,COMPREHENSIVE,Aud,3-7d,NaN,11871,10950,"19,953",16900,1793,11345,NA,-999,18280
+05/03/2023,train,-999,Business,open,Agent,Ba,platinum,MIDDLE,couchsurf,s. america,yes, shoulder ,basic,Gbp,,£7034,14204,£1406,,£16951,-999,394," 5,924",8019,8893
+"May 04, 2022", bike ,NA,business, return , ONLINE ,lufthansa,NaN,bulkhead,HOTEL,N. America,NO,low, none ,gbp,1-2w,£8744," 3,227",10338,985,,13387," 7,709",11302,£5153,7917
+2021-01-27,train,holiday, first ,NA, WALK-IN ,lufthansa,bronze,bulkhead, hostel ,oceania,No,high,Basic,,<3d,7981,£320,13550,£5792,3492,-999,5642,£18764,15340," 6,000"
+11/04/2021,car,EVENT, business ,Return,AGENT,BA,-999,-999,airbnb,S. AMERICA,yes,SHOULDER,none,eur,>1m,£5480,17016,£16797,1193,2441,NA,"16,400",£16360,13997,
+25/03/2023,missing,NA,First,OPEN,WALK-IN,easyjet,gold,bulkhead,Hostel,africa,NaN,Shoulder, none ,aud,3-7D,419,18405,£17369,16700,5858,£18524,6790,3410,12474,18846
+03/05/2024,plane,NaN, first ,One-Way,agent,emirates,platinum,,NaN, europe ,YES,High,none,jpy,-999,missing,NA,12612,19198,£13396,4076,16449,2503,NaN,11061
+24/03/2023,bike,BACKPACKING,first,one-Way,AGENT, qatar ,bronze,aisle,Airbnb,europe,no,low,-999,gbp, 3-7d ,4739,17845," 5,657",missing,18005,"13,137",15824,804,976,16278
+15/03/2023,TRAIN,backpacking,economy,ONE-WAY,,QATAR,BRONZE,NaN,couchsurf,n.America,yes,high,basic,jpy,<3d,14585,9532,18004,1810,NaN,"16,368",£2445,17609,6729,£9177
+2021-05-03,plane,BUSINESS,business,return,walk-in,emirates,SILVER,BULKHEAD,hostel,oceania,yes,LOW,None,aud,2-4W,12272,6894,6903," 9,609",10695,1406,£9534,11665," 4,691",9804
+2021-06-19,bike,backpacking,first,open,app, ba ,gold,bulkhead,Couchsurf,EUROPE,NO,,None,usd,1-2w,"17,425",£16429,£14624,missing,18598,-999,NA,17931,£1975,6500
+,NA,-999,First,open,app, BA , bronze ,bulkhead,hostel,oceania,Yes,high,none,jpy,2-4w," 3,821",9042,15625," 5,585",17118,2505,19299,16990,19275,-999
+-999,plane,holiday,economy,Open,Agent,EASYJET,silver,window,resort,oceania,yes,low,Basic,eur,<3D,2699," 9,219",19657,"19,716",12532,£14918,£2622,£9182,£8173,8223
+28/03/2023, bus ,NaN,economy, open , Online ,ba,gold,NA,Resort,asia,NA,high,comprehensive,Gbp,1-2w,£8870,3926,,,19184,"18,137",4306,£12551,-999,589
+03/02/2024,Car,event,Premium,open,agent,LUFTHANSA,BRONZE,Aisle, couchsurf ,OCEANIA,Yes,shoulder,Basic,USD,NA,14788,"15,808",13213,£13254,12334,17759,16379,£11357,13543,7218
+2024-07-01,BUS,business,Business,,online, emirates ,Silver,WINDOW,resort,asia,no,shoulder,comprehensive,aud,1-2W,2569,15028,14754,19342,£15281,3223,£9259,11054," 4,538",£19061
+17/06/2021,plane,holiday,first,open,walk-in,qatar,,middle,resort, AFRICA ,no,low,none,eur,<3d,15028,-999,1736,19672,1070,19974,7662," 5,990",3199,12537
+2024-01-13,Car,business,economy,missing,,Emirates, PLATINUM ,bulkhead,couchsurf,,yes,low,Basic,eur,2-4w,7891,-999,7207,15170," 4,753",NaN,missing,14053,1670,10692
+2021-03-18,Train,HOLIDAY,business,return,NA,easyjet,GOLD,window,resort,Africa,no,Shoulder,COMPREHENSIVE,GBP,NA,1969,11164,NaN,£15891,1956,£7393,£3412,"10,650","14,452"," 5,688"
+12/02/2023,train,Holiday, BUSINESS ,Return,agent,EASYJET, Platinum ,middle,hostel,n.America,NO,SHOULDER,BASIC,eur,1-2w,£3414,14844,missing,£10353,2801,8552,NA,"10,349",£4148," 2,167"
+NA,bike, Study , Business ,RETURN,ONLINE,,PLATINUM,Aisle,couchsurf,oceania,no,Shoulder,comprehensive,gbp,1-2w,13791,19985,NA,£8376,19020," 7,804",1148,£11434,18577,£4390
+2022-08-20,BIKE,relocation,-999, ONE-WAY ,online,emirates,missing,Middle,missing,,YES,shoulder,Basic,gbp,<3d,1055,12723,1689,£7325,15566," 6,738",5511,£2412,3563,18820
+2023-02-28,bike,-999,FIRST,NaN,walk-in,ba,bronze,AISLE,Hotel,missing,YES,Shoulder,None,NaN,<3d,8309,11293,18653,NA,11833," 8,698",missing,£8067,12156,516
+27/06/2021,Bus,RELOCATION,PREMIUM,open,walk-in,-999,gold,-999,hotel,n._america,yes,Shoulder,basic,usd,1-2w,4450,11971,8146,149,3103,6979," 2,062",3301," 4,816",-999
+19/02/2023,bike,business,first,open,missing,lufthansa,bronze, BULKHEAD ,couchsurf,NA,yes,NA,none,Jpy,NaN,7553,2818,2280,£17020,8471,£14793,19151,2214,£1647,12267
+2024-11-12,bike,event,premium,OPEN,app, EASYJET , Bronze ,NA,airbnb,s.America, no ,low,none,jpy,2-4w,11107,£8420,£9682,£16338,3868,NA,£8488,NA,NaN,8716
+2021-05-19,TRAIN,backpacking,premium,OPEN,app,NA,Platinum,middle,Hotel,N. AMERICA,yes,LOW,none,Gbp,1-2w,-999,"10,711",NaN,14066,9070,7469,missing,10448,£19251,   969
+2022-01-06, bus ,RELOCATION,first,,APP,qatar,silver, middle ,airbnb,Asia, Yes ,shoulder,none,GBP,3-7D,£7443,903,4593,16408,4723,5832,£8962,£14256,6265,11502
+15/11/2023,BOAT,backpacking,premium,, agent ,BA,gold,window,airbnb,Africa,NaN,HIGH,basic,eur,<3d,NaN,£1315,,13497,2150,£10544,NA,11106,6979,£16379
+2021-11-22,CAR,NA,premium,open,App,ba,SILVER, MIDDLE , airbnb ,africa,yes,low,basic,usd,,13784,2913,12535,11405,£4314,£17939,9702," 2,281",2758,4690
+02/08/2021,Bus,study,BUSINESS,return,APP,emirates,gold,Aisle, HOTEL ,asia,NaN,High,COMPREHENSIVE,USD,<3d,-999,-999,9421,-999,2754,13955,17637,17851,£219,£143
+2023-12-31,car,business,economy,return,AGENT,,platinum,bulkhead,Hotel,OCEANIA,yes,High,basic,jpy,<3d,"12,049",18880,£12734,NaN,NA,15472,2060,13171," 8,535",£12621
+16/08/2024,plane,RELOCATION,first,One-Way,online,qatar,,window,resort,n.America,NO,shoulder,basic,gbp,>1m,3098,19293,8845,NaN,14484,5872,4812,5827,2435,3280
+2021-08-18,bike,event,First,return,agent, Ba ,platinum,middle,resort,asia,No,shoulder,BASIC,gbp,>1m,8373,6890,"16,483",£5152,-999,£3543,885,1516,3569,7835
+"Nov 07, 2024",plane,Study,missing, one-Way ,,Lufthansa,bronze,WINDOW,resort,oceania,YES,high,comprehensive,aud,>1m,9706,"16,316",3162,-999,£6306,11604,10968,2244,9570,13175
+2024-01-25,-999,relocation, First ,,Agent,EMIRATES,platinum,bulkhead,airbnb, oceania ,no,missing, Comprehensive ,jpy,2-4w,£10897,£10448,1097,8676,,NA,1023,8216," 8,604",6654
+13/03/2024,car,study,PREMIUM,Open, walk-in ,lufthansa,bronze,NaN,RESORT,ASIA,NO,shoulder,NaN,Usd,<3D,11716,19035,506," 6,739",11447,-999,6882," 8,355",572,12943
+NaN,missing,relocation,premium,ONE-WAY,walk-in,missing,GOLD,window,Hotel,europe,YES,shoulder,basic,usd,1-2w,2293,NA,14496,3008,18784,19777,9368,-999,14801,12458
+21/07/2023,train,Relocation,FIRST,OPEN,agent,lufthansa,silver,Aisle,hotel,africa,NO,HIGH,none,jpy,2-4w,£15935,15798,"18,009",9825,£8460,18289,12347,1285,10509,13304
+2021-09-08,Car,relocation,PREMIUM,RETURN,-999,emirates, GOLD ,Bulkhead,hotel,NA,no,LOW,basic,GBP,1-2w,19771,£1518,16386,£13385,£13812,14727,1293,"19,770",8944,NA
+2024-12-17,NA,BACKPACKING,business, One-Way ,Online,qatar, gold ,window,couchsurf,Asia,YES,high,Basic,Usd,1-2W,,,£12749," 9,061",14218,4633,3289,£1158,7662,6305
+17/01/2023, Bike ,event,premium,return,online,emirates,gold,MIDDLE,Airbnb,europe,missing,low, Basic ,jpy,missing,11388,£10596,15322,15481,4264,15044,13809,10162,£8980,NaN
+2024-12-06,boat,STUDY,business,one-way,online,Lufthansa, Bronze ,aisle,airbnb,africa,yes,High,comprehensive,AUD,1-2w,11363,4802,16641,£2195,"16,843",£8168,5948,NaN,-999,8068
+22/03/2022,Car,Study,Economy,Return,AGENT,Emirates,Bronze,BULKHEAD,RESORT,s._america,no, Low ,missing,NA,NaN,15846,71,816,"11,232",£1762,19916,15288,15086,£17740,£9364
+28/12/2023,BOAT,Backpacking,FIRST,one-way,Walk-In,lufthansa,BRONZE,bulkhead,couchsurf,africa,no,NaN,none,usd,1-2w,13653,2986,7393,8361,NaN,NaN,"19,358"," 1,681",NA," 5,730"
+missing,bus,business,ECONOMY,Return,app,qatar,silver,window,,n.America,NO,LOW,Comprehensive,Usd,>1m,"13,211",4953,£18667,14019,7798,£655,missing,£13322,3384,
+,car,Relocation,Economy,One-Way,walk-In,Qatar,Bronze,window,missing,Europe,yes,LOW, none ,missing,<3d,£17608,"19,839",17381,19663,10482,-999,£12009,£13373,£14760," 3,424"
+13/09/2022,car,Event,first,RETURN,agent,emirates,platinum,middle,-999,asia,no, high ,basic,USD,2-4W,£14652,19382,4018,"19,906","11,037",11647,16722,"13,747",17790,14526
+12/05/2024,bike,business,Business,open,NaN,qatar,silver,MIDDLE,hostel,S. AMERICA,YES,shoulder,,NaN,3-7d,3849,10877,£12145,13699,6345,"16,193",4894,19272,9778,6663
+2021-10-11,BIKE,Business,FIRST,Open,agent,qatar,SILVER,AISLE,couchsurf,oceania,YES,LOW,BASIC,Aud,3-7d,7359,12325,£15390,9954,15038,missing," 8,544",11640," 4,642",13380
+04/08/2021,BIKE,study,economy,one-Way,NaN,emirates,platinum,window,COUCHSURF,Europe,NO,high,Basic,missing,1-2w,£15035,NaN,19877,18852,324,NaN," 1,058",£996," 4,433",£13416
+24/03/2022,train,Relocation,BUSINESS,return,AGENT,EASYJET,silver,aisle,NaN,n._america,no,NaN,NONE,GBP,>1m,5309,4461,3611,NA,7490," 2,559",£1608,458,£7090,missing
+2021-10-20,CAR,backpacking,PREMIUM,one-Way,walk-In,lufthansa,silver,AISLE,couchsurf,n. america,yes,Shoulder, comprehensive ,jpy,2-4W,£19697,7932,NA,£15835,13937,13855,£5344,7906,13154,15850
+22/06/2024,TRAIN,holiday,economy,one-way,online,Lufthansa, silver ,,airbnb,EUROPE,no,NaN,None,jpy,<3D,£14518,£16949,2391,   919,4051,£14483,19894,£11952,18954,13263
+2023-05-27,BOAT,HOLIDAY,first,open,AGENT,-999,BRONZE,NA,hostel,n._america,no,low,comprehensive,Jpy,1-2w,11294,,10719,474,£10093,6635,£18953," 4,946",-999,18485
+2022-06-30,BIKE,Relocation,FIRST,One-Way,WALK-IN,LUFTHANSA,gold,Bulkhead,resort,N. America,No,HIGH, basic ,jpy,2-4w,£2967,1757,18608,NaN,£16686,17553,494,£11419,,10748
+18/09/2023,boat,backpacking,BUSINESS,one-Way,online,EMIRATES,Silver, Middle , hostel ,AFRICA,no, High ,,eur, >1m ,4140,-999,12803,12995,,,16287,8203,6575,£15252
+2022-08-24, CAR , EVENT , BUSINESS ,RETURN,app,NaN,platinum,Window,HOTEL,oceania,no,low,basic,usd,>1m,£8204,"17,852",210,7207,£7487,11123,£15864,7269,1708,£11352
+2021-04-01,bus,holiday,BUSINESS,OPEN,agent,Easyjet,platinum,middle,AIRBNB,Africa,no,high,NaN,GBP,<3d,846,£3823,missing,2567,12747,   880,10295,14099,6282,£15723
+14/12/2023, train ,study,NaN,One-Way, online ,missing,-999,middle,NaN,N. AMERICA,NO,HIGH,Basic,aud,3-7d,18576,£16149,2138,14008,NA,7656,NaN,3882,£3310,£1317
+"Dec 23, 2021", bike , HOLIDAY ,premium,return,online,qatar,GOLD,window,Hostel,N. AMERICA,-999,shoulder,Comprehensive,eur,<3D,"10,374","19,337",2608,4183,11053,12851,3730,19054,14029," 3,693"
+NA,car,RELOCATION,premium,RETURN,Walk-In,QATAR,silver,missing,couchsurf,S. America,yes,low,,Jpy,>1m,15878,£2382,15635,,7204,6771,19650,"19,972",NaN,2132
+2021-05-11, TRAIN ,holiday, business ,OPEN,Walk-In,qatar,platinum,middle,Hostel,Asia,NA,Low,NA,AUD,<3d,116,6315,missing,11533,,3914,7778,-999,£11381,£8805
+17/11/2024,Boat,study,PREMIUM,One-Way,AGENT, qatar ,platinum,middle,airbnb,asia,NO,Shoulder,NONE,usd,2-4w,NaN,6720,5662,4257,14438,13073,14791,2069,£10961,
+2021-06-03,car,business,business,OPEN,Online,,gold,NA,NA,europe,NaN,LOW,comprehensive,NaN,<3d,16571,£16146,276,13097,9281,13945,7455,NA,-999,11715
+08/11/2022,TRAIN,STUDY,missing,one-way,online,lufthansa,platinum,middle,hotel,europe,yes,high,none,usd,1-2w,11312,"17,342","16,830",£8333,£16995,£13603,£19471,NA,4132,256
+26/12/2023,,holiday, business ,RETURN,online,ba,bronze,bulkhead,Airbnb,asia,no,shoulder,basic,GBP,1-2w,"12,417",9509,£5156," 9,661",£17250,missing,10064,-999,-999,missing
+2022-02-07,bus,business,economy,RETURN,APP,ba,,AISLE,hotel,S. AMERICA,,shoulder,Comprehensive,usd,>1m,14352,19889,9674,£11676,-999,5949,£3075,4182,,19243
+30/11/2024, Car ,relocation,first,open,agent,Emirates,Silver,AISLE,resort,,no,NA,none,usd,1-2w,16623,4683,NA,,5616,,7364,15431,16143,£9190
+2021-11-26, bus ,backpacking,business,ONE-WAY,NaN,ba,Silver,window,hostel,,no,Shoulder,comprehensive,GBP,2-4w," 3,380",£3948," 4,430",10258,11472,3674,£2686,NaN,"11,603",£2241
+02/01/2021,bus,relocation,premium,RETURN, app ,QATAR,PLATINUM,AISLE,resort,asia,yes,low,comprehensive,gbp,<3d,3975,11015,£7288,missing,8169," 5,448",9786," 6,460",1676,"10,407"
+2024-08-26,BUS, business ,First,,walk-in,emirates,Gold,middle,Hotel,oceania,yes,-999,none,NaN,3-7d,14700,£17852,3690,16603,missing,11841,18668,£13785,4078,18415
+2021-03-17,plane,event,business,NA,NA,NaN,BRONZE,window,RESORT,N. America,No,high,comprehensive, USD ,>1M,£13520,8666,7414,11450,13620," 2,987",£12008,£10137," 6,472",5632
+2022-08-26,BIKE,NA,BUSINESS,return,agent,qatar,silver, Bulkhead ,hostel,,yes,Low,comprehensive, aud ,2-4w,19063,6400,£11121,17259,1996,2391," 1,662",missing,7861,£5467
+"Dec 06, 2024",BIKE,Backpacking,economy,Open, walk-in ,Qatar,BRONZE,BULKHEAD, hostel ,N. AMERICA, yes ,low,NaN,,>1m,"14,629",18299,1745," 8,633",19606,19441,18253," 2,968",5591,£19072
+13/11/2024,train,study,ECONOMY,return,agent,EMIRATES,NaN,MIDDLE,Hotel,,YES,high,COMPREHENSIVE,gbp,2-4W,-999,7151,£1410,1389,18777,£7561,12901," 1,628",NA,4776
+,bike,holiday,first,Open,Online,Emirates,gold,window,RESORT,oceania,no,shoulder,none,Aud,>1M,12456,6130,"13,198",10807,14123,£1000,missing," 7,832",£12979,8959
+2021-11-18,car,event,Premium,one-way,missing,,gold,,hotel,s. america,no,High,comprehensive,jpy,2-4w,£8230,1542,-999,NaN,4726,7789,NaN,12809,9106,1068
+17/12/2024,train,event,First,RETURN,online,NA,NaN,AISLE,hostel,Europe,yes,high,Comprehensive,Usd,>1m,£17911," 3,811",7444,3474,8276,    57,15238,180,15636,-999
+2023-03-07,boat,Holiday,FIRST,return,agent,-999, GOLD ,window,Hotel,n. america,yes,high,basic,NaN,<3d," 8,249","17,127",£11019,£1803,14207,4239,6735,NaN,5306,18785
+2024-09-12,TRAIN,business,premium,return,Walk-In,easyjet,Platinum,aisle,NA,n._america,NaN,Shoulder,None,EUR,-999,6637,17412,5292,1822,-999,£13435,NA,missing,£19034,"17,072"
+"Feb 19, 2021",bike,business,-999,One-Way,app,QATAR,missing,window,Airbnb,S. America,NO,shoulder,Basic,NaN, <3d ,£6280,1959,£7516,15017,17748,15877,261,NA,6525,10218
+2024-12-02,car,study,-999,return,WALK-IN,emirates,bronze,Aisle,AIRBNB,Asia,YES,shoulder,basic,Eur,1-2W,17472," 2,584","13,480","14,083",missing,11448,19628,missing,11505,"10,536"
+20/10/2022,Train,holiday,first,return,app,EASYJET,platinum,AISLE,airbnb,OCEANIA, yes ,SHOULDER,Basic,aud,<3d,NA,"18,883",9028,missing,15747,8904,NA,52,18767,14368
+26/04/2021,BOAT,RELOCATION,first,one-way,APP,NA,gold,middle,hotel,n. america,yes,shoulder,comprehensive, Jpy , 3-7D ,16451,17831,-999,8857,,,£7780,6506,£16211,14576
+2021-12-16,Boat,relocation,premium,One-Way,WALK-IN,EMIRATES,Gold,bulkhead,airbnb,oceania,,low,none,eur,>1m,15945,"14,059",-999,18209,9198,262,2982,missing,12848,13697
+25/04/2024,train,backpacking,economy,return,NaN,easyjet,platinum,AISLE,Couchsurf,oceania,NA,missing, comprehensive ,JPY,2-4w,"13,987",5482,£4667,4048,13558,104,6129,-999,£14683,£1104
+2023-07-01,BUS,backpacking,business,Open,Agent,easyjet,missing,window,hotel,Oceania,YES,Low,BASIC,AUD,missing,   114,19555,11037,NaN,,12486,5692,3018,12427,6713
+"Sep 22, 2024",car,event,first,one-way,app,Easyjet,bronze,aisle,airbnb,oceania,NO,NA,None,EUR,2-4W,2647,14142,missing,8395,,1719,,17716,14971,18643
+2021-06-23,boat,event,FIRST,Open,Agent,Qatar,silver,middle,-999,Africa,yes,NaN, basic ,EUR,<3d,£2921,16401,NA," 2,440",6957,6856,"18,784",8181,3861,"16,301"
+"May 19, 2022",bus,Event,economy,return,app,missing,-999,aisle,resort,asia,NO,High,BASIC,usd,>1m,14951,7647,14502,3657,"16,038",NA,16924,£11759,8571,   283
+missing,car,missing,first,OPEN,online,ba,SILVER,window,airbnb,europe,Yes, SHOULDER ,COMPREHENSIVE,missing,1-2w,18747,£12276,-999,£3916,3020,5932,NA,14618,17964,
+2022-07-10,missing, relocation ,NaN,return,APP,BA, SILVER ,Window,Couchsurf,s. america,no,missing,Basic,jpy,2-4w,£14596," 7,684",9632,4275,14642,£14102,"13,881",14564,2805,18245
+29/04/2021,Plane,Study,NA,open,missing,qatar,silver,WINDOW,resort,europe,NO, high ,-999,NA,2-4w,4444,1749,16077,£14835,11661,"13,438","19,600",£8496,17190,
+"Jul 23, 2023",,Relocation,premium, open ,walk-in,-999,SILVER,aisle,couchsurf, Oceania ,no,high,BASIC,USD,1-2w,NaN,10200,NaN,£855,-999,"17,574","17,398",8983,NA,£18786
+2024-03-06,,EVENT,first,RETURN,walk-in,Lufthansa,PLATINUM,window,Resort,Asia,YES,low,none,jpy,,16535,1309,14667,19915,10912,17163," 3,588",6781,11724,8687
+2021-03-30,Car,event,,return,agent,EMIRATES,silver,bulkhead,airbnb, africa ,no,High,basic,Eur,>1M,11204,£14710,£19865,13324,19231,11955,6957,14322,£3502,
+11/09/2023,bike,NA,business,One-Way,App,-999,gold,bulkhead,resort,s._america,Yes,low,NaN,aud,<3d,14613,10180,"10,092",2840,£12389,NaN,missing,£2925,1312,6668
+27/11/2024,Plane,Backpacking,NA,open,-999,QATAR,silver,aisle,NaN,-999,yes, high ,none,gbp,2-4w," 5,572",£17221,18169,£6339,6295,"12,752",3040,,7486,6319
+21/05/2021,NA,NaN,NA,ONE-WAY,agent,Easyjet,bronze,aisle,missing,asia,Yes,high,none,gbp,1-2w,15740,£8101,10882,   119,2391,8349,6500,16386,6118,missing
+NA,Bike,Backpacking,Economy,return,Online,lufthansa,SILVER,bulkhead,hotel,n.America,no,HIGH,basic,eur,>1m,11628,7760,18653,£18665,"12,249","16,952",£13361,6972,17730,4744
+2021-07-09,Train,,Business,NA,agent, Qatar ,platinum,AISLE,RESORT,asia,NaN,high,Basic,Eur,>1m,"15,516","17,404",4182,870,10363,15109,14153," 5,881","16,361",92
+06/06/2023,car,holiday,premium,one-way, agent ,ba,silver,BULKHEAD,couchsurf,n. america,no,shoulder,none,usd,2-4w,17587,7117,26,£3537,7581,5449,£15864,NA,"13,907",11068
+2022-06-19,BIKE, study ,business,RETURN,app,easyjet,NA,window,RESORT,oceania,yes, Shoulder ,,GBP, 2-4w ,NA,16642,16819,6811,missing,   721,missing,18901,5827,£17698
+2022-05-29,BIKE,relocation,economy,open,agent, LUFTHANSA , PLATINUM ,AISLE,HOTEL,Europe,Yes,NA,-999, usd ,1-2W,£18013,13944,8246,£8544,7670,missing,4257,8939,7944,4156
+12/10/2024,BOAT,holiday,Economy,return,Online,easyjet,PLATINUM,BULKHEAD,HOTEL,asia,yes,High,comprehensive,eur,1-2w,3145,"16,062",5753,£15968,15614,6434,18857,-999,8837,£6312
+2021-10-09,TRAIN,BACKPACKING,Premium,return,online,Qatar,gold,window,RESORT, asia ,No,low, comprehensive ,USD,<3D,-999,NaN,12903,13702,£14936,3164,£15194,5526,3528,£16368
+2022-12-13,bike,study,PREMIUM,open,app,NA,Silver,AISLE,,,yes,LOW,comprehensive,eur,<3d,15090,£17056,15032,9023,11003," 1,246",8750,4839,12698,639
+,plane, Study ,economy,NaN,Online, lufthansa ,NaN, AISLE ,Couchsurf,N. AMERICA,NaN,HIGH,comprehensive,Aud,3-7d,12700,£13487,£5996,£13524,NA,£19927,14244,£16874,,12471
+08/04/2021,boat, Study ,business,Open,app,ba,bronze,bulkhead,resort,oceania,missing,,comprehensive,GBP,<3D,NA,8186,2808,16582,£18568,17083,"10,232",9062,£14185,
+2022-09-25,,Business,premium,return,agent,Ba,Silver,window,,asia,YES,shoulder,comprehensive,NA,>1m,£12937,12255,4405,£3702,£9869,"14,412",8726,18285,5430,5078
+2021-04-14,Boat,NaN,Premium,Return,AGENT,qatar,Bronze,NA,hostel,europe,missing,low,-999,Aud,3-7d,£14149,13084," 1,506",   602," 2,604",11190,8359,15642,6895,7300
+17/04/2021,Train,-999,business,one-way,online,lufthansa,Gold,window, hostel ,asia,NaN,SHOULDER, basic ,AUD,1-2W,£13331," 8,553",,£17793,367,18108,17635,10910,6759,£15722
+2021-04-30,car, relocation ,business,OPEN,agent,BA, BRONZE ,MIDDLE,airbnb,Europe,Yes,LOW,Comprehensive, Eur ,1-2w,245,12569,£16949,16983,NaN,7232,,NaN,14591,8567
+-999,,event,Business,ONE-WAY,ONLINE, Easyjet ,platinum, window ,hostel,africa,no,LOW,BASIC,AUD,3-7d,8308,12665,9263,6304,NA,18464,19917,-999,NA,4379
+24/05/2024,NaN,Holiday,premium,one-Way,online,easyjet,Silver,bulkhead,Hostel,africa,YES,low,comprehensive,usd,<3D,19590,NaN,missing,,4125,"19,991",missing,£3360,£18075,9570
+29/11/2024,BIKE,holiday,first,return, online , Lufthansa ,Bronze,aisle,resort,Asia,no,high,basic,JPY,missing,"11,743",10281,7105,missing,6915,6649,12916,17747,11462,8635
+"Sep 03, 2022",train,EVENT,Economy,NaN,online,BA,gold,middle,resort,n.America,no,,basic,GBP, 3-7d ,2669,£16727,£19593,8484,1076,8148,2336,5237,14751,7759
+"Jan 06, 2024",car,holiday,NA,NaN,app,lufthansa,platinum,Middle,hostel,africa,Yes,low,none,AUD,3-7d,missing,NaN,£18268,NaN,£1152,"18,292",£708,"11,347",15564," 8,976"
+13/07/2021,BIKE,event,first,one-Way,agent,lufthansa,, window ,COUCHSURF,oceania,yes,Shoulder,basic, Eur ,3-7d,NA,,"16,375",£13302,24,missing,5997,2432,"10,054",3051
+"Aug 17, 2021",train,study,premium,one-way, agent ,qatar,silver,missing,missing,S. AMERICA,yes,High,comprehensive, Aud ,-999,16396,-999,£14536,£12372,£16714,-999," 3,058",,964,NaN
+"Sep 08, 2021",car,NA,first,RETURN,online,qatar,Platinum,aisle,COUCHSURF,s.America,no,shoulder,None,gbp,1-2w,12409,10875,£10837,£1120,£5058,"16,981",5336,9131,£2927,6338
+2023-09-20,NaN, backpacking ,premium,One-Way,online,qatar,NA,Bulkhead,hostel,S. AMERICA,no,Shoulder,none,Usd,<3d,£13643,5765,NaN,2036,2572,3896,15823,missing,£1131,"13,158"
+29/11/2022,train,RELOCATION,economy, Open ,agent,missing,platinum,Middle,resort,-999,NA,high,none,GBP,2-4w,10121,£11872,NaN,10620,19254,   257,4413,2477,14588,13406
+03/09/2023, boat ,BUSINESS,NA,Open,Walk-In,EMIRATES,bronze,window,Hotel,asia,YES,-999,comprehensive,missing,>1M,4755,5567,2005,16040,8709,10624,missing,5464,16307,2253
+2021-04-14,car,study, economy ,,, Lufthansa , Gold ,BULKHEAD,NA,europe,yes,low,basic,Jpy,1-2w,,missing,13206," 5,925",£14066,,11858,14433,-999,"12,811"
+2024-05-31,train,event,economy,open,walk-In,BA,Platinum,Window,couchsurf,oceania,yes,low,None,eur,NA,19116,£8094,7214,£7734,18990,"16,360",13202,14565,NaN,NaN
+10/12/2024,Bike,NaN,Business,return, Agent ,emirates,silver,,hotel,n. america,yes,NA,NONE,Jpy,1-2w,17422,13328,17576,"16,027",18496," 3,754",11007,£7847,10072,
+"Aug 07, 2023",bike,backpacking,premium,open,walk-in,emirates,platinum,window,COUCHSURF, S. America ,yes,LOW,none,EUR,>1m,£10284,£428,NaN,£13286,,£4062,14582,9026,16578,9599
+2024-06-24,BUS,Study,premium,One-Way,app,EASYJET,gold,bulkhead,resort,asia,YES,Low, none ,Aud,1-2w,£8236,NaN,1971,"15,843",16135,16657,£107,"16,202"," 4,668",
+24/10/2022,bus,BACKPACKING,first,one-way,APP,lufthansa,gold,Window,hostel,oceania,YES,LOW, none ,jpy,>1m,14269,267,4147,18513,4639,"12,403",NA,16815,11562,1933
+"Dec 17, 2024",Bus,business, BUSINESS ,Open,App,emirates,bronze,Bulkhead,hostel,africa,yes,high,basic,usd,3-7d," 3,776","11,191",6955,16991,8018," 8,835",2327,1410,    94,missing
+25/12/2023,boat,RELOCATION,BUSINESS,one-Way,AGENT,BA, silver ,WINDOW, Couchsurf ,S. America,YES,low,none,Usd,3-7d,NA,16410,10482,£13152,£1299,9637,5742,9304,18742,180
+2023-12-19,Boat,holiday,ECONOMY,one-Way, agent ,QATAR,missing,WINDOW,Airbnb,n._america,yes,High,basic,Usd,3-7d,18737,4085,"13,112",£17226," 3,115",16897," 6,285",5257,"16,671",£2332
+16/09/2021,train,missing,BUSINESS,Open,NaN,ba,Platinum,window,NaN,Oceania,No,high,NA,Aud,<3d," 6,309",NaN,"18,288",7347,16111,"12,094",11364,17845,NaN,18475
+"May 04, 2021",car,BUSINESS,First,open,agent,qatar,missing,middle,hotel,europe,Yes,low,basic,gbp,2-4w,6940,"19,008",18565,16264,6822,"10,119",£12349,11422,8271,680
+"Sep 07, 2024",CAR,event,Economy,open,AGENT,LUFTHANSA,platinum,window,hotel,oceania,YES,Shoulder,comprehensive,jpy,1-2w,12830,NA,10795,15688,£13987,10769," 6,814",13428,4860,£12354
+NA,BIKE,Relocation,economy,return,app,Easyjet,bronze,aisle,Resort, Asia ,yes,SHOULDER,NONE,NaN,3-7d,213,£12394,4699,13623,,3077,,3336,19990,£7748
+05/09/2024,boat,-999,first,RETURN,ONLINE,emirates,Platinum,NA,RESORT,Asia,no,NA,none,Jpy,3-7d,   563,NaN,£14710,14319,13487,missing,6324,2344,£4408,2689
+2022-07-19,Bike,Business, first ,,walk-in,qatar,Gold, bulkhead ,couchsurf,europe,NaN,low,Basic,Jpy,3-7d,NA,NaN,15273,£5085,NA,6486,11126,18118,missing,2630
+2021-05-28,bike,holiday,premium,NA,agent,easyjet,bronze,middle,hotel,AFRICA,missing,shoulder,-999,usd,>1m,1374,15162,£6264,missing,"19,475",NA,17009,£7963,9598,NaN
+12/09/2021,bus,-999,first,open,NaN,BA,Bronze,BULKHEAD,couchsurf,africa,no,HIGH,NONE,Jpy,3-7d,3330,£4857,£6051," 5,216",13596,£6735,14411,£7905,7652,14292
+NA,plane,BUSINESS, BUSINESS ,one-Way,Walk-In,Qatar,silver,Aisle,airbnb,ASIA,yes,NA,Comprehensive,jpy,<3d,£16848," 5,851","15,422",8884,£12176,£19698,£6858,£10713,£17477,£1220
+2023-04-04, bus ,relocation,First,return,Agent,lufthansa,Silver,NA,hostel,asia,yes,shoulder,basic,Jpy,>1m,6211,13908,5971,2828,15313,£2197,NaN,10941,16768,£19742
+30/01/2024,-999,STUDY,first,one-Way,app,emirates,Gold,NA,hostel,Oceania,YES,high,COMPREHENSIVE,aud,1-2w,"10,693",5479,£5146," 5,056",NA,,-999,£421,5176,£225
+2022-06-23,train,relocation,NaN,return,app,lufthansa, gold ,bulkhead,Resort,s.America,No,shoulder,none,aud,>1m,"14,421","10,105",NA,NA,-999," 2,632",£14045,12461,6062,£16189
+2023-07-04,car,study,business,one-Way,walk-In,lufthansa,gold,,hotel,ASIA,No,low,none,jpy,<3d,1992,950,18101,10324,NA,3403,5396,2816,2166,19711
+20/05/2021,-999,holiday,first,return,agent,ba,bronze,bulkhead,COUCHSURF,s. america,yes,Low,Basic,missing,3-7d,£2976,6388,6147,8279,,8048,£11231,£16608,-999,6577
+2022-11-07, bike ,business,Economy,open,app,lufthansa,Platinum,BULKHEAD,Airbnb,asia,yes,high,none, EUR ,3-7D,1441,"12,036",14866,-999,£10702,£1299,19229,3396,-999,£18262
+2022-04-22,train,NaN,PREMIUM,OPEN,online,-999,gold,aisle,hostel,Asia,No,high,comprehensive,jpy,2-4w,NA,18813,5799,8049,£12040,£10351,11083,6520," 4,211",8994
+2022-10-31,TRAIN,business,business,one-way,ONLINE,easyjet,silver,NaN,Hostel,asia,no,shoulder,basic,-999,3-7d,18408,5894,12742,missing,16375,£3285,-999,1493,£2900,"15,869"
+2021-01-29,bike,missing,ECONOMY,open,Online,easyjet,Platinum,AISLE,hostel,Oceania,no,high,None,jpy,1-2w,3888,"16,563",18214,"11,005"," 5,465",8966,"18,801",£18189,1586,£17826
+13/06/2021,car,business, ECONOMY ,one-way,NA,easyjet, bronze ,window,AIRBNB,europe, yes ,Shoulder,BASIC,USD,>1M,14444,NaN,£16228,12494,4208,7885,£14027,£12686,3282,£1717
+02/09/2024,bike,Holiday,BUSINESS,one-Way,app, ba ,platinum,aisle,airbnb,S. America,-999,HIGH, comprehensive ,aud,2-4w,14395,"11,785"," 4,000",NaN,-999," 2,368",18058," 6,019"," 1,928",2125
+2022-11-04,plane,event,business,return,Agent,EASYJET,Bronze,middle, couchsurf ,asia,yes,NA,NA, jpy ,>1m,1005,1610,12211,NA,16606,365,9298,13407,NA,£14476
+29/12/2023,Bike,Business,first,One-Way,agent,LUFTHANSA,silver,middle,couchsurf,africa,no,Low,basic,eur,>1M,missing,£5716,"19,889",£210,£16216,NA,£10024,,2496,9501
+2021-04-24,,holiday,economy,One-Way,app, Easyjet ,bronze,WINDOW,Airbnb,OCEANIA,,,none, eur ,3-7d,6852,missing,missing,-999,-999,19492,£4679,10317,£17403,NA
+27/12/2022,car,,business,One-Way,NaN,LUFTHANSA,platinum,middle,hostel,,no,high, comprehensive ,Usd,2-4w,"10,643",3561,13384,£10637,"10,374",10659,£17673,1140,£14050,£8932
+19/11/2022,car,backpacking,ECONOMY,return,WALK-IN,Lufthansa,platinum,NaN,couchsurf,S. AMERICA,yes,high,Basic,Eur, >1m ,15185,15591,"10,476",19743,"18,462",,NA,£1923,17158,-999
+06/11/2024,plane,study,business,RETURN,WALK-IN,easyjet,,window,resort,S. America,yes,-999,none,aud,1-2w,11372,10923,7564,178,12443,NaN,3345,6788,£1715,missing
+2021-08-13,car,holiday,economy,Return,walk-in,qatar,-999,aisle,NA,oceania,NA,missing,Comprehensive,usd,>1M,13530,11333,£2591,17943,18804,"17,348",18952,£1885,12966,9447
+2023-02-12,bus,relocation,first,one-way,online,lufthansa,SILVER,middle,couchsurf,Africa,no, high ,none,eur,>1M,7560,"14,168",3487,4926,£6082,11290,7863,"17,204",4467,£9690
+"Jan 29, 2023",NaN,EVENT,economy,open,agent,ba,gold,aisle,hotel,EUROPE,Yes, high ,basic,GBP,1-2w," 3,959",£9903,"18,883",11020,£8363,£10595,10129,£10392,14863,472
+"Jul 18, 2021",missing,HOLIDAY,FIRST,RETURN,NA,LUFTHANSA,-999,BULKHEAD,hostel,oceania,,missing,basic,gbp,2-4w,,3193,16801,NaN,14465," 5,666",19450,2016,£7075,"15,118"
+missing,bus,Backpacking,First,OPEN,walk-In,,Gold,missing,resort, africa ,YES,LOW, Basic ,aud,>1m,14188,18155,£5237,missing,11878,16611,"17,765",14600,5392,14681
+2022-04-24,car,backpacking,missing,OPEN,WALK-IN,Emirates,SILVER, bulkhead ,-999,,yes,low,NONE,Eur,1-2W,14709,-999,3669,   113,15741,,£14198,8694,6344,£15723
+07/10/2022,boat, business ,First,Return,AGENT,-999,gold,missing,hotel,S. AMERICA,no,missing,Comprehensive,usd,2-4w,NA," 4,588",NA,14929,9989,6695,£7569,4484,"15,746",-999
+2024-03-17,CAR,Relocation,premium,one-Way,Walk-In,Ba,gold,window,Airbnb,S. America,Yes,high,NONE,GBP,>1m,9901,4580,16436,9911,missing,17066,"18,526",,"11,344",13508
+05/11/2021,car, backpacking ,business,one-way,app,Lufthansa, gold ,aisle,-999,AFRICA,no,high,comprehensive,EUR,2-4w,-999,5935,£3034,16386,"14,352",10538," 1,505",3245,12631,£7624
+2024-02-08,boat,holiday,business,Open,Agent,ba,platinum,aisle,missing,NA,yes,high,Basic,EUR,>1M,"17,346",£8298,3898,9237,6275,£6200,6465,,17458,7189
+30/09/2023,bike,NA,business, return ,app,ba,bronze,window,couchsurf, europe ,NO, high ,none,aud,1-2w,NA,2432,-999,15559,NA," 3,053",NA,,missing,15116
+2024-09-30, bus ,relocation,premium,one-Way,Online,NaN,BRONZE,aisle,hostel,n._america,NO,low,NaN,gbp, 1-2w ,£906,NaN,163,,NA,NaN,"13,055",1374,-999,£12188
+"May 09, 2023",NA,missing,premium,return,WALK-IN,Qatar,SILVER,NaN,resort,Asia, yes ,shoulder,comprehensive,NA,2-4w,3120,"14,616",16690,-999,"15,170",£9208,NA,"19,825",9988,9674
+12/05/2024,BOAT,Business,economy,return,app,Emirates,bronze,bulkhead,hotel,N. AMERICA,NA,low,none,eur,2-4w,NaN,missing,£18404,"19,213",10215,"17,203",£7777,8183,4692," 7,056"
+04/01/2024,CAR,Holiday,Economy,Return,online,Qatar, GOLD ,Aisle,RESORT,Europe,no,shoulder,NONE,Usd,1-2w,14181,3167,1235,£5694,18190,NaN,£18330,14968,12738,11846
+15/11/2022,Plane,business,economy,open,Walk-In,qatar,GOLD, bulkhead ,missing,ASIA,NO,High,None,Jpy,-999,1352,-999,"12,508",3561,6074,"10,191",-999,10276," 9,451",
+2023-09-29, car ,backpacking,Economy, return ,online,easyjet,NA,middle,hotel,s. america,yes,High,NaN,NA,2-4w,NA,15525,7449,£14681,6338,17551,£16710,"14,176",17528,119
+2024-11-21,bike,RELOCATION,FIRST, one-Way ,missing,emirates,platinum,aisle,hostel,AFRICA,-999,LOW,missing,jpy,1-2w,6337,18904,"11,782",6861,17673,£19443,£1911,19597,NA,12592
+"Jun 15, 2023",NaN,event, premium ,return,agent,qatar,silver,window,HOTEL,s.America,NO,NA, comprehensive , aud ,<3d,19342,,NaN,17201,£14829,12701,5676,11465,£16713,£7335
+28/05/2022,TRAIN,NaN,economy,one-way,online, ba , Gold ,MIDDLE,hostel,n. america,,High,NA,aud,2-4w,13999,1546,NA,17529,15272,"16,161",-999,11799,-999,£6916
+01/12/2022,Bus,-999,economy,open,online,ba,-999,bulkhead,Couchsurf,Oceania,NA,shoulder,comprehensive,Usd,2-4W,13641,£16800,17779," 7,239","14,461",£3914,9333,17984,2638,
+"Aug 16, 2024",boat,,economy,Open,app,BA,bronze,bulkhead,NaN,Asia,-999, shoulder ,COMPREHENSIVE,gbp,<3d,17948,7205,16820,missing," 5,333",-999,£11320,6206," 2,817"," 7,078"
+18/04/2023,bus,Relocation,Economy,one-way,walk-In,QATAR,silver,middle,couchsurf,asia,yes,HIGH, none ,usd,>1M,14662,,7347,4310,missing,809,"11,361",14402,NA,19720
+12/04/2024,Bike,event,PREMIUM,Open,Agent,BA,platinum, Bulkhead ,hotel,s._america,NO, low ,-999,EUR,1-2W,10795,7865," 7,122",19875,"15,152",2953,10292,£9308,11022,£17647
+2024-03-27,bus,relocation,economy,return,app,lufthansa,Platinum,MIDDLE,hostel,AFRICA,YES,shoulder,Basic,eur,>1m,19161,8716,3746,£7082,2762," 2,652",9854,9084,10942,4687
+13/03/2021,bus,backpacking,business,ONE-WAY,walk-in,EASYJET,GOLD,-999,missing,S. AMERICA, yes ,low,none,usd, >1m ,11471,11666,8379," 7,398",5719,£15699,11106,,8870,12334
+23/05/2021,bike,backpacking,Premium,-999,APP,ba,SILVER,bulkhead,Couchsurf, s.America ,yes, high ,basic,aud, 1-2w ,4390,£4749,17304,NA,"19,298",-999," 2,572",NA,"14,178",19730
+2021-08-07, boat ,holiday,ECONOMY,NaN,agent,easyjet,silver,BULKHEAD,resort,Asia,No,HIGH,COMPREHENSIVE,USD,>1m,1899,12450,1849,£8336,"10,784",6938,13041," 3,629",£17819,16777
+2023-08-26,Plane,event,-999,one-Way, walk-in ,Lufthansa,,middle,hotel,asia,NO,low,comprehensive,USD,>1m,"14,381","14,418",454,missing,£2049,2834,£8584,1767,£18588,£19653
+27/06/2022,CAR,missing,first,open,AGENT, QATAR ,Silver,middle,couchsurf,oceania,no,low,basic,usd, <3D ,£8188," 3,056","10,798",5907,19708,missing,NA,10353," 1,724",14540
+2023-03-02,boat,Business,-999,one-way,WALK-IN,EASYJET,NA,NaN,resort,africa,No,SHOULDER,-999,Eur,2-4w,   837,-999,10786,1355,,NA,£18810,£5153,missing,"17,521"
+14/01/2024,bike,,first,Open,online,emirates,platinum,Aisle,Airbnb,europe,yes, SHOULDER ,basic,jpy,2-4w,16058,7986," 9,273",12031,6481," 8,365",17363,£19716,NA,11442
+2021-10-18,car, study ,missing,ONE-WAY,ONLINE,ba,Bronze,aisle,HOSTEL,N. America,No,high,basic,aud,3-7d,12477,12483,5342,-999,11634,-999,1270,£12536,3890,8081
+12/08/2023,Bus,event,economy, Return ,walk-in, lufthansa ,Silver,Aisle,HOSTEL,S. America, yes ,low,none,GBP,3-7d," 8,023",1667,14879,7356,-999,9161,3697,,missing,521
+20/09/2023,plane,relocation,premium,return,app,easyjet,gold,aisle,hostel,NA,yes, shoulder ,none,NA,3-7d,11901,£9819,£10353,18381,13475,NA,£8058,15302,962,4431
+2023-12-08,bus,backpacking,premium,One-Way,APP,ba,GOLD,Aisle,hostel,NaN,no,Shoulder,none,AUD,1-2w,9139,£7320,,19788,£10991,11619,,£16358,£14595,1813
+2022-09-20,train,missing,premium,open,Agent,Lufthansa,NA,window,missing,n.America,yes,low,none,usd, <3d ,£18177,£3775,missing,NA," 3,030",1446,£2118,16225,,3464
+21/11/2022, plane ,EVENT,business,open,ONLINE, Ba ,silver,bulkhead,NA,europe,Yes,shoulder,,JPY,missing,"15,739",17914,15108,10671,"10,512",5652,8881,"13,940",£5136,£3080
+2023-06-28,,RELOCATION,FIRST,Open,walk-in, Qatar ,bronze,BULKHEAD,-999,n.America,YES,high, comprehensive ,eur,>1M,£11032,18696,2105,12007,£8083,£11184,£14999,,10615,5007
+2023-07-28,Boat,study,premium,one-Way,Agent,lufthansa,gold,aisle, AIRBNB ,,Yes,Low,NONE,jpy,1-2W,15481," 7,461",7441,"15,465",8863,18531,19539,£5422,missing,"15,285"
+2021-10-10,TRAIN,study,economy,open,app,easyjet,SILVER,MIDDLE,Hotel,S. America,yes,low,NaN,usd,>1m,18498,£14038,"15,570",£12581,5910," 8,266",18976,-999,£9061,19714
+21/11/2024,BIKE,event,First,Open,Online,EASYJET, bronze ,AISLE,airbnb,africa,NO,high,comprehensive,Gbp,1-2W,16796,missing,5023,"12,724",£5644,£11123," 9,220",7139,1105,13269
+2023-11-17,plane,RELOCATION,economy,open,NA,lufthansa,bronze,bulkhead,hostel,missing,no,,comprehensive,aud,2-4w,14820,16100," 8,660",1098,1931," 5,383"," 8,488","16,980",£1478,-999
+2024-09-24,car,-999, Premium ,open, WALK-IN ,EMIRATES, GOLD ,bulkhead,hotel,Africa,No,low,COMPREHENSIVE,USD,>1m,,16928,£10512,11459,NA,1147,7468,3526,15231,"13,001"
+2022-04-04,-999,HOLIDAY,Economy,return,online,BA,SILVER,middle, hostel ,europe,yes,shoulder,-999,missing,3-7d,608,15091," 1,305",-999,   851,,16465,£4884,6998,
+2024-03-21,PLANE,holiday,First,Return,online,Emirates,bronze,BULKHEAD,resort,S. AMERICA,NO,high,,eur,3-7d,,NaN,-999,338,5459,"15,027",14027,NA,12858," 6,565"
+04/03/2023,boat,Business,FIRST,Return,walk-in, QATAR ,SILVER,middle,Couchsurf,asia,yes,NaN,comprehensive,GBP,2-4w,£11821,16621,2200,4534,£16205,7537,£16363,341," 4,040",19402
+2024-06-02,plane,BUSINESS,ECONOMY,return,,Emirates,silver,MIDDLE,,oceania,No, shoulder ,comprehensive,Aud,2-4w,£19249,£10841,9135,9308,   932,,14745,16156,16559,13722
+08/07/2024,Boat,STUDY,first,ONE-WAY,online, ba ,platinum,AISLE,-999,s. america,NA,low,comprehensive,gbp,,-999,-999,,£19467," 9,246",,12881,8602,9380,7482
+03/04/2023,bike,event,-999, one-Way ,agent, ba , bronze ,aisle,HOTEL,OCEANIA,YES,low,none,AUD,<3D," 4,664","12,857",£292,16340,16736,7116,15916," 6,815",913,"10,160"
+24/02/2022,train,event,Economy,return,walk-In,easyjet,platinum, aisle ,couchsurf,s.America,no,high,none,Jpy,2-4w,£14560,15855,," 2,813",18808,4339," 6,942",2021,£14920,£7011
+11/01/2023,train,Business,Business,One-Way,app,Lufthansa,Gold, Bulkhead ,hotel, africa ,YES,shoulder,BASIC,eur,2-4w,£13644,11919,674,14302,11431,£10599,-999,,14306,17515
+07/11/2021,plane,Relocation, economy , Return , agent , lufthansa ,silver,middle,hotel,europe,yes,High,COMPREHENSIVE,eur,<3d,,£14900,9559,"14,604",688,missing,missing," 1,021",£19645,"14,526"
+07/06/2021,-999,-999,-999,RETURN,agent,ba,bronze,-999,hostel,AFRICA,yes,high,basic,jpy,>1m,£19600,8002,"13,158",14320,15789,19822," 7,277",2946,1522,7857
+10/01/2022,Bus,STUDY,first,open,NA,EASYJET,BRONZE,BULKHEAD,hotel,Asia,yes,High,Comprehensive,aud,3-7D,8885,-999,missing,4498,£13712,7545,"13,538",18948,£16262,£4062
+06/04/2022,Boat,NaN,business,one-Way, app ,EMIRATES,gold,MIDDLE,-999,africa,yes,shoulder,none,usd,1-2w," 7,518",15307,3640,£2217,-999,2333,"15,447",£4787,2826,5859
+2023-06-18,Bike,BUSINESS,PREMIUM,open,,ba,platinum, bulkhead ,hotel,s._america,NO,LOW,none,usd,2-4w,13975,18625,151,3759,14105,NaN,2030,15431,£1723,7168
+18/12/2023,Train,study,BUSINESS,one-way,App,Ba,platinum,WINDOW,COUCHSURF,europe,YES,low,Comprehensive,aud,<3D,"17,085",1212,17829,7966,£16018,954,14194,"12,228",,£9673
+13/10/2024,car,RELOCATION,,,NaN,QATAR,gold,middle,HOSTEL, n.America ,-999,low,comprehensive,Gbp, >1m ,807,-999,8220,£7368,£13307,"14,699",15426,8963,,
+2024-07-06,boat,,NA,one-Way,agent,Lufthansa,silver,window,HOSTEL,asia,yes,missing,basic,USD,2-4w,"15,013",6489,13747,4481,£13101,   105,9037,    42,"18,324",19541
+2022-10-14,plane,study,first,RETURN,Walk-In,easyjet,silver,bulkhead,hotel, asia ,No,shoulder,None,, <3d ,£362,7653,14982,,14261,4536,missing,13984,9532,NaN
+06/01/2024,boat,Backpacking,business,one-way,AGENT,qatar,GOLD,Middle,hotel,Asia,No,High,BASIC,jpy,>1m,10564,14568,13064,£6490,64,NaN,16093,£7532,"13,235",10100
+28/08/2022,Plane,event,NaN,OPEN,app,easyjet,silver,aisle,resort,EUROPE,missing,Shoulder,basic,Gbp,>1m,-999,8479,4731,18173,5726,"12,232",£4915,12537,£1929,18158
+07/08/2021,bike, HOLIDAY ,ECONOMY,one-Way,ONLINE,lufthansa,platinum,AISLE,airbnb,s. america,-999,low,none,Gbp,2-4w,11991,19767,630,10655," 7,430",4584,18393,11768,£17725,
+missing,BUS, business ,Premium,open,NaN,qatar,NA,AISLE,couchsurf,europe,Yes,Shoulder,none,usd,<3D,"19,358",1996,13835,5449," 1,401",3065,17719,8707,1068,NA
+2021-01-30,TRAIN,Relocation,NaN, ONE-WAY ,online,ba,Platinum,AISLE,NA,n.America,yes,Shoulder,none,GBP,1-2w,16239,"16,050",6114,8395,17598,NA,1154,462,19626,4175
+2022-12-24,plane,holiday,business,open,WALK-IN,qatar,GOLD,middle,Resort,S. America,NA,low,Basic, JPY ,3-7D,"15,360",371,5214,9017,2393,11230,£3401,12046,17223,missing
+2022-04-02,car,business, FIRST ,one-way,app,lufthansa,bronze,middle,couchsurf,n.America,No,NA,Basic,usd,2-4w,missing,19854,4144,7151,10467,13986,12493,16969,1553,6710
+2024-11-04,CAR,relocation,PREMIUM,NaN,App,emirates,gold,MIDDLE,Resort, n.America ,yes,high,missing,jpy,2-4w,£6774,-999,16698,NA,£2852,missing,748,NA,19493,"11,956"
+2021-02-16,missing,holiday, premium ,return,ONLINE,ba,Silver,,couchsurf,-999,yes, low ,BASIC, usd ,2-4w,971,6823,1253,9220," 4,147",558,£7052,3078," 4,297",£14556
+"Mar 22, 2023",Car,business,Business,,agent,emirates,NaN,BULKHEAD,resort,asia,yes,low,comprehensive,aud,2-4w,633,missing,£12755,,3888,,4912,£16399,74,19919
+12/01/2024,NA,Holiday, business ,ONE-WAY,WALK-IN,emirates,BRONZE,Middle,HOTEL,n. america,YES,high,BASIC,gbp,NA,19563," 6,251",£18601,10297,2895,£13191,9325,16351,11149,"15,292"
+-999,boat,missing,PREMIUM,Return,online,QATAR,missing,aisle,AIRBNB,AFRICA,no,,NONE,eur,<3d,7072,18399,16048,11687,14587,16948,15047,£5972,2747,£13506
+missing,BIKE,study, first ,open,Agent,BA,silver,Bulkhead,airbnb,asia,no,LOW, none ,USD,>1m,15849,18120,,8,2803,14997,£8479,-999,,18448
+16/01/2023,Train,Relocation,economy,OPEN,online,Ba,platinum,Bulkhead,resort,AFRICA, No ,high, none , aud ,<3D,4646,-999,£6265,£3416,66,"18,782"," 8,274",,NA,"15,396"
+15/08/2023,bus,event,first,open,online,qatar,NaN,window,Hotel,oceania,NO,SHOULDER,NONE,GBP,<3d,6333,11095," 3,327",19045,"19,919",12032,19053,1534,3386,6875
+31/10/2024,Boat,HOLIDAY,premium,One-Way,agent,easyjet,Gold,window,resort,AFRICA,no,low,None,usd,2-4w,15013,missing,missing,17967,13238,13962,15869,"19,367",7963,12492
+31/07/2023,Boat,Business,business, return ,Agent,Qatar,bronze,middle,NA,europe, yes , low ,none,Eur,-999," 1,178"," 1,386",8346,11366,11118,8376,12941,"17,165",£790,4411
+04/09/2021,bus,event,first,one-way, AGENT ,qatar,gold,aisle,missing,oceania,NO,low,NaN,usd,>1m,£1367,2514,-999," 9,691",16324,10389,1881,,£11117,8246
+14/10/2021,BIKE,event,NA, return ,Agent,easyjet,,aisle,HOSTEL,AFRICA,Yes,high,comprehensive,EUR,1-2w,17502,10671,    59,11638,1051,£18222,11384,6548,14605,2822
+19/06/2022,CAR,BUSINESS,business,One-Way,Walk-In,ba,platinum,window,Couchsurf,OCEANIA,No,low,Basic,jpy, 1-2w ,18887,11692,-999,15696,5721,missing,7384,14791,,10594
+27/10/2021,Bike,Study,Economy, open ,Agent,lufthansa,gold,bulkhead,hotel,,NaN, SHOULDER , basic ,aud,<3d,£2076,   845,6597,11386,,£12185,19670,£6934,£2916,1458
+22/07/2024,NaN,BUSINESS, business ,return,App,ba,Platinum,bulkhead,hostel,asia,NO,missing,basic,aud,3-7D,19403,,5269,   768," 7,996",3763,NaN,£11108,15934,14893
+2024-02-25,-999,study, premium ,open,ONLINE,BA,bronze,Window,airbnb,Africa,Yes,Shoulder,comprehensive,aud,<3d,6748,£15172,18913,11676,19593,2972,NA,,£7335,£8898
+2021-07-23,plane,Business,business, RETURN ,-999,emirates,bronze, bulkhead ,Hotel,europe,missing,low,Basic,aud,3-7D,5444,6319,5032,"16,817",5832,"15,086",16727,"19,270","20,000",6098
+2023-11-14,Bike,NaN,business,RETURN,-999,EMIRATES,Silver,Window,airbnb,s._america,yes,high,BASIC,eur,1-2w,16128," 8,873",4369,14746,-999,£13834,6068," 4,443",£14052,"19,601"
+06/06/2024,plane,event,premium,RETURN,Agent,emirates,GOLD,bulkhead,resort,S. AMERICA,YES,high,NONE,gbp,1-2w,12696,-999," 7,692",2104,13173,6405,879,9444,8381,
+2021-03-10,Train,relocation,first,NA,agent,ba,Gold,bulkhead,hostel,europe,no,High,none,JPY,<3d,8169,1748,13687," 2,466",,10312,12882,12601,10557,3656
+22/09/2023,bus,missing,NA,One-Way,WALK-IN, LUFTHANSA ,gold,middle,couchsurf,n. america,yes,LOW,BASIC,usd,>1M," 2,355",-999,"15,938"," 5,746",14412,"10,344",15811,NaN,18777," 6,608"
+06/10/2023,TRAIN,business,premium, return ,APP,qatar,silver,bulkhead,hostel,europe,NA,shoulder,COMPREHENSIVE,EUR,2-4w,,£4006,11276,7711,5179,£9748,   130,NaN,17875,7432
+2024-09-11,car,holiday,ECONOMY,open,App,EASYJET,Bronze, Window ,Hostel,africa,NO,low,comprehensive,Jpy,>1m,-999,9614,14465,17841,"13,013",-999,£10943,12981,£8427,10368
+04/05/2022,,backpacking,First,Open,WALK-IN,ba,Bronze,NA,HOTEL,S. America,no,Shoulder,None,NA,3-7d,13905,£14020,15432,3418," 7,718",£16769,13090,£13272,8400,5025
+03/03/2022,BIKE,missing,first,-999,agent,ba,platinum,middle,airbnb,Oceania, yes ,low,none,gbp,<3d,£3059,18729,1211,7340,£16425,£6266,"10,399",£14099,14501,
+14/11/2023,car,business,first,one-way,app,easyjet,Platinum, middle ,Hostel,s._america,-999,high,COMPREHENSIVE,eur,3-7d,9551," 7,307",NaN,7558,5984,15336,689,"18,596",887,£18463
+2021-03-31,BUS,backpacking,first,missing,walk-in,EASYJET,gold,bulkhead,couchsurf,africa,No,NaN,Comprehensive,aud,3-7d,8825,19057,4029,4390,£1120,7977,26,,£6347,12132
+"Dec 04, 2024",CAR,holiday,first,, ONLINE ,LUFTHANSA,GOLD, Middle ,Hotel,oceania,no,shoulder,-999,usd,1-2w,£13982,NA,£10992,NA,missing," 1,759",8076,£17087,   267,NaN
+31/12/2024,car,Holiday,business,return,online,Easyjet,silver,window,couchsurf,asia, yes ,high,comprehensive,EUR,3-7d,-999,13530,2561,£3653," 2,468",£582,415,16387,9158,   473
+2021-11-23,Boat,holiday,business,return,-999,NA,Bronze,window,hostel,S. America,YES,low,NONE,JPY,<3d," 3,873",17332,missing,£10027," 1,162",missing,£10767,,655,£5660
+18/05/2021,car,EVENT,First,one-way,ONLINE,,,MIDDLE,HOSTEL,s.America,Yes,low,missing,usd,missing,"18,842",£8754,1702,NaN,£1870,£4106,9882,£18898,   724,7827
+2022-08-13,bike,Backpacking,business,one-Way,NA,easyjet,silver,bulkhead,airbnb,-999,yes,low,comprehensive,eur,3-7d,,5289,12006,12499,,11473,-999,£2132,£12032,
+2022-03-21,plane,EVENT,Economy,open, AGENT ,NaN,silver,middle,hotel,OCEANIA,no,high,comprehensive,jpy,," 1,249",17771,2967,5107,3852,11847,"17,100",5622,947,"16,035"
+20/11/2022,Bike,Business,first,return,agent,Qatar,silver,middle, HOSTEL ,africa,No,Low,Basic,USD,<3d,8063,5811,5146,18887,NaN,17008,1274," 8,289",13681,"14,507"
+2024-08-20,BUS,study,business,One-Way,app,Easyjet,platinum,bulkhead,,europe, yes ,shoulder,basic,aud,>1M,4273,11201,10427,3272,17864,9673,722,9076,£3813,NaN
+missing,Train, business ,first,open,-999,easyjet,silver,bulkhead,Airbnb,Oceania, No ,Shoulder,none,GBP,missing," 7,616",missing,18515,2309,£11039,2146,NA,missing,16831,£3419
+"Dec 03, 2022",bike,-999,ECONOMY,open,Walk-In,Ba,Gold,Window, resort ,N. AMERICA,no,shoulder,NaN,jpy,1-2w," 7,032",17952,6190,£18117,"19,107",3999,14606,3252,9430,15683
+2021-03-03,bike,backpacking,business,One-Way,Agent,lufthansa,SILVER,middle,hostel,NA,yes,low,BASIC,gbp,<3D,£18811,1237,10710,14857,3189,6167,8358,"15,463",13129,7179
+15/06/2021, car ,Holiday,economy,open,,EMIRATES,bronze,middle,airbnb,oceania,Yes,high,Basic,eur,NA,508,8160,2797,£13636,£3537,7726," 7,855"," 2,801",NaN,15764
+23/09/2024,train,HOLIDAY,first,open,NaN,QATAR,platinum,middle,COUCHSURF,oceania,YES, low ,basic,gbp,1-2w,12544,10915,£6511,"16,398",8913,6847,NaN," 2,843",18311,19633
+21/05/2023,train,BUSINESS,economy,one-way,NA,easyjet,NA,bulkhead,Couchsurf,oceania,yes,shoulder,BASIC,aud,<3d,9289,"15,971",8770,2772,£4376,3337,5316,5345,14669,NA
+08/12/2022,train, study ,economy,one-way, online ,Emirates,silver,missing, Resort ,africa,missing,SHOULDER,comprehensive,aud,<3d,19022,"16,643",10335,13961,£10467,17023,6627,1252,3668,18385
+2022-01-24, boat ,Backpacking,missing,NA,walk-in, qatar ,silver,missing,-999,Asia,NO,shoulder,Basic,aud,1-2w,,"13,800",£6869,18619,14612,-999,£4546,17787,648,3969
+2023-12-21,bus,,business, one-way ,Agent,QATAR,gold,bulkhead,hostel,-999, NO ,shoulder,comprehensive, Eur ,>1m,NaN,13973,17903,,7065,-999,,7876,14732,£1454
+25/06/2021,Boat,Backpacking,First, one-way ,walk-in,lufthansa,NA,missing,hotel,s. america,no,Low,basic,-999,3-7d,£4598,10734,17124,"18,468",NaN,9372,12119,,£13414,11016
+2021-06-10,Car,study,NA, OPEN ,app,Ba,Bronze,middle,couchsurf,N. AMERICA,Yes,shoulder,none,Usd,3-7d," 5,236",11257,1269,10486,2231,"19,639",NaN,£17681,9779,12475
+2022-06-25,car,backpacking, first ,return,app,easyjet, Silver ,window,Resort,N. AMERICA,NaN,low,none,usd,2-4W,16788,6301,NaN,2737,12523,3216,16103,£12326,-999,16566
+"Oct 23, 2024",bike,event,premium,Return,walk-in,lufthansa,,Bulkhead, hotel ,N. America,-999,shoulder,Comprehensive,aud,3-7d,NA,1662,9838,19334,13222,2365,"11,375",9206,NaN,NaN
+25/09/2022,bus,business, Economy ,return,agent,qatar, silver ,middle,airbnb,-999,YES, high ,none,eur,3-7d,missing,5179,£6898,"15,213",2667,9025,£1828,NA,£10677,
+20/08/2021,Boat, backpacking ,First,open,Walk-In,EASYJET,NaN,window,resort,africa,yes,,basic,gbp,1-2w," 6,588",9271,missing,19100,17546,1937,3300,"11,442",13772,7230
+-999,Bike,BACKPACKING,economy,one-way,online,ba,Gold,middle,Resort,n.America,No,HIGH,NONE,Aud,1-2w,14101,9389,9035,£4774,,3225,7921,812,5898,5954
+2023-10-20,NA,Study,economy,OPEN,-999,lufthansa,gold,aisle,NaN,n.America,no,low, comprehensive ,eur,1-2w,16702,12015,-999,"10,497",16928,,15570," 5,757",,£17785
+2024-06-16,Car,BACKPACKING,first,Open,Agent,Ba,silver,aisle,missing,europe, yes ,High,comprehensive,NaN,3-7d,,17241,£9786,14145,£1139,19236,7459,2202,,9925
+26/01/2024,boat,HOLIDAY,First,return,Agent,ba,platinum,Middle,Resort,s.America,no, high ,-999,missing,1-2W,NA,18897,£17624,4326,9150,4777,11613,£4444,17944,19902
+2024-03-18,bike,Backpacking,premium,one-Way,app,NaN, silver , bulkhead ,hostel,ASIA,yes,Low, Comprehensive ,eur, <3d ," 9,708",14118,10803,£18724,13281,,,£12275,17188,2553
+05/12/2022,NaN,EVENT,missing,Return,missing,QATAR,Silver,NA,resort, europe ,NO,high,-999,jpy,3-7d,missing,3392," 7,935"," 5,151",11991,2219,£10390,£9297,4500,19608
+01/07/2024,Boat,business,,Open,online,ba,platinum,NaN,couchsurf,n. america,no,High, none ,gbp,1-2w,,NaN,"18,868","11,988",19905,18637,NaN,NaN,17486,3528
+2023-11-15,BUS,event,Economy, one-Way ,agent, lufthansa ,PLATINUM,window,NA,,yes,-999, comprehensive ,usd,2-4w," 5,461",£10319,£12277,£1161,"14,005",9940,13133,"11,814"," 5,259",£1893
+missing,bus,business,,One-Way,walk-in,EMIRATES,SILVER,AISLE, hotel ,asia, yes ,shoulder,comprehensive, USD ,-999,£4245,£16097,£9226," 8,718",NaN,5762,£9359,"17,542",missing,-999
+2024-07-21,Boat,study,Business,one-way, online ,easyjet,platinum,AISLE,COUCHSURF,oceania,yes,low,Basic, gbp ,<3d,1711,16676,"17,445",NA,18486," 5,204",15253,7930,17841,3170
+2021-08-20, Car ,holiday,ECONOMY,NaN,app, ba ,bronze,bulkhead,Resort,africa,Yes,Shoulder,none,eur,3-7D,-999,10581,15176,3734,17122," 2,013",2735,12320,14986,£14952
+11/04/2022,Plane,BUSINESS,premium,one-way,walk-in,Lufthansa,Platinum,bulkhead,Airbnb,Africa,yes,shoulder,basic,GBP,2-4w,8609,19310,9618,,17207,missing,6718,11157,3150,4878
+2022-06-06,boat,Study,,ONE-WAY,,-999,PLATINUM,aisle, airbnb , oceania ,yes,shoulder,Basic,usd,3-7d,17888,NaN,," 9,660",18151,2626,9433,£15596,12540,"16,176"
+2022-08-08,BOAT,backpacking,premium,Return,online,ba, GOLD ,aisle, resort ,S. AMERICA,NO,Shoulder,none,NaN,missing,17307," 5,146",378,19075,£12389,-999,£10759,7119,15395," 5,164"
+"Aug 14, 2021",bike,Backpacking,ECONOMY,RETURN,walk-In,easyjet,missing,MIDDLE,COUCHSURF,AFRICA,no,Low,none,missing,>1M,2752,£6124,£14408,14931,missing,9045,11506,11228,£17464,5757
+"Jun 18, 2021",TRAIN,study,ECONOMY,RETURN,app,,gold,missing,COUCHSURF,n.America,No,low,comprehensive,gbp, <3D ,5948,6763,missing,£5999,£17878,6376,-999,,11499,12123
+05/11/2024,Train,,economy,open,online, easyjet ,bronze,AISLE,airbnb,europe,no,shoulder,COMPREHENSIVE,EUR,NaN,15625,£11871,6803,2123,7271," 8,088",missing,1690,£16807," 1,828"
+12/11/2022,bus,Relocation,first,OPEN,agent,emirates,silver,NaN,airbnb,asia,NO,shoulder,BASIC,AUD,,   952,5058,10852,£1062," 7,213",£17853,731,17427,10319,10939
+2024-10-13, BUS ,EVENT,business,return,agent,Ba,Platinum,MIDDLE,Airbnb,missing,no,low,COMPREHENSIVE,JPY,>1m,£19520,16274,missing,18714,"11,010",4305,"19,761"," 6,470",2843,1383
+20/03/2022,car,business,business,One-Way,online,qatar,silver, middle ,Hostel,africa,no,High,none,aud,3-7d,18235,13816,5362," 6,001",11864,£6778,£15812,17101,"15,823",16414
+22/05/2021,train,event,economy,-999,WALK-IN,QATAR,-999, AISLE ,Couchsurf,europe,YES,high, basic , GBP ,NA,10166,8782,201,,£3603,11554,£5549,7813,£14952,£2737
+04/01/2022,car,Business,premium,NA,online,Lufthansa,bronze,aisle,couchsurf,N. America,yes, high ,Basic,eur,missing,4473,-999,£13928," 1,332",,7003,NA,642,10984,£8494
+2021-10-12,PLANE,RELOCATION,premium,one-way,Walk-In,EASYJET,Platinum,bulkhead,Resort,S. AMERICA,no,High,NaN,USD,2-4w," 8,174",-999,missing,15808,£18881,£3392,19905,NA,2684,7923
+2024-06-24,NA,relocation,First,RETURN,app,easyjet,bronze,,hostel,N. America, YES ,high,None,eur,1-2w,-999,NaN,17362,£7323," 9,906",2129,15818,17764,17912,11912
+30/01/2022,BIKE,Business,First,return,NaN,emirates,Bronze,Middle,airbnb,N. AMERICA,no,low,basic,aud,3-7d,£15647,13476,2754,4609,NaN,2353," 2,010",£6863,   846,NaN
+09/04/2024,car,Study,business,open,walk-in,LUFTHANSA,bronze, window ,Hotel,,yes,shoulder,basic,EUR,1-2W,10550,9557,7850,"10,800",15685,8688,12445,98,missing,2807
+"Jul 26, 2022",bike,backpacking,economy,one-way,Agent,BA,gold,bulkhead,airbnb,N. AMERICA,no,high,,gbp, 2-4w ,,3439,missing,NA,9527,5710,£9622,13567,12373,-999
+2021-11-26,missing,BACKPACKING,BUSINESS, return ,app,QATAR,silver, aisle ,Hotel,,Yes,shoulder,-999, aud ,2-4w,15732,"11,624",3512,13849,5161,£5715,10589,10899,11453," 9,811"
+04/12/2024,train,BUSINESS,premium,return,walk-In, lufthansa ,silver,MIDDLE,Couchsurf,asia,no,,,Usd,>1M," 6,537",318,NaN,377,13064,8127,12226,10184,13901,37
+missing,Boat,Holiday,premium,one-way,Agent, LUFTHANSA ,bronze,aisle, RESORT ,oceania,yes,SHOULDER,Basic,Usd,,£19951,"13,106",£6868,7679,14169,£14390,£7546,£6883,£3154,7567
+,missing,,BUSINESS,open,online,Qatar,bronze,window,hotel,n. america,No,low,BASIC,GBP, 3-7d ,missing,7661,NaN,19287,£2483,NaN,£822,788,NA,2334
+01/05/2021,train,holiday,economy, one-way ,App,EASYJET,Silver,Aisle,RESORT,missing,NO,NA, none ,jpy,<3d,11499,£4079,£2711,"14,481",-999,£2029,£7328,,1149,5865
+2023-11-30,train,backpacking,BUSINESS,RETURN,online,Emirates,bronze,NA,hotel,AFRICA,Yes,shoulder,,eur,1-2w,,£9577,-999,5635,£19013,,,£886,6418,132
+02/08/2021,BIKE,study,Economy, open ,agent,Emirates,missing,AISLE,,oceania,no,Shoulder,none,JPY,3-7d,19383,1396,2508," 2,428","11,899",1292,744,13484,"19,275","15,979"
+07/03/2023,bus,Relocation,PREMIUM,RETURN,WALK-IN,,platinum,aisle,missing,Africa,yes,, COMPREHENSIVE ,jpy,-999,4449,15760,missing,5492,18777,5423,"17,469",11019,8480,10151
+NA,boat,event, ECONOMY ,open,agent,Ba, platinum ,Aisle,NA,n.America,Yes,high,NONE,Usd,1-2w,14390,11216,6571,NA,8553,2959,-999,4408,"19,750",-999
+2024-02-27,train,Relocation,FIRST,open,agent,NA,SILVER,Middle,hostel,Oceania,YES,shoulder,BASIC,USD,missing,11676,19247,13721,6399,£9926," 4,358",£9855,7494,NA,£14655
+2021-07-31,plane,holiday,business,ONE-WAY,online,qatar, gold ,MIDDLE,airbnb,n._america,yes,HIGH,comprehensive,JPY, 3-7D ,6604,5524,6080,NA,7392,15755,£18233,2245,17285,9109
+2024-04-30,missing, holiday ,first,ONE-WAY,online,emirates, silver ,-999,resort,oceania, YES ,High,none,eur,<3d,8503,11527,14712,£11562,2350,-999,2682,6588,£19782,16703
+15/01/2022,plane,relocation,economy,ONE-WAY,Online,NA,silver,WINDOW,airbnb,africa,Yes,NaN,Comprehensive,gbp,<3D,NaN,£3178,£7624,15339,"10,112",16202,8829,missing,7127,"12,562"
+2024-02-15,plane,BUSINESS,ECONOMY,Open,agent,lufthansa,GOLD,NA,HOSTEL,S. America,no,low,COMPREHENSIVE,eur,<3d,missing,NaN,12255,NA,15927,17554,-999,£1764,7801,1242
+2021-09-17,TRAIN,missing,first, Open ,agent,lufthansa,Bronze,aisle,RESORT,NaN, no ,high,None,JPY,missing,-999,NA,NA,-999,19691,16495,   787,9193,11043," 4,091"
+20/06/2024,bike,business, premium ,return,online,NaN,missing,Aisle,hotel,Asia,NO,shoulder,none,gbp, >1m ,2334,£9220,"11,289",16619,19436,"18,597",-999,missing,missing,"14,844"
+-999,CAR,business,FIRST, open ,Walk-In,easyjet,bronze,aisle,Hostel,Asia,,low, Comprehensive ,EUR,3-7D,"17,231",2841,£14772,142,3694,3400,7478,4249,10390,£6731
+31/07/2024,,HOLIDAY,business,One-Way,online,qatar,, Bulkhead ,RESORT,asia,yes,missing,none,jpy,-999,NaN,missing,"12,829",NA,3375," 7,287",1068,"15,428",NA,1242
+2021-12-14,bike,holiday,first,Open,app, EASYJET ,missing,middle, Airbnb ,N. AMERICA, NO ,high,none,jpy,1-2W,," 6,915",£13011,3116,NA,£16929,NA,7071,4352,-999
+2023-10-14,CAR,holiday,premium,NaN,Online,emirates,silver,missing,HOTEL,N. America,NA,Shoulder,basic,USD,2-4w,14848,14799,10695,7906,10558,6378,"19,661",10777,10770,7729
+2022-12-16,boat,holiday,premium,one-Way, Online ,emirates,platinum, window ,RESORT, s._america ,YES,low,,,2-4w,18829,13619,5668,3203,9857,13772,£9320,11489,8987,9878
+05/06/2022,NaN,holiday, business ,return,AGENT,Emirates,bronze,BULKHEAD,hotel,Europe,no,high,BASIC,aud,3-7d,11350,-999,7553,7285,6020,197,13530,5334,2225,
+07/06/2021,plane, Relocation ,business,return,walk-In,lufthansa,Gold,NaN,Couchsurf,AFRICA,yes,LOW,none, Eur ,<3D,"13,331",17000,£3880,43," 8,810",15452,NA,£650,£16792,£10715
+"Jan 06, 2023",car,Holiday,BUSINESS,,agent,Lufthansa,,bulkhead,hostel,europe,yes,,basic,gbp,>1m,3311,727,"15,463",£476,missing,1156,15089,"19,315",1778,18169
+02/05/2024,NaN,NA,economy,return,walk-In,emirates,NaN,MIDDLE,couchsurf,-999,YES, shoulder ,BASIC,Eur,,missing,9963,£11,19373,4021,363,6130," 9,633",4478,£4728
+29/08/2021,TRAIN,Relocation,business,open,NA,Easyjet,missing,NaN,resort,asia,No,low,none,NA,<3d,1512,17993,NA,13502,6365,£4494,£12901,3712,"14,075",11656
+2022-06-26,train, RELOCATION ,First,open, online ,lufthansa,Bronze,middle,hotel,,,Low,comprehensive,jpy,1-2w,10245,17853,   713,10413,£8820,"10,624",NaN,16480,1471,1501
+02/05/2023,Bus,Relocation,Business,ONE-WAY,,LUFTHANSA,gold,Bulkhead,resort,oceania,yes,LOW,Comprehensive, jpy ,3-7d,£15157,11910,5903,£8175,8404,14328,9985,£13453,1716,11449
+2024-02-19,bus,study,NA,OPEN,NA,EMIRATES,gold,middle,Hostel,asia, no ,high,comprehensive,jpy,3-7d,10897,7217,11035,"19,743",NA,6083,missing,missing,19163,"17,994"
+26/08/2023,-999,NaN,ECONOMY,NaN,walk-in,qatar,Silver,MIDDLE,airbnb,n._america,no,HIGH,none,Usd,1-2w,5297,missing,5258,4986,9361,£10508,12362,NA,15730,16422
+03/03/2024,boat,business,premium,one-way, agent , ba , Platinum ,Aisle,RESORT,europe,yes,missing,NaN,JPY,3-7d,,15068,5663,1576,missing,11044,1643,11094,£3072,10311
+2023-04-17,bike,Holiday,premium,one-Way,walk-In,easyjet,gold,Middle,Hostel,n.America,Yes,Shoulder,BASIC,Gbp,<3d,£19962,5245,£2963,10952," 1,817",12483,3341,-999,2691,4786
+2021-12-28,Car,study,first,,app,ba,platinum,,hotel, Oceania ,No,NaN,comprehensive,missing,>1m,£1924,7735,,19973,17489,-999,£19505,missing,-999," 3,245"
+2021-10-24,boat,relocation,premium,RETURN,walk-in,easyjet,silver,BULKHEAD, resort ,EUROPE,yes,NA,basic,Gbp,<3d,,268,10382,10455,NaN,8861,7404,9090,-999,6342
+2021-02-09,CAR,event,First,-999,online,NA,platinum,MIDDLE,airbnb,africa,No,high,Basic, jpy ,>1m,14633,"17,094",11054,5653,2029,£1735,£15552,"10,337",4834,missing
+22/05/2022,bike,business,PREMIUM,Open,walk-in,missing,silver,aisle, COUCHSURF ,ASIA, NO ,high,basic,NaN,-999,14418,6594,11870,missing,18550,NaN,£8161,NaN," 2,128",7791
+2022-10-19,NA,holiday,business,, agent ,emirates,silver,Window,hotel,n. america, No ,missing,-999,jpy,NaN,559,8267,4461,11615,16704,13217,£18003,11647,£5843,4208
+28/07/2023,BOAT,RELOCATION,business,one-Way,app,BA,-999,aisle,hotel,europe,No,High,basic,gbp,1-2w,14610,10809,£11285,NaN,missing,missing,-999,14596,2027,£6537
+2021-10-24,Bike,business,first,open,AGENT,emirates,missing,-999,Hostel,europe,Yes,Shoulder,comprehensive,eur,<3D,£12700,4920,16358,176,13652,3776,-999,missing,"14,740",18469
+2021-01-21,boat,event, economy ,OPEN,online,lufthansa,SILVER,BULKHEAD,airbnb,asia, no ,NaN,basic,eur,3-7D,14376,£2372,NA,NaN,17498,£3561,,-999,16777,missing
+14/08/2024,Car,backpacking, First ,NaN,walk-in,qatar,bronze,bulkhead,HOSTEL,N. AMERICA,yes,LOW, comprehensive ,EUR,1-2w,9018,6049,15360,missing,10938,18876,"14,730",7795,8637,
+2021-12-17,bus,backpacking,premium,return,,ba, Bronze ,Middle,airbnb,n.America,No,High,NONE,eur,<3d,   507,913,79,NA,8172,15589,"17,123",11403,-999,£13740
+17/10/2021,BOAT,holiday, first ,open,Online,Easyjet,Bronze,bulkhead,Hotel,, yes ,HIGH,basic,NA,3-7d,9992,6898,12927,9461,1345,£1415,9931,£15531,£8305,10359
+03/12/2023,car,business,premium,one-way,-999,ba, Silver ,middle,airbnb,s.America,yes,missing,BASIC,Aud,<3d,13889,"19,635",6585,£6054,NA,£5645,16021,16808,missing,"17,596"
+15/11/2024,boat,BUSINESS,FIRST,open, online ,Lufthansa,gold, bulkhead , Resort ,europe,yes,HIGH,NA,NaN,1-2w," 6,252",6418,,£8676,10738,12268,NaN,16210,"16,273",18200
+07/01/2023,boat,Relocation,NaN,open,online,qatar,gold,aisle,resort,asia,no,low,basic,jpy,<3D,19518,1210,7921,"19,509",787,4938," 2,591",2664,13889,16232
+,car,event,ECONOMY,open,APP,easyjet,Silver,middle,resort,N. America,no,missing,comprehensive,missing,1-2w," 6,993",,18107," 8,623",3618,17215,-999,761,-999,NA
+2024-12-07,boat,Backpacking,Premium,open,app,qatar,PLATINUM,bulkhead,hostel,N. America,NO,SHOULDER,basic,Aud,NA,9417,£11310," 5,935",16964,5067,18372,"10,765","15,044","15,041",5268
+08/09/2021, Boat ,event,business,open,online,BA,Gold,aisle,Couchsurf,Africa,NO,high,-999, Usd ,2-4w,2992,,4339,9775,19783,5460,2793,10668,£7627,16167
+2021-11-21,plane, business ,premium,return,APP,Easyjet,Gold,bulkhead,,AFRICA, yes ,SHOULDER,BASIC, jpy ,NaN,15208,"18,745",6845,18794,18730,19233,162,NA,6207,£18367
+2021-01-31,bus,holiday,first,one-way,App,missing,bronze,middle,hotel,ASIA,YES,missing,-999,GBP,3-7d,1744,£11622,14537,£10760,4442,"12,016",5423,NA,8968,4007
+02/07/2022,bus,holiday,First,open,Online,lufthansa,BRONZE,AISLE,airbnb,, yes ,shoulder,basic,gbp,3-7d,£7739,18077,10820,17690,3585,13608,19965,£2799,NA,9100
+"Jul 24, 2024",bike,backpacking,economy,open,walk-in,Emirates,silver,BULKHEAD,,Europe,NO,NA,basic,jpy,<3d," 7,128",£4755,9005,16235,4015,7364,missing,2104,12622," 8,678"
+17/12/2021,bike,relocation,premium,one-Way,app,ba,silver,middle,HOSTEL,N. America,YES,missing,basic,eur,2-4w,"12,194","15,489","11,280",17594,17896,£12480,"10,231",1819,5671,747
+28/04/2023, Bus ,Business,PREMIUM,OPEN,Online,lufthansa,SILVER,Aisle,airbnb,N. America,no, low ,none,aud,,"18,782",£19925,11463," 1,619",4821,£16622,8853,£4529,4623,10909
+05/08/2023,Bus,business,economy,One-Way,walk-in,lufthansa,gold,bulkhead,NA,s._america,yes,high,NaN,Usd,>1m,£7571,11170,14341," 2,856",9413,9277,"16,775"," 6,228"," 8,223",NA
+04/01/2024,-999,BUSINESS,premium,return,Online,ba,NaN,bulkhead,Airbnb,ASIA,no,high,COMPREHENSIVE,gbp,1-2w,6510,4972,NaN,,-999,,"10,631",10608,11003,missing
+2023-10-25,bus,backpacking,premium,return,Agent,lufthansa,PLATINUM, bulkhead ,resort,,yes,shoulder,BASIC,aud,>1m,15153,4024,8966,18299,10007,£19163,4323,£8239,£15636,8468
+18/06/2021, bus ,event,economy,open,Walk-In,ba,bronze,AISLE,hostel,n. america,No,high,comprehensive, Usd ,,2278,18564,£13140,£18535,,17030,11409,£15739,1709,5532
+2024-02-01,car,relocation,BUSINESS, return ,APP,Lufthansa,Bronze,window,Resort,missing,NA,shoulder,comprehensive,aud, >1M ,9983,2366,9229,13954,2820,19981,NaN,NaN,NaN,-999
+2023-04-05,car,event,economy, return ,WALK-IN,LUFTHANSA,BRONZE,NA,HOTEL,oceania,No,NaN,None,aud,>1m,10054,3338,£6222,1456,7177," 6,724",NaN,18362,13561,NA
+2024-03-05,bike,backpacking,business, return ,AGENT,emirates,gold,BULKHEAD,HOSTEL,asia,yes,HIGH,basic,missing,>1m,"19,016",£11057,,"13,274",,£12488,10767,2992,12269,17764
+12/10/2024,plane,-999,premium,ONE-WAY,app,BA,Platinum,-999,airbnb,europe, yes , SHOULDER ,Basic, GBP ,2-4w,missing,£19553,£18136,18467," 8,751",15760,6362,4431,188,£9206
+2022-02-16, BUS ,business,business,One-Way,app,missing,bronze,,resort,n.America,yes,shoulder,comprehensive,NaN,>1m,13027,1251," 9,829",£8798,"14,574",14939,£4276,9457," 6,467",16283
+"Nov 29, 2023", plane ,missing, BUSINESS ,return,agent,NA,-999,window,RESORT,asia,no,Low,basic,aud,2-4W,10733,£2840,£8719,"18,494",,missing,£492,5163,482,14297
+10/02/2021,Car,Study,FIRST,RETURN,agent,easyjet,Gold,MIDDLE,Hostel,Asia,yes,,comprehensive,GBP,1-2w,missing,12293,£5293,6150,8974,£10459,5961,9306,"11,511",NA
+04/10/2021,bike, Backpacking ,,Return,app,Qatar,missing,MIDDLE,Couchsurf,s._america,no,Low,BASIC,AUD,-999," 1,322",£8272," 4,617",14390,missing,£11187,19116,4772,16516,£14542
+16/11/2024, bike ,Business,BUSINESS,return,app,QATAR,missing,window,resort, Asia ,NaN,low,none, aud ,2-4w,,£13651,15858,15397,4032,2150,missing,£13414,£3685,17354
+"May 18, 2023",BOAT,event,First,NA,-999,qatar,silver,WINDOW,,asia,no,shoulder, none ,Aud,>1m," 2,054",4175,7766,-999,2876,"17,187",NA,7379,19213,11316
+2024-03-19,plane, holiday ,NaN,RETURN,agent,NaN,platinum,bulkhead,hotel, africa ,No,LOW,comprehensive,GBP,3-7d," 5,414",12656,6385,12291,2333,"17,371",-999,"10,537",13830,19457
+2024-02-25,bike,RELOCATION,first,return,Agent,BA,Bronze,window, resort ,oceania,missing,High,basic,Gbp,3-7d,13414,9879," 3,869",5076,£7919,£6545,"19,351",NA,1063,-999
+06/11/2022,NaN,HOLIDAY,BUSINESS,,Online,emirates,silver,middle,Hotel,AFRICA,YES,low,Comprehensive,NA,2-4w,3304,8656,"18,120",19254,13485,11948,4796,"13,257",10380,£19244
+2022-08-01,boat, Holiday ,BUSINESS,open,AGENT,NA,Bronze,Middle,resort,N. AMERICA, NO ,SHOULDER,COMPREHENSIVE,gbp,,"12,103",11648,2716,4177,18033,1093,16943,-999,12972,2110
+"Jun 21, 2023",car,Holiday,Premium,return,WALK-IN,EMIRATES,GOLD,aisle,Couchsurf,NA,no,high,basic,USD,NaN,£2951,5237," 1,346",13901,18224,10721,11186,£17477,NaN,8361
+05/12/2022, train ,Backpacking,Business,OPEN,, qatar ,NA,window,Couchsurf, asia ,NaN,low,Comprehensive,jpy,<3d,NaN,-999,5811,7669,5040,12255,11274,NA,," 2,538"
+2024-08-07,bus,,,open,NaN,BA,silver,middle,couchsurf,africa,yes,low,basic,GBP,>1m,£11876,"11,499",8231,10858,4764,£19487,2557,13238,-999,481
+2022-08-07,BUS,Business,premium,open,missing,easyjet, platinum ,aisle,Hostel,NA,no,HIGH,none,usd,<3d,1381,£9140,15652,7504,848,1256,15403,8732,£16263,£326
+2021-09-02,Bus, holiday ,first,one-way,online,qatar,-999,bulkhead,NA,N. America,NaN,high,none,NA,>1m,5964,12049,NA,15719,15661,NA,82,£12176,9268,2885
+missing,bike,backpacking,economy,missing,agent,QATAR,platinum,aisle,NaN,s.America,yes,high,comprehensive,Aud,3-7d,"11,561",5812,13442,2063,10313,1132,4483,13882,"15,067",9590
+missing,car,BACKPACKING,premium,open,online,qatar,gold,AISLE,airbnb,s.America,NO,high,comprehensive,Aud,1-2w,8757,18166,9123,14584,6654,12005,5531,"14,939",12773,17078
+2023-05-19,bike,relocation,premium,return,App,lufthansa,platinum,aisle,COUCHSURF,asia,no,Shoulder, comprehensive , Jpy ,1-2w,NA,18221,4003,14238,£17552,6006,£9677,5793,,£13323
+2024-09-03,TRAIN,,economy,ONE-WAY,app, qatar ,Platinum,bulkhead,resort,oceania,No, Low ,basic,GBP,1-2w,5951,£14924,£13460,£11651," 7,368",841,16851,£12182,NA,NA
+16/05/2023,bus,business,FIRST,return,Online, qatar ,GOLD,NaN,resort,africa,NA,,Basic,NaN,3-7d,NaN,574,£11399,-999,£7554,£19372,1394,12480,-999,13948
+2022-09-21,train,relocation,ECONOMY,return,walk-in,NA,gold,window,hostel,Europe,Yes,high,comprehensive,NaN,2-4w,14671,4254,NA,£7209,3970,8215,16855,"11,065",missing,7160
+26/09/2021,car,RELOCATION,premium,one-way,app,Emirates,platinum,WINDOW,couchsurf,S. America,yes,high,comprehensive, jpy ,,18633,12348,£1,"16,520",£10647,12349,13837,12250," 8,260",16589
+"May 06, 2023", boat ,BUSINESS,missing,OPEN,,ba,gold,Aisle,HOSTEL,oceania, yes ,SHOULDER,NaN,eur,>1m,5175,1450,12511,"13,983",£18006,£1641,£12243,£5864,"17,806",NaN
+2022-04-11, train ,study,economy,missing,WALK-IN,easyjet,Bronze,bulkhead,hotel,Africa,no,low,comprehensive,usd,3-7d,"18,890",1006,£18417,16826,"13,497",NA,4937,"10,946",3718," 7,187"
+missing,BIKE,HOLIDAY,premium,Open,WALK-IN,EMIRATES,PLATINUM,MIDDLE,airbnb,oceania,NO,,none,jpy,>1M,£6103,   745,18022,19758,"16,635",£14929,3198,10179,£9911," 2,021"
+21/10/2022,boat,RELOCATION,BUSINESS,return,app,easyjet,bronze,AISLE,airbnb,OCEANIA,NO,Low,basic,jpy,1-2w,£18956,NaN,5002,15141,NA,17381,15174,£7839,8432,£8073
+2021-01-12,Bus,business,Premium,Open,Walk-In,-999,NA,Window,hotel,n._america,yes,shoulder,BASIC,EUR,>1m,1218,7478,missing,"14,098",missing,NaN," 1,999",13553,£2453,"11,522"
+12/08/2024,car,HOLIDAY,premium,return,AGENT,,Bronze,bulkhead,hostel,AFRICA,no,LOW,COMPREHENSIVE,eur,1-2w,£17993,missing," 7,881",7645,-999,"18,945",1091,," 1,820",NaN
+2022-03-13,plane,study,first,One-Way,App,emirates,Bronze,aisle,COUCHSURF, Europe ,no, shoulder ,comprehensive, aud ,1-2w,1628,11344,66,£13262,"19,363",,4476,£5100,NaN,12198
+2022-02-04,plane,holiday,ECONOMY,open,Walk-In,ba,gold,aisle,airbnb,OCEANIA,NO,HIGH,Basic,JPY,1-2w,18495,£1112,10106,-999,18917,13554," 1,380",,5820,13770
+missing,plane,Study, BUSINESS ,Return,walk-In,LUFTHANSA,NA,WINDOW,hotel,oceania,no, Shoulder ,basic,Jpy,1-2w,9791,£844,8035,10591,"18,381","11,797",-999,7727,1273,18110
+27/01/2024,BUS,STUDY,-999,open,agent,easyjet,bronze,Middle,HOTEL,n._america,-999,low,comprehensive,Eur,>1m,£13991,NaN,,£19638,14950,16151,£3120,£10566,19979,11641
+2023-03-13,Train,RELOCATION,first,return,app,NA,gold,aisle,couchsurf,n. america,NO,Low,BASIC,jpy,1-2w,17752,18342,12311,"17,495",11739,-999,17110,19927,9941,missing
+2022-11-06,Boat,,business,return,,easyjet,bronze,aisle,Resort,asia,missing,Shoulder,NONE,Usd,>1m,£5336,11872,NA,1797,19604," 7,663",6777,14420,NaN,15582
+,plane,Backpacking,-999,return,app,Qatar,-999,AISLE,couchsurf,NA,yes,low,,missing,>1m,15114,433,10174,"14,421",£897,£16727,NA,6828,688,£10816
+22/05/2024,plane,relocation,first,RETURN, Agent ,ba,bronze,Middle,couchsurf, asia , no ,LOW,COMPREHENSIVE,,>1m,1351,,£8685," 3,026",£9747,15165,£17648,7292,,NaN
+07/08/2023,bus,business,PREMIUM,open,agent,ba,platinum,aisle, airbnb ,s._america,no,high,NONE, eur ,3-7d,£15206,14224,6795," 8,028",£1077,£17927,16456,£8408," 7,220",£13201
+2023-10-04,train,business,Premium,RETURN,AGENT,Emirates,,Aisle,airbnb,missing,YES,high,basic,missing,,16575,missing,"17,907",11140,£12345,18182,19130,4152," 7,361",NaN
+26/07/2021,missing,study,missing, one-way ,online,LUFTHANSA,NaN,AISLE,AIRBNB,OCEANIA,YES,low,none,Eur,>1m,9382,2288," 8,896","19,239",10025,1744,14786,£10416,16472,8631
+"May 17, 2022",Bike,STUDY,first,Return,agent,qatar,bronze,middle,AIRBNB,Europe,yes,shoulder,NONE,usd,NA,£160,£17393,18745,14951,£14915,2396,NaN,missing,8081,18834
+04/11/2022,car,missing,Business,one-way,App,lufthansa,-999,Window,resort,asia, no ,low,comprehensive,USD,2-4w,£2643,12379,   181," 9,872",19852,1253," 7,243",6863," 8,821",£12718
+03/11/2021,bike,study,first,open,app,qatar,NaN,bulkhead,HOTEL,EUROPE,no,high, BASIC ,aud,2-4w,"10,749"," 2,606",£2665,6505,4005,19427,15411,,£14396," 3,911"
+13/07/2022,car,BACKPACKING,ECONOMY,Open,online,-999,missing,NA,resort,N. AMERICA,no,-999,NA,aud,<3d,1470,4680,11023,3955,7097,3934,17613," 1,231",8018," 3,033"
+2024-02-17,missing,study,first,return,agent,easyjet,Silver,window,resort,asia,no,shoulder,none,jpy,3-7D,4754,4975,9007,NA," 6,168",missing," 4,293",NaN,10462,8456
+12/03/2024, boat ,study,first,one-way,agent,lufthansa,silver,AISLE,RESORT,europe,yes,shoulder,Comprehensive,aud,2-4w,£2589,£7908,7671,2447,17480,6425,18645,missing,£5445,4794
+2022-04-06,bike,business,business,Open,app,emirates,gold,middle, airbnb ,Europe,yes,shoulder,,EUR,2-4w,7042,NaN,12268,12909,10496,14193,660,16068,"17,516",£17171
+2023-05-08,Bus, Event ,first,open, APP ,qatar,silver,NaN,hostel,OCEANIA,no,HIGH,basic,jpy,>1m,15198,5594,11497,3719,1267,£3905,"15,596",692,17291,12993
+2021-08-12,car, BUSINESS ,NA,return,App,LUFTHANSA,gold, MIDDLE ,hotel,n._america,Yes,shoulder,-999, usd ,2-4w,6047,3277,NA,14472,missing,18905,1524,"17,244",6552,7707
+01/04/2022,Train, study ,missing,,app,qatar, silver ,Middle,Couchsurf,africa,no,shoulder,none,EUR,1-2w,2721,16505,8019,£11492,,"10,159",3101,-999,4850,11712
+26/01/2021,BUS,RELOCATION,business,one-way,missing,EMIRATES,gold,window,Hotel,NaN,yes,HIGH,NONE,Jpy,<3D,15767,15791,14832,18158,£7654,301," 5,621",7150,12772," 9,222"
+07/02/2024,boat,HOLIDAY, Economy ,return,ONLINE,EMIRATES,PLATINUM,Window,couchsurf,EUROPE,No,shoulder,comprehensive,Aud,missing,"19,951",19127,10416,3262,7499," 9,650",3619,9848,7350,9134
+20/11/2021,train,business,first,one-way,ONLINE,lufthansa,PLATINUM,window,RESORT,Asia,yes,shoulder,None,aud,2-4W,14575,12781,1332,£15038,3923,£10382,11464," 4,508",8966,7078
+"May 11, 2022",bike,study,-999,one-Way,missing,easyjet,Gold,missing,hotel,N. AMERICA,yes,shoulder,comprehensive,aud, 1-2w ,9844,17888,57,"19,123",14433,missing,10638,2636,19053,2696
+"Jan 23, 2022",car, backpacking ,Premium,open,online,qatar,Platinum,aisle,couchsurf,oceania,no,shoulder,None,GBP,2-4w,15935,5970,£9920,10759,9040,6283,511,£5028,2054,6425
+19/06/2023, Bus ,event,FIRST,open,walk-In,easyjet, Bronze ,middle,hotel,ASIA,yes,SHOULDER,comprehensive,usd,>1M,6006,8233,£19981,18935,£19202,9171,NaN,8057,16596,13927
+16/08/2021,car,EVENT, Premium ,NaN,Agent,missing,BRONZE,bulkhead,AIRBNB,s.America,yes,NA,basic,eur,1-2w,1136,£10474,missing,2460,19382,14668,15898,13987,£2713,11382
+01/04/2023,train,holiday,NA,return,online,NaN, bronze ,missing,couchsurf, s. america ,No,NA,comprehensive,EUR,>1m,18485,2088,missing,£542,," 8,492",4264,£5058,£15762,10024
+15/10/2023,car,BACKPACKING, ECONOMY ,ONE-WAY,agent,Emirates,silver,aisle,RESORT,s._america,No,low,basic,Usd,>1m,£15337,NaN,1986,£11821,-999,NaN,,13007,16954,35
+25/12/2021,car,Holiday, business ,-999,missing,Lufthansa,silver,Bulkhead,couchsurf,europe,YES,missing,BASIC,jpy, <3d ,"13,882",14714,-999,12961,14635,£11325,11383,"19,535",NA,7665
+11/09/2021, boat ,relocation,first,open,walk-in,lufthansa,PLATINUM,BULKHEAD,NaN,s._america,YES,NA,missing, aud ,1-2w," 6,722",2021,9537,4598,14359,15638,3922,16588," 5,830"," 1,557"
+2021-11-01,car,study,premium,open,NA,ba,gold,-999,airbnb, Oceania ,yes,low, BASIC ,usd,3-7D,£2348,12112,15228,10297,17193,£9508,11041,13178,16021,"17,506"
+"Nov 28, 2024",NaN,STUDY,business,Return,walk-in,LUFTHANSA,silver,Middle,resort,europe, yes ,Shoulder,comprehensive,jpy,,18423,7941,"12,502",£12270,NaN,"18,372",2103,15183,£18557,11716
+16/09/2021,bike,event,first,NaN,agent,easyjet,platinum,Aisle,RESORT,africa,no,HIGH,basic,usd,1-2w,5672,missing,11213,£5768,9396,£8908,£8978,16324,£15556,18304
+04/05/2024,train,Holiday,first,One-Way,WALK-IN,lufthansa,gold,bulkhead,airbnb,europe, NO ,High,comprehensive,gbp,2-4w,NaN,7189,7113,12802,£4062," 5,850",£9555,missing,£15795,17083
+,Plane,holiday,,One-Way,app,NA,gold,MIDDLE,hotel,AFRICA,No,shoulder,None,NA,,14679,7626,NA,5408,9689,18661,"16,947",£9982,2274,missing
+2023-07-23,BUS,study,business,OPEN,online,easyjet,gold,,hostel,africa,NaN,high,NONE,Usd,>1M,10653,4008,£14342,10909,4189,," 2,239",7667,9400,10968
+missing,car,relocation,first,open,online,,Silver,BULKHEAD,Resort,S. AMERICA,No,low,Comprehensive,GBP, >1M ,14237," 2,615",NaN,4896," 9,251",,7436,missing,£7919,3914
+28/11/2022, bus , holiday ,ECONOMY,ONE-WAY,ONLINE, BA ,Platinum,window,HOTEL,ASIA,yes,HIGH,basic,aud,missing,"11,565",549,14278,£16320,6785,-999,17997,7716,"13,477",10151
+05/08/2024,BOAT,event,-999,return,walk-in,emirates,Silver, bulkhead ,airbnb, africa ,yes,Low,BASIC,aud,1-2w,7134,15302,NA,16496,£9898,"19,256",5593,NaN,missing,8764
+2021-08-10,CAR,backpacking,ECONOMY,NA,NaN,easyjet,bronze,window,Couchsurf,europe,YES,LOW,none,jpy,missing,-999,14512,£10594,1074,9003," 9,775"," 4,409",£5171,5376,4764
+2024-08-14,missing,,Economy,Return,Agent,BA,bronze,aisle,missing, AFRICA ,yes,shoulder,none,-999,>1m,-999,11674,£19657,£5966,NA,10644,9322,£19808,"17,908",£10355
+2023-08-02,car,STUDY,ECONOMY,open,agent,NaN,Bronze,aisle,Hostel, Oceania ,no,,basic,Usd,2-4w,6671,missing,4845,£1047,857,8224,9813,missing,10395,"16,021"
+30/03/2021,BOAT,relocation,premium,Return,agent,ba,NaN,middle,resort,EUROPE,,high,NA,GBP,3-7d,£5333,1215,15496,14029,19372,£1878,10645,£10743,"19,299",£9572
+05/01/2022,BUS,event,business,open,agent,Qatar,platinum,Aisle, HOSTEL ,-999,NA,High,none, Gbp ,1-2w,£416," 9,829"," 7,238",16548,17912,9855,£11442,£10252,10257,£10869
+2024-05-03, BIKE ,Event,FIRST,one-way,walk-In,BA,Bronze,window,AIRBNB,s. america,NO,shoulder,NONE,eur,2-4w,12676,5086,11000,8462,859,missing," 9,889",NaN,10048,£17113
+01/08/2021,plane,relocation,premium,open,agent,emirates,silver,aisle,hostel, s. america ,No,shoulder,None,Aud,2-4w,6838,12481,£16869,6541,missing,18230,NA,17556," 7,980",12429
+2021-05-11,boat,HOLIDAY,economy,one-way,Online,missing,gold, aisle ,-999,NA,yes,low,comprehensive,GBP,NaN,4730,£18605,10482,£8518,£19922,"12,240"," 1,563",9018,14010,6203
+02/08/2024,boat,NA,ECONOMY,OPEN, app ,QATAR,platinum,BULKHEAD,hotel,S. America,Yes,low,-999,jpy,3-7d,2746,1728,2596,1534,£15814,£19644,1789,6876,£4152,NA
+"Nov 18, 2022",plane,NA,premium,one-way,WALK-IN,lufthansa,platinum, WINDOW ,hotel, Europe ,YES,shoulder,none,USD,>1m,10151,1431," 4,107",missing,£15598,£14914,NaN,19708," 6,159",£18024
+"Dec 04, 2023",Bus,,Business,one-way,walk-in,QATAR,platinum,window,HOSTEL,OCEANIA,yes,SHOULDER,Basic,jpy,1-2w,340,11194,£7859,,£6228,17241,NA,,11394,
+2022-06-25,plane,HOLIDAY,first,open,agent,,GOLD,aisle,AIRBNB,N. America,Yes,high,basic,,1-2w,2857,,£17955,,,15383,4867,11488,10464,349
+2024-08-11,boat,HOLIDAY,Business,return,agent,qatar,platinum,window,NA,asia,No,SHOULDER,basic, eur ,2-4w,,£7363,NA,5324,15375,11419,NA,11614,16237,
+2023-04-27, boat ,missing,Economy,Open,app,qatar, platinum ,bulkhead,Hotel,Europe,no,low,none,AUD,3-7d,2564,-999,£11857,"11,864",missing,11338,13899,,£6063,"16,081"
+21/04/2023,Boat,business, BUSINESS ,ONE-WAY,-999,Lufthansa,gold,BULKHEAD,Hotel, Oceania ,no,shoulder,Comprehensive,usd,>1m,17940,£14485,18870,£9643,£17043,475,£8943,4886,7299,11031
+2021-02-25,train,Study,PREMIUM,,app,missing,bronze,window,hostel,oceania,YES,LOW,COMPREHENSIVE,usd,<3d,5156,4864,4164,2259,19301,-999,£12617,NaN,£4595,NA
+16/07/2023,car,relocation, business ,ONE-WAY, app ,emirates,silver,bulkhead,-999,Europe,NO,shoulder, NONE ,gbp,3-7d,2028,3141,8196,2300,NA,17328,4973,£5560,6717,18040
+2021-07-20,Bus,STUDY,-999,one-Way,online,ba,Platinum,WINDOW,,NaN,YES, low ,NONE,usd,3-7d,1917,£10840,-999,19850,8227,8747,NaN,"13,706",-999,"12,771"
+NaN,boat,BACKPACKING,ECONOMY,return,app,ba,platinum,Aisle,RESORT,EUROPE,no, shoulder ,Comprehensive,EUR, <3d ,£13741,£9559,10566,11283,"11,143",10504,,"12,670",4654," 1,133"
+2023-12-01,Boat,Event,premium,open,agent,BA,Silver,Aisle,resort,oceania,No,shoulder,none,gbp,3-7d,17374,missing,£9016,17605," 2,512",2423,2201,3038,"18,005",5985
+14/07/2024,car,event,NaN,open, walk-In ,ba,gold,Window,COUCHSURF,africa,no, LOW ,COMPREHENSIVE,Usd,3-7D,£8360,"13,473",7335,missing,£3176,17194,£6806,7378," 8,830",£6040
+2024-08-30,CAR,BACKPACKING,PREMIUM,ONE-WAY,ONLINE,,platinum,missing,HOTEL,AFRICA,Yes,high,basic,Aud,NA,   388,13542,£5714,14110,£15322,6552,NA,"19,671",NaN,£19041
+22/11/2022,car,holiday,ECONOMY,one-way,NA,emirates,silver,Bulkhead,HOSTEL, N. AMERICA ,YES,missing,,Gbp,3-7d,4517,£15606,£17362,6266,15278,"16,461",7671,"13,244",1878,missing
+17/09/2024,car,Event,Premium,ONE-WAY,-999,ba,NaN,NaN,airbnb,OCEANIA, yes ,Shoulder,Comprehensive, gbp ,2-4W,14491,£17253,£8563,£19252,11113,NA,9818,1047,15022,
+2023-01-28,Bus,holiday,economy,open,online,lufthansa,bronze,Window,COUCHSURF,europe,NO,Low,basic,EUR,>1m,3751,£13631,NaN,2592,"15,526",16615,-999,16068,8661,17812
+21/04/2022,CAR,holiday,premium,NA,online,qatar,GOLD,MIDDLE,COUCHSURF,AFRICA,No,, BASIC ,gbp,2-4w,£5840,19421,15529,1349," 4,783"," 1,464","14,365",13651," 3,425",4358
+21/10/2021, TRAIN ,Relocation,Economy,ONE-WAY,ONLINE,qatar,-999,window,Hostel,missing,no,shoulder,basic,jpy,1-2w,9865,11922,-999,8223,,,13627,10152,£14065,13757
+10/09/2022, Bus ,missing,premium,return,online,Easyjet,gold,bulkhead,hotel,,NA,shoulder,Comprehensive,Gbp,>1m,2008,14770,NA,18362,"10,216",8305,13883,£3193,missing,£163
+2022-09-06,bus,holiday,first,Return,missing,easyjet,GOLD,NA,hostel,asia,missing,shoulder, Basic ,Eur,1-2w,£18142,8714,1728,10141,"13,292",16030,7149,6961," 7,461",£12336
+17/06/2023,Boat,business, premium ,-999,app,qatar,gold,Bulkhead,HOTEL,Oceania,NA,high,None,NA,>1m,17126,9674,£17623,NA,£7728,9892,£14572,"14,852",£10796,£11936
+10/03/2022, train ,relocation,economy,open,app,emirates,bronze,AISLE,Airbnb,s._america,no,Shoulder,None,eur,<3d,£15779,"12,368",12514,"11,230",7322,7614,missing,18659,1543,£14768
+2022-05-16, plane , backpacking ,Business,missing,-999,Lufthansa,Bronze,window,hotel,oceania,no,shoulder,BASIC, usd ,2-4w,missing,£6907,15280,6978,1842,16984,13790,9212,£4764,8420
+2023-10-11,missing,event,BUSINESS,NaN,NaN,Easyjet,Gold,window,hotel,asia,no,shoulder,BASIC,aud,>1m,10812,1177,1776,17442,8541,£6505,,16041,£3928," 2,991"
+17/01/2021,Car,BUSINESS,BUSINESS,Return,online,easyjet,gold, bulkhead ,Resort,oceania,no,low,COMPREHENSIVE,jpy,>1m,NA,NaN,NA,"13,804",£17445,"11,285",17981,"16,041",15098,6566
+2022-11-24,CAR,relocation,first,,online,EMIRATES,platinum,aisle,,Africa,NA,shoulder,basic,Usd,>1m,,17700,3531,£15349,£19530,7082,-999,NA,4305,17136
+26/11/2023,-999, relocation ,Premium,return,online,ba,bronze,missing,airbnb,S. AMERICA, Yes ,shoulder,basic,EUR,3-7d,8568,18392,814,13896,£7500,4228,£11544,10641,18796,NA
+2021-12-09,boat,business,economy,return,ONLINE,EMIRATES,GOLD,missing, resort ,europe,NO,shoulder,basic,Usd,<3d,19137,8020,"10,120",,6106,5223,£350,£17882,£19314,1903
+19/08/2021,,backpacking,PREMIUM,RETURN,agent,qatar,GOLD, aisle ,HOTEL,asia,yes,HIGH,basic,EUR,<3d,9222,605,9593," 2,560",,£16375,NaN,4323,£6898,19234
+26/09/2024,bike,missing,First,open, Walk-In ,emirates,NA,MIDDLE,resort,s._america,YES,low,Basic,Eur,<3D,4662,12546,14873,13809,£16459,14513,NaN,missing,-999,£19828
+23/04/2023,TRAIN,BUSINESS,First,open,APP,EMIRATES,Silver,window,AIRBNB,S. America,YES,shoulder,Comprehensive,eur, 1-2W ,£5913,15779,10054,," 9,825",£7202,missing," 2,635",7879,7507
+13/08/2021,BIKE,Event,ECONOMY,return,online,Emirates,Silver,-999,Couchsurf,AFRICA,NO,-999,COMPREHENSIVE, USD ,1-2w,£12188,NaN,15005,NaN,9279,missing,1539,£8593,£18804,"17,457"
+,boat,holiday,business,return,Online,easyjet,gold,Middle,couchsurf,n._america, no ,-999,Basic,jpy,2-4w,-999,,NaN," 6,827",17441,8295,11124,12082,4013,-999
+18/09/2024,train,backpacking,first,OPEN,App,QATAR,BRONZE,NA,airbnb,s. america,no,high,-999,Jpy,2-4w,NA,£14475,£8499,   763,missing,NaN,£921,£7001,"13,077",2404
+28/06/2024,Train,Backpacking,BUSINESS,One-Way,app,ba,bronze,bulkhead,hotel,oceania,YES,low,Basic, usd ,1-2W,15409,8181,£10904,17440,1591,1184,   626,-999,1304,4034
+2024-02-28,bike,Holiday,premium,Open,walk-in,qatar,-999,middle,,-999,YES,NaN,BASIC,AUD,3-7d,3512,missing,7288," 1,329",8081,1888,NA,18663,12855,726
+2024-09-19,bike,holiday,first,one-way, AGENT ,ba,BRONZE,window,airbnb,africa,no,SHOULDER,none,JPY,3-7d,19070,2508,£18696,19515,11969,13771,11284,-999,missing,4899
+"Sep 29, 2021",BIKE,business,first,return,APP,NaN,platinum,window, HOSTEL ,s. america,no,shoulder,none,GBP,<3d,£4603,"11,489",£6911,6726,5520,5357,13160,4216,5643,16558
+04/11/2023,plane,EVENT, premium ,-999,online,Easyjet, Silver , Aisle ,couchsurf,Africa,NaN,Low,basic,Eur,3-7d,5701,£8044,625,8776,16281,16409,17868,£14566,12089,7315
+"Aug 12, 2022",train,holiday,-999,one-way,app, qatar ,gold,aisle,resort,oceania,no,high,basic,eur,1-2w,-999,,15110,11733,£9588,4411," 9,297",7028," 2,644",4512
+2024-11-23,CAR,business,premium,open,WALK-IN,Emirates,-999,aisle,Hostel,Oceania,yes,SHOULDER,, usd ,3-7d," 6,684",14387,13389,12733,£12246,NA,15921,£10518,12462,11172
+2022-11-21,,business,first,NaN,App,BA, BRONZE ,,Airbnb,-999,YES,Shoulder,comprehensive,JPY,3-7d,7568,£10787,£1540,19339,2606,12058,,18864,16237,369
+2024-10-26,bike,NaN,ECONOMY,-999,online,easyjet,GOLD,middle,airbnb,europe,no,Shoulder,basic,Usd,,£18123,17048,"15,790",,11870,10352,£4763,£7057,7522,£17678
+22/02/2022,plane,RELOCATION,First,-999,App,Qatar,Gold,Window,RESORT,asia,,High,comprehensive,usd,<3d,13179,4415,£8568,"13,289","11,005",NaN,,3226,£19194,3047
+2022-06-11,bike,study,premium,open,app, qatar ,bronze,BULKHEAD,couchsurf,africa,no,high,comprehensive,Gbp,1-2w,8759,NA,NaN,4437,," 4,432",7101,3769,£3313," 8,108"
+2021-03-24, bike ,EVENT,premium,open,walk-in,Easyjet, PLATINUM ,NA,Hostel,N. America,NO,LOW,none,Aud,3-7D,NaN,19428,1077,NaN,,3525," 1,807",£7203,£14434,
+08/07/2021,boat,holiday,economy, ONE-WAY ,agent,ba,bronze,-999,RESORT,S. AMERICA,YES,shoulder,comprehensive,gbp,>1m,£8897,7505,113,£5525,£18997,7060,12036,18243,7714,10993
+2024-03-08,BOAT, event ,economy,RETURN,walk-in,qatar,gold,NA,NA,missing,No,shoulder,-999,-999,<3d,"14,051",4828,511,14461,£285,12711,17001,17272,6322,NaN
+-999,CAR,NA,first,return,,qatar,platinum,aisle,airbnb,n._america,NaN,,basic,gbp,<3d," 6,256",19532,13681,6163,8183,3126,19497,13884,"11,428"," 4,735"
+2022-08-24,Bike,Holiday,premium,open,online,lufthansa,bronze,-999,couchsurf,europe,yes,low,BASIC,Jpy,3-7d,missing,19992,231,6427,5355,19470," 4,806",£11912,13779," 3,959"
+"Dec 10, 2023", BUS ,Relocation,premium,Return,walk-in,lufthansa,SILVER, MIDDLE ,airbnb,ASIA,no,Shoulder, basic ,Jpy,1-2w,£9517,12510,10720,-999,missing,14816,19323,"13,034",5877,"15,565"
+2024-05-20,Bike,Backpacking,FIRST,Open,Agent,ba,bronze,Bulkhead,HOTEL,NA,NA,shoulder,Comprehensive,aud, <3D ,4628,3,15052,301,8644," 7,966",NA,"18,217",,"17,632"
+2022-06-03,boat,Holiday,Business,,Agent,emirates,platinum,MIDDLE,HOSTEL,NaN, no ,low,none,jpy,3-7d,-999,£9792,9562,6981,9651,18302,NaN,11051,£1353,7985
+08/09/2023,bus,-999,economy,one-way,walk-in,qatar,BRONZE,bulkhead,hostel,oceania,yes,SHOULDER,basic,GBP, 3-7d ,17938," 9,105",,,7149,19431,6021," 5,578",16823,missing
+"Dec 05, 2021",train,business,premium,one-Way,missing,Emirates,gold,middle,HOSTEL,OCEANIA,no,Shoulder,none,aud,,13356,NA,6882,3535,"17,480",15689," 5,737",6963,£8402,
+2022-02-03,Bus,study,first,one-way,NA,QATAR,Gold,aisle,-999,n.America,no,shoulder,none,gbp,1-2w,9986,12454,£11451,£1842,£15042,4689,NA,18726,2081,16779
+2022-11-03,plane,business,ECONOMY,one-way,walk-In,QATAR,Bronze,middle,HOTEL,europe,No,Shoulder,comprehensive,EUR,3-7d,19056,£17360,2814,"19,629",NaN,"18,428",18995,"10,698"," 3,060",12458
+2024-03-13, bike ,Study,First,return,online,easyjet,silver,bulkhead,couchsurf,AFRICA,NO,low,missing,Gbp,2-4W,423,£9512,9630,£9518,9443,£15558,11118,£16207,7983,£9932
+02/10/2024,Bike,BACKPACKING,PREMIUM,Return,Agent,lufthansa,BRONZE,window,hostel,AFRICA,yes,high,basic,gbp,>1M,   456,840,3362,12468,19404,£18145,£9006,15208,3266,"12,125"
+2024-10-25,NA,Business,business,open,NaN,lufthansa,bronze,MIDDLE,hotel,oceania,no,Low,none,jpy,-999,,£405,3683,6133,2119,£715,18624,16616,17055,14685
+2024-05-31,boat,-999,first, one-way ,walk-in,qatar, Silver ,bulkhead,missing,S. America,missing,SHOULDER,Basic,eur,>1m,9890,14513,£15697,£350," 1,673",9116,-999,"14,690",7580,10371
+07/06/2021,boat,business,economy,open,missing,ba,platinum,Bulkhead, AIRBNB ,OCEANIA,yes, shoulder , Comprehensive ,,2-4w,14895,2400,-999,missing,£11927,7289,£7744,15984,11019,14274
+20/03/2023,Car,missing,PREMIUM,return,online,-999,BRONZE,,resort,asia,,low,comprehensive,AUD,1-2w,7289,3097,NA,£1327,17255,18299,19957,£4639,NaN,14783
+,bus,Study,business,-999,online,qatar,GOLD,aisle,Hostel,Asia,NA,HIGH,basic,GBP, 2-4w ,2448,13734,,13491,3002,£19189,9424,£16181,5761,628
+2023-07-30,PLANE,Business,BUSINESS,,App,,Gold,aisle,NA,S. AMERICA,NaN,low,none,AUD,<3d,15333,"12,244","13,622",15733,10636,16891,52,18257,14224,3958
+2023-08-18, Bus ,backpacking,first,NA,ONLINE,qatar, Bronze ,WINDOW,Couchsurf, N. America ,YES,low,NONE,usd,<3d,"12,937",12424," 3,346",3685,13333,18396,NA,18478,£4345,-999
+19/11/2021,car,relocation,, return ,agent,easyjet,Silver, aisle ,airbnb,africa,No,shoulder,Comprehensive,eur,>1M,NaN,19436,6732," 1,723"," 9,710",12564,12817,4037,2370,£10976
+2021-02-18,boat,-999,Premium,one-way, App ,,bronze,-999,Hotel,N. America,NO, low ,NA,jpy, 1-2w ,6115,£2886,11551," 6,081",£3191,£9728,NaN,7496,£11330,5600
+02/05/2024,Plane,study,economy,one-Way,AGENT,qatar,PLATINUM,middle,resort,asia,YES,low,none,EUR,3-7d,656," 4,862",7749,5262,£1987,8240," 2,783",missing,14407,£18446
+08/05/2021,bus,BUSINESS,NaN,RETURN,online,emirates,Gold,AISLE, resort ,-999,YES,high,comprehensive,,NaN,7666,2609,17528,2942,13042,£8673,"10,089",NaN,9503,10980
+11/10/2024,Bus,backpacking,business,One-Way,Walk-In, qatar ,BRONZE,middle,hotel, Africa , no ,low,Basic,AUD,>1m,14110,-999,18174,£19540,,16620,6430,18068,"17,050",13095
+2023-08-23,PLANE,Study,economy,return,Online,,BRONZE,missing,Hotel,EUROPE,YES,shoulder,NONE,Usd,>1m,389,£13812,"10,595",NA,£3395,17483,NaN,£9503,12633,
+10/12/2024,-999,backpacking,BUSINESS,return,Online,Ba,missing,window,,Asia,no,low,NaN,eur,1-2w,5109,£16470,£5755,£4596,6613,£5737,10455,£12363," 6,633",missing
+2022-08-19,bike,relocation,Economy,open,walk-in,emirates,PLATINUM,missing,Hotel,africa,yes,low,COMPREHENSIVE,EUR,2-4W,NaN,£17202,15545,17940,18188,£18432,"19,589",13685,4660,4498
+2023-06-06,Train,STUDY,ECONOMY,ONE-WAY,WALK-IN,EASYJET,BRONZE,bulkhead,-999,,no,Shoulder,comprehensive,NA,>1m,7518,£11586,9417,15549,-999,5879,£4020,2225,15149,
+,bike,backpacking, economy , open ,-999,qatar,BRONZE,middle,NaN,s._america,yes,shoulder,BASIC,usd,2-4w,13729,2676,18464,1560,17133,12495,"19,473",£17115,4382,47
+2023-07-30,TRAIN,NaN,PREMIUM,ONE-WAY,Agent,lufthansa,gold,-999,couchsurf,africa,No,HIGH,none,NaN,>1m," 4,451",missing,14580,15083,   581,£19963,3809,£18313,5527,£17569
+-999,bus,Study,NaN,One-Way,-999,LUFTHANSA, silver ,bulkhead,AIRBNB,s._america,no,high,comprehensive,jpy,2-4w,9973,13167,3128,2083,16923,6025,12374,missing,13497,9574
+2024-11-14,Plane,event,,open,walk-in,qatar,gold,NaN,Resort, AFRICA ,yes,HIGH,comprehensive,GBP,1-2w,NA,18458,"11,708"," 1,239",17207," 3,016",19881," 9,664","12,748",
+2023-12-23,train,RELOCATION,Economy,return,walk-in,LUFTHANSA,BRONZE,window,Hostel,oceania, YES ,high,Basic,JPY, 2-4w ,NaN,missing,13925,£3015,£15734,NaN,9629,11424,16860,12248
+2023-07-08,plane,relocation,Premium,Return,agent,EASYJET,Bronze,Aisle, AIRBNB ,europe,YES,low,Comprehensive,usd,-999,9917,12140,missing,12385,NaN,,,9253," 6,450",£14565
+"Aug 28, 2021",NaN,Study,first,ONE-WAY,online,easyjet,Bronze, bulkhead ,Hostel,europe,YES,low,Comprehensive,Gbp,1-2w,6560,NA,7360,582,16999,4973,£12375,15838,515,18700
+2023-06-16,boat,study,first,open,online,,GOLD,window,NaN,Oceania,NO,low,basic,-999,NaN,15069,11690,63,-999,£4099,£15919,   749,missing,"16,089",5030
+13/10/2022,CAR,NA,business,ONE-WAY,agent,EASYJET,platinum,Aisle,hotel,asia,no, LOW ,none, gbp ,>1m,2717,£19158," 1,741",,9374,NaN,14253," 5,771",,8119
+2021-09-17,bike,business,first,OPEN,agent,Qatar,GOLD,window,hotel, Oceania ,NaN,HIGH,None, Aud , 3-7d ," 4,734",19680,7858,19975,£4732,-999,£7333,£3586,11395,17307
+28/04/2023,PLANE,business,ECONOMY,one-way,agent,emirates,silver, aisle ,hostel,asia,YES,,none,Eur,2-4W,£18664,14676,£17431,£18203,NA,14674,11442,£3786,£2403,1628
+2024-11-04,train,RELOCATION,economy,open,AGENT,EMIRATES,BRONZE,bulkhead,airbnb,oceania,-999,SHOULDER,Basic,Aud,2-4W,4234,6181,5961,£7035,4967,19633,£14971,missing,2843,
+18/05/2022,NA, Backpacking ,NA,one-way,Walk-In,QATAR,silver,Aisle,Hotel,EUROPE,no,low,-999,AUD,1-2w,4272,3601,£3473,1003,8690,3362,,£8784,"19,735",9105
+30/03/2022,train,BACKPACKING,first,NaN,walk-In,Qatar,platinum,middle,NA,Europe,NA,shoulder,comprehensive,usd,1-2w,11800,NA,11612,£9794,17385,£3012,19385,14615,£6545,1787
+08/03/2024,,event,NaN,OPEN,agent,qatar,bronze,aisle,resort,Africa,Yes,SHOULDER,Basic,AUD,1-2w,19885,9339,1060,-999,£10947,NA,£13660,£9756,9525,£14595
+2024-11-08,CAR,relocation,premium,return,app,lufthansa, Silver , AISLE ,-999,S. AMERICA,yes,high,basic,eur, 3-7d ,"15,100",,3739,2656,9830,£4089,,1267,10060,17231
+2022-02-21,bike, Business ,FIRST,one-Way,app,lufthansa,bronze,aisle,couchsurf,africa,NO,high,none,Usd,<3d,1911,18520,£9964,7182,£13232,17394,£19523,missing,"19,469",3159
+2021-10-09,NaN,HOLIDAY,business,missing,online,emirates,silver,Window,hostel,AFRICA,yes,-999,Basic,Usd,1-2W,3661,13529,,13727,16943,£5682,£18302,3628,13086,18989
+2023-08-11, train ,BACKPACKING,missing,return,app,easyjet,gold,Middle,Airbnb, OCEANIA ,NA,Low,missing,aud,3-7d,,17745,3382,9952,4737,11050,£12993,NA,961,18546
+30/03/2021,bike,EVENT,first, return ,APP,Ba,Silver,missing, Hostel ,N. AMERICA,YES,high,comprehensive,jpy,missing," 1,606",4266,-999,£11328,4768,,19206,"17,873",-999,£18366
+2023-07-07,plane,business,premium,one-Way, Walk-In ,Ba,platinum,window,airbnb,n. america,NaN,NaN,NONE,eur,>1m,10552,14176,£7788,NaN,£16414,17366," 4,479","16,541",£6885,8403
+2021-12-16,plane,backpacking,economy,OPEN,app,Ba, bronze ,middle,couchsurf,asia,no,shoulder,COMPREHENSIVE,aud,3-7d,14195,,8575,£11138,6627,6995,"12,340",15281,14013,£5707
+16/06/2022,plane,relocation,premium,,agent,lufthansa,Bronze,aisle,Airbnb,S. AMERICA,yes,High,none,gbp,2-4W," 4,156",NaN,£2870,1873,9107," 5,505",12487,£12464,NA,16493
+17/06/2022,plane,STUDY,ECONOMY,open,walk-in,easyjet,silver,bulkhead,hotel,s.America,no,shoulder,basic,NA,2-4w,9744,£6251,12451,15169,8125,18979,733,missing,16250,3764
+"Sep 24, 2021",train,HOLIDAY,first,return,online,QATAR,gold,aisle,, europe ,no,SHOULDER,basic,aud,3-7D,NaN,NaN,"18,766",£10400,£857,£18886," 2,012",10621,18151,
+2022-06-18, car ,Relocation,PREMIUM,one-Way,app,easyjet,platinum,-999,Hotel,Oceania,No,SHOULDER,comprehensive,EUR,3-7D,£14785,£3303,6652,9208,12583,2520,11687,NA,10899,£6849
+18/07/2021,Car,relocation,premium,open,Online,emirates,gold,aisle,NaN,africa,yes,shoulder,NONE,JPY,2-4W,2628,£18709,NaN,1897,£11593,£3114,12611,"11,730",141,£4050
+29/07/2024,CAR,business,First,one-way,APP,BA,NA,window,HOTEL, Asia ,no,High,none,Usd,missing,6537,14415,£3880,missing,"19,170",£19547,12842,missing,NA,£19398
+21/10/2024,plane,relocation,Economy,open,,ba,missing,Bulkhead,HOTEL,n.America,yes, high ,BASIC,usd,3-7D,-999,missing," 2,423",10695,3013,19845,£13349,13105,1266,11056
+07/03/2022,train,event,economy,one-Way,online,ba,GOLD,aisle,airbnb,ASIA,yes,shoulder,NONE, jpy , 1-2w ," 7,702",3737,15544,NA,18304,8054,14773,12435,19124," 6,015"
+30/01/2021,boat,backpacking,FIRST,ONE-WAY,Agent,missing,Bronze,window,hotel,asia,Yes,NA,comprehensive, USD ,3-7d,6537,2023,8218," 9,820",-999,"10,922",13669,NA,3298,£1364
+2022-02-12,car,holiday,Economy, RETURN ,walk-in,lufthansa,silver,Bulkhead,hostel,N. AMERICA,no,Shoulder,None,usd,,NaN,10268," 2,680",£19139,"17,512",£1330,5447,£15739,15590,14330
+"Aug 23, 2024",plane,RELOCATION,first,open,app,EMIRATES,bronze,AISLE,resort,S. America,yes,high,NONE,usd,2-4w,1879,,8783,"11,547",£4098,13819,1361,missing,,14411
+"May 23, 2022",BOAT,Event,PREMIUM,open,walk-In,BA,gold,-999,COUCHSURF,oceania,Yes,-999,BASIC,gbp,2-4w,4838,2923,9075,11491,3097,missing,missing,5030,16370,
+02/05/2022,bus, relocation ,economy,return, ONLINE ,Easyjet,Platinum,aisle,COUCHSURF,oceania,No,shoulder,COMPREHENSIVE,NA,3-7d," 9,893",3743,4726,6467,-999,5495,"18,703",7883,,5055
+26/07/2024,TRAIN,Event,premium,return,agent,EMIRATES,platinum,Aisle,HOTEL,asia,no,shoulder,BASIC,eur,>1m,6823,2514,£18812,16243,7487,3310,£5444,3822,2864,missing
+2021-04-30,car,Backpacking,first,one-way,NaN, Lufthansa ,gold,aisle,hostel,asia,no,Shoulder,comprehensive,EUR,1-2w,6441," 8,424",235,6099,382,19996,7193,7150,£17742,7959
+2021-05-24,train,NaN,business,return,Walk-In, LUFTHANSA ,PLATINUM,window,HOTEL,oceania,YES,Shoulder,-999,Usd,<3d,"16,804"," 4,846",-999,5861,10405,15368,19430," 3,792",NA,£6595
+26/08/2024, BIKE , backpacking ,Business,one-way,Walk-In,-999,silver,Middle,resort,EUROPE,yes,low,Comprehensive,,>1m,17599,9503,11602,18697,£14195,16650,£2720,"18,796",-999,14732
+2022-06-09,NA,business,business,return,Online,Easyjet,gold, Middle ,resort,europe,yes,missing,None,EUR,2-4w,12580,17799,1381,,10783," 5,315",13998,,£1796,8667
+2021-11-10,BIKE,Backpacking,business,one-way,ONLINE,LUFTHANSA,silver,missing,AIRBNB,N. America,Yes,NA,none, gbp ,>1M,NA,4107,£19351,£11539,15039," 1,492",654,18038,missing,£4289
+15/10/2023,missing,Business,first,one-way,WALK-IN,easyjet,gold,Window,RESORT,NA,yes,shoulder,missing,jpy,missing,2930,12711,2036,3479,16237,4737,-999,"17,828",4119,18650
+"Nov 24, 2021",-999,missing,economy,ONE-WAY,AGENT,EASYJET,gold,Window,hostel,S. America,Yes,high,none,jpy,3-7d,18874,3235,,5021,17626,9153,6790,11092,18899,1571
+2022-11-16,BIKE,STUDY,premium,return,app,easyjet, platinum ,aisle,HOSTEL,S. America,yes,Shoulder,COMPREHENSIVE, jpy , 2-4W ,16396,3344,1241,14529,"15,792",NA,816,205,"13,075",£1178
+05/11/2021,-999,BUSINESS,Economy,One-Way,app,Lufthansa,silver,Bulkhead,hotel,oceania,Yes,high,basic,missing,>1m,   966,"19,637",16982,missing,17708,5987," 6,628",14834,NA,£1731
+2021-01-15,bus,NA,PREMIUM,ONE-WAY,agent,easyjet, bronze ,,airbnb,ASIA,-999,Shoulder,none,jpy,3-7d,NA,10899,97,17845,6083,886,NA,3692,16331,5243
+29/11/2022,train,Event,premium,Return,NA,easyjet,bronze,bulkhead,NaN,oceania,Yes,shoulder,Basic,eur, 3-7d ,11566,19373,£16485,11315,11316,13750,330,15017,13924,2510
+missing,boat,holiday,premium,one-way,Agent,easyjet,Platinum,bulkhead,resort,s. america,no,high,none,EUR,1-2w,-999,16240,£8741," 3,254",£12653,"19,480",NA,2611,7786,12010
+22/01/2021,Boat,HOLIDAY,premium, open ,Walk-In,qatar,bronze,bulkhead,hostel,Africa, yes ,shoulder,None,gbp,<3d,18207,,,,8275,5165,11897," 6,011",£13270,£1074
+"Aug 27, 2023",car,event,first, open ,walk-In,ba,,missing,hostel, europe ,Yes, SHOULDER ,comprehensive,gbp,2-4w,16020,£12191,£11943,£3444,1957,3931,12739,1133,18855,£10767
+2021-04-09,BIKE,NA, FIRST ,missing,Online,Lufthansa, PLATINUM ,aisle,hotel,s._america,no,shoulder,Basic,EUR,missing,"10,401",3812,   310,NA,15077,£13516,12114,£13408," 7,862",12517
+02/05/2022,train,Holiday,economy,NaN,online,QATAR,NA,,HOTEL,S. AMERICA,yes,low,,jpy,>1m,£10220,15539,14596,2874," 1,611",9163,4734,2538,7712," 4,255"
+18/05/2022,car,holiday,premium,open,AGENT,qatar,-999,NaN,HOSTEL,asia,yes,low,Comprehensive,NaN,>1M,,3742,£12677," 3,430",3578,7092,743," 4,303",-999,5685
+2024-09-27,Bike,business,economy,return,agent,emirates,GOLD,window,resort,EUROPE,No,low,none,NaN,>1m,14168,"14,255",16361,4121,19313,3298,6773,8140,NA,£17007
+"Jun 03, 2022",bike,backpacking,business,return,agent,qatar, platinum ,Aisle,Hostel,oceania, YES ,High,basic,USD,>1m,-999,,19020,18814,£1233,2568," 1,865","11,925",2509," 9,332"
+23/02/2021,car,event, economy ,Return,WALK-IN,Qatar, BRONZE ,Window,Airbnb,N. AMERICA,-999,Shoulder,NONE,Usd,<3d," 6,317",8083,£10349,6451,"16,262","13,015",,12016,12158,3157
+13/04/2022,Boat,study,-999,Open, walk-in ,qatar,gold,-999,airbnb,africa,YES,HIGH,comprehensive,aud,NA,£11439,4950," 5,848",684,-999,£5396,£1198,17266,£16341," 2,717"
+,plane,business,Economy,NA,Online,NaN,platinum,-999,hotel,n._america, no ,Low,basic,aud,1-2w,8212,5173,17525,2512,£4418,"17,389",5054,6327,NaN,3500
+"Jul 14, 2022",Train,business,FIRST,Open,walk-in,easyjet,NA, bulkhead ,RESORT,europe,NA,High,Comprehensive,Usd, 1-2w ," 4,079",6196,4233," 4,403","12,719","14,923",13384,£12182,missing,11478
+2022-09-05,train,NA,first,ONE-WAY,online,ba,silver,NaN,hotel,S. AMERICA,no,high,basic,aud,<3D,"16,836",,3008,15948,,NaN,12647,-999,375,17489
+07/03/2021,-999, RELOCATION ,Business,NaN,App, EASYJET ,NaN,AISLE,HOSTEL,-999,NO,high,comprehensive,usd,<3d,1400,5852,16557,£1762,1591,13200,9198,19020,£8719,14629
+"Apr 15, 2023",car, holiday ,ECONOMY,one-Way,app,Qatar,GOLD,bulkhead,missing,Europe,yes,low,basic,eur,1-2w," 3,182",17055," 3,273"," 4,059",£19281,,10288,£4502,missing,15244
+"Oct 09, 2024",train,event,-999,open, ONLINE ,emirates,GOLD,window,hostel,asia,NaN,shoulder,NONE,usd,3-7D,19599,10073,£17610,5280,13505,8047,18558,"17,266",,12615
+24/06/2021,car,Business,business,ONE-WAY, app ,qatar,BRONZE,AISLE,airbnb,N. AMERICA,NO,low,basic,jpy,<3d,2342," 5,550",1296," 9,502",9592,3322,3508," 6,930",8696,"10,900"
+17/02/2024,bus,backpacking,BUSINESS,open,agent,easyjet,bronze,bulkhead,hotel,oceania,NA,Low,,Gbp,2-4W,12147,11849,13035,16922,NA,18329,17616,15609,£4207,£12507
+2024-12-12,plane,Event, premium ,one-way,WALK-IN,lufthansa,BRONZE,Bulkhead,,s._america,-999,High,comprehensive,JPY,3-7d," 3,193","10,330",-999,-999,2577,18119,8922,2892,6392,11779
+2024-01-07,missing,backpacking,missing,ONE-WAY,ONLINE, Easyjet ,Gold,Middle,hotel,oceania,missing,Low,none, jpy ,>1m,£16425,15970,£18975,19525,12790,2912,,£7719,7477,364
+2023-06-02,BOAT,business,premium,open,Online,,Gold,window,NaN,NaN,no,NA,comprehensive,aud,1-2w,1880,11520," 9,023"," 5,348",19019,16452,9613,3138,10686,-999
+22/06/2022,bus,study,missing,Return,online,lufthansa, gold ,WINDOW,airbnb,ASIA,yes,Low,basic,JPY,>1m,13215,"13,544",6754,18217,14174,NaN," 9,489","19,214",9517,missing
+2021-01-14,car,backpacking, premium ,Return,Online,emirates,gold,NaN,couchsurf,s.America,NO, shoulder ,basic,NA,3-7d,17995,925," 6,723",12125,15899,19262,£7616,8898,£8308,14198
+2024-08-27,car,backpacking,first, open ,WALK-IN,Easyjet,GOLD,Middle,RESORT,oceania,Yes,HIGH,basic,usd,>1m,2514,10403,1578,£14335,4272,7423,£6783,16228,"17,176",14191
+15/11/2022, Bike ,BACKPACKING,NaN,one-Way,ONLINE,BA,silver,bulkhead,resort,S. America,yes,HIGH,basic,usd,2-4w,missing,£16865,3709,NaN,£2301,," 8,737",2635,£19909,£10138
+2022-09-02,Boat,backpacking, premium ,RETURN,online,QATAR,Silver,Window,NaN,s._america, Yes ,high,Basic, eur ,1-2W,9633,£17667,194,10475,"18,930",£12657,6120,£1928,12590,799
+"Jan 13, 2024",BUS,HOLIDAY,premium,RETURN,walk-In,QATAR,platinum, MIDDLE ,hostel, asia ,Yes,Low, BASIC ,USD,3-7d,NaN,NaN,£16092,8537,"18,961",£6761,£9057,17173,£19141,10358
+2022-12-17,TRAIN, study , first ,-999,Walk-In,EMIRATES,silver,aisle,resort,n. america,YES,HIGH,NONE,aud,2-4w,2407,17851,"10,005",832,11165,10831,missing,12146,"10,181",missing
+05/03/2024,CAR,Relocation,first,one-way,-999,BA,NA,aisle,Airbnb,africa,No,Shoulder,none,AUD,NaN,-999,6455,£792,£12155,£9189,11979,11905,5744,£121,£6481
+08/09/2021,car,business,ECONOMY,Open,app,lufthansa,silver,window,COUCHSURF,Oceania,yes, low ,Comprehensive,aud,3-7d,3329,19241,NA,16994," 8,866",17652,9473,1679,"17,568",11772
+"May 17, 2021",BUS,missing,business,open,App,Easyjet, silver , window ,-999, europe ,yes,shoulder,comprehensive,jpy,2-4W,£8821,8909," 8,762",£8414,£7994,7518,11586,NaN,,8678
+"Feb 23, 2022",plane,Backpacking,FIRST,return,ONLINE,emirates,GOLD, middle ,NA,s._america,yes,low,basic,jpy,>1m,£3720," 9,400",16079,£19153,-999,,10377,10377,"14,104",7017
+2021-08-27,boat,BUSINESS,Business,One-Way,App,NA,bronze,aisle, airbnb , OCEANIA ,Yes,low,basic,gbp,>1m,906,16907,9145,833,17818,NaN,13913,5272,18996,14377
+05/07/2024,-999, EVENT ,missing,,app,qatar,platinum,missing,Resort,s. america, no ,low,comprehensive,eur,>1M,7267,19771,NaN,7308,10144,19411,"17,437",7205,17412,
+2023-07-23,PLANE,Backpacking, premium ,open, agent , LUFTHANSA ,BRONZE,bulkhead,Resort, europe ,yes,missing, none ,usd,<3d,NaN,,8985,6638,3409,,6296,NA,£7982," 2,539"
+21/08/2023,PLANE,holiday,First,open,,BA,gold,BULKHEAD,Couchsurf,S. America,No,low,none,gbp,2-4W,4655,"18,285",13142,NA,£3729,14974,£13199,NaN,10340,£6047
+11/03/2023,BIKE, relocation , premium ,return,AGENT,Easyjet,,bulkhead,Hostel,africa, NO ,SHOULDER,Basic,Eur,<3d,,19573,14285,£9063,£19716,10119,-999,£17966," 3,282",8779
+11/05/2024,bus,backpacking,missing,open,missing,NA,Platinum,window,resort,-999,No,High,NONE,usd,<3d,61,NaN,5617,5713,"16,075",1145,17733,missing,2137,8590
+2023-08-03, BUS ,backpacking,economy,missing, app ,ba,missing,missing,hostel,asia,,low,none,EUR,>1m,15593,4961,"19,599",missing," 4,340",14559,NA,1221,2841,NA
+02/11/2022,train,Holiday, economy ,Open,NA,lufthansa,PLATINUM,window,HOSTEL,s. america,no,High,Comprehensive,Gbp,<3d,19136,9709,13107,13858,5973,11904,10801,11288,1448,3553
+25/12/2024,Boat,NaN,business,-999,Online, LUFTHANSA ,platinum,Bulkhead,Hostel,n. america,YES,shoulder,COMPREHENSIVE,Aud,2-4w,18888,15842,£8021,15986,16031,£12887,£4123,17540,695,6798
+2024-05-04,Bus,HOLIDAY,first,open,Agent,Lufthansa,silver,aisle,Couchsurf,n.America,No,low,comprehensive,Usd,<3D,9241,2788,NA,£1414,13259,8401,£1614,£3013,15401,£4564
+25/12/2021,-999,relocation,Business,,app,Ba,gold,WINDOW,HOSTEL,-999,yes,high,Basic,Usd,>1M,4641,£4969,"17,378",NaN,NaN,£11290,19755," 3,995",-999,18111
+2023-03-18,,relocation,economy,open,WALK-IN,qatar,bronze,NaN,missing,S. AMERICA,yes,shoulder,Comprehensive,jpy,>1M,£805,16989,£6789,£17196,NA,9013,£9310,,£15360," 3,208"
+18/12/2024,missing,study,premium,return,APP,Emirates,bronze,window,Hostel,oceania, Yes ,high,None,aud,2-4w,7070," 7,867",12481,missing,£2151,2017,£10939,4460,4987,11558
+12/05/2021,car,missing,missing,Return,app,Easyjet,bronze,window,hostel,ASIA,yes,low,BASIC,-999,2-4w,11562,£9131,7647,17610,"18,455",1233,3586,£2066,3764,16057
+2021-08-30,BOAT, business ,economy,return,agent,NaN,missing,window,Hotel,europe,No,low,comprehensive, Aud ,missing,18811,£14183,£18825,17660,£13439,3404,12479,12953,10126,16293
+2021-02-06,boat,study,premium,one-way,Online,EASYJET,Silver,BULKHEAD,Couchsurf,missing,NO, shoulder ,NA,gbp,2-4w,18145,17990,"12,950",£14131,£9523,"12,617",£13315,£5117," 4,358",
+29/02/2024,bus, holiday ,Economy,ONE-WAY,APP,lufthansa,GOLD,Middle, resort ,EUROPE,yes,, Comprehensive ,eur,>1M,missing,4954,£3214,5603,,missing," 4,368",1520," 7,776",1723
+2021-09-25,bus,holiday,NaN,return,agent,Easyjet,silver,Middle,airbnb,Asia, yes ,,basic,USD,1-2w,£12530,18663,NaN,£19986,"16,094",£2715,15238,-999,19418,10055
+27/07/2021,train, event ,Premium,one-Way,online,emirates,SILVER,Middle,Airbnb,s._america,yes,high,missing,,1-2W,£2868,£9473,"16,996",6960,,15125,19680,19373,9023,£2207
+2024-01-02,car,backpacking,BUSINESS,OPEN, AGENT ,ba, silver ,bulkhead,resort,africa,No,LOW,Basic,usd,2-4w,missing,14222,missing,12912,£6336,15846,1997,-999,19992,13594
+2022-02-21, car ,missing,first,open,agent,ba,silver,NA,resort,S. AMERICA,yes,,none,aud,2-4w,11124,"10,300","10,531",7358,16506,-999,10997,13259,4825,£17283
+2021-01-25,bike,Event,first,,agent,emirates,bronze,aisle,resort,missing,no, SHOULDER ,NONE,jpy,,NaN,612,£3006,£7488,11398,missing,£17493,3813,10910,£4696
+13/06/2023,boat,Relocation,-999,open,Online,lufthansa,missing,middle,resort,,No,Low,Basic,missing,3-7D,£2790,10058,1914,£8325,16755,11961,5530,6585,12545,2304
+missing,BIKE,RELOCATION,BUSINESS,return,online,lufthansa,GOLD,window,RESORT,N. America, NO ,SHOULDER,none,gbp,2-4w,466,4429," 5,685"," 8,731",£14489,16570,£9119,4882,5671,13303
+12/01/2021,bus, holiday ,-999, one-way ,online,NA,Platinum,window,airbnb,N. AMERICA,No,Low,none,JPY,>1m,14668,7810,8028,£14884,15003,£18507,6718,-999,12996,15283
+2023-08-25,train,BUSINESS,first,open,APP,qatar,Gold,WINDOW,Airbnb,europe,YES,low,COMPREHENSIVE,Eur,3-7d,13662,£7520,-999,14789,7693,£12837,£7497,5092," 2,376",8244
+2023-10-14,boat,event,FIRST,RETURN,online,easyjet,-999,NaN,Hostel,AFRICA,yes,low,comprehensive,aud,>1m,£3365,2506,14529,5235,16895,£15321,missing,19510,9844,
+30/11/2021,car,backpacking,NaN,one-Way,AGENT,emirates,Platinum,BULKHEAD,resort,oceania,yes,missing, none ,-999,-999,missing,"18,961",360,£1280,16070,12987,17964,8266,-999,£17580
+2021-02-01,car,EVENT,business,return,walk-In,NaN, silver ,window,airbnb,N. AMERICA, no ,SHOULDER,none,EUR,2-4W,15387,7907,NaN,12321,£2763,5320,"15,740",missing,6525,4599
+NaN,train,Relocation,business,,Online,Emirates,Gold, MIDDLE ,RESORT,missing,NO,-999,comprehensive,jpy,1-2w,£4796,16333,12670,9014,16000,missing,,£19766,13404,2151
+2022-06-21,plane,Study,Premium,open,online,lufthansa,silver,bulkhead,NaN,N. AMERICA,,low,Comprehensive,gbp,,£19092,9208,17170,9252,£19506,9929,£16984,9980,5922,16643
+"Feb 08, 2023",boat,event,business,one-way,APP,EASYJET, Platinum ,bulkhead,Couchsurf,s._america,yes, HIGH ,comprehensive,GBP,2-4w,18052,19575,1862,11036,missing,15351," 5,658",9252,11299,14545
+09/08/2024,bike,Holiday,first, return ,online,Qatar,Bronze,bulkhead,hostel,,no,,NaN,EUR,3-7d,10553,£4147,"16,083",£3055,3932,"13,876",   515,£2065,14541,18938
+24/08/2021,train,HOLIDAY,business,Open,Online,NA,NA,bulkhead,RESORT, oceania ,yes,NA,None,jpy,3-7D,18681,1519," 1,488",6459," 8,589",10070,£16605,missing,10123,missing
+2024-12-19,Plane,Holiday,business,ONE-WAY, Walk-In ,easyjet,GOLD,aisle, RESORT ,oceania,Yes,high,basic,usd,3-7d,7967,,£14964,3421,3736,15110," 6,253",5204,5427,£19933
+2022-12-02,bike,business,first,one-Way,online,ba,bronze,window,resort,OCEANIA,yes,shoulder,comprehensive, eur ,3-7d,466,2983,3130,13485,159,£7874,£17388,11439,6538,14117
+2024-10-14,bike,holiday,PREMIUM, one-Way ,NaN,EASYJET,NaN,aisle,resort,s. america,YES,shoulder,None,,3-7d,NA,£11116,7348,17625,"19,660",-999,2051,11698,NaN,18135
+16/12/2022,plane,event, premium ,return,App,-999,NA,missing, resort ,oceania,no,Low,basic,aud,-999,-999,NaN,-999,NA,17781," 1,035",10457,9089,3745,8390
+03/11/2023,train,HOLIDAY,economy,one-Way,online,Ba,Platinum, AISLE ,couchsurf,europe,No,Low,None,jpy,>1m," 9,236",13572,NA,18889,NA,,-999,£13930,-999,missing
+02/09/2022,bike,-999,first,RETURN,ONLINE,lufthansa,bronze,middle,airbnb,-999,no,shoulder,comprehensive, Aud ,-999,6221,NA," 8,365","10,107",15719,,7164,£7050,17328," 2,745"
+19/02/2024,-999,study,premium,return,ONLINE,QATAR,BRONZE,,Hotel,oceania,No,shoulder, none ,USD,1-2w,NA,"17,075","17,801",11103,£4448,15530,8922,8909,2815,2844
+18/05/2023,Boat,business,first,ONE-WAY,WALK-IN,-999,bronze, aisle ,HOSTEL, asia ,no,LOW,None,usd,3-7D,£7120,5635,14674,19528," 6,346",£15792,9808,17474,"12,883",£15673
+2023-09-01,car,holiday,business, One-Way ,WALK-IN,EMIRATES,PLATINUM,BULKHEAD,hotel,n.America,no,high,basic,jpy,1-2w,,£10243,9831,"17,864",£16931,,-999,£8971,3283,17871
+2022-09-04,plane,backpacking,economy,open,App,qatar,missing,WINDOW,airbnb,oceania,yes,Low,comprehensive,aud,2-4w,£2921,6805,8133,missing,14277,missing,NA,19694,," 5,219"
+2021-12-01,bus, event ,first,open,Online,ba,NaN,middle,AIRBNB,s. america,yes,low,None,usd,2-4W,10939,£5985,15864,438," 9,324",8104,£9911,£12522,19115,8786
+05/05/2021,bike,HOLIDAY, economy ,return,Walk-In,Qatar,missing,middle,Couchsurf,africa,YES,High,BASIC,usd,1-2w,699,14869,13695,6252,11646,16880,10164,NA," 9,449",18618
+15/12/2023,train,holiday,business,One-Way,online,LUFTHANSA,silver,aisle,airbnb,oceania,yes,SHOULDER, COMPREHENSIVE ,usd,>1m,15729,1022,17560,8947,"17,441",8437,,19691,11865,14800
+09/06/2022,plane,holiday, economy ,One-Way,Agent,emirates,GOLD,MIDDLE,NA,europe,no,HIGH,comprehensive,jpy,1-2w,11244,17182,15772,   889,13586,£681," 6,788",960,6613,NaN
+2021-09-26,boat,backpacking,economy,ONE-WAY,WALK-IN,NaN,gold,aisle, hotel , Africa ,no,shoulder,Comprehensive,JPY,>1m," 5,454",833,12527," 5,313",19405,3616,"12,053",1924,-999,NA
+24/10/2024,Bike,NaN,PREMIUM,OPEN,app, LUFTHANSA ,silver,window,Airbnb,africa,YES,NaN,none,aud,3-7d,5213,13040,missing,18745,£9398,11348,11489,£17318,£6502,10840
+2024-03-17,BUS,study,ECONOMY,return,-999,easyjet,platinum,NaN,hostel,n.America,no,SHOULDER,BASIC,aud,3-7d,missing,15749,£8415,3286,10419,7310," 9,680"," 2,113",£15755,3960
+2023-03-26,bus,event,economy,open,AGENT,Ba,missing,window,couchsurf,oceania,NaN,high,Comprehensive,gbp,2-4w,9648,8625,£6658,17901,-999,19056,16805,missing,838,17104
+, Plane ,BACKPACKING,first,Open,App,easyjet,Silver,Middle,resort,asia,yes,LOW, comprehensive ,Usd,2-4w,"17,342",missing,£9649,1059,17164,14842,17459,12441,9085,£3128
+2021-04-30,Car,relocation,missing, return ,APP,emirates,gold,aisle,hotel,africa,no,shoulder,basic,aud,2-4w,55,,"10,602",11689,6338,£3163,9771,15159,"11,324",10495
+NaN,train,Event,NaN,one-way, WALK-IN ,BA,Platinum,Window,couchsurf,Asia,no,SHOULDER,basic,Aud,<3d,4200," 4,858",NaN,18852,2935,"10,945",NA,199,12983,-999
+28/02/2023,boat,Relocation,missing,open,APP,ba, bronze ,window,AIRBNB,NaN,no,NA, comprehensive ,usd,>1m,13280,10414,£469,missing,12924,£8690," 7,771",£2735,347,8791
+"Oct 14, 2024",plane,business,First,Return,Walk-In,lufthansa,platinum,bulkhead,couchsurf,oceania,no,shoulder,none,EUR,3-7D,£8592,£12763,NaN,NaN,5232,5527,,NA,16165,£14459
+NA,Boat,missing,NaN,one-Way,app,Lufthansa,Bronze,Middle,couchsurf,asia,No,SHOULDER,NONE,EUR,1-2w,"13,179",4506,3419,NA,3854,£13008,£1462,17682," 3,200",1678
+13/11/2022,bus,event,economy,OPEN,walk-in,emirates,NaN,middle,NaN,europe, yes ,-999,-999,usd,<3D,3332,9077,missing,,NA,6471,6865,9278,£75,9679
+01/01/2023,car,Holiday,business,-999,Online,easyjet,PLATINUM,Aisle,Airbnb,N. America,NA,shoulder,none,eur,>1m,16379,19920,9312,4149,"19,835",2338,"12,486",£9570,5842," 9,886"
+2021-10-30,boat,Event,economy,return,app,LUFTHANSA,gold,bulkhead,airbnb,s.America,no,high,,Aud,3-7d,missing,"13,588",4240,9923,missing,"14,501"," 4,078",16655,1331,   887
+2022-02-04,Boat,backpacking,premium,Open,online,EMIRATES,gold,window,airbnb, n._america ,yes,shoulder,NaN,NA,1-2W,£13474,£5084,15727,£17504,6244,missing,8291,5810,10652,523
+"Jul 25, 2022",NaN,holiday,ECONOMY, open , AGENT ,EMIRATES,NA,NA,AIRBNB,Africa, yes ,NA,NaN,aud,2-4w,8702,9170,930,12694,10350,17510,16451,missing,2865,13928
+2023-02-02,NaN, Business ,premium,return,walk-In,BA,platinum,Middle,couchsurf,n.America,,Shoulder,,eur,NaN,,18110,17667,7122,13360,12511,£758,£9349,12351,16157
+2021-08-02,bike,business,NA,one-Way,Walk-In,EASYJET,gold,missing,Resort,n.America,No,SHOULDER,none,aud,2-4w,5824,£15580,1504," 4,463","16,216",£18191,"10,373"," 3,118","12,098"," 7,042"
+2024-03-29,bike,backpacking,economy,open,ONLINE,BA,SILVER,aisle,hostel,europe,YES,low,COMPREHENSIVE, AUD , 1-2w ,£11444,-999,19066,10449,3607,"17,482"," 1,840",4150,4860,3454
+2024-01-14,PLANE,NaN,first, One-Way ,Walk-In,EMIRATES,platinum,BULKHEAD,Hostel,ASIA,yes,Low,Basic,gbp,3-7d,"15,685",-999,8808,NA,18091,3606,5145,13255,NaN,19393
+"Jul 20, 2023",plane,Holiday,business,ONE-WAY, WALK-IN , lufthansa ,silver,missing,resort,Africa,No,Shoulder,basic,usd,1-2w,£11517,"17,326",1079,£15248,NaN," 8,803",NA,£19038,-999,£18820
+2024-12-24, bike ,,ECONOMY,Return,ONLINE,Emirates, bronze ,middle,Hostel,europe,No,high,comprehensive,JPY,1-2w,£9451,£3055,5158,2961," 8,935",18570,£6090,£319,6955,9286
+2021-03-29, boat , business ,NA,one-way,WALK-IN,qatar,Silver,aisle, resort ,europe,YES,low,basic,AUD,1-2W,£19343,18697,11758,£8804," 7,210",883,6914," 4,601",9278," 6,863"
+-999,boat,missing,FIRST,one-way,walk-in,qatar,silver,Bulkhead,hotel,asia,NO,SHOULDER, basic ,USD,2-4w,11457,1850,NA," 4,739",3023,15488,NA,3717,9954,2957
+2021-06-07,-999,business,first,One-Way,walk-In,ba,platinum,-999,hostel,n. america,-999,shoulder,basic,AUD,>1m,NA,9835,,3626,£233," 8,864",£724,2891," 2,219",NA
+04/05/2022,plane,backpacking,economy,one-Way,agent,qatar,silver,WINDOW,airbnb,ASIA,yes,shoulder, comprehensive ,NA,NaN,"17,680",£9825,18676,"18,249"," 6,167",4416,-999,19857,13180,-999
+04/11/2022,plane,backpacking, premium ,,Agent,lufthansa,Gold,Middle,AIRBNB,Asia,yes,NA,basic,eur,3-7d,,6378,£1358,18829,14642,4745,16190,   766,19660,
+2023-05-28,boat,-999,business, Open ,AGENT, Qatar ,GOLD,AISLE,resort,oceania,no,shoulder, comprehensive ,jpy, 2-4w ,4720,7784,5688,5362,19108,14383,12923,-999,19309,6294
+2022-07-01,PLANE,relocation,PREMIUM,open,walk-in, qatar ,gold,MIDDLE,RESORT,EUROPE,Yes,NaN, none ,gbp,2-4W,10167,2820,934,948,18073,missing,15351," 7,981","18,777","12,603"
+NaN,Bike,backpacking,Business,one-way,ONLINE,missing,silver,window,Resort,oceania,no,missing, none ,usd,>1m,missing,£19143,18908,£316,£16625,10101,2522,4556," 3,617",13611
+2021-09-04,bike,Business,premium,One-Way,App,lufthansa,gold,WINDOW,couchsurf,africa,YES,NaN, NONE ,-999,1-2w,18219,,1197,578,10975,4681,13644,"16,927",£8339,2526
+2024-11-25,plane,study,NA,,agent, Emirates ,bronze,aisle,airbnb,missing,no,low,COMPREHENSIVE,eur,missing,18003,16413,9133,11734,13398,10346,3188,£18734,14089,£16867
+2022-10-20,BOAT,-999,Economy,Open,Online,lufthansa,silver, WINDOW ,NaN,oceania,No,high,COMPREHENSIVE,Aud,2-4w,"13,403","18,888","13,145",2876,337,10327,1848,18739,5457,£6701
+17/11/2024,Bus,Holiday,BUSINESS,missing,WALK-IN,easyjet,gold,aisle,Resort,s. america,No,-999,none,jpy,<3d,10859,16818,missing,12553,18294,13689,14214,11953,"13,518"," 9,176"
+NaN,Bus,relocation,premium,OPEN,APP, easyjet ,Bronze,window,resort,AFRICA,no,high,basic,Aud, 3-7d ,£8429,10100,6084,11157,465,3301,563,4958,NA,4238
+06/03/2024,Train,study,premium,return,app,easyjet,Platinum,window,airbnb,NA,missing,low,NaN,Gbp,1-2w,17721,18725,17385,-999,5436,5787,"16,111",1772,,missing
+missing,NaN,Study,economy,return,-999,ba,GOLD, bulkhead ,missing,OCEANIA,yes,,basic,Jpy,2-4w,7099,NaN,£13435,4718,£19822," 7,520",10387,18094,6134,NA
+"Oct 23, 2024",Bike,business,economy,ONE-WAY, online ,Ba,platinum, BULKHEAD ,Couchsurf,oceania,YES,shoulder,missing,EUR,>1M," 6,092",13772,10375,8763," 6,455",£9634,"15,121",4785,14383,12592
+2022-05-10,bike,holiday,PREMIUM,Open,online,Emirates,gold,Bulkhead,resort,oceania,yes,LOW, basic ,Jpy,<3d,-999,,4479,missing,8154,11879,11400,"13,806",13661,2149
+"Jun 02, 2024", plane ,Relocation,first,-999,NaN,QATAR,bronze,aisle,-999,ASIA,NO,NaN,None, aud ,3-7d,5802,6524,"18,233",£16659,£14511,1959,£5629,NA,missing,£12876
+01/02/2021,car,event,business,open,walk-in,qatar,,window,hostel,oceania,missing,shoulder,Basic,JPY,2-4w,567,7076,"13,793",17312,£15637,"16,295",£8598,4813,5858," 5,223"
+"Jul 22, 2023",PLANE,study,premium,NA,online,Emirates, bronze ,aisle,couchsurf,S. America,no,HIGH,comprehensive,gbp,2-4w,"17,485",NA,NA," 7,417",£14763,19084,5046,4583,18800,"15,952"
+2023-06-28,,study,first,return,APP,NaN,Gold,-999,resort,Asia,,NA,comprehensive,,>1M,279," 5,432",285,-999,3052," 8,013",missing,10949,2174,£6307
+"Sep 28, 2022",bus,backpacking,NA,open,walk-in,EMIRATES,silver,Bulkhead,hotel,,no,SHOULDER,none,EUR,>1m,£39,18911,£7618,-999,14216,7411,6751,£17536,18838,10729
+2024-04-11, plane ,business,Premium, open ,Walk-In, Ba ,Bronze,Middle,-999,Oceania, no ,High,BASIC,EUR,1-2w,-999,-999,missing,10105,5180,11014,6863,   604,£16027,
+03/04/2023,NaN,study,,return, WALK-IN ,Qatar,platinum,aisle,hotel, AFRICA ,no,HIGH,comprehensive,gbp,>1m,"14,114"," 6,564",8700,5626,15938,£19814,missing,15543,£13549,9830
+2021-03-29,Train,Event,first,open,online,easyjet,platinum,Aisle,hostel,NA,YES,high,Comprehensive,gbp,<3D,16960,18914,10389,2260,16929,10224,11609,"10,365",£14534,£7374
+2021-02-23,TRAIN,backpacking,missing,Return,agent,Emirates,silver,NaN,resort,OCEANIA,yes,Low,none, eur ,2-4w,14644,17465,1063,£4715,£3674,13594,5829,£15240,£16399,11278

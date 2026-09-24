@@ -1,0 +1,1001 @@
+ date ,Device,OPERATING SYSTEM,Processor Brand,form factor, release yr band ,market_segment,manufacturer/,CONNECTIVITY,SCREEN TYPE,energy_rating,Warranty Length,Colour,price tier,user profile,UPGRADE ELIG,PRICE £,ramGb,Ssd Gb,Battery Mah,weightG, ports ,CPU GHZ,gpu tflops,launch_score,Units Sold K
+13/07/2024,server,Linux,-999,2-In-1, 2024+ ,Gaming,acer,bluetooth,missing,a,2Y,grey,flagship,student,YES,£12235,5856,2017,£1567,£17042,8507,6094,14055,18,643
+11/08/2024,server,-999,amd,ULTRABOOK,2018-20,education,dell,ethernet,NA,c,5y,GREY,flagship, student , yes ,453,17569,-999,£13750,£18009,£4927,875,14119,NA,7168
+2021-10-13,robot,windows, apple ,MINI PC,2021-23,enterprise,HP,5g,mini-led,C,1y,blue,premium,student,no,11140,18519,19139,£387,19012,3187,£11799,6913,"19,601",5662
+"Jul 29, 2024",smartphone,Chromeos,apple,mini pc,2021-23,consumer,acer,Ethernet,LCD,-999, no_warranty ,blue,budget,creator,yes," 4,013","16,092",13182,£18927,7858,7131,"15,143",19341,16487,16922
+07/09/2024,ROBOT,Chromeos,APPLE,ultrabook, 2015-17 ,enterprise,DELL,BLUETOOTH,lcd,a,5Y,blue,premium,NA,Yes,,7668,14188,"11,193",8857,7315,19767," 3,375","17,951",16663
+02/01/2024,laptop,Chromeos,intel,ultrabook,2018-20,CONSUMER,lenovo,ETHERNET,E-Ink,missing,noWarranty, grey ,MID-RANGE,NaN,no," 4,709",£4557,11406,7377,9826,"19,695",,19813,3535,£3506
+27/07/2023,drone,missing,apple,NA,<2015,gaming,acer,Ethernet,NA,NA,5Y,BLACK,mid-range,gamer,,"13,407",NA,NaN,NaN,9062,NaN,£2242," 3,041",NaN,3438
+"Apr 07, 2023",Robot,Chromeos,intel, ULTRABOOK ,2018-20,NaN,acer, wi-Fi ,missing,b,1Y,Grey,budget,creator,yes,-999,12448,-999,14222,£4949,14786,11584," 3,255",-999,16769
+2021-05-11, Drone ,chromeos,Intel, Mini Pc ,NaN,NA,lenovo,WI-FI,Lcd,d,NO WARRANTY,BLUE,Premium,student,missing,15220,8437,NaN," 2,881",18515,NA,10539,£6325,NaN," 6,207"
+2023-02-03,Smartphone,NaN,Intel, desktop ,2021-23,NaN,Acer,bluetooth,mini-Led,C,NO WARRANTY,grey,Premium,,YES,16917,16362," 1,333",6707,missing,5707,7884,£3916,13952,16914
+2021-05-23,drone,Android,Amd,mini pc,<2015,Gaming,ACER,wi-fi,mini-led,A,5Y,silver,MID-RANGE,professional,Yes,12500,missing,14136,7748,12072,19190," 9,690",16836,£14780,10303
+2022-07-21,NA,LINUX,NaN,2-in-1,2018-20,gaming,Lenovo,ethernet,oled,C,No Warranty,BLACK, flagship ,gamer,no,," 1,678",£16,7565,£9552,NA,13331,£8571,19491,   768
+25/03/2021,ROBOT,windows,apple, miniPc ,2021-23,enterprise,missing,bluetooth,e-Ink,a,3y,grey,budget,creator,missing,£15891,15481,13711,-999,11332,17719,3908,"10,509",903,16463
+09/01/2021,Smartphone,WINDOWS,amd,missing,2015-17,enterprise,Dell,wi-fi,oled,c,1y,grey,Flagship,Professional,yes,missing,"19,791",£8136,£11830,11352,693,£10705,11106," 1,107",394
+2021-11-17,Laptop,linux,qualcomm, miniPc ,2018-20,consumer,lenovo,wi-fi,E-INK,c,NaN,white,PREMIUM,professional,yes,   701,12122,,£16609,£12476,8649,£1184,-999,1739,5736
+07/08/2024,smartphone,LINUX,missing,NA,2024+,Enterprise,lenovo,ethernet,lcd,d,1y,silver,mid-Range,student,yes,,13641,NaN,2778,,"18,632",5905,£190," 7,341",2292
+24/08/2024,NaN,android,Apple, mini_pc ,2015-17,gaming,-999,5g,lcd,B,5y,White,budget,professional,no,14811,2549,10639,2317,£1026,12665,6180,13758,14495,"18,219"
+2023-02-15,SMARTPHONE,Macos,NA, mini pc ,<2015,education,APPLE,Wi-Fi,E-INK,b,3Y,grey,mid-range,GAMER,yes,11119,1226,18876,457,"10,734",16677,£16521,13391,10064,10432
+2024-05-02,drone,-999, qualcomm ,ULTRABOOK,2021-23,enterprise,NaN, wi-fi ,oled, a ,5y,GREY,FLAGSHIP,gamer,no,£12470,1736," 9,428",£8379," 7,924",18129,10948,10863,3162," 6,897"
+11/03/2023,tablet, Chromeos ,-999,Ultrabook,<2015,enterprise, Lenovo ,bluetooth,E-Ink,missing,NA, Black ,premium,creator,no,£8146,"14,422",18685,£5219,£19133,£12448,17323,missing,6412,13355
+-999,drone,Macos,apple,2-In-1,2015-17,enterprise,ACER,5g,,b,5y,silver,-999,missing,no,"15,047",£19484,11996,15474," 1,309",   491,NaN,6349,8261," 3,715"
+NA,Robot,missing,intel,2-in-1, 2015-17 ,enterprise,Asus, Ethernet ,mini-led,D,2y,NA,budget,professional,yes,15644,15746," 4,368",1255,10025,£6777,559,9946,£7211,£18939
+13/06/2021,LAPTOP,ios,,DESKTOP,NA,Enterprise,apple,bluetooth,Mini-Led,b,3y,Black,mid-range, professional ,Yes,10286,7116,7709,   149,5917,£2287,15428,11785,12812,9384
+-999,SERVER,android,amd,Mini Pc,<2015,enterprise,acer,,-999,d,2y,-999,Premium,-999,yes,6029,16478,missing,£19802,9101," 9,206",£13828," 7,028",4181,5539
+2021-05-22,robot,windows,QUALCOMM,desktop,2024+, consumer ,hp, 5g ,oled,a,no_warranty,,flagship,creator,No,13680,13504,-999,"10,762",1808,missing,7029,"10,680",5502,4992
+2022-08-25,drone,missing,intel,Mini Pc,<2015,missing,asus,wi-Fi,mini-led, a ,5y,BLACK,mid-range,creator,no,£5089,17143,missing,£17881,"12,359","10,750","10,261",18605,12370,"13,950"
+NaN, DRONE ,ANDROID,qualcomm, ultrabook ,2024+,NaN,Apple,5g,lcd,C,2Y,white,Premium,missing,missing,2899,12472,8457," 4,833",£10305,2054,£5126,    23,£7617,5217
+2022-07-28,tablet,MACOS,missing,ULTRABOOK,<2015,missing, dell ,5g,mini-Led,b,1y,NA,flagship,CREATOR,NO," 8,321",£9884,10579," 7,021",18777,7645,10736,12036,19090,£8127
+2023-02-17,Tablet,NaN,Amd,ultrabook,2024+, consumer ,asus,5g,e-Ink,a,NA,grey,NA,PROFESSIONAL,yes,missing,,7645," 9,327",18580,2856,£890,£3041,£19718,17195
+02/04/2023,laptop,-999,intel,ULTRABOOK,2021-23,Enterprise,dell,NA,lcd,b,1Y,White,MID-RANGE,GAMER,NA,-999,£9883,NaN,13272,4219,NaN,,1170,"18,810",£13985
+19/10/2023,TABLET,IOS,amd,MINI PC,2015-17,gaming,Hp,wi-fi,OLED,B,5y,-999,,student,YES,£12526,16166,£16075,   633,,£12754,£8344,19951,"19,690",31
+01/04/2021,-999,Ios,qualcomm,NaN,NA,GAMING,dell,ethernet,lcd,a,no_warranty,grey,mid-range,professional,no," 4,682",12266,2039,10682,"17,852",-999,£11890,NA,£19761,£3119
+2023-02-01,NA,NaN,apple,ultrabook,2018-20,consumer, lenovo , bluetooth ,Mini-Led,D,NaN,White, budget ,creator,yes,NA,5902,19007,-999," 1,401"," 8,708",14802,"14,982",NaN,19066
+05/03/2021,smartphone,NaN,amd,ultrabook,2024+,NaN,lenovo,wi-fi,e-ink, b ,2y,BLACK,PREMIUM,Gamer,Yes,£8662,17722,£4003,£2238,£8883,12715,6667,15802,"18,067",6293
+15/04/2022,,Ios,intel,2-In-1, 2024+ ,gaming,Hp,NA,lcd,NA,1y,Silver,budget,creator,no,£3175,648," 5,545",12125,missing,5918,1827,12697,6747,
+"Mar 20, 2021",Smartphone, android ,amd,DESKTOP, 2021-23 ,Enterprise,dell, Ethernet ,mini-led, c ,5Y,-999,,creator,No,8814,7120,7187,£5705,6571,8997,£8005,19551,16563,6090
+,drone,windows,qualcomm,2-IN-1,2021-23,education,APPLE,ethernet,MINI-LED,b,1y,NA,premium,gamer,yes,"13,185",7485,2597,NaN,missing,15694,9780,7495,£3033,missing
+26/10/2022,smartphone,Ios, INTEL ,-999,2021-23,EDUCATION,hp,Ethernet,lcd,b,3y,Black,premium,creator,no,-999,14071,14712," 5,977",£15977,6792,7166,14856,   462,8092
+2024-03-03,robot,CHROMEOS, Intel ,ultrabook,-999,enterprise,ASUS,ETHERNET,Lcd,d,1Y, silver ,budget, GAMER ,yes,17947,9362,17359,£6111," 8,538",1983,-999,13813,3894,missing
+2022-01-31,Drone,NaN, QUALCOMM ,ULTRABOOK,2018-20,CONSUMER,apple,wi-fi,oled,D,No Warranty,grey,BUDGET,creator,no,1641,4577,"15,314",12651,£7817,£9366,3006,16817,£3679,19554
+13/10/2024,missing,MACOS,Apple, Ultrabook ,2024+,gaming, apple ,5g,oled, c ,1y,White,mid-Range, STUDENT ,NO,,4383,3248,1610,17459,£217,£16915," 1,466",4815,1090
+08/01/2021,Laptop,chromeos,qualcomm,ULTRABOOK,missing,Education, hp ,WI-FI,Mini-Led,d,-999,Grey,MID-RANGE,Student,No,,383,6602,13570,NaN,NA,5246,12990,NaN,6495
+2023-04-08,NaN,WINDOWS, amd ,mini pc,2021-23,ENTERPRISE,Dell,wi-fi,oled,NaN,missing,NA,mid-range, professional , yes ,£8872,£17050,"19,454",17767,15440,13260,19069,NaN,668,15049
+2023-01-01,server,macos,apple,Mini Pc, 2018-20 ,CONSUMER,acer,Ethernet,-999,,3Y,silver,budget,creator, yes ,,NaN,18529,,6308,£15602,3075," 8,586",£8243,11901
+2024-09-18,laptop,,NA,,2024+,CONSUMER,apple,bluetooth,MINI-LED,B,,white,-999,creator,no,16434,NA,£5073," 3,028",NA,16467,6021," 5,331",13717,£6723
+02/03/2023,smartphone,Linux,INTEL,2-in-1,-999,gaming,lenovo,wi-Fi,-999,B,3y,blue,mid-Range,creator,yes,£13612,11999,3289,10632,13357,4191,10673,4544,5323," 5,956"
+2023-09-29,DRONE,windows,qualcomm,2-IN-1,2015-17,Enterprise,asus,5g,oled, D ,1Y,silver,flagship,student,-999,"14,905",6864," 1,941",NA,10450,"11,318",14895,14587,15262,3732
+2024-07-25, drone , windows ,AMD,MINI PC,2021-23,consumer,lenovo,5g,Lcd,C,3y, grey ,Flagship,creator,yes,£17569,,£13969,11331,£14387,"13,192",2428,£19171,9602,14193
+2022-09-29,ROBOT,android,INTEL,DESKTOP,<2015,consumer,Hp,ethernet,e-ink,D,no_warranty,grey,budget,Professional,No,13872,5937,12506,£8356,2344,"11,828",£14263,13155,9745,66
+29/08/2022,NaN,Chromeos,INTEL,NaN,2021-23,enterprise,NA,bluetooth,lcd,a,5y,SILVER,Budget,professional,no,14701,,NaN,18173,£9435,13081,9808,"10,347",5633,5899
+2022-05-08,Tablet,Chromeos, apple ,2-IN-1,2018-20, consumer ,HP,bluetooth,LCD,D,3y,SILVER,NaN,CREATOR, no ,8890," 9,191",7608,6390,,7964,8667," 4,572",,13989
+"Sep 09, 2021",Server,,amd,ultrabook,2018-20,CONSUMER,apple,Ethernet,OLED, c ,3y,silver,premium,CREATOR,yes,,6124,1402,missing," 7,248"," 3,392",14139,7244,-999,974
+25/09/2024,drone,windows,amd,desktop,2015-17,gaming,lenovo,wi-fi,Lcd,b,no_warranty,Grey,,professional,no,missing,12045,£9086,9468,16725,£8823,15097,9053," 7,862"," 2,159"
+"Feb 17, 2024",laptop,Macos,AMD,Desktop,,EDUCATION,hp,WI-FI,Lcd,C,3y,grey,MID-RANGE,creator,NO,NA,"18,040",18422,6932,18116,12326,16861,19803,18412,£12201
+19/05/2022,TABLET,WINDOWS, intel ,Ultrabook,<2015,gaming,Apple,5g,OLED,d,-999,NaN,flagship,Gamer,NO,£12207,8921,3038,6068,13499,13537,5657,16375,NaN,12280
+"Mar 11, 2024",smartphone,missing, amd ,desktop,-999,consumer,apple,5g,mini-Led,A,2y,missing,BUDGET,NaN,yes,8494,8294,,NaN,15088,8215,17625,8198,15941,5400
+2022-11-08,,linux,INTEL,mini pc, 2018-20 ,consumer,Apple,bluetooth,NaN,a,5Y,GREY,budget,Gamer,Yes,£18308,10697,1753,19074,,737,13349,17210,16952,13228
+10/03/2023,drone,NaN,QUALCOMM,NA,<2015,ENTERPRISE,missing,bluetooth,E-Ink,A,No Warranty,NA,budget,CREATOR,yes,   196,£6662,£13812,13300,   769,15017,13177,,3598,17079
+19/10/2023,-999,macos,apple,2-In-1,missing,education,asus,bluetooth,mini-Led,b,5y,NA,mid-range,student,no,missing,16344,£5954,£129,3604,16832,430,£13485,"17,614","16,297"
+2023-01-14,laptop,Chromeos,apple,missing,2015-17,gaming,HP,ethernet,Oled,b,missing,blue,budget,Gamer,no,"18,984",missing,15226,13797,,18461,8718,19235,1716,1331
+2021-05-30,server,Android,INTEL,miniPc,<2015,-999,lenovo,Ethernet,Oled,NaN,3y,-999,flagship,creator,yes,15026,817,7051,10473,14543,"11,241",1699,NA,£12985,10531
+,Tablet,missing,intel,miniPc,2018-20,education, Hp ,bluetooth,oled,b,2Y,silver,premium, Creator ,YES,9156," 9,823",19949,NaN,1888,6342,9287,15732,1150,"17,368"
+2023-11-11,SMARTPHONE,windows,intel,2-In-1,2018-20, GAMING ,-999,wi-fi,OLED,C,1y,BLACK,premium,creator,no,15229,18925,"14,279",10029,£2580,7881,£3312,13647,4934,11371
+05/10/2023, SMARTPHONE ,windows,apple,ultrabook,NA, gaming ,asus,5g,OLED,d,2y, blue ,-999,gamer,no,10290,£6049,"16,916"," 1,396",£8034,10156,£11000,£17730,13677,£2435
+2021-03-04,Laptop,Macos,qualcomm,ultrabook,,gaming,Dell,5G,mini-led,NA,5y,grey,NA,GAMER,no,£5268,5748,NA,£16308,6650," 9,719",£8028,19582,£1366,17551
+04/01/2024,tablet,windows,qualcomm, ULTRABOOK ,2024+,NA,-999, WI-FI ,mini-led,d,5y,NA,flagship,creator,yes,10998,6982,6654,NA,940,15419,5556,£7952,,1617
+,NaN,linux,apple,ultrabook,2024+,gaming,asus,5g,OLED,C,1y,black, mid-range ,creator,NO,   150,8062,,13647,10372,14896,11739,201,11938,9392
+2022-02-02,Robot,macos,Apple,2-In-1,<2015,CONSUMER, apple ,ETHERNET,oled,b,No Warranty,blue,mid-range,Professional,yes,    71,8649,713,14366,3185,622,10999,"11,218",673,NaN
+2022-04-21,Robot,chromeos,amd,Mini Pc,2024+,enterprise,Hp,5G,NaN,A,1y,blue,flagship,gamer,no,£17076," 9,518",-999,10057,17992,8201,9053,"14,131",368,14583
+11/07/2022,TABLET,chromeos,apple,2-In-1,2024+,consumer,asus,5g,e-ink,b,1y,BLUE,FLAGSHIP,gamer,yes,11203,£4333,4909,"13,393","14,434"," 3,058",934,£14932," 9,677",£3400
+NA,TABLET,MACOS,intel,2-In-1,2018-20,enterprise,LENOVO,5g,lcd,D,3y,Grey,Flagship,student,NaN,1407,£13003,14474,11740,13498,13658,17666,8480,10977,
+NaN,, windows ,APPLE,Mini Pc,2018-20,enterprise,asus,WI-FI,missing,c, 5y ,SILVER,BUDGET,CREATOR,no,1107,2221,12225,NaN,3289,NA,"18,316","11,709"," 7,421"," 6,894"
+2023-09-09,tablet,ios,Apple,2-In-1,<2015,NaN,acer,wi-fi,e-Ink,D,5Y,black,mid-range,NaN,yes,£1455,£16872," 8,392",-999,NA,16283,7371,missing,5786,7831
+-999,drone,linux,-999,DESKTOP,2021-23,missing,lenovo,-999,e-Ink,C,no warranty,missing,mid-range,creator,yes,15337,,6967,5068,15023,NA,£17684,missing,9430,£16944
+06/03/2021,Drone,windows,Qualcomm,2-In-1,NA,-999,apple,NA,mini-led,NA,2y, silver ,,professional,YES,£10949,19680,£877,13358,15570,£8936,13930,8099,2778,16379
+2022-11-25, LAPTOP ,Macos,Qualcomm,Mini Pc,2024+,-999,lenovo,wi-Fi,lcd,D,2Y,grey,premium,CREATOR,no,£1601,£2438,£18142,"18,330",2345,,3338,16993,19947,NaN
+18/04/2024,Smartphone,android,intel,DESKTOP,<2015,GAMING,Dell,ethernet,MINI-LED, b ,1y,silver,Mid-Range,Student,yes,£14429,12652,17817,8067,4761,missing,NaN,18298,4973,15890
+19/03/2024,tablet,CHROMEOS,NaN,MINI PC,NaN,Gaming,,bluetooth,E-Ink,B,3y,Grey,Budget,,Yes,£9216,1405,NaN,11341," 3,623",18767,NA,13284,5434,"17,767"
+17/01/2021,Robot,Windows,intel,Desktop,2021-23,-999,dell,5g,e-ink,a,1y,BLUE,premium,gamer, Yes ,"10,652",£6696,11924,£762,14063," 4,056",19036,NA,   858,£8732
+missing,server,macos,INTEL,mini pc,<2015,ENTERPRISE, APPLE ,Wi-Fi,e-ink,NA,NO WARRANTY, blue ,budget,creator,no,9767,5250,5166," 5,837",19022,9060,15562,£13935,3484,missing
+2022-10-26,LAPTOP,macos, APPLE ,MINI PC,2021-23,consumer,,ETHERNET,mini-led,B,NA,Black, mid-Range ,creator,YES,NA," 4,578",11805,15007,£2496,19013,"15,163"," 2,802",120,7719
+2022-12-20,smartphone,android,amd,2-IN-1,2015-17,NaN,DELL,5G,E-INK,C,2y,blue,mid-range, creator ,no,8562,9366,£3261,14336,8276,NA,8003,4603," 5,122",4949
+2021-01-15, drone ,ios,Apple,ultrabook,NA, Gaming ,hp,wi-Fi,NaN,-999,2y,BLACK,mid-range,CREATOR,No,-999,12300,12313,10101,8152,10640,18842,-999,12407,"15,906"
+12/02/2021,-999,Android,apple,Mini Pc,2015-17,enterprise,LENOVO,NaN,NaN,,1y,SILVER, budget ,professional,no,18433,NaN," 7,092",11321,"10,096",10869,NaN,14071,4606,missing
+05/02/2022,ROBOT,android,QUALCOMM, desktop ,2024+,-999, lenovo ,Ethernet,mini-Led,B,1Y,WHITE,NA,professional,yes,"19,665",NA,4457,9108,NaN,4596,12502,11361,10290,8375
+10/09/2022,DRONE,android,qualcomm,Mini Pc,<2015,Education, asus ,5g,Lcd,C,1Y,black,mid-range,creator,no,11230,18532," 1,220",753,11878,11348,NA,3067,4415,3841
+25/11/2022,TABLET,Linux,Intel,Mini Pc,2021-23,gaming,Acer,missing,mini-led,a,2y,silver,mid-range,professional,no,7973,19327,NA,19699,7266," 8,412",9825,£4949,£2572,9390
+06/03/2022,-999,ANDROID,Qualcomm,,2018-20,NaN,LENOVO,5G, LCD ,-999, 2y ,blue,mid-Range,Professional,No," 1,447",11824,13852,13455,8973,NaN,NA," 6,923",NaN,4186
+2023-06-17,laptop,MACOS,intel,ULTRABOOK,2021-23,gaming,apple,wi-fi,Mini-Led,c,no warranty,grey,,Student,yes,10520," 7,687",6547,10850,3983,£17991,781,"16,938",4401,£11349
+2022-08-10,server,windows, apple ,mini_pc,2021-23,Gaming,lenovo,bluetooth, Mini-Led ,d,2y,NA,-999,Creator,YES,19256,NaN,3589,,2827,19581,£7647,£6297,19229,8498
+07/06/2021,server,windows,intel,desktop,2021-23,consumer,APPLE, wi-fi ,lcd,c,1y, grey ,budget,Gamer,yes,£8068,NA,8855," 3,666",NA,7332,9716,3456,-999,4811
+03/03/2022,missing,ios,NA,NA,<2015, enterprise ,Lenovo,5g,e-Ink,A,2y,Black,flagship,creator,yes,13247,18400,"16,579",1806,missing,4773,3990,16151,7359,9970
+23/06/2024,NA,NA,qualcomm,desktop,2021-23,education,Hp, wi-fi ,e-ink,NA,5Y,blue,Budget,gamer,missing,994," 2,267",15322,12530,19425,2198,18762,16688,,552
+28/11/2023,server,macos,intel,-999,2018-20,Gaming,ASUS,5g,mini-led,c,2y,grey,Budget,student,yes,15503,14870,14843,"19,417",149,£2439,£11360,"14,852",11839,£9259
+"Sep 08, 2021",,,AMD,Desktop,-999,consumer,ASUS, bluetooth ,E-Ink,c,1y,SILVER,flagship,NaN,No,£15420,"13,285","13,288",15683,-999,£12313,£11495,4115,£12910,£9642
+"Mar 25, 2024",laptop,windows,intel,ultrabook,2015-17,consumer,NaN,5g,OLED,d,1y,Black,PREMIUM,professional, no ,missing,NaN,£8002,5625,NA,3868,NA,£5392,NaN,18500
+04/05/2024,SERVER,IOS,apple,ultrabook,2015-17,consumer,ACER,bluetooth,lcd,d,missing,WHITE,Mid-Range, GAMER ,yes,,£12227,"17,427",£2815,14183,NA,NaN,8128,9255,4837
+14/02/2024,Server,chromeos,,ULTRABOOK,<2015,Enterprise,dell, 5g ,e-ink,D,1y,Black, PREMIUM ,professional,yes,15595,7217,1232,"12,178",£1657," 9,865",8940," 5,293",NaN,£3865
+NaN,server,android,qualcomm,desktop,2021-23,NaN,LENOVO,5g,e-ink,missing,,silver,Premium,Gamer,NaN,11420,£11785,"13,539",57,NA,£18391,2035," 6,512",8178,9690
+2023-11-05,Robot,Ios,AMD,ULTRABOOK,,EDUCATION,apple,NA,missing,D,5y,silver,premium,CREATOR,NaN,18109," 2,125",-999,918,6894,£7778,14851,13678,1722,13968
+,robot,ios,apple,ultrabook,2024+,gaming,asus,bluetooth,e-ink,D,3y,Grey,premium,student,Yes,2716,10410,£15105,£11804,"10,179",,8683,-999,12358,5971
+2024-02-07,missing,missing,QUALCOMM,2-in-1, 2024+ ,ENTERPRISE,acer,wi-fi,e-ink,C,2y,black,Budget,Creator,no,9406,8304,NA,-999,2830,£18482,18563,2861,13693,3747
+20/10/2021,Server,ios,apple,2-in-1,<2015,enterprise,hp,Wi-Fi, lcd ,D,1y,,BUDGET,PROFESSIONAL,no,£11242," 4,653",£16194,13993,10566,£10644," 3,176",642,2847,17762
+31/12/2024, tablet ,macos,Intel,2-in-1, 2015-17 ,consumer,ACER,Wi-Fi,LCD,c,5y,missing,budget,professional,no,11324,"19,330",17162,14823,£4212,4917,£3684,4992,missing,9564
+2021-01-22,TABLET,Ios,APPLE,Desktop,2018-20,Education,ACER,ethernet,oled,A,2y,grey,mid-range, Creator ,YES,1635,NaN,18488,3423,9019,NA,£1407,19127,1323,10452
+2024-03-06,laptop,missing,qualcomm,desktop,2024+,-999,-999,ETHERNET,,A,3y,black,PREMIUM,student,NA," 5,821",NaN,1776,£3657,2682,"18,650"," 8,598",missing,-999,99
+missing,laptop, macos ,Apple,mini_pc,2015-17,consumer,NA,wi-Fi,LCD,d,noWarranty,silver,premium,CREATOR,yes,3970,"15,332",9099,13466,8557,16695,7347,13660,15617,18208
+-999, smartphone ,missing,INTEL,miniPc,2024+,CONSUMER,asus,ethernet,oled, d , no warranty ,white,flagship,CREATOR,Yes,,£12096,15149,1027,,NA," 5,675",,-999,"12,821"
+2023-02-11,,WINDOWS,AMD,desktop, 2015-17 , consumer ,,ethernet,MINI-LED,c,no_warranty,silver,mid-range,Creator,yes,"11,963",5762,16598,11330,16303,£4371,"10,026",NaN,10566,14018
+2024-03-19, TABLET ,linux,QUALCOMM,NaN,2015-17,GAMING,apple,-999,Oled,missing, 1y ,missing,premium,gamer,yes,13395,NA,£18099,£8727,,8088,missing,£19713,5331,5432
+2023-09-19,laptop,macos,INTEL,Mini Pc,2024+,consumer,ASUS,bluetooth,E-Ink,C,2y, black ,MID-RANGE,missing,,19587,7761,1822,8340,NaN,NaN,10895,6454,972,£11469
+11/10/2024,SMARTPHONE,chromeos,qualcomm,mini pc,2021-23,gaming,missing,wi-fi,Oled,a,1y,white,Budget,GAMER,missing,NA,1197," 9,527",7807,3818,missing,7765,£9335,£18570,15414
+18/08/2022,LAPTOP,ios,amd,Desktop,NaN,CONSUMER,HP,5G,E-Ink, D ,no_warranty,SILVER,flagship,GAMER,yes,£19670," 7,056",9371," 2,344",,8286,7662,£15569,£9376,10607
+2022-05-11,robot,WINDOWS,amd,DESKTOP,2015-17,gaming,apple,ETHERNET,NaN,C,NA,black,mid-range,Gamer,NO,£14324,£5722,16538,4896,"13,154",5470,1881,NaN,12511,NA
+2024-04-03,ROBOT, android ,amd,Mini Pc,NaN,Gaming,apple,Bluetooth,Lcd,b,2Y,grey,FLAGSHIP,Creator,Yes,£14651,11209," 6,392",£15298,8980,-999,14104,£11061,missing,£19609
+NA,smartphone, Linux ,Apple,desktop,NaN,enterprise,-999,Ethernet,lcd,NaN,2y,NaN,premium,Gamer,yes,,9211,£19873,£10704,11059,£18688,15688,8538,13589,£2290
+2022-06-04,server,missing,amd,desktop,2021-23,consumer,missing,wi-fi, lcd ,NaN,1y,white,PREMIUM,student,Yes,"10,840",,12470,2650,£14547,"18,990",NaN,3820,missing,   259
+2023-04-02,Laptop,macos,intel,Desktop,<2015, gaming ,Acer,Bluetooth,mini-led,a,3y,grey,PREMIUM,gamer,yes,£2323,7025,missing,£19355,12705,£2960,£3578,NA,19324,15569
+2024-03-06,Laptop,CHROMEOS,NaN, desktop ,2024+,-999,APPLE,5g,Mini-Led,D,2y,white,MID-RANGE,GAMER,no,19617,11661,NA,17889,18903,£5825,18738,NA,14706,17076
+06/05/2023,robot,ANDROID,intel,mini pc,2018-20,CONSUMER,apple,bluetooth,e-Ink,C,5y,WHITE,premium,Creator,yes," 8,144",missing,5892,2984,missing,19870,13654,£1276,10864,15840
+19/07/2024,laptop,android,Apple, 2-In-1 ,2021-23,GAMING,lenovo,bluetooth,e-Ink, d ,3y,White,mid-range,GAMER,-999,5265,"13,269",17900,13841,4501,19227,8971,11795,6306,£19669
+2024-07-24,laptop,Chromeos,amd,Ultrabook,<2015,education,Hp,BLUETOOTH,oled,A,3Y,silver,flagship,student,no,9207,12070,16456,14120,£10465,4978,32,6155,8263,6509
+2022-09-06,TABLET,Chromeos,qualcomm,Mini Pc, 2021-23 ,GAMING,NA,bluetooth,oled,A,NA,white, MID-RANGE ,GAMER,yes,14557,17508,-999,15457,12754,8680,6813,NaN,3690,£6242
+2021-10-03,laptop,android,Qualcomm, 2-In-1 ,2024+,education,apple,ethernet,lcd,b,5y,silver,flagship,gamer,YES,£7854,17623,123,NA,£9819,9982,8990,6727,11228,8679
+2021-02-21, laptop ,Macos, INTEL ,miniPc,2015-17,consumer,Hp,missing,E-Ink,c,5y,BLACK,budget,professional,,16584,£12150,13398,6632,19554,18007,£9040,£3377,,
+"Sep 21, 2021", tablet ,chromeos,APPLE,Ultrabook,<2015,NaN,hp,wi-fi,e-Ink,B,2y,silver,mid-range,student,NaN,-999,387," 4,207",12935,18929,4422,,1765,4794,
+2023-07-17, SMARTPHONE ,windows,intel,missing,<2015, GAMING ,apple,bluetooth,e-Ink,b,5y,GREY,mid-range,gamer,yes,,2337,15213,7430,-999,"13,409",15833,NA,-999,600
+2023-04-24,ROBOT,android,qualcomm,mini pc,2015-17,consumer,Dell,ethernet,OLED,missing,5y,SILVER,budget,student, no ,12154,10799,11757,NaN,4711,£16125," 9,732",NaN,NA,14015
+2022-05-22,tablet,chromeos,intel,ultrabook,2021-23,EDUCATION,Acer,ethernet,lcd, C ,5y,NA,MID-RANGE,student,NO,"12,127",missing,12391,missing,6062,£8136,7960,16335,14819,3924
+2021-02-06,robot,ANDROID,apple,mini_pc,<2015,Education,acer,Ethernet,NA,a,5y,,MID-RANGE,CREATOR,YES,£12846,2260,14649,7776,£2383,,12562,"12,311",14847,13918
+NaN, laptop ,Android,NaN,Desktop,2021-23,GAMING, acer , Bluetooth ,LCD,d,2y,grey,Budget,professional,YES,14975,NA,6434,£16634,£14187,missing,£16703,17484,"12,654",3183
+14/11/2023,Drone,linux,amd,ultrabook,2021-23,enterprise,asus,wi-fi, LCD ,B,2y,Silver, budget ,Gamer,no,NA,2825,9311,£123,"19,100",£14473,4255,3060," 8,793",14257
+29/03/2023,drone,windows,apple,ultrabook,<2015,Gaming,lenovo,5g,NA,a,2y,silver,budget,Professional,NA,,,11185,missing,NA,missing,NA,14174," 9,133",19835
+2024-01-04,smartphone,windows,qualcomm,ultrabook,2024+,education,Acer,ethernet, Oled ,C,NO WARRANTY,black,NA, Gamer ,Yes,10717," 2,404",17033,5897," 5,851",24,NaN,,10557,14843
+2021-04-13,TABLET, linux , amd ,missing,<2015,gaming,NaN,,oled,D,NaN, black ,Budget,creator, Yes ,NaN,NA,NA,,13810,£8993,126,NA,261,NA
+2023-05-13,LAPTOP,linux,NaN,mini_pc,NA,gaming,DELL,BLUETOOTH,oled,b,5y,NA,premium,Creator,NO,12894,"18,516"," 4,788",,missing," 8,629",12406,3847,£13383,8849
+"Apr 23, 2021",SERVER,Android,apple,2-IN-1,2018-20,Education,Dell,BLUETOOTH,E-INK,NaN,5y,silver,premium,Student,NaN,NaN,8176,,3969,£15379,2848,4633,8845,,£8735
+2023-07-19,robot,android,Amd,Desktop,2024+,enterprise,HP,bluetooth,mini-led,d,1y,BLACK,budget,creator,no,13822,15732,,16777,15828,5077,£12035,1334,£10885,£12304
+16/04/2023,laptop,ios,amd,ultrabook,2021-23,-999,LENOVO,wi-Fi, E-Ink ,A,NO WARRANTY,blue,PREMIUM,CREATOR,no,,7296,£1647,£17066,8932,2435," 7,642",missing,,£7404
+02/09/2021,ROBOT,CHROMEOS,Intel,-999,2021-23,Enterprise,HP,WI-FI,Oled,-999,NA,blue,Mid-Range,student, No ," 9,516",,17776,14848,NA,£11794,13070,£17548,£6891,13789
+07/12/2023,SMARTPHONE,Linux,AMD,DESKTOP,missing,gaming,acer,wi-fi, lcd ,a,2y,,FLAGSHIP,creator,NO,£10379,£7627,"10,213",,£13309,£13208,,1163,missing,16010
+missing,smartphone,chromeos,amd,-999,2024+,EDUCATION,dell,WI-FI,NaN,c,5Y,WHITE,PREMIUM,student,no,£19548,£5300,-999,2231,12432,"16,865","19,801","14,468",2533,11829
+"Sep 04, 2021",tablet,MACOS,amd,2-in-1,missing,Gaming,APPLE,5g,e-Ink,a,5y,grey,budget,creator,-999,-999,,157,£18378,£9909,4032,NaN,12335,11929,NaN
+NA,DRONE,windows, apple ,ultrabook,,consumer,lenovo,wi-Fi, Oled ,c,3y,WHITE,Premium,GAMER, no ,NA,"16,166"," 7,310"," 7,682",£7100,16378,"16,031",£11463,-999,£18131
+"Jul 19, 2024",tablet,linux,apple,mini_pc,2021-23,Gaming,lenovo,Ethernet,e-ink,D,2y,blue,flagship,GAMER,missing,£14782,"12,891",17672,£4936,missing,18856,missing,13831,£19374,1908
+30/07/2021,server,-999,amd,NA,<2015,,dell,NaN,mini-led,d,No Warranty,SILVER, flagship ,gamer,yes,14720,"19,102","11,160",missing,"10,216",8784,10750,1154," 5,912",12867
+2024-03-18,tablet,Ios,AMD,ultrabook,2024+,consumer, HP ,5g,lcd,d,5y,white,premium, gamer ,no,19814,5420,6525," 8,073"," 4,817",NaN,2450,3547,£6605,£17528
+2024-10-23, Server ,ANDROID,apple,desktop,2024+,enterprise,hp,Wi-Fi,Oled,-999,5y,silver,FLAGSHIP,gamer,No,16010,,"18,198",£2616,4196,7190,NA,13769,15357,2696
+2023-09-03,smartphone,windows,Amd,2-in-1,<2015,-999,,5g,mini-led,c,3y,white,Flagship,creator,no,4126,NaN,2825,NaN,13636,5731,£15643,4979," 7,772",£19979
+2024-06-09,laptop,,qualcomm, mini pc ,<2015, Consumer ,Lenovo, bluetooth ,e-ink,D,5Y,silver, Premium ,CREATOR,yes,£10921,,4908,14826,5565,8977,13837,9695,12471,-999
+03/10/2024,,macos,apple,mini pc, 2018-20 ,Consumer,Acer,5G,e-ink,d,5Y,blue,mid-range,creator,yes,14210,16512," 5,264",16671,15749,15471,-999,15761,13589," 2,937"
+16/08/2022,TABLET,android,Intel,Mini Pc,2018-20, consumer , lenovo ,wi-fi,e-Ink,d,1y,silver,missing,gamer,no," 6,131",£3393," 2,750",-999,£9038,11176,NA,7209,19035,"10,562"
+03/12/2024,laptop,macos, Apple , mini pc ,2018-20,consumer,asus,bluetooth,mini-led,C,1y,black,MID-RANGE,creator,yes,2283,missing,10934,-999,2458,205,6913,518,6268," 2,036"
+2024-01-27,ROBOT,macos,AMD,ULTRABOOK, 2024+ , enterprise ,apple,Bluetooth,OLED,a,1y,black,Premium,Creator,NaN,15798,£14845,"14,995",14145,£7820,18874,,£12146,14061,
+28/04/2022,LAPTOP,Windows,qualcomm, 2-In-1 ,2015-17,education, dell ,Ethernet,lcd,b,5y,GREY,flagship,missing,yes,"17,976",£6999,11749,-999,"19,731",17759,NaN,7664,13421,15232
+01/04/2022,laptop,chromeos,Qualcomm,desktop,2021-23,consumer,Asus,5g,NA, b ,3Y,Grey,mid-range,student,-999,9998,NaN,19654,£6137,18857,13245,709,£18716,-999,13237
+"Jul 28, 2023",Server,linux,INTEL,mini pc,2018-20,Education,hp,ETHERNET,e-Ink,b,5y,grey,Budget,CREATOR,yes,£5924,£240,£973,£6128,10231,1726,5527,"16,722",11063,16014
+"Feb 06, 2022",Server,macos,Intel,2-IN-1,2024+,Consumer,NA,NA,LCD,a,2y,white,budget, Professional ,No,2100," 3,326",19567,11818,-999,NA,9726,£12929,5015," 8,058"
+21/02/2023,smartphone,MACOS,qualcomm,2-In-1,<2015,education,ASUS,Bluetooth, mini-Led ,D,5y,white,Mid-Range,Creator,no,15890,14356,12448,£477,,15899,352,5110,5585,14705
+15/02/2021,robot,ios,Amd,ultrabook,2015-17,EDUCATION,dell,ethernet,e-ink,NA,no warranty,BLACK,mid-range,Creator,NaN,18711,310,10685,3455,14058,£15454,£3335,7381,8311,8578
+2023-04-29,Server,Windows,apple,missing,2021-23,enterprise,apple,ethernet,Mini-Led,c,1y,White,MID-RANGE,Creator,no,£11947,NaN,17922,missing,£4934," 5,923",,10003,NaN,"18,360"
+"Apr 30, 2021",robot,NaN,intel,desktop,2015-17, enterprise ,asus,bluetooth,e-Ink,c,2Y,blue,MID-RANGE,CREATOR,Yes,£8868,18071," 2,397",16022,12313,8034,£17118,18945,6403,NA
+17/03/2021,robot,android, amd ,Desktop,2015-17, consumer , Asus ,bluetooth,oled,a,1Y,NA,premium,professional,no,4453,16108,19724," 5,470",£12965,£7319,£13991,"15,186",9445,17439
+2023-05-04,drone,ios,amd,DESKTOP,2018-20,EDUCATION,Hp,bluetooth,LCD,b,2y, black ,premium,gamer,no," 8,310",14107,£19654,4562,1368,,3775,£7895,3737,18784
+03/12/2021,missing,MACOS,apple,DESKTOP,2018-20,missing,asus,Bluetooth,oled,a,NaN,BLACK,premium, Student ,YES,£8566,9684,6656,2945,missing,17003,11729,16195,161,5123
+10/12/2022,LAPTOP,macos, INTEL ,ultrabook, 2015-17 ,consumer,Dell,5G,NaN,c,noWarranty,BLUE,premium,student,yes,2815,£185,7657,£16031," 3,475"," 5,715",16660,19902," 8,970",4247
+"Jun 12, 2021",NaN,LINUX,APPLE,ultrabook,2018-20,NA,lenovo,wi-Fi,mini-led,B,2Y,silver,mid-Range,Gamer, Yes ,5234,6758,9909,3322,16517,10226,1113,   898,NaN,NA
+11/10/2023,Server,chromeos,amd,missing,2015-17,consumer, ACER ,5g,lcd,B,NO WARRANTY,blue,mid-range,student,NO,3665,3110,16689,446,7240,3748,19087," 5,284",£10506,missing
+14/12/2021,drone,macos,AMD,missing,2015-17,consumer,acer,-999,lcd,-999,no_warranty,BLACK,missing,Creator,yes,   310,18407,£12669,£6773,14148,£4826,"16,035",15617,£7916,18895
+2021-03-15,LAPTOP,Android,intel,ultrabook,<2015,gaming,acer,ethernet,oled,d,NO WARRANTY,SILVER,budget,student,yes,NA,11743,"17,341",18271,"12,947",NA,18404,7124,12381,missing
+"Oct 11, 2024",NA,ios,Intel,,NaN,CONSUMER,ASUS,5g,e-ink,a,3y,-999,mid-Range,professional,yes,£9930,£8297,12784,5320,3964,12037,missing,11005,,
+"Dec 08, 2022",tablet,Macos,qualcomm,DESKTOP,<2015,NaN,lenovo,5g,oled,b,no warranty,grey,Budget,CREATOR,No,1653,5856,-999,"12,166",£4778,"14,054",18583,3510,3416,£6602
+"Apr 22, 2022",LAPTOP,android,NaN,desktop,,EDUCATION,hp,Ethernet,oled,b,3y,GREY,Premium,CREATOR,YES,5332,14281," 2,961",£2116,8703,£3967,NaN,9133,-999,7153
+2023-12-03,Server,Ios,amd,desktop,2018-20,education,apple,wi-fi,OLED,D,noWarranty,white,flagship,student,no,£14627,NaN,5863," 8,170"," 6,823",16979,10601,NA,NA,765
+08/01/2023,Tablet,windows,missing,Desktop,NA,ENTERPRISE,DELL,NaN,E-Ink,C,1y,blue,MID-RANGE,gamer,YES,15400,£12647,18153,4009,missing,775,NA,£19576,13112,19174
+2023-03-02,laptop,chromeos,qualcomm,2-IN-1, 2024+ ,consumer,Asus,bluetooth,e-ink,b,missing,silver,flagship,STUDENT,NO,13307,6056,14948," 1,920",15015,"12,173",11706,6182,missing,6202
+2021-09-16, Drone ,IOS,intel,miniPc,2024+, education ,lenovo,Bluetooth,mini-led,d,2Y,Grey,budget,gamer,yes," 6,480",14432,2082,£12978,£5430,£8156,9957,"18,990",7695,£19222
+"Feb 22, 2024",server,Ios, Intel ,missing,2021-23,enterprise,Lenovo,ETHERNET,lcd,a,3y,grey,flagship,Professional,YES,18019,4326,3406,NaN,NaN,3043,16209,-999,872,£18266
+2023-09-23,drone,-999,amd,Ultrabook,2024+,enterprise,Dell,ethernet,Mini-Led,d,2y,missing,mid-range,student,-999,5711," 7,003",6682,11924,19504,3893,1569,15318,7938,NaN
+2024-06-21, LAPTOP ,macos,apple,ultrabook,<2015,consumer,missing,5g,,a,3y,grey,Flagship,professional,no,3789,-999,11948,15296,NA,"12,326",13906,18326,missing,2935
+2022-03-18,ROBOT, linux ,,2-in-1,2021-23, GAMING ,apple,bluetooth,Mini-Led,D,1Y,NaN,FLAGSHIP,student,Yes,12013,NA,15249,11561,4209,-999,£7406,,1995,"17,605"
+2023-04-10,NaN,linux,intel,ultrabook,<2015,Consumer,DELL,ETHERNET,NaN,B,1y,BLUE,flagship,creator,yes,"18,461",17817,£3992,18018,10256,4062,"16,680",9275,£4649," 2,657"
+27/06/2021,TABLET,android,missing,ultrabook,2021-23,gaming,Apple,BLUETOOTH,E-INK,C,1y,GREY,mid-range,professional,yes,6897,missing," 5,936",18729," 3,016","18,345",18354,£19312,,£19949
+19/02/2024,server,chromeos,AMD,ULTRABOOK,2024+,GAMING, Hp ,NaN,lcd, A ,No Warranty, Black ,mid-range,gamer, Yes ,9593,8718," 8,651",,NaN,17972,13398,£1405,3883,9256
+NA,NaN,Ios,apple,ultrabook,2018-20,consumer, Lenovo ,WI-FI, oled ,NaN,5y,NA,mid-range,student,NA,-999,3450,£11727,14016,3856,6861,18158,,9060,17424
+08/09/2021,Robot,macos,INTEL,NA,2021-23,gaming,lenovo,5g,NaN,c,,Silver, MID-RANGE ,student,no,3006,,£6302,missing,8641,"16,235",,19640,10703,15143
+23/08/2021,smartphone,CHROMEOS,apple,2-in-1,<2015,CONSUMER,dell,Ethernet,mini-led,D,no_warranty,blue,budget,Gamer, no ,10082,17581,11720,432,6293,£4147,12618,9703,10664,16678
+2024-04-27, tablet ,linux, Qualcomm ,Desktop,NA,enterprise,ASUS,wi-Fi,oled,c, 5y ,black,Mid-Range,gamer,No,4511,4981,13651,"17,729",£4645,£9350,NaN,15158,18249,£9169
+06/08/2023,LAPTOP, Macos ,missing,ultrabook,2021-23,NaN,APPLE,5g,Lcd,d,1y,white,FLAGSHIP,gamer,no,1531,£6513,16109,14200," 5,574",1737,"12,741",18755,12664,18809
+15/08/2024,robot,chromeos,,Desktop,2021-23,Gaming,apple,5g,mini-led, C ,No Warranty,white,Premium,creator,No,17682,10254,15407,17042,£19490,541,1323,4604,£18716,5425
+10/12/2022,server, linux ,apple,-999,2024+,education, Hp ,bluetooth,MINI-LED,d,5y,NaN,Mid-Range,professional,no,13761,4619," 1,449",3145,,7710,-999,£13127,778,missing
+24/11/2021,,ios,QUALCOMM,,2015-17,Gaming,apple,wi-fi,Oled,d,missing,silver,mid-range,PROFESSIONAL,YES,10378,13529,£9974,7284,758,9834,"10,456",£9871,£2080,£18699
+29/03/2024,Robot,NA,qualcomm, 2-in-1 ,2018-20,Gaming,DELL,5g,MINI-LED,NA,1Y,WHITE,mid-Range,Student,no,616," 1,161",£848,11351,£2288,1561,10871,18202,11227,10022
+"Nov 16, 2022", server ,Chromeos,amd,desktop,2024+, education ,lenovo,5G, LCD ,C, 1y ,White,premium,professional,YES,NA,902,12445,7289,£18192,£14027,missing,15102,missing,£13056
+2021-01-07,drone,missing,qualcomm,ultrabook,NaN,Consumer,Hp,missing,Mini-Led,B,missing,GREY,MID-RANGE,Professional,yes,5526," 3,644",5447,£2298,"10,168",£12728,12428,NaN,2896,322
+"Apr 16, 2021",server,windows,qualcomm,missing,2021-23, Consumer ,LENOVO,bluetooth,NaN,-999,2y,Grey,BUDGET,GAMER,yes,4939,8059,£14339,13653,14014,,3439,5605,NaN,14617
+-999,-999,missing,AMD,ultrabook,<2015,ENTERPRISE,dell,wi-Fi,missing,a,5y,white, MID-RANGE ,creator,-999,-999,£12210,6232,£15817,£17483,19783,,19540,8525,14545
+NA,robot,windows,APPLE,2-in-1,2018-20,Education,Lenovo,BLUETOOTH,Lcd,B,1y,Silver,Premium,Creator,,5304,12517,12044," 3,783",8859,"16,937",397,NA,£15333,17569
+29/03/2022,Robot,Linux,Amd,2-IN-1,2021-23,GAMING,asus,5g,lcd,c,no_warranty,grey,premium,student,no,13169,2081,16571,NA,£13275,NA,-999,1710,,10877
+14/10/2022,Robot,chromeos,Intel, 2-in-1 ,2024+,Consumer,Dell,Ethernet, mini-led ,C,NA,black, premium ,,YES,£7938,£19053,4105,11291,6201,   983,,5244,"12,169",£16037
+03/12/2023,ROBOT,CHROMEOS,INTEL,mini_pc,2021-23,GAMING,HP,ethernet,,C,3y,grey,Flagship,student,yes,"10,936",NaN,"16,407"," 1,895",4695,18058,"10,946",1190," 9,029",1658
+2022-04-06,Drone,LINUX,Qualcomm,Mini Pc,2018-20,enterprise,NA,,mini-Led,d,No Warranty,white,flagship,gamer,yes,"10,785",£11598," 6,804",£1602,"17,953",£17353,8906," 4,916",1773,£18487
+27/02/2022,Smartphone,windows,missing, desktop ,2015-17,gaming,ASUS,5G,OLED,B,3y,BLACK,flagship,Creator,No,NA,11305,13973,12129," 3,784",18281,6507,18887,£13702,11476
+04/12/2022,TABLET,NA,amd,2-In-1,2024+,Enterprise,dell,wi-fi,Oled,c,1y,Silver,Mid-Range,student,NO,17016,13037,missing,19388,£8809,8654,16992,17909,17442,£18254
+2022-04-28,Tablet,chromeos,NA,Desktop,2024+,-999,Apple,Bluetooth,,C,3Y,silver,mid-range,Professional,no,"17,195",,£11395,10636,18309,5937,6833,14271,NA," 8,727"
+24/11/2022,drone,Linux, Intel ,mini_pc,<2015,ENTERPRISE,hp,Ethernet,E-Ink,b,,silver,Premium,Professional,no,15440,11624,16577,7680,£7352,1147,,£17429," 6,515","12,271"
+-999,server,MACOS,Apple,desktop,missing,EDUCATION,acer,5g,OLED,D,1y,blue,flagship,STUDENT,yes,-999,4592,5748,16577,2933,13576,18918,NA,15882,"11,080"
+17/12/2023,DRONE,windows,QUALCOMM,desktop,2021-23,education,Apple,ethernet,e-ink,a,5Y,Black, flagship ,STUDENT,no,15960,15287,14805,-999,2702,-999,11451,13767,896,16715
+23/04/2022,server,chromeos,NA,2-in-1,2021-23,NaN,apple,wi-Fi,lcd,B,1y,Black,budget,professional,Yes,2357,8023,£3674,2122,£5547,-999,14298,£3530,10503,18572
+2023-03-26,Smartphone,windows, Amd ,2-In-1,<2015,CONSUMER, apple ,wi-fi,e-ink,B,5y,SILVER,PREMIUM,creator,No,8833,"10,991"," 1,357",4911," 6,493"," 7,862",£4260,£13535,15004,£18341
+-999, tablet ,macos,intel,miniPc,missing,consumer,Dell,5g,oled,C,3y,blue,PREMIUM,student,yes,-999,17562,19806,18460,"17,245",-999,8350,17421,NaN,£6174
+10/12/2024,Drone,ANDROID, qualcomm ,2-in-1,2018-20,GAMING,acer,ethernet,missing,B,NaN,Blue,premium,student, yes ,9256,-999,NA,1695,3370,missing,11566,18973,-999,3680
+14/12/2024,server,macos,INTEL,desktop, <2015 ,education,hp,ETHERNET,Lcd,c,no_warranty,blue,Mid-Range,gamer,yes,£14724,"10,998",10124,2888,"16,788",   801,3583,-999," 2,143",9161
+29/06/2024,laptop,MACOS,apple,2-In-1,<2015,gaming,apple,5G,,a,5Y, Grey ,NA, professional ,missing,10470,18215,NaN,£14678,"18,998",5536,14703,14698,£17198,15505
+18/06/2021,SMARTPHONE,NaN,Qualcomm,MINI PC,2015-17,Education,missing,bluetooth,e-Ink,c,1Y,grey,Mid-Range,Creator,NA,17928,8065,1449,15997,missing,"17,160",£18567,11156,1554,"11,039"
+-999,drone,android,amd,mini pc,2024+,NA,hp, 5g ,oled,,5y,NaN,BUDGET,Gamer,NO,2734,"15,713",6054,£5227,£18269,6072,£1035,1383,£11305,8672
+2024-01-16,-999,ANDROID,QUALCOMM,Desktop,2018-20,EDUCATION,LENOVO,ETHERNET,oled,C,3y,GREY,budget,student,yes,£3564,13523,2662,14584,£2131,11543,8692,£2891,-999,12913
+2024-07-26,LAPTOP,macos,qualcomm,mini pc,2015-17,gaming,asus,bluetooth,E-Ink,B,NO WARRANTY, silver ,budget,-999, YES ,7347,18534,£8699,"14,450",£14276,"19,219",6357,1191,18958,
+01/04/2022,NaN,Android,Amd,mini pc,2024+,EDUCATION,hp, WI-FI ,OLED,B,No Warranty,-999,Mid-Range, creator ,yes,missing,£16215,7600,£11343,,14537,5478,£16429,3639,£7370
+"Aug 24, 2023",DRONE,windows,apple,Mini Pc,2024+,education,asus,bluetooth,OLED,a,,silver,mid-range,professional,NO," 7,445",9137,5443,16015," 7,339",11091," 4,861",£6221,"15,052",4807
+2021-05-24,server,macos,apple,desktop,2021-23,gaming,lenovo,ethernet,LCD,b,3y,black,premium,Student,missing,17361,1697,17719,5738,8702,"15,266",4403,-999,"18,521","18,297"
+2024-06-25,SMARTPHONE,macos,qualcomm,Desktop,-999,EDUCATION,Asus,5G,MINI-LED,B,No Warranty,SILVER,premium,gamer,yes,12861,1318,10192,£9736,"16,768",£9070,18239,3891,4319,11258
+2021-12-06,Smartphone,NaN,qualcomm,NA,2021-23,gaming,DELL,ethernet,-999,b,2y,NaN,flagship,Creator,no,14743,6443,5145,4801,£14778,£17117,£4199,6170,NA," 4,854"
+18/12/2024,robot,android,-999,ultrabook,2024+,ENTERPRISE, LENOVO ,5g,lcd,b,3y,black,Premium,creator,YES,-999,£2300,19235,-999,18994,5591,17941,NA,missing," 5,411"
+2022-03-09,-999,Chromeos,intel,NaN,2021-23,Gaming,Acer,5G,LCD,a,1Y,Silver,FLAGSHIP,PROFESSIONAL,yes,,£1274,18566," 3,257",missing,£1917,12370,NA,10330,15705
+23/09/2022,Tablet,macos,NaN,,2015-17,,dell, 5g ,MINI-LED,d,5y,NA,missing,-999,yes,10142,18204,17511,5325,NaN,NA,"11,691",14674,£13572,18035
+"Aug 06, 2021",smartphone,NA,APPLE,2-In-1,2021-23,enterprise,asus, ethernet ,MINI-LED,NA,3y,White,premium,NaN,NA,"10,873",£19009,4735,19247,11592,"14,517",missing," 7,159",£16253,15059
+"Jul 10, 2023",server,Android,apple,miniPc,2018-20,education,LENOVO,ETHERNET,lcd,,2y,blue,mid-range,Creator,no,-999,£12168,10823,5452,16046,10157,£14750,£9410,£11254,18080
+2023-01-14,tablet,Ios,qualcomm,Desktop,2021-23,gaming,ASUS,wi-fi,OLED,D,3y,BLACK, Budget , Gamer ,yes," 2,662",NA,£13742,£12195,NaN,6547,13962,318,£12015,2341
+2022-02-17,laptop,Linux,apple,desktop,2021-23,gaming,LENOVO,WI-FI,lcd,a,1y,blue,Budget, Gamer ,yes,NaN,12012,£14451,£13876,1926,13253,10610,15780,£16808,5370
+,robot,LINUX, qualcomm ,desktop,2021-23,Consumer,NA,bluetooth,oled,d,3Y,white,flagship,-999,No,£16567,"11,140",,£7268,17226,9798,1212,8890,missing,17222
+2023-06-05,Robot,missing,APPLE,Ultrabook,2021-23,enterprise,ASUS,ethernet,e-Ink,NA,2Y,missing,budget,Professional,missing,"16,052",18313,3099,15994,12090,18036,£5226,£2788,£2417,9948
+"Aug 20, 2021", Tablet ,missing,AMD,desktop,2024+,Consumer,-999,WI-FI,Oled,D,missing,black,budget,Student,yes,15216,,"11,231",10503,NaN,   548,"15,893",3321,13317,£12119
+"Aug 22, 2024",Drone,Linux,amd,ultrabook,<2015, gaming ,ASUS,ethernet,LCD,c,NaN,White,Flagship,STUDENT,NaN,5910,13580,2353,£10359,"17,939",9398,1966," 9,307",-999,"16,582"
+20/02/2023,NA, windows ,apple,Mini Pc,-999,missing,acer,ethernet,Mini-Led,B,1y,missing,flagship,Gamer,no,NaN,4873,6737,1169,8576,18201,£3470,£3631,16274,8276
+2023-12-19,Laptop,chromeos,amd,-999,2021-23,Consumer,dell,ethernet,MINI-LED,b,3y,NaN,flagship,student,no,missing,NaN,9265,18297,15069," 8,252",11628,"14,543",,15966
+17/05/2021,drone,-999,QUALCOMM,NaN,2021-23,gaming,asus,bluetooth,oled,b,3y,NaN,premium,GAMER,no,9894," 2,043",10421,NaN,missing,-999,£1815,£6411," 3,963",19706
+08/11/2024,NA, Linux ,Apple,Ultrabook,2024+, ENTERPRISE ,lenovo,wi-fi, oled ,c,2Y,grey,PREMIUM,gamer,yes,19510,638,8182,NaN,11696,NA,15747,£2416,19848,19564
+2024-03-15,laptop,macos,apple, ultrabook ,2015-17,consumer,NaN,bluetooth,e-ink,B,No Warranty,white,Budget,-999,YES,missing,17928,£1848,£6787,13059,10693,5548,4595,NA,£4792
+07/06/2021,robot,windows,Apple,-999,2024+,GAMING,missing,5g,mini-Led,D,5y, blue ,NA,gamer,no,4780,8617,14020,10674,NA,2098,14869,17147,"10,227",18046
+2022-09-10,DRONE,ios, Apple ,mini pc,<2015,enterprise,Apple,5g,E-Ink,b, 5Y ,white,MID-RANGE,professional, no ,"10,456"," 8,314",16102,2857,12678," 9,342",6586,9368,4672,15873
+28/04/2023,laptop,chromeos,qualcomm, ULTRABOOK ,<2015,education, LENOVO ,ETHERNET,MINI-LED,a,NA,Black,budget,NaN,yes," 9,831",£10176,missing,£16738,611,3433,17494,£11847,£1692,13662
+2023-04-29,robot,ANDROID,intel,2-in-1,2024+,Enterprise,lenovo,ethernet,e-ink,NaN,1y,BLACK,Flagship,gamer,yes,5039,15358,£1081,£12160,3267,1572,£17482,£17452,missing,17760
+"May 26, 2023",Server,windows,Qualcomm,NaN,2021-23,consumer,,Bluetooth,E-Ink,d, 5Y ,Blue,Flagship,missing,YES,10120,"15,733","15,491",12519,16005," 7,228",12708,"17,549",11877,11249
+"May 25, 2023",NaN,windows,QUALCOMM,NaN,-999,NA,dell,ETHERNET,lcd,c, no_warranty ,Black,Budget,professional,,2959,16460,£6544,11417,£9885,-999,7872,missing,8287,2882
+-999,smartphone,android,amd,Ultrabook,2015-17,education,missing,NaN,,c,1y,missing, MID-RANGE ,NA,yes,£3783,missing,1022,7870,4226,7911,,NaN,17644,"13,097"
+missing,-999,linux,Qualcomm,2-In-1,2021-23,CONSUMER,lenovo,5g,-999,b,noWarranty,White,PREMIUM,professional,yes,£12059,18312,2587,4960,£13005,NA,missing,947,,8739
+2021-10-26,,windows,intel,miniPc,<2015,-999,hp,, mini-Led ,c,missing,SILVER,missing,gamer,no,14,43,8092," 4,998","11,408",15285," 6,400",-999,NaN,£16442
+2023-08-13,Robot,IOS, qualcomm , mini_pc ,-999,gaming,Dell,5g,e-Ink,d,2y,-999,Flagship,GAMER,NO,5501,3947,14687,9218,"19,902",18256," 2,598",12595,19137,"13,418"
+21/08/2024,Tablet,Ios,intel,NA, <2015 ,-999,dell,ethernet,OLED,b,3y,BLUE,missing,creator,yes,£15664,11016,NA,18378,,15484,15752,8698," 1,111",
+"May 04, 2023",smartphone,NaN,amd,mini pc,2015-17,enterprise,hp,wi-fi,,-999,3y,missing, premium ,student,yes,5203,4316,10207,19914,missing,14821,14139,1502,NA,17508
+2023-04-04,ROBOT,macos,-999,desktop,2024+,enterprise,ASUS,wi-fi,Oled,C,1y,blue,mid-range,CREATOR,no,149,18005,888,£13344," 6,033",3396,13102,"11,359"," 4,858",missing
+25/06/2023,server,Chromeos,Intel,ULTRABOOK,<2015,NA,ASUS,NaN,Mini-Led,NA,1y,black,FLAGSHIP,Student,yes,12351,£599,9852,18256,-999,16892,NA,4773,£10996,
+2023-03-23,laptop,Macos,-999,Mini Pc,2024+,education,apple,wi-Fi,e-Ink,a,5y,black,mid-range,NaN,yes,19141,8676," 9,107",8598,17351,£12508,"19,567",£7547,11450,4618
+2021-09-01,-999,Linux,APPLE,miniPc,2021-23,consumer,apple,wi-fi,lcd,d,5y, black ,premium,student,Yes,£13701,11089,16587,15143,16909,19006,"19,252",£11674,18890,6555
+2024-08-24,tablet,LINUX,,MINI PC,<2015,education,DELL,bluetooth,missing,B,3y,white,NA,Creator,No,9894,11101,"13,793","10,762",8865,£16481,13126,4817,£1595,11681
+26/08/2024,drone,windows,,2-In-1,-999,Education,dell,Bluetooth, oled ,A,1y,silver,mid-range,Gamer,Yes,6708,14,"11,000",11229,missing,19058,13615,missing,-999," 5,700"
+2024-03-26,tablet,LINUX,AMD,ULTRABOOK,2021-23,gaming,APPLE,ETHERNET,,a, 3y ,Blue,Flagship,Student,Yes,NaN,19653,"15,075",11381,19658,£598,18204,17888," 3,282",14507
+NA, drone ,windows,intel,ultrabook,2018-20,consumer,acer,wi-fi,LCD,a,2y,white,NaN,Student,no,10704,missing,,NaN,16072,£6847,16049,3741," 6,845",£10639
+25/12/2022,robot,android,intel, DESKTOP ,2024+,enterprise,ASUS,Ethernet,mini-led,b,5y,black,budget,NA,No,£1640,10661,9467,15341,NA,,"17,095",£3729,7219,£4102
+31/03/2022,Robot,chromeos,-999,DESKTOP,NaN,education,lenovo,missing,mini-Led,a,no warranty,Silver,MID-RANGE,professional,no,£14816,,13567,£16017,19568,3507,NA,missing,1347,10992
+16/01/2024,-999,MACOS, apple ,ultrabook,<2015,NaN,acer,wi-fi,E-Ink, B ,,GREY,FLAGSHIP,Professional,yes,"16,847",2464,7727,"13,719"," 6,006",   116,£15248,£13566,£5232,12796
+13/01/2024,drone,WINDOWS,NA,mini_pc,<2015,consumer,acer,wi-fi,e-Ink,A,missing,silver,premium,student,yes,19614,missing,6552,14146,17482,11138,£18647,"17,409",£3897,NA
+20/11/2024,Drone,IOS,QUALCOMM,2-In-1,2024+,missing,Hp,wi-Fi,Mini-Led,A, 2y ,BLACK,Flagship,creator,Yes,£12011,£999,£2183,15233,£10859,19415,NaN,NA,7426,13753
+2022-03-23,-999,ANDROID,apple,Mini Pc,2015-17, Gaming ,asus,wi-fi,NaN,D,1y,GREY,budget,NA,YES,£4442,12579,17042,7399,15972,,£12666,1701,£8207,1699
+23/01/2022,Smartphone,Android,AMD,Ultrabook,2024+,Consumer,NA,Ethernet,e-ink,b, NO WARRANTY , White ,premium,creator,NO," 3,404",9133,"15,301",8262,758,11485,14874,NA,NA,NaN
+2023-06-04,LAPTOP,Ios,apple,NA,2024+,enterprise,HP,BLUETOOTH,-999,B,-999,SILVER,Mid-Range,student,no,4345,2196," 7,169",5221,12648," 5,771",7932,missing," 8,526",£8071
+13/10/2023,NA,linux, intel ,mini_pc,2024+,EDUCATION,lenovo,wi-fi,e-ink,d,-999,Grey,BUDGET,student,No,7728,£11617,2562,-999,7397,12154,3306,£15265,,13486
+2024-05-16,-999,Ios,-999,-999,2015-17,consumer,lenovo,5G,mini-Led,a,5Y,black,Flagship,student,Yes,NaN,7132,2861,£10255,£8660,8491,,,5583,9871
+2022-11-25,server,chromeos,amd,ultrabook,2024+,Enterprise,APPLE,bluetooth,oled,c,3y,black,budget,gamer,yes,missing,17296,7533,18170,"11,784",5752,3497,7614," 4,676",15809
+2024-12-03,ROBOT,NA,missing,desktop,<2015,enterprise,hp,Bluetooth,MINI-LED,b,1y,White,flagship,Gamer, no ," 6,299",£15341,NA,1032,5561,6643,missing," 4,723",2379,4515
+20/11/2021,ROBOT,WINDOWS,NaN,mini pc,<2015,education,acer,missing,mini-Led,C,5y,blue,Flagship,creator,NO,2640,4965,16785,18159,12007,9445,6636,£15013,3907,missing
+"Sep 14, 2021",server,Linux,Amd,ultrabook,2024+,Education,NaN,bluetooth,oled, D ,No Warranty,Blue,budget,-999,yes,9183,12952,19449,   814,"19,401",-999,£12373,4453,5353,14370
+"Feb 19, 2023",server,missing,NaN,ULTRABOOK,<2015,enterprise,acer,missing,Oled,C,3Y,BLACK, premium ,professional,yes,£9530," 1,771",19645," 3,942",19266,10815,"15,514",NaN,17456,11628
+2023-07-27,server,NaN,-999,desktop,<2015,consumer,,ETHERNET,NaN,b,noWarranty,GREY,Budget,gamer, No ,,16515,5787,£19197,18785," 2,484",4864,14323,"10,297",9140
+NA,ROBOT,IOS,Qualcomm,2-In-1,2018-20, Education , lenovo ,BLUETOOTH,lcd,b,5y,blue,flagship,creator,yes,103,17695,18522,1510,"17,709",NA,16016,7289,9838,"16,520"
+27/05/2023,SMARTPHONE,Macos,qualcomm,2-IN-1,2018-20,enterprise,lenovo,ETHERNET,oled,-999,5y,White,flagship,gamer,yes,5058,"17,718",13614,"11,660"," 4,708",£18891,4621,£5668,1526,NA
+2021-03-07,server,Chromeos,APPLE, ULTRABOOK ,2018-20,enterprise,ASUS,5g,mini-led,a,1y,blue,Mid-Range,student,YES,-999,6375,987,missing,"14,663",£3468,18777,£12853,£14331,missing
+"Apr 11, 2022",NaN,WINDOWS, AMD ,ultrabook, <2015 ,Consumer,lenovo,5G,e-ink,b,1y, blue , flagship ,creator,no,14656,10255,4034,£836,10314,13178," 5,898",14679,14547,15306
+07/09/2023,drone,LINUX,-999,2-IN-1,2018-20,gaming,Apple,,LCD,c,NaN,black,budget,student,NaN,NaN," 2,505",9261," 1,089",   297,£9384,NaN,missing,17505,19085
+10/01/2023,tablet,windows, intel ,mini pc,2021-23, enterprise ,Hp,ethernet,Mini-Led,B,3y,GREY,budget,GAMER,no,£12946,NaN,5943,£8494,£15728,11020,£15195,14141,6054,14152
+2023-08-11,-999,linux,apple,2-In-1,NA,gaming, hp ,missing,E-Ink,b, 3y ,Grey,budget,creator,NaN,12793,"19,345",8697,£17153,17086,£15411,,8512,12308,£15553
+2023-09-05,-999,WINDOWS,amd,2-in-1,2021-23, gaming ,asus,bluetooth,lcd,b,5y,,flagship,gamer,No,"15,534","16,346",12146,7522,,11176,NaN,,£14328,9570
+2023-03-21,missing,Chromeos,Apple,mini_pc,2015-17, GAMING ,asus,ethernet,LCD,NaN,3y,WHITE,Mid-Range,professional,yes,11723,4647,11936,£7053,838,18390,£17279,15597,8591,3641
+"May 16, 2022",drone,NaN,apple,ultrabook,NA,Enterprise,missing,5G,E-Ink,a,-999,blue,premium,creator,No,£9823,"13,399",    32,15153,14266,£284,-999,2632,NA,12936
+19/06/2023,server, MACOS ,intel,2-IN-1,2018-20,-999,apple,bluetooth,NaN,D,5y,Black,budget,student,no,10571,9383,13299,14631,£18355,1615,6567,"11,199",£9425,12382
+02/10/2024,Server,Chromeos,Amd,desktop,2018-20,education, acer ,Wi-Fi,Mini-Led,D,NaN,grey,BUDGET,professional,Yes,18799,13871,16159,9724,12397,19009,4493,13367,8638,16862
+2023-06-11,laptop,-999,qualcomm,Desktop,2024+,-999,ASUS,5g,lcd, b ,2y,black,budget,gamer, yes ,3437,13889,7781,5196,9113,18075,12558," 6,431",1382,7941
+19/01/2022,laptop,Windows,APPLE,desktop,2018-20,Enterprise,hp,5G,lcd,D,1Y,blue,mid-range,PROFESSIONAL,yes,£7119,13842,£1814," 8,062",missing,12710,651,1840,11110,£13319
+2022-07-02,tablet,macos,amd,DESKTOP,2015-17,consumer,acer, 5g ,Lcd,a,noWarranty,blue,MID-RANGE,student,NO,£11170,19007,3703,770," 5,559",17649,17515,15199,"10,892",19922
+17/11/2022,Server,Android,qualcomm,desktop,2015-17,Enterprise,lenovo,bluetooth,oled,c,3y,white, budget ,STUDENT,no,£6256,7390,8036,£8815,NA," 2,181",751,-999," 4,456",
+2023-03-22,tablet,Macos, intel ,ultrabook, 2021-23 ,education,Lenovo,ethernet,Oled, A ,5y,blue,budget,professional,NO,1733,15261,missing,£13408," 4,726",9180,8105,NaN,15225," 6,943"
+21/11/2022,smartphone,android,Amd, desktop ,2018-20,education,dell,bluetooth,lcd,b,1y,white,,professional,YES,8770,12969,£16284,£4576,,14664,"15,860",9906,2093,£15509
+2023-04-18,laptop,ios,-999,2-in-1,2015-17,Gaming,acer,ethernet,E-Ink,C,2y,grey,,student,Yes,£19563,12228,NaN,"16,743",NA,16496,£195,774,8255,£10330
+2024-12-27,Laptop,LINUX,qualcomm,mini pc,2018-20,enterprise,acer,5G,oled,C,5Y,silver,Premium,creator,no,£15877,9154,18156," 4,852",10018,4826,£10194,8642,£11043,16875
+01/07/2024,NaN, Ios ,AMD,ultrabook,2024+, education ,hp,wi-Fi,e-Ink,b,2Y,SILVER,flagship,creator,no,"12,065",3795,£2621,18672,missing,£8585,12938,-999,,4571
+2021-11-21,Server,windows,amd,ULTRABOOK,<2015,ENTERPRISE,apple,missing,lcd,B,1y,Blue,budget,,yes," 2,878","12,354",5117,6574,10358,-999,1775,3240,14087,16404
+19/01/2024,server,CHROMEOS,amd,2-IN-1,2024+,enterprise,ASUS,bluetooth,Oled,c,noWarranty,white,MID-RANGE, student , no ,19511,NaN,-999,£9252,5239,£6499,£993,£15144,-999,NA
+2023-07-19,tablet,macos,amd,ULTRABOOK,<2015,GAMING,dell,5G,LCD,A,3y,blue,Budget,Professional,NA,8814,19569,8797,447,6610," 9,164",29,£9750,£17494,15957
+23/07/2022,SERVER,Android,NA,ULTRABOOK,missing,enterprise,LENOVO,5g,oled,b,2y,blue,MID-RANGE,PROFESSIONAL,NO,13203,17358,17911,7833,"16,425",,"15,631",2554,£10504,12124
+16/10/2022,laptop,linux,amd,desktop,2021-23,Education,Lenovo,5g, mini-led ,a,1y,SILVER,premium,Student,NA,£2386,NA,5348,12772,16539,-999,12284,13198,7278,8637
+23/10/2021,Smartphone,windows,qualcomm, desktop ,2015-17,-999,dell,ETHERNET,e-ink,c,5Y,black,FLAGSHIP,CREATOR,yes," 5,224",£4892,10455,NA,£16766,£16063,13813," 3,838",£9305,14350
+2023-09-07, robot ,Chromeos,qualcomm,2-in-1,2024+,consumer,LENOVO,5G, e-Ink ,b,NO WARRANTY,NA,MID-RANGE, gamer ,NA,19753,NaN,15754,17350,10426,"14,349"," 9,783",NaN,1029,6280
+"Dec 08, 2022",drone,android,Amd,Ultrabook,<2015,consumer,asus,5g,-999, c ,5y,white,Budget,gamer,yes,£14632,7126,"13,579",10337,15018,16084,NA,2631,12494,8381
+19/10/2022, drone ,chromeos,Qualcomm,mini_pc,<2015,ENTERPRISE, Apple , wi-Fi ,MINI-LED,B,3y,SILVER,MID-RANGE,missing,yes,10329,18252,£18858,1633,5657,6162," 9,642",4155,NaN,2332
+2024-09-22,SMARTPHONE,ios,qualcomm,,2018-20,gaming,dell, wi-fi ,Lcd,b,2y,NaN,MID-RANGE,creator,No,"13,922",£6440,NA,7061,£7465,12636,11076,-999,£6300,4600
+2022-09-04,Tablet,android,intel, miniPc ,<2015,enterprise,Hp,5g, Mini-Led , c ,2y,NA,mid-Range,missing,yes,5357," 7,651",794,2462,"16,960",2130,NA,7434,NA,
+16/10/2021,DRONE,android,Qualcomm,Mini Pc, 2021-23 ,enterprise,lenovo,wi-fi,oled,b,2Y,grey,premium, professional ,YES,956,15830,NA,£15624,9417,12461,10596," 8,176",3116,£18142
+07/05/2021,laptop,LINUX,amd,desktop,2024+,enterprise,apple,5g,OLED,a, 5y ,-999,NaN,Gamer, no ,£7917,591,14731,11064,14677,9113,£13862,£15977,NA," 4,232"
+"Jun 27, 2023",tablet,macos,qualcomm,miniPc,2024+,Education,DELL,bluetooth,Mini-Led,a,NO WARRANTY,Black,premium,STUDENT,,missing," 4,147",-999,NA,-999,-999,"18,507",7833,NaN,6733
+2022-04-12,,ios,QUALCOMM,mini_pc,2018-20,enterprise,Asus,Bluetooth,lcd,C,3Y,SILVER,FLAGSHIP,gamer,YES,,9784,13112,15125,3243,£751,£7749,6468,,"13,676"
+"Mar 26, 2023",Server, linux ,apple,Ultrabook,2018-20,enterprise,HP,ethernet,LCD,missing,no warranty, black ,premium,Student,no,,9758,15808,3640,2306,£8650,   676,16656," 7,871",9144
+"Oct 17, 2021",laptop,MACOS,apple,miniPc,NaN,EDUCATION,asus,ethernet,oled,c, NO WARRANTY ,white,Flagship,creator,yes,3410,"13,062",6786,17803,£7231,3306," 6,833",13768,19214,2774
+2022-04-02,drone,linux,AMD,mini pc,NA,GAMING,dell,Ethernet,Mini-Led,d,2y,GREY,Mid-Range,Creator, No ,1690,8664,13645,4915,18524,10722,12350," 8,143"," 7,753",2349
+2023-06-03,Tablet, LINUX ,qualcomm,DESKTOP,2021-23,GAMING,hp,5g,lcd,B,noWarranty,Black,premium,GAMER,yes,1901,5575,16191,19586,19513,-999,11199,   381,3320,14874
+2023-04-01,smartphone,windows,qualcomm, 2-IN-1 , 2015-17 ,gaming,apple,ETHERNET,oled,b,noWarranty,Silver,budget,,yes,17040,7274,7142,8976,11640,NA,11261,15196," 2,812",NaN
+2021-07-14,Server,windows,amd,NaN,2015-17,GAMING,ACER,ethernet,lcd,d,2y,BLUE,NA, STUDENT ,NO,£12296,"13,855",£15522,18298,   962,18442,13947,£10232,3900,£1932
+NaN,drone,chromeos,-999,mini_pc,NA,Education,Dell,WI-FI,oled,-999,1y,silver,budget,gamer,no,£16378,18064,NA,"13,789",12569,£459,4056,7563,£6988,403
+2024-07-27,Server,NaN,qualcomm,ultrabook,2018-20,consumer,hp,missing,OLED,A,2Y,blue, mid-Range ,Professional,no," 1,812",    84,1682,9434,£419,6238,-999,11210,£9866,14207
+"Nov 23, 2021",laptop,windows,QUALCOMM,ULTRABOOK, 2021-23 ,consumer,missing,wi-fi,lcd,D,NaN,silver,flagship,student,NO,18217,"16,617",NA,1430,6206,9736,,10258,19205,NaN
+2024-04-10,SMARTPHONE,WINDOWS,intel,NaN,<2015,gaming,-999,Bluetooth,NaN,b,1y,missing,flagship,student,Yes,10161,9942,17084," 5,733",9910,11087,2073,16597,-999,£3612
+21/04/2021,server,ANDROID, APPLE ,2-IN-1,<2015,consumer,acer, ethernet ,NA,-999,1Y,missing,NaN,,no,"14,930",18304,£838,£12310,15034,-999,"14,980",missing,8058," 1,500"
+2024-09-13,LAPTOP,IOS,intel,DESKTOP,2015-17,gaming,ACER,,LCD,d,noWarranty,Silver,mid-range,gamer,yes,4604,-999,3342,19309,missing,,-999,7906,9126,13842
+15/12/2021,Server,windows,APPLE,DESKTOP,2021-23,Education,apple,BLUETOOTH,oled,B,5y, grey ,budget,student,No,"15,600","10,420",2844," 3,789",7266,£15753,17799,18318,3183,£3213
+10/05/2023,robot,chromeos,Qualcomm,mini_pc, 2018-20 ,GAMING,HP,ETHERNET,-999,C,2y,missing,MID-RANGE,professional,yes,495,,17250,3490,5403,£18940,"12,664",15983,£18732,19569
+01/02/2023,server,windows,Qualcomm,,missing,Consumer,lenovo,bluetooth, LCD ,A,3y,SILVER,BUDGET,gamer,yes,9044,   222," 4,346",£8281,NA,NaN," 1,442",£4735,7149,£14140
+"Jun 05, 2024",robot,chromeos,amd,DESKTOP,<2015, Consumer ,ASUS,wi-fi,oled,A,no warranty, Silver ,Budget,Student,No,18056,,"13,822",£10141,3282,8655,6968,"13,494"," 9,930","17,693"
+NaN,Robot,macos,qualcomm,miniPc,2015-17,gaming,asus,5g,LCD,A,No Warranty,blue,BUDGET,gamer,NO,7960,£4239,6925,"14,307"," 3,580"," 9,041",8735,5911,3139,14557
+2021-10-16,SERVER,windows,intel,2-In-1,2021-23,EDUCATION,NA,ethernet,oled,c,noWarranty,blue,mid-Range,professional,yes,NaN,"14,198",2058,,"18,959",4287,6213,£4991,missing,11580
+29/10/2024,Drone, android ,amd,missing,-999,consumer,Lenovo,Ethernet,lcd,d,noWarranty,blue,mid-range,Gamer,NO,£3997,13928,17098,8096,19807,12712,"14,620",17468," 2,312",18479
+"Jan 28, 2022",, ANDROID ,INTEL,MINI PC,2018-20,Education,Apple,5G,Mini-Led,NA,1y,blue,missing,student,No,7003,16678," 2,865",11972,-999,"12,749",-999,NA,18703,11814
+24/04/2022,drone,NA,AMD,mini_pc,2024+,education,asus,Bluetooth,e-Ink,b,2y,grey,budget,professional,yes,missing," 6,290",13079,"14,820",missing,19194,£15532,19913,"16,213","14,716"
+30/12/2021, smartphone ,linux,APPLE,MINI PC,2018-20,education,APPLE,ETHERNET,E-INK,A,5y,grey,Budget,creator,no,7851,12670," 7,953",8071,1335,£18459,5443,11507,6215,NaN
+02/10/2021,Drone,CHROMEOS,QUALCOMM,desktop,2021-23,ENTERPRISE,dell,Ethernet,e-ink,B,NA,grey,,STUDENT,yes,£15517,£1030,2752,14470,193,13884,13504,£5224,17632,580
+12/06/2022,drone,chromeos,apple,mini pc,2024+, enterprise ,-999,Ethernet,oled,A,1y,White,mid-Range,Gamer,yes,NaN,18292,17485,,-999,£18097,10442,10476,15913,4089
+"Mar 13, 2023",Server, ANDROID ,amd,miniPc,<2015,education,lenovo,bluetooth,oled,D,1y,blue,flagship,Student,No,1387,missing,13828,14953,£15733," 4,135",10383,NA,18939,13215
+29/03/2021,drone,IOS,Apple,miniPc,2021-23,NaN,HP,wi-fi,mini-led,a, 1y ,silver,premium,student,no,18342,£9805,8100,"18,117",£14518,missing,"10,086",13765,15628,11273
+2022-12-19,Drone,NA, APPLE ,2-in-1,<2015, education ,acer,WI-FI,lcd,b,,blue,budget,professional,NO,18330,16152,-999,263,5012," 8,140",6727,2336,7049,2548
+27/02/2021,tablet, linux ,apple,2-IN-1,2018-20,NaN,lenovo,BLUETOOTH,lcd,d,2y,blue, Premium ,Gamer,Yes,11382,7957,17991,£18670,5671,17735,£6414,£655,NA,11195
+"Mar 08, 2021",missing,android,apple,-999,2015-17,Education,Apple,WI-FI,oled,b,1Y,-999, Flagship ,gamer,NO,4504,£19495,£19061,14514,6620,"14,984",£14272,11653,£883,"19,594"
+missing,smartphone, chromeos ,Apple, 2-In-1 ,2018-20,consumer,hp, ETHERNET ,Mini-Led,c,NA,Black, premium ,professional,no,4216,NA,5854,17131,£643,18688,£822," 3,920",657,10777
+23/03/2023, Smartphone ,chromeos,qualcomm,desktop,,Enterprise,acer, ETHERNET ,oled,a,2y,grey,flagship,student,No,3100,16210,4587,NaN,15676,13795,"19,597",13319,3104,8428
+24/04/2021,Server,NA,amd,mini_pc, 2024+ ,education,acer,ethernet,NA, b ,5Y,silver,Budget,Student,yes," 8,822",5311,NaN,£14469,6143," 5,211",16803,1424,missing,2191
+2022-03-07,tablet,MACOS,NaN,2-in-1,2024+,gaming,asus,WI-FI,oled,NaN,2y,white,PREMIUM,STUDENT,no,missing,£12446,,NA,"15,472",1426,4750,3945,434,
+16/04/2021,robot,macos,intel,Ultrabook,2018-20,enterprise,hp,ethernet,NaN,d,5y,BLUE, flagship ,gamer,No,18903,18840,18508,9505,£15664,5432,18324," 5,100",£14483,£17643
+"May 27, 2024",laptop,Android,intel, miniPc ,2021-23,consumer,lenovo,5G,lcd,A,NaN,BLUE,BUDGET,creator,yes,3136,£9729,17977,3185,998,13262,£7206,-999,NaN,3426
+2021-10-19, Tablet ,IOS,Qualcomm,2-In-1,2015-17,Enterprise,DELL,wi-fi,Lcd,A, 5y ,black,premium,gamer, yes ,£2525,11755," 4,784","11,519",18660,4511,17719,9168,"15,976",4801
+"Dec 24, 2024",SMARTPHONE,LINUX, Amd ,desktop,missing,enterprise,Dell,wi-fi,mini-led, b ,5y,Silver,premium,professional,,13958,missing,14137,NA,13088,572,"12,170"," 7,568",18000,9742
+,missing,NaN, amd ,desktop,2018-20, education ,hp,ETHERNET, Oled ,, 2y ,silver,premium,STUDENT,NO,4776,-999,17658,NaN,   412," 9,157",580,19217,NA,14892
+2021-10-25,robot,-999,NaN,desktop,2024+,Consumer,Lenovo,ETHERNET,LCD,-999,5Y,WHITE,budget,gamer, yes ,£10317,11538,471,,£19525,5149,9670,3780,8327,17585
+"Dec 30, 2023",server,linux,qualcomm,DESKTOP,2021-23,education,lenovo,wi-fi,lcd,D,3y,NA,flagship,,yes,£14788,1582,NaN,£9656,-999,1240,8765,3462,£18640,8757
+2023-05-28,robot,Macos,qualcomm,desktop,2015-17,consumer,acer,5G,MINI-LED,A,noWarranty,grey,Flagship,creator,no,£19211,5717,18246,14248,16149,5787,1325,6740,1668,19185
+07/07/2024,NaN,-999,AMD,,2021-23,gaming,hp,Ethernet,oled,A,5y,BLACK,premium,student,NO,2685,"18,246"," 7,736",missing,18296,18845,"10,242",18486,18939,£19065
+2022-02-03,-999,windows,intel,2-in-1,2021-23,gaming, asus ,wi-fi,Lcd,a,1Y,white,flagship,creator,yes,262," 6,516",£1668,5789,5437,4314,3242,missing," 8,661",   534
+NA,Tablet,windows,amd,ULTRABOOK,<2015,GAMING,DELL,ethernet,MINI-LED,b,-999,missing,mid-range,gamer,yes,13956,7290,5021,5076,7773,£7078,4905,missing,"13,720",£7230
+"Aug 03, 2021",smartphone,macos,apple,2-in-1,2015-17,GAMING,apple,ethernet,e-Ink, B , 1y ,black,budget,GAMER,YES,"18,018",2479,18619,NA,13372,NaN,4910,"18,536"," 6,911",
+2023-09-27,smartphone,Chromeos,,MINI PC,<2015,Education,lenovo,ethernet, Oled ,b,3y,blue,FLAGSHIP,Gamer,NO," 6,320",-999,£18837,8422,18334,£16619," 1,267",12525,-999,£6562
+"Dec 05, 2021",TABLET,Chromeos,amd,desktop,<2015,education,dell,ethernet,oled,a,3y,white,missing,missing, yes ,16618,11120,9192,5869,"14,763",9939,£339,£18563,17059,£19035
+02/03/2024,tablet,linux,AMD,Mini Pc,<2015,CONSUMER, Asus ,missing,E-Ink,D,No Warranty,Blue,-999,gamer,yes,17818,10274,14273,£2831,17975,19493," 7,760",,7331,16394
+17/03/2023,Server,android,NaN, desktop ,2018-20,CONSUMER,lenovo,wi-fi,lcd,b,5y,black,Mid-Range,student,YES,4375," 3,403",£14136,10068,6178,817,4567,"12,117",NaN,4564
+"Apr 08, 2023",smartphone, Chromeos ,INTEL,NaN,2018-20,GAMING,lenovo,ethernet,Mini-Led,a,2Y,grey,Premium,creator,YES,5597,6360,2024,£1376,4037,8932,NaN,6942,NA,18006
+15/04/2021,laptop,Windows,amd,ultrabook,missing,enterprise,hp,WI-FI,Lcd,B,missing,White,mid-Range,creator,NaN,"10,944",893,2075,-999,£16939,17975,3626,9616,19217,17911
+2023-11-28,NaN,windows,qualcomm,2-IN-1,<2015,Gaming,apple,-999,e-Ink, B ,2Y,black,Flagship,professional,Yes,9829,8368,1355,17876,-999,£4500,£17098,NaN,£15584,£15713
+2023-01-25,drone,ios,INTEL,NA,2024+,Education, Dell ,ETHERNET,mini-led,B,NA,Blue,budget,gamer,NO,19976,15110,14191,"19,800",1330,16641,£11335,£3638,-999,12484
+15/06/2022,drone,linux,qualcomm,ultrabook,2021-23,GAMING,NaN,wi-fi,E-Ink, a ,no warranty,BLACK,premium, student ,no,9824," 7,233",5577,9670,1026,874,17236,5628,£15376,£11864
+2024-07-03,SERVER,missing,missing,NaN,2021-23,NaN,Lenovo,5g,mini-Led,A,5Y,blue,budget,student,no,missing,19386,1923,£4170,£15275,5511,7322," 6,935",3429,"14,955"
+2023-02-12,robot,macos,QUALCOMM,Desktop,2024+,gaming, asus ,5g,Mini-Led, b ,3y,grey,premium, student ,-999,"12,526",4288,,18997,16586,10648,missing,13120,"13,285",£16960
+"Feb 26, 2021",ROBOT,android,apple,Ultrabook,2024+,GAMING,dell,5g,E-INK,b,5y,black,flagship,Creator,no,3311,808,19844," 7,131"," 9,566",16956,£14611,7642,32,16643
+12/04/2022,DRONE,android, apple ,Mini Pc, 2018-20 ,enterprise,Dell,Ethernet,mini-led,D,2y,silver,Flagship,creator,no,£7959,£11080,14244,15943,NaN,3185,3812,9535,4646,955
+12/09/2022,laptop,NaN, Amd ,ultrabook,NA,GAMING,ASUS,ethernet, mini-led , b ,1y,BLUE,mid-Range,professional,NaN,£5863,£7189,£8223,"15,542",16322,"12,734"," 1,180",£13828,5534,£11685
+06/03/2021,server,windows, Intel ,ultrabook, 2024+ ,consumer,hp,WI-FI,mini-led,b,1y,grey,mid-Range,GAMER, yes ,missing,7805,"16,790",18029,NA,£10155,"14,942",missing,3089,£12855
+2023-01-23,LAPTOP,Windows,Intel,ultrabook,2015-17,consumer,APPLE,5G,oled,-999,-999,Grey,budget,GAMER,yes,6203,19637,1264," 1,360",13850,16529,12880,6498,NA,6081
+09/09/2024,drone,ios,Intel,Ultrabook,2021-23,gaming, APPLE ,NA,lcd, a ,NaN,white,budget,creator,no,14650,14835,"18,527",7542,NaN,10164,733,"10,377",£8988,£1190
+"Nov 20, 2023",server,linux,QUALCOMM,ultrabook,NaN,ENTERPRISE,lenovo,ethernet,NA,b,no_warranty,grey,premium,STUDENT,no,14803,19691,-999,£9735,-999,£17971,18654,12769,16575,missing
+NaN,Drone,LINUX,Intel,missing,2018-20,-999,asus,5g,,b,1y,silver,FLAGSHIP,student,no,15971,7882,missing,2111,8399,6471,8979,4836,3554,6569
+2022-06-08,TABLET,Windows,NA,NA,2021-23,consumer,asus,BLUETOOTH, e-ink ,b,5y,silver,flagship,gamer,-999,14257,£18578,5246,£3162,7091,"11,036",12747,"16,916",7347,£417
+2021-09-16,ROBOT,Android,apple,Desktop,<2015,education,Acer,ETHERNET,E-Ink,b, 5y ,Black,missing,CREATOR,yes,NA,"14,661",18761,-999,NaN,missing,13503,2916,£9390,19283
+06/09/2021,robot,windows,qualcomm,ultrabook,2015-17,GAMING,Acer,WI-FI,MINI-LED, b ,No Warranty,missing,flagship,STUDENT,no,£18430,18376,,914,2352,£11119,16736,11444,4536,17360
+19/08/2023,drone,Windows,apple,ultrabook,2024+,gaming,LENOVO,bluetooth,MINI-LED,b,5Y,white,premium,student,No,£14081,18819,2309,"13,493",14354,£7117,8475,2996,,17608
+12/01/2021,server,WINDOWS, qualcomm ,Desktop,<2015,consumer,missing, 5g ,e-Ink,d,2Y, silver ,MID-RANGE,GAMER,no,"17,258",18115,112,£19617,2769,"11,629",19406,8434,3217,5980
+05/04/2022,server, Windows ,qualcomm,ultrabook, 2021-23 ,consumer,Hp,Ethernet,Lcd,b,1y,BLACK,BUDGET,student,yes,£8493,4386,18757,14055,2909,6270,£7271,795,17237,7758
+"May 18, 2023", robot ,android,AMD,Desktop,2024+,Enterprise,hp,ethernet,Mini-Led,C, 2y ,WHITE,Mid-Range,student,no,,10519,12275," 1,131","18,371",£6953,18169,18377,,£17246
+29/08/2023,Tablet, Ios ,qualcomm,2-In-1,2021-23,education,apple,missing,lcd,a,5Y,silver,Flagship,gamer,no,6465,"14,647",5509,266," 3,903"," 1,982",-999,308,8001," 4,614"
+NA,missing,ios,intel,Desktop,2018-20,Gaming,Asus,NA,oled,B,3y,white,Budget,gamer,Yes," 2,963",13159,16918,   930," 4,587","16,915",,7150,,6364
+22/08/2022,-999,WINDOWS,APPLE,DESKTOP,NA,gaming,acer,ethernet,,A,1y,,budget,NA,No," 2,549",13489," 4,837",£4970,5816,£6916,£10210,17685,3395,7885
+2023-10-31,SERVER, LINUX ,NaN,2-In-1,2021-23,education,Apple,Ethernet,MINI-LED,C,5y,NaN,-999,creator,YES,11089," 6,226",5064,6026,£18539,16364,£15454,10797,£14244,NaN
+2024-03-15,Smartphone,WINDOWS,NaN,DESKTOP,2018-20, gaming ,asus,missing,Oled,a,5y,-999,Premium,gamer,no,11220,875,£4403,15311,18753,10334,13866,11933,11093,£10516
+04/07/2022,ROBOT,CHROMEOS,INTEL,Ultrabook,2015-17,gaming,lenovo,ethernet,E-INK,b,5y,White,mid-range,student,no,18370,£18489,-999,17244,missing,1669,15666,NaN,13272,15349
+"Nov 09, 2021",ROBOT,macos,NA,mini pc,NA,education,APPLE,ETHERNET,e-ink,b,1y,grey,Premium,Student,yes,,,missing,£13665,4892," 3,044",15220,"10,966",£7892,"12,288"
+19/12/2021,laptop,macos,Intel,ultrabook,2021-23,consumer,apple,,-999,d,1y,grey,Mid-Range,STUDENT,no," 5,352",£16938,"10,220",655,£1490,1272,NA,8784,£18685,15116
+"Mar 14, 2022",Smartphone,MACOS,INTEL,Ultrabook,2021-23,education,LENOVO,ethernet,oled,NaN,3y,black,PREMIUM,missing,YES,£17860,1453,3131,£8340,4046,15031,16050,19010,12857,-999
+20/06/2023,NA, ios ,missing,ultrabook, 2021-23 , education ,HP,missing,-999,c,5y,Black,NA,GAMER,YES,17456,9300,17059,,£7735,5737,11606,2068," 5,816",£9545
+06/12/2022,server,NaN,amd,2-in-1,<2015,consumer,apple,wi-fi,lcd,NaN,NA,grey,flagship,creator,NaN,£2109,14349,-999,£12329,11084,"18,910",missing,8500,11840,9192
+2022-08-19,SERVER,NaN,qualcomm,DESKTOP,2018-20,GAMING,Dell,Wi-Fi,E-INK,d,missing, silver ,budget,missing,YES,"13,174"," 1,552",1411,11398,1002,-999,19893,18579,11959,NA
+14/03/2022,SMARTPHONE,Ios,intel,desktop, 2021-23 ,enterprise, hp ,wi-fi,missing, a ,3y,Silver,,creator,No,NA,£8778," 1,013",6763,676,17099,4655,£243,"14,936",18681
+"Jan 12, 2024",laptop,WINDOWS,amd,desktop,2021-23,Education,HP,-999,mini-led,c,2y,missing,PREMIUM,Creator,yes,16004,18605,16309,13787,£458,17828,15310,4856,"12,886",missing
+19/11/2022,,windows,apple,NaN,2015-17,consumer,LENOVO,wi-Fi,e-ink,D,5y,WHITE,BUDGET,NaN,no,3455,10240,12550,5384," 9,650"," 6,515",£5,1317,£2444," 9,807"
+24/12/2022,laptop,linux,amd,MINI PC,2018-20,NA,asus, 5g ,E-Ink,d,NO WARRANTY, silver ,NaN,NaN,yes,17555,£9482,missing,"15,257",7874,8790,6175,3174,£18954,£15732
+2021-09-12,NaN,android,NA,desktop,2015-17,education, apple , bluetooth ,LCD,b,NaN,missing, premium ,CREATOR, yes ,8033,5592,7601,10660,19964,£11089,missing,7133,3293,£9212
+13/02/2024,LAPTOP,MACOS,qualcomm,Desktop,<2015,gaming,,bluetooth, lcd ,a,3y,blue,Budget,student,yes,17801,7116,9870,£2115,19096,6854,"10,573",£19991,2770,£18447
+24/08/2022,NaN,windows,qualcomm,miniPc,2018-20,missing,apple,ethernet,mini-Led,c,3y,BLUE,Premium,professional,No,NaN," 5,391",1940,873,"12,766",16612,13205,10122,NA,3362
+18/10/2022,missing,NA,amd,desktop,-999,gaming,NA, bluetooth ,-999,a,missing,blue,FLAGSHIP,gamer,missing,14260,10509,,NaN," 9,544",2951,,£12599,£9231,13555
+2021-08-16,server,Windows,qualcomm,2-In-1,missing,education,APPLE,bluetooth,e-Ink,NaN,3y,Grey,mid-Range,Student,no,NA,,12225,£11175,9792,NaN,missing,£4552," 3,350",12641
+03/02/2023,Robot,Ios, QUALCOMM ,2-In-1,<2015, EDUCATION , Lenovo ,wi-fi,Lcd,a,2y,SILVER,premium,gamer,no,8213,£13067,"18,953",17470,9081,£19710,17490,3242,£4426,19387
+15/08/2024,server,IOS,amd,ultrabook,2021-23,consumer,apple,Bluetooth,Oled,b,2y,black,FLAGSHIP,STUDENT,NO,344,    48,NA,13777,5914,16903,18407,-999,2409,NaN
+"Mar 12, 2021",Tablet,WINDOWS,Amd,NA,2015-17,gaming, hp ,NA,lcd,B,NaN,Blue,MID-RANGE, Professional ,Yes,£11680,6466,12443,£4148,NaN,6747,10760,17353,£11992,"12,457"
+18/12/2021,drone,ANDROID, amd ,missing,2015-17,education,,Bluetooth,e-ink,d,NaN,black,mid-Range,,NO,13773,"13,645",6886,17102,£6267,£13607,5696,£16883,£9956,£11943
+25/04/2024,Laptop,Chromeos,,desktop,<2015,Education,dell,bluetooth,-999,a,1y,SILVER,budget,GAMER,Yes,11386,3597,£18975,   342,18674,-999,,missing,13379,£10203
+missing,SMARTPHONE,-999,intel,ULTRABOOK,2024+,education,acer,BLUETOOTH,LCD,c,NO WARRANTY,silver,MID-RANGE,PROFESSIONAL,Yes,£1087,-999,-999,10218,810,£18107,£9276,9814,£1725,£10182
+2024-09-17,Tablet,NaN,qualcomm,-999,2024+,consumer,dell,Bluetooth,Mini-Led,c,5y,NA,Budget,professional,No,NA,£6441,-999,19308,"19,017","11,633",2478,NA,£71,NaN
+2021-10-06,DRONE,linux,-999,desktop,<2015,education,NA,BLUETOOTH,Mini-Led, d ,2y,Blue,premium,STUDENT,No,7155,missing,19782,missing,14056,19691,£16394,NaN,£14083,1797
+28/01/2022,drone,Linux,NA,2-IN-1,2021-23,gaming,apple,5g, OLED ,B,3Y,silver,premium,CREATOR, yes ,3573," 1,274",12531,6460,missing,£13066,10971,£119,"15,170",11272
+2021-04-13,Smartphone,Chromeos,APPLE,mini_pc,2015-17,enterprise,dell,Wi-Fi,-999, B ,NA,grey,Flagship,creator,no,"12,179",9865,14205,9899,5014," 9,262"," 4,574",-999,12077,£909
+19/11/2024,Robot,NaN,apple,2-In-1, 2024+ ,GAMING,NaN,Bluetooth,E-Ink,,5Y,Black,,student,no,7202,13799,16,924,19161,NaN,missing,3467," 5,655",£11390
+18/06/2023,smartphone,ANDROID,AMD, desktop ,<2015,gaming,Acer,wi-fi,Lcd,a,1Y,grey,flagship,creator, no ,8249,£7802,NaN,NaN,"14,909",10360,13834,9603,13559,13853
+2022-03-14,server, linux ,Intel,Desktop,2015-17,consumer,asus,ETHERNET,lcd,D,missing,white,mid-Range,professional,missing,11491,11914,19343,18972,"17,583",NaN,18824,18199,NA,522
+2021-11-15,SMARTPHONE,linux,NA,2-in-1, 2015-17 ,CONSUMER,lenovo,ETHERNET,LCD,c,NA,grey,flagship,student,yes,8142,£12033,13122," 1,439",5341," 9,721",missing," 5,603",£3871," 3,003"
+13/09/2022,Robot,macos,intel,Ultrabook,2024+,enterprise,apple,bluetooth,oled,d, NO WARRANTY ,silver,BUDGET,gamer,no,£15548,NaN,£7220,8690,3578,£9018,5932,   654,£8592,482
+2021-12-04,SMARTPHONE, android ,INTEL,2-in-1, 2024+ ,enterprise,ACER, ETHERNET ,LCD,A,NA,Silver,flagship,PROFESSIONAL,NA,1338,£4380,,1425,£329,16268,4217,11540,9335,11432
+2022-10-19,TABLET,chromeos,qualcomm,DESKTOP,missing,education,lenovo,Wi-Fi,mini-Led, a ,3y,BLUE,mid-range,GAMER,yes,2976,13342,7643,NA," 7,091"," 8,535","15,157"," 7,420",£15336,12013
+2023-07-13,smartphone,chromeos,Amd,2-In-1,2018-20,gaming,Hp,bluetooth,oled,c,2y,white,Budget,Professional,-999,£15590,18716,10638,12823,15437," 1,505",£8117,9545,15662,16064
+"May 05, 2022",Tablet,chromeos,apple,DESKTOP,<2015,consumer,acer,5G,e-ink, B ,3y,blue,flagship,PROFESSIONAL,yes,5880,£11012,£9964,278,10097,19,"19,729",7425,NaN,£12454
+23/03/2024,smartphone,linux,AMD,ULTRABOOK,2024+,Gaming,dell,Bluetooth,oled,-999,2y,white,-999,Creator,YES,9673,7763,,"14,041",3378,8148,"15,492",missing," 1,814",£8884
+NaN,tablet,NA,Apple,missing, <2015 ,consumer,Hp,wi-Fi,LCD,B,2y,silver,premium,STUDENT,NaN,NaN," 5,281",4062,14888,12734,£13003,£15456,19608,"13,873",NA
+2024-03-25,drone,windows,qualcomm,missing,2024+,-999, DELL ,BLUETOOTH,missing,c,-999,GREY,premium, Creator ,no,,-999,missing,missing,"16,732","12,999",NA,14243,7126,6302
+2021-10-24,tablet,IOS,Amd, mini pc ,2018-20,consumer,Asus,ETHERNET, LCD ,B,noWarranty,silver,flagship,student,No,16303,,£13478,-999,5771,"14,700",NA,6856,missing,£1567
+2023-09-29,server,android,Apple,NaN,2015-17,consumer,Asus,ethernet,oled,D,3y,SILVER,Mid-Range,professional,no,7838,6444,9403,,1634,,18022,502,,12419
+2024-08-16,server,linux,Apple,ultrabook,2021-23,CONSUMER,asus,5g,missing, b ,1y, Blue ,-999,,no,,15996,4206,7617," 2,479",12150,3274,16097,9864,4067
+10/12/2023,TABLET,android,apple,2-In-1,<2015, education ,asus,bluetooth,e-ink,B,5Y,WHITE,PREMIUM,PROFESSIONAL,yes,816,5171," 5,576",7933,£652,£444,"12,066",missing,3325,£7791
+"Dec 29, 2022",Tablet,chromeos,apple,2-In-1,<2015,gaming,Apple,bluetooth,OLED,NaN,5y,GREY,premium,professional,no,15690," 3,568",6677," 5,780",,,-999,7788,"19,916",879
+03/06/2024,smartphone,macos,missing,Ultrabook,2024+, Gaming ,-999,NA,e-Ink,,1y,SILVER,mid-Range,student,NA,missing,,4792,£1299," 5,239",13306,17432,£1631,10167,18920
+2023-12-31,NA,Linux,apple,mini_pc,2018-20,education,Apple,NaN,mini-led,b,1y,BLACK,,Student,yes,£10111,9013,9545,"17,776"," 7,520",£18227,£5295,676,4780,£15310
+03/07/2022,TABLET,missing,AMD,desktop,2018-20,enterprise,lenovo,bluetooth,E-INK,A,noWarranty,black,Budget,gamer,yes,16868,9786,NA,17163,NaN,4856,17538,16117,£3623,   900
+2021-01-03,tablet, android ,AMD,2-in-1,2021-23,enterprise,APPLE,WI-FI,e-ink,a,NO WARRANTY,grey,budget,student, yes ,NaN,8711,missing,17870,15899,,15092,9437,"18,558",6025
+05/06/2021,DRONE,linux,amd,ultrabook,2015-17,NaN, asus ,Ethernet,lcd,B,,GREY,mid-Range,professional,no," 4,717",13760,10113,11776,15782,,16781,16051,£19835,£19570
+2021-09-11,smartphone,ios,intel,miniPc,,NaN,dell,5G,E-INK,C,5Y,blue,NA,student,No,£6647," 4,467",6161,16238,9356,18327,16488,"16,922",17113,3215
+12/05/2023,NaN,WINDOWS,intel,desktop,2024+,ENTERPRISE,acer,Ethernet,Lcd,c,3y,BLUE,mid-range,STUDENT,NA,"17,573",2019,16315,£16086,"16,230",missing," 3,874","18,768",10934,£12635
+08/10/2024,Tablet,chromeos,,ultrabook,2018-20,education,NA,-999,oled,A,5y,Silver,mid-Range, STUDENT ,missing,5597,16494,£14946,7345,£17886,£10518,11031," 9,146",15640,"18,503"
+11/01/2021,robot,android,apple,mini pc,2015-17,GAMING,apple,5g,mini-led,C,2y,GREY,Premium,Gamer,NA,13830,-999," 5,164",NA,£4022,10111,1715,12176,18160,missing
+19/03/2021,server, CHROMEOS ,NaN,mini pc,<2015,Gaming,Lenovo,Wi-Fi,mini-led,a,3y,black,budget,Professional,yes,NaN,7383,3343,12910,18386,missing,203,"15,941",11114," 2,605"
+02/09/2021,-999,MACOS,apple,Desktop, <2015 ,NA,Asus,Ethernet, lcd ,b,2y,blue,budget,Professional,yes,£12599,15169,-999,6693," 5,835",8685,17667,missing,13823,NaN
+09/08/2024,laptop,android,Amd,NaN, 2024+ ,enterprise,hp,5g,E-Ink,D,5y,silver, FLAGSHIP ,gamer, No ,NaN,£2010,704,13691,688,13498," 5,198",13158,521,£12765
+15/10/2023,smartphone,macos, qualcomm ,mini_pc,2015-17,consumer,lenovo,Ethernet,e-ink,,,BLUE,premium,student,no,13746,2282,4069,16990,7091,£13253,£12949,,385,2659
+30/06/2023,drone,Linux,APPLE,2-in-1,2015-17,gaming,lenovo,bluetooth,OLED,D,2y,blue,premium,CREATOR,yes,11275,4462,17683,8934,17567,£8470,3600,,11502," 7,978"
+26/03/2024,robot,Windows,Amd,Ultrabook,<2015, consumer , dell ,5g,LCD,B,3y,,mid-range,Professional,yes,2524," 3,171"," 8,729"," 9,616",16241,NA,8187,NaN,5009,NA
+08/12/2021,Smartphone,Windows,intel,NaN,2018-20,enterprise,hp,,oled,d,3y,NA,budget, professional ,,12874,10176,7325,1295,4643,2917,17163,£16628,"11,501",13517
+,ROBOT,MACOS,amd,ULTRABOOK,2024+,,apple,Ethernet,,b,5y,silver,budget,student,no,£13106,£19664,701,£19722,£1752,"14,608",NaN,£11350,NaN,"16,157"
+21/04/2024,-999,chromeos,AMD,desktop,2024+,enterprise,asus, 5g ,e-ink,a,NO WARRANTY,BLACK, FLAGSHIP ,professional,no,12389,"19,235",19151,7867,12871,£18866,3507,£18069,19656,
+2023-09-27,smartphone,android,apple, desktop ,2024+, education ,APPLE,bluetooth,oled,c,1Y,-999,budget,gamer,no,9276,£14372,£4477,"17,356",1863,16899,1116,1740," 6,028",5287
+30/11/2024,Robot,NaN,NaN,Desktop,2018-20,education,DELL,ethernet,oled,c,1y,white,premium,CREATOR,NaN,15147,973,16822,"14,908",missing,,£4482,£1321,987,11408
+2023-05-08,SMARTPHONE,Linux,NA,Mini Pc,missing,gaming,hp,5g,oled,,2y,grey,MID-RANGE,,-999,£6650,12563,17034,NA,16102,5464,3316,12579,NA," 7,281"
+09/12/2024,drone,NaN,NA,-999,2018-20,GAMING,Dell,Bluetooth,mini-led, D ,3y,grey,budget,professional,NO,£5517,12597,2822,1880,1155,12809," 5,223",1698,19688,4191
+2021-12-11,Robot, chromeos ,qualcomm,Desktop,<2015,education,dell,ethernet,E-Ink,c,3y,White,budget,professional,YES,1775,6501,,17982,16299,5292,10854,£2010,"14,925",7304
+13/01/2021,Drone,linux,intel,Mini Pc,2021-23,Gaming,Lenovo,ethernet,E-Ink,b,3y,silver,premium,gamer,yes," 6,121",5220,5665,18396,8825,15406,"19,708",-999,10284,
+08/04/2024, tablet ,macos,amd,Mini Pc,2015-17,consumer,asus,-999,Lcd,c,noWarranty,white,flagship,student,NaN,18498,14886,-999,17573,10096,7096,£5208,£16444,£14475,12206
+05/08/2021,server,android,Apple,missing,<2015,consumer,apple,ethernet,mini-led,A,No Warranty,white,premium,gamer,yes,17981,11099,4507,2388,15746,NA,£14937,3714," 7,840",19122
+missing,SMARTPHONE,linux,qualcomm,2-in-1,<2015,NaN,Apple,bluetooth,lcd,a, 2y ,Grey,Mid-Range,creator,No,NaN,17444,8668,18831,NaN,1643,"14,600",17732,£16618,9066
+08/03/2022,drone,-999,intel,mini_pc,2015-17,enterprise,ACER,5g,e-Ink,d,noWarranty,blue,mid-range,Creator,Yes,£15931,"17,166",missing," 1,324","18,390",£16578,£1382,15365,14886,19533
+2024-03-13,tablet,CHROMEOS,INTEL,2-IN-1,2024+,-999,Hp,5G,lcd,b,2y,blue,Premium,PROFESSIONAL, no ,5891,9926,5718," 2,230",340,12251,913,2111,165," 8,175"
+2023-09-30,laptop,NaN,intel,ultrabook,<2015,Gaming,asus,NaN, lcd ,d,1y,BLUE,premium,gamer,YES,2199,6680,6614,8129,16153,3063,728,16924,7411,£7792
+07/06/2021,smartphone,macos,amd,ultrabook,2018-20,EDUCATION,asus,ETHERNET,Oled,c,3y,black,-999,gamer,yes,,29,"13,091",16354,8109,16805,8065,-999," 2,329",£17087
+2024-01-24,tablet, Macos ,Amd,mini_pc,2024+,NaN,NaN,bluetooth,e-ink,NaN,5y,blue,PREMIUM,STUDENT,no,-999,14538,11476,"15,825",6603,12272,NA,missing,14142,"13,415"
+01/06/2024,missing,ios,qualcomm,ultrabook,2024+,enterprise,DELL,bluetooth,mini-led,D,-999,NA,flagship,NaN, no ,8712,-999,9500,12098,£18222,11935,NaN,16535,£12926,10186
+13/03/2021,tablet,ios, qualcomm ,missing,2021-23,GAMING,HP,bluetooth,oled,C,1Y,grey,budget,professional,,£8730,"12,752",13694,3403,18216,6716," 2,218",18136,   572," 4,319"
+07/06/2021,DRONE,missing,qualcomm,mini_pc, 2021-23 ,EDUCATION,apple,ethernet,lcd,C,No Warranty,BLUE, flagship ,student,Yes,NA,14105,14752,,-999,13379,NaN,1353,16283,19787
+2022-06-23, server ,WINDOWS,intel,mini_pc,2018-20,Consumer,ASUS,wi-fi,e-Ink,d,3y,silver,-999,PROFESSIONAL,yes,"17,489",£2766,16398,missing,£7740," 5,898",15532,"18,892",6657,NA
+-999,LAPTOP,Linux,apple,MINI PC,<2015,Education,NA,5g,oled,NA,5y,Grey,flagship,NA,no,£2988,6565,£14429,12499," 3,334","13,113",2977,£19408,18133,18348
+"Apr 21, 2022",TABLET,missing,Amd,Mini Pc,2015-17,EDUCATION,asus,5g,lcd,d,2Y,grey,mid-range,STUDENT,no,3599,2969,102,"19,584","12,004",NaN,17276,9642,916," 4,533"
+17/04/2022,robot,Android,intel, ultrabook ,<2015,consumer,missing,bluetooth,mini-led,B,no warranty,grey,budget,NA,no,"14,775",3301,£1945,9405,12123,15845,6641,£11558,18169,14546
+2023-11-24,Smartphone,android,intel,desktop,2018-20,consumer,apple,Wi-Fi,E-INK,c,2y,black,budget,PROFESSIONAL,yes,12744,£2343,"13,085",9831,13194,2297,3052,15676,8724," 8,859"
+2023-01-25,DRONE,chromeos,INTEL,mini pc,2024+,consumer,dell,,mini-Led,d,2y,Silver, BUDGET ,missing,yes,18612,NA,"14,459",£17586,13068,14869,19221,NA," 5,723",2461
+05/06/2024,laptop,android,qualcomm,ULTRABOOK,NaN,EDUCATION,DELL, 5G ,E-Ink, d ,missing,WHITE,Mid-Range,professional,No,15842,£12552,608,12284,,6874," 8,519",9086,3634,NA
+missing,drone,linux,,ultrabook,missing,-999, Lenovo ,5G,mini-led,D,2y,BLACK,mid-Range,CREATOR,yes,18135,£6446,"13,515","17,204",8929,17949,3380,958,17793,"15,091"
+09/05/2023,,,AMD,missing,2024+, Education ,Lenovo,-999,LCD,b,1y,Black, budget ,gamer, yes ," 2,877",£8621,"16,712",-999,786," 2,738",2741,18593,560,"10,974"
+2022-02-18,robot,windows,-999, miniPc ,2024+,education,HP,WI-FI,oled,B,1Y,blue,budget,Student,no,6665,,missing,19302,16745,8996,NA,18755,3779,NaN
+,-999,-999,QUALCOMM,ultrabook,2015-17,ENTERPRISE, APPLE ,WI-FI,oled,B,1y,white,budget,gamer,no," 3,461",-999,13196,£13587,-999,"16,869",12308,£14600,£3655,14742
+26/10/2021,ROBOT,Chromeos,apple,Desktop,2015-17,Consumer,asus,missing,NaN,d,NA,grey,mid-Range,creator,Yes,11944,,6754,18632,£15715,£19607,"16,405",,missing,£12266
+-999,SERVER,Android,apple,2-IN-1,2015-17,enterprise,Apple,Ethernet,e-ink,C, 5y ,blue, flagship ,Student,yes,£14747,9740,2557,1202,17949,8837,4746,missing,18817,NaN
+NaN,ROBOT, WINDOWS ,intel,ultrabook,2018-20,Gaming,asus,bluetooth,Lcd,D,5Y,blue,mid-range,NA,no,5034,£6629,,17148,19655,13389,-999,13743,£8090,£9450
+2024-05-12,tablet,android,amd,DESKTOP,2021-23,consumer,ASUS,5G,oled,-999,5y,Black,premium,creator,no,18567,9955,£9261,£6704,7798,1675,£16831," 6,445",5923,3545
+"Jul 28, 2021",tablet,macos,Amd,2-in-1,2021-23,enterprise,apple,, e-ink ,c,1y,white, Flagship ,professional,yes,5255,5194,19872,15639,1020,5745,£17464,14197,12184,16927
+NA,robot,ios,amd,desktop,2021-23,enterprise,asus,WI-FI,lcd,B,noWarranty,black,PREMIUM,-999,No,12964,13201,11073,13898,4161," 5,307",5713,"13,559","18,367",£13992
+12/12/2023,smartphone,macos,INTEL,Mini Pc,NA,gaming,ACER,5g,oled,c, 2Y ,silver,flagship,Gamer,no,NA,5398,15694,9820,12516,6072,10737," 1,853",9718,
+2024-05-23,tablet, linux ,QUALCOMM,ultrabook,2015-17,Education, acer ,5g,lcd, b ,3y,NaN,MID-RANGE,GAMER,yes,13532,,16805,£16378,10323,17262,9791,16494," 7,777",£16843
+"Dec 03, 2022",-999,windows,Amd,desktop,2024+,CONSUMER,lenovo,5g,e-ink,a,3y,grey,mid-range, professional ,yes,,£12257,NA,8032,"15,088",7888,5507,14452,,17333
+2021-07-03,tablet,Chromeos,Amd,Ultrabook, 2018-20 ,enterprise,HP,5G,oled,c,1y,blue,mid-Range, gamer , no ,11243," 2,635",£919,2845,582,£10214,£19291,4597,-999,£17612
+06/01/2021,laptop,LINUX,NaN,2-In-1,2021-23,missing, APPLE ,WI-FI, lcd ,A,3y,grey,Premium,Gamer,yes,6942,,-999,8372,5502,£16190,-999,3774,NA,11020
+17/12/2022,Tablet,chromeos,intel,miniPc, 2021-23 ,enterprise,DELL,wi-fi,mini-led,c,2y,NA,Flagship,Gamer,,4063,16263,,18909,," 6,280",NaN,10374,-999," 7,153"
+07/06/2022, Smartphone ,linux,apple, mini_pc ,2024+,enterprise,lenovo,ethernet,e-ink,a,2y,White,NA,creator,yes,£6695,£6853,34,13877,5934,18117,2444," 7,156",£6861,£16765
+2023-04-14,Server, Chromeos ,AMD,MINI PC,<2015,NA,dell,bluetooth,oled,NA,1y,,budget,Creator,yes," 7,485",£19567,6304,"15,328",5206,19213,16497,17536,13838,15551
+14/02/2022,server,Android,amd,2-in-1,2024+,gaming,Acer,5g,mini-led,B,2y,blue,premium, creator ,yes,14844,19217,8984," 6,329",14209,15043," 5,656",9606," 5,222",5689
+"Apr 13, 2023",Laptop,windows,apple,mini_pc,2018-20,ENTERPRISE,ASUS,ethernet,NA,d,5y,silver,BUDGET,creator,yes,19698,3846,£16269,2443,NA,-999,2909,£896,£16593,13425
+05/07/2024,laptop,Chromeos,intel,ultrabook,-999,,Acer,5g,e-ink,B, noWarranty ,white,mid-Range,student,yes,"13,939",£19697,"16,493",£6462,4064,1213," 2,325",13949,7721,   501
+2023-12-23,SMARTPHONE,ios,apple,Mini Pc, <2015 , GAMING ,hp,Wi-Fi,oled,D,1y,,budget,professional,missing,"11,514",9254,-999,4257,missing,12152,17017,13825,£627,£7265
+2024-11-11,smartphone,Linux,qualcomm,mini pc, 2024+ ,consumer,Hp,bluetooth,e-ink,,NA,BLUE,mid-Range,STUDENT,No,15195,12555,£9520,14524,11238,£19777,2322,18597,1125,6020
+2024-07-17,Drone,Chromeos,qualcomm,mini_pc,2015-17,gaming,apple,wi-fi,e-ink,c,3y,silver,budget,Gamer,yes,8808,3124,missing,£15273,17159,-999,£9614,15666,19062," 3,854"
+26/02/2023,smartphone,ANDROID,qualcomm,miniPc, 2024+ ,consumer,ASUS,ethernet,,c,5y,BLACK,premium,gamer,yes,1021," 7,372",17671,-999,," 1,317","14,686",11554,7861,9883
+2021-01-22,laptop,Chromeos,intel,DESKTOP,2024+,-999,lenovo,BLUETOOTH,e-Ink,D,3Y,Silver,Flagship,student,YES,2954,18336,9624,15257,£12475,£5851,17303,18773,5150,1895
+06/06/2021,SERVER,macos,amd,NA,<2015,GAMING,dell,WI-FI,E-INK,C,No Warranty,Blue,mid-range,gamer,no,11808,£994,£12272,13719,£13030,9307,NA,"16,181",18176,NaN
+2022-05-28,tablet,chromeos,intel,miniPc,2024+,missing,Hp,BLUETOOTH,mini-Led,b,5y,NaN,MID-RANGE,creator,no,9952,2744,NA,-999,NA,3952,1752,"19,607",-999,"15,565"
+15/05/2021,-999,Windows,amd,ultrabook,NaN,enterprise,apple,bluetooth,mini-led,d,noWarranty,white,budget,gamer,NO,9869,£8385,-999,17264,,12309,"13,046",2409,18228,NA
+missing,LAPTOP,linux, intel , 2-in-1 ,2021-23,Enterprise, acer ,Bluetooth,Oled,a,3Y,GREY,premium,creator,yes," 7,934",11200,15582,96,16378,13525,1281,£16247,18494,"16,949"
+2024-07-17,laptop,chromeos,apple,2-in-1,2024+,missing,lenovo,ETHERNET,e-ink,D,-999,black,Flagship,gamer,no,NaN,16949,£3760,5965,missing,"16,869",NaN,3222,15596," 7,749"
+2024-11-17,server,WINDOWS,qualcomm,ULTRABOOK,2024+, consumer ,lenovo,WI-FI,oled,d,2y,grey,budget,student,-999,£361,,3165,£19330,£19113,493,4671,15688,2450,19311
+2024-07-20,drone,ios,,ultrabook,-999,Gaming,dell,wi-fi,MINI-LED,a,No Warranty,-999,mid-range,GAMER,No,4144,£1331,2128," 4,953",854,-999,11538,11691,£4196,£18802
+2024-05-10,-999, ios ,intel,Ultrabook,2024+,gaming,asus,WI-FI,oled,C, 5y ,silver,mid-range,gamer,No,    85," 1,803",9837,£15675,988,NA,"16,535",13547," 1,673",£3328
+2022-05-03,Robot,linux, QUALCOMM ,ultrabook,2021-23,EDUCATION,apple,ethernet,oled,b,-999,BLUE, budget ,professional,YES,8998,7124,2495,"10,619",11494,£7164,-999,8511,NaN,792
+"Apr 29, 2022",tablet,NA,Intel,ultrabook,2018-20,GAMING,Asus,ethernet,Oled,a,5y,silver,premium,CREATOR, No ,£2261,"14,608",8990,£9852,9296,9152," 1,617",,5083,15555
+"Feb 11, 2023",Laptop, linux ,Amd,2-in-1,2015-17,Consumer,apple,ethernet,E-Ink,-999,no_warranty,blue,Premium,student,no," 3,352",£5601,NA,NaN,missing,2243,,6689,NA,16249
+23/02/2023,server,windows,Intel,MINI PC,<2015,Gaming,,BLUETOOTH,oled,A,5Y,silver,mid-range,Gamer,-999,missing,5831,£1809,NaN," 7,218",8634,3155,"16,751",3257,8209
+2023-11-26,Tablet,ios,INTEL,ultrabook,<2015,Enterprise,ASUS,wi-Fi,, b ,2y,BLUE,FLAGSHIP,NA,no,5192,9240,4507,£14945,9318,,5352,5165,3638,10721
+12/07/2024,SERVER,linux,intel,NaN,2015-17,consumer,Dell,Bluetooth,lcd,a,No Warranty, black ,mid-range, creator ,no,"17,252",£3303,17602,16685,18659,4361,£6387,5493,£2250,£15013
+2022-10-31,NA,LINUX,Intel, ULTRABOOK ,<2015,enterprise, hp ,Bluetooth,,d,3Y,Black,Budget,gamer,YES," 3,687",missing,"15,808",NA,4759,-999,4425,-999,14875,£19893
+"Jan 15, 2022",robot,linux,Qualcomm, ultrabook ,2015-17,GAMING,Dell,wi-fi,oled,C,3Y,NA,PREMIUM,Gamer,no,£19199,£3771,"17,316",1791,£6859,1723,15117,NaN,£11562,13080
+2021-11-01,Tablet,LINUX,Apple,2-in-1,2024+,GAMING,Apple,5G,Lcd,D,2y,silver,MID-RANGE,student,No,19899,£4761,£13629,£7197,£7286,missing,7830,13659,NaN,£10882
+17/11/2022,LAPTOP,chromeos,qualcomm,ultrabook,2024+,Education,dell,Ethernet, Lcd ,b,1y,grey,BUDGET,NaN,yes,missing,16238,8454,3642,NaN,-999,£17683,5293,9508,£8362
+06/09/2022,robot,android,NaN,Desktop,<2015,consumer,acer, 5G ,lcd,,missing,white,premium,Creator,yes,12847,"10,573",missing,11667,18510,12941,2935,13677,16818,18395
+2024-05-08,server,windows,amd,Desktop,NA,CONSUMER, acer ,Ethernet,lcd,d,3y,, mid-Range ,creator,No,11153,8962,15036,11615,13047,4345,,£4550,13274,£15704
+2024-11-29,Smartphone,NaN,missing,ULTRABOOK,NaN,education,acer,wi-fi,missing,C,2y,grey,NaN,CREATOR,yes,7980,"16,622",3956," 6,244",19015,10178,986,"11,258",13899,15166
+15/03/2021,Smartphone,linux,AMD,2-in-1,2024+,education,DELL,-999,lcd,c,5Y,GREY,budget,creator,YES,£15749,"17,152"," 4,670",£4800,11239,2872,,£10046,5608,15345
+NA,Laptop,NA,intel,miniPc,2015-17,consumer,acer,wi-fi,Mini-Led,d,3y,silver, mid-Range ,professional,yes,7174,£3113,9337,7154,£3366,,6611,261,£2997,NA
+2021-06-19, SMARTPHONE ,ios,amd,NA,2018-20,enterprise,HP,ethernet, oled ,missing,5y,Black,flagship,Professional,No,4255,10549,£2798,-999,£17826,8478,4099,15775,7161,4344
+11/05/2023,smartphone, chromeos ,apple, 2-in-1 ,2015-17,consumer,apple,Wi-Fi,E-Ink,c,5y,Black,budget,PROFESSIONAL,no,428,19405,NA,-999,15836,17781,2543,NaN,13818,17192
+2024-03-31,Server,NA,intel,MINI PC,<2015,enterprise,apple,Ethernet,E-INK,D,no_warranty,Black,mid-Range,gamer,Yes,2746,15916,£2052,333,£11076,5019,,2046,10111,
+2023-07-24,-999,android,apple,-999,2015-17,Consumer,dell,wi-Fi,Lcd,C,1y, white ,premium,CREATOR,NaN,8294,"14,206",5975," 9,836",NA,£1008,13035,5137,5158,£8321
+17/05/2023,robot,ios,QUALCOMM,Desktop,2015-17,education,Dell,5g,Oled,a,1y,WHITE,MID-RANGE,Gamer,NO,£14146," 4,371",-999,£19040,missing," 8,342",9221,16356,6546,4656
+2023-07-29,ROBOT,CHROMEOS,intel, Ultrabook , 2018-20 ,consumer,NaN,5g,e-ink,,NO WARRANTY,Blue,premium,missing,no,11582,"18,566",10168,10211,NaN,8680,19986,-999,15592,£10476
+NA,Drone,macos,-999,mini_pc,2015-17,enterprise,NaN,ethernet,MINI-LED,-999,, white ,premium, creator ,Yes,£8087,-999,"18,010",NaN,£4086,£10143,14474,4172,   389,NaN
+14/04/2022,Server, ios ,apple,mini pc,-999, consumer ,asus,5g,LCD,d,5y,Silver,,gamer,NO,missing,4929,   362,£5512,13722,£6227,768,£8418,6565,£10697
+2022-12-15,Server,NA,amd,ULTRABOOK,2021-23,gaming,dell,ethernet,,B,missing,SILVER,premium,NaN,yes," 6,027",6534,£9333,13686,6558,£12560,£10142,12908,17495,3993
+missing,drone,Linux,amd,desktop,2021-23,consumer, Acer ,wi-Fi,Oled,b,no warranty,white,NaN, professional ,yes,£3894,missing,7800,£7788,18277,£11122,"19,184",17713,2389,17716
+"Jul 09, 2024",Smartphone,,intel,miniPc,2024+,consumer,acer,bluetooth,NaN,a,5y,GREY,flagship,PROFESSIONAL,No," 5,745",NA,NA,18634,"17,335",8907,NaN,"17,848",£19571,15059
+"Apr 05, 2023",SERVER,Chromeos, intel ,ULTRABOOK,2015-17,CONSUMER,apple,ethernet,E-INK, b ,3y,white,MID-RANGE, professional ,Yes,,£10016,259,missing,NA,13283,£13645,NA," 3,946",5203
+15/12/2023,TABLET,android,apple,ultrabook,<2015,consumer,lenovo,wi-fi,lcd,NA,2Y,White,premium,creator,no,2731,NA,£1689,,9337,9800,4327,9162,5203,NA
+2024-05-21,server,LINUX,-999,mini pc,2024+,consumer,dell,wi-Fi,oled,b,2y,Silver,mid-range,NA, YES ,NA,"17,224",,4195,,17713,14262,11491,12072,7084
+2023-02-05,server,missing,Amd,Mini Pc,2015-17,enterprise,hp,5g,Mini-Led, B ,3y,NA,mid-Range,creator,no,£17425,17396,£17160,558,£11775,3244,£1824,2117,11682,£7787
+2024-04-02,Robot,linux,QUALCOMM,DESKTOP,2024+,Education,asus,NaN,oled,NA,-999,Blue,flagship,Student,No,NA,1082,18390,2208,1437,£17606,15265,11261,   667,672
+13/10/2022,laptop, Linux ,,2-in-1,, GAMING ,apple,wi-Fi,E-INK,a, 5y ,grey,FLAGSHIP,Creator,YES,12086,£15911,5570,£11314,£10258,,11524,NaN,2889,
+"Jul 28, 2021",smartphone,ios,NA,NA,2015-17,gaming,Lenovo,NaN,lcd,B,2y,SILVER, budget ,NA,Yes,17094," 5,157",8479,," 6,801",18008,10888,-999,4904,10897
+04/01/2022,,,QUALCOMM,2-in-1,2015-17,missing,acer,ethernet, mini-led ,d, NO WARRANTY ,silver,premium, CREATOR ,yes,£7496,£11,13371,3724,6597,13916,NA,1961,,£14939
+2024-07-20,drone,NaN,Amd,2-in-1,missing, enterprise ,NaN,NA,mini-led,C,,blue,MID-RANGE,creator,yes,missing,5970,"11,055",missing,5695,-999,11549,2428,17354,16667
+2023-12-04,drone,windows,intel,ULTRABOOK,2015-17,Consumer,acer,wi-Fi,Mini-Led,d,3y,White,budget,professional,,missing,-999,£9248,NA,1277,£14090,£12817,missing,NA,£9988
+2024-02-16,SERVER,ios,Amd,ultrabook,-999,education,dell,ethernet,missing,c,3y,white,budget,creator,yes,8702,913," 7,627",£9078,"15,676",7842,15922,18742,£12371,4279
+07/01/2021, drone ,Linux,Amd,ultrabook,2015-17,ENTERPRISE,-999,5g,mini-Led,B,5y,missing,MID-RANGE,PROFESSIONAL, yes ,18938,15106,"18,737"," 6,937",13051,2092,18706,6798,18343," 3,262"
+16/01/2022,drone,-999,INTEL,mini pc, <2015 ,EDUCATION,apple, bluetooth ,lcd,B,2y,white,mid-range,student,no,14098,NA,£15792,8666,"16,288",£16125,-999,£16959," 1,792",
+19/05/2023, laptop ,macos,qualcomm,Mini Pc,2015-17,enterprise,,5g,Mini-Led, c ,3y,grey,Premium,missing,yes,"11,765",£16271,19211,3865,NaN,8207,£6807,16148,4792,NaN
+"Nov 23, 2021",-999,Windows,APPLE,desktop,2018-20,-999,lenovo, 5g ,OLED,C,2y,Blue,Premium, professional ,no,4468,NaN,6341,"10,847",447,£5011," 3,517",2779,103,16596
+13/08/2023,NaN,MACOS,INTEL,NA,2015-17,Gaming,missing, Ethernet ,mini-led,d,3y,white,premium,professional,no,889,missing,10865,6098,7925,11952,12817,-999," 5,811",18504
+2023-07-17,,missing,amd, 2-in-1 ,2021-23,CONSUMER,apple,wi-fi,Lcd,c,3Y, white ,flagship,student,NO,"10,566",-999,£2895,,£18170,£5555,18265,NaN,6932,£15403
+30/05/2021,drone,android,qualcomm,2-in-1, 2021-23 ,EDUCATION, lenovo ,ethernet,oled,c,2y,SILVER,budget,student,no,"11,783",14618,-999,,"11,724",13714,7990,10801,£12834,5648
+09/01/2022,NaN,windows,qualcomm,Mini Pc,2015-17,education,dell, 5g ,oled,c,1y,Silver,premium,NaN,no,£10248,£3162,14873,15451,14616,£14242,missing,NA,8960,6962
+19/11/2024,smartphone,macos,Apple,MINI PC,2018-20,enterprise,dell, 5g ,LCD,C,5y,grey,budget,Professional,NO,   327,missing,NaN,£12302,7105,5402,4634,18498,17111,-999
+-999,smartphone,macos,intel,mini pc,<2015,,-999,5g,Lcd,B,NaN,missing,flagship,student,YES,5425,10166,15178,£4227,-999,£16885,5712,14369,3286,16243
+2023-02-20,SERVER,NA,AMD,desktop, 2015-17 ,,,bluetooth,E-INK,d,NO WARRANTY,BLACK,premium,missing,YES,11793,4259,NaN,NA,13463,4101,17885,12278,16218,13856
+28/06/2024,Smartphone,ios,apple,Mini Pc,<2015, education , LENOVO ,ethernet,Lcd,A,2y,SILVER,premium,student,missing,1845,1108,8487,"14,400",19663,"15,402",16886,£691,missing,5065
+2022-03-23,-999,WINDOWS,AMD,miniPc,-999,Consumer,apple,ETHERNET,OLED,NaN,3Y,black, budget ,professional,yes,   260,16135,13957," 6,447",,15712," 1,574",-999,£2790,£15741
+2024-11-11,Tablet,Linux,qualcomm,mini pc,<2015,EDUCATION,NA,ethernet,-999,A,2y,Black,MID-RANGE,creator,yes,£12200,   119,7374,116,-999,,NaN,10671,£17578,19437
+2024-05-27,server, chromeos ,AMD,2-In-1,<2015,education,Asus,NA,LCD,,NA,silver,premium,PROFESSIONAL,NO,2355,-999,£7080,£2107,NA,8745,17018,18229,4842,£14137
+12/01/2023,tablet,macos, intel ,2-In-1,2015-17,enterprise,DELL,bluetooth,oled,NaN,1y,black,budget,GAMER,no,"14,545",10796,1958,£14835," 6,622",NaN,11423,NaN,16374,16769
+2023-07-25,SERVER,ios, Qualcomm ,desktop,2015-17,gaming, HP ,bluetooth,E-INK,-999,5y,Silver,PREMIUM,GAMER,no,18590,,"14,060",9036,1923,14486,12586,8835,6137,15471
+27/08/2023,Laptop,linux,,desktop,<2015,Enterprise,dell,bluetooth,lcd,A,no warranty,Blue,mid-range,professional,yes,9460,14829,5098,18753,8114,13758,"14,290",-999,16170,missing
+14/11/2021,smartphone,Windows, apple ,,2021-23, Consumer ,ACER, wi-fi ,e-ink,c,no warranty,Black,-999,creator,no,6148,£5734,4683,12123," 4,172",12278," 7,841",12780," 3,997",10051
+-999,drone,MACOS,Apple,Mini Pc, 2024+ ,Enterprise,acer,wi-fi,E-Ink,a,noWarranty,Blue,missing,creator,yes,,"11,755",£14319,£14330,7562,"14,981",6300,7363,7019,7792
+13/04/2023, smartphone ,ios,intel,desktop,<2015,NaN,Asus,wi-Fi,oled, c ,noWarranty,grey,mid-Range,student, no ,£1010,16750,17016,15448,1314,"13,909",£17447,8995,9830," 4,403"
+2022-11-12,DRONE,windows,QUALCOMM,missing,NA,enterprise,lenovo,ethernet,, A ,5y,grey,budget,gamer,YES,2388,540,£17463,19025,£3299,10164,5299,15349,5177,11853
+2022-02-14,server,macos,qualcomm,2-in-1,2021-23,consumer,missing,5g,LCD,C,no_warranty,Silver, premium ,student,No,10309,8839,14184,-999,7625,6293,missing,£14239,8139,£18742
+19/03/2023,server,linux, intel ,2-In-1,NA,education,apple,wi-fi,lcd,b,No Warranty,silver,Budget,CREATOR,NO,NaN,19274,-999,"14,152",£7805,£8110,missing,,15412,£18569
+2022-03-02,NaN,linux,qualcomm,2-In-1,2024+,consumer,DELL,WI-FI,E-INK,,1y,silver,Mid-Range,student,No,NaN,£12427,£4646,13594,7936,NaN,NaN,5530,-999,missing
+21/04/2024,smartphone,Windows,NaN,Desktop,2024+,education,asus,ethernet,mini-Led,B,noWarranty,,MID-RANGE,Gamer,no,£11158,missing,15790," 4,417"," 3,251",3469,10632,£6455,6133,14426
+2024-10-20,Laptop,MACOS,-999,2-In-1,2021-23,enterprise,Lenovo,5g,e-ink,A,NaN,, flagship ,GAMER,missing,13615,17384,17769,,6881,13387,£9708,78,missing,"13,579"
+2024-06-23,tablet,windows, INTEL ,ultrabook,2024+,EDUCATION,apple,ETHERNET,E-Ink,B,no warranty, Silver ,premium,Gamer, no ,NA,14026,£13386,11104,13026,16154,3330,17190,£9153,3506
+2024-06-25,Laptop,ios,intel,2-In-1, 2021-23 ,EDUCATION,Apple,5G,,C,3y,grey,budget,Student,no,"16,115",£9059,5616,13661,missing,17987,£19590,19178,4335," 8,257"
+05/01/2023,drone,-999,NA,mini pc,-999,Enterprise,acer,5g,Mini-Led,a,1y,BLUE,FLAGSHIP,student,YES,NA,17584,4115,9736,missing,770,16053,£944,£19324,18455
+2024-01-22,robot, windows ,apple,Desktop,2018-20,gaming,hp,5g,mini-led,D, no warranty ,blue,premium, student ,yes,7316,£1934,,19606,19546,949,£3282,13644,15795,-999
+"Oct 21, 2023",server, android ,apple,2-In-1,2021-23,NaN,acer,bluetooth,Lcd,A,3y,silver,budget,CREATOR,no,6853,"11,703",-999,£3393,11015,   598,15364,3336,10349,17042
+24/09/2022,LAPTOP,CHROMEOS,amd, ultrabook ,<2015,consumer,NA,5g,lcd,c,no_warranty,silver,BUDGET,gamer, YES ,"19,626",£10930,1106,18877,£13491,missing,missing," 4,745",764,4040
+28/07/2023,drone, windows ,apple,2-IN-1,<2015,gaming,dell,wi-Fi,e-Ink,C, 5y ,white,flagship,PROFESSIONAL,yes,19862,9620,10164,1139,2829,missing,"14,656",16187,11898,£4575
+,robot,-999,intel,ULTRABOOK,2018-20,ENTERPRISE,acer,bluetooth,oled, a ,2Y,grey,MID-RANGE,creator,NO,822,-999,6842,18597,£11635,"18,254",19443,10152,16916,£15947
+"Dec 21, 2021",tablet,windows,qualcomm,missing,2024+,enterprise,apple,bluetooth,NA,NA,NaN,grey,missing, CREATOR ,NaN,10556,NaN,-999,-999,15870,4427,6353,£19066,2319,6238
+21/09/2024,LAPTOP,CHROMEOS,APPLE,missing,missing,consumer,ASUS,bluetooth,mini-Led, B ,3y,SILVER,,gamer,no,£3760,£6104,6255,5021,10013,NA,,£10588,8122,17502
+2024-10-07,,chromeos,qualcomm,mini pc,<2015, gaming ,dell,Wi-Fi,E-Ink,-999,-999,Black,Premium,CREATOR,no,£8444,£6331,18623,17648,9097,£4398,16730,4976,9462,19084
+2021-09-21,DRONE,IOS,QUALCOMM,mini pc, <2015 ,Gaming,apple,ETHERNET,NA,A,2Y,silver,FLAGSHIP,gamer,NO," 8,606",£3951,16459,3442,£12930,missing,10490,18414,14705,12022
+missing,server,macos,apple,2-in-1,2021-23,Gaming,hp,-999,,B,1Y,Black,MID-RANGE,Professional,yes," 2,739",£12526,6861,NaN,3514,£6403,3838,NA,"14,081","17,142"
+02/07/2023,server,WINDOWS,intel,desktop,<2015,Enterprise,hp,5G, Mini-Led , a ,5y, Blue ,PREMIUM,gamer,YES,10975,£15780,2769,18627,4211,NA,16482,6179,19642,19365
+18/07/2024,Smartphone, Linux ,amd,-999,2021-23,gaming,lenovo,5g,-999,D,3y, black ,premium,student,YES,£17120,15962,NaN,£12314,5572,£1746,19016,18209,£18193,17895
+2023-12-13,drone,macos,amd,ultrabook,<2015,education, HP ,5G,oled,d,No Warranty,, budget ,,yes,16974,1884,15163," 2,868",137,13786,£19389,2142,-999," 2,978"
+16/06/2024,Smartphone, macos ,intel,2-In-1,2021-23,Consumer,hp,bluetooth,lcd,D,3y,-999,flagship,-999,NO,9982,9481,14471,NA,13455,3607,missing,13490,10282,£14880
+12/02/2021,robot,android,INTEL, ultrabook ,2021-23,CONSUMER,-999,NaN,lcd,missing,3y,grey,,student,No,9760,10253,,"12,107",£2338," 5,903",15652,5717,13209," 2,472"
+, Laptop ,-999,amd,ultrabook,<2015,CONSUMER,Asus,Wi-Fi,-999,missing,3y,BLUE,Mid-Range,Gamer,no,-999,18547,10105,1726,6132,14879,,18941,13902,1458
+27/07/2023,Tablet,Macos,,ULTRABOOK,2024+,enterprise,Apple,bluetooth,-999,d,5y,blue,premium,NaN,yes,£4945,11134,495,198,8764,12988,10666,NaN,17966,£10905
+09/09/2023, tablet ,Macos,missing,ultrabook, <2015 ,,lenovo,5G,OLED,D, NO WARRANTY ,blue,NaN,student,yes,14601,£1515,18030,"19,515",£14221,2800,3897,3119,-999," 2,656"
+2021-06-12,robot,android,INTEL,ultrabook,2021-23, education ,asus,missing, e-ink ,,no warranty,Silver,NA,student,NO,NaN,433,4800,15882,8729,NA,"13,449"," 4,530","19,039",missing
+NaN,robot,ios,Qualcomm,mini_pc,,Education,APPLE, 5g ,, b ,2y,GREY,mid-range,Student,no,10543,£9156,NA,£17857,16212,missing,£10016,1981,"18,257",577
+03/09/2024,SMARTPHONE,NaN,amd,ultrabook,<2015,Enterprise,Lenovo,WI-FI,e-ink,D,no_warranty,WHITE,premium,NA, No ,7939,6355,12101,12501,19326,-999,13148,178," 3,043",5268
+27/06/2024,SMARTPHONE,linux,apple,desktop,<2015,Gaming,lenovo,ethernet,MINI-LED,c,2y,silver,NaN,Gamer,no,2901,£5189,£11824,6003,"19,564","19,062",17567,9266,"12,349",-999
+2023-11-19,SMARTPHONE,ios,AMD,2-in-1,2015-17,ENTERPRISE,LENOVO,-999,Lcd,NaN,3y,black,budget,professional,yes,£332,-999,NA,13284,missing,5727,4709,9960,6473,18228
+2023-03-27,smartphone,chromeos,missing,desktop,2021-23,CONSUMER,,5g,e-Ink,missing,1y,BLACK,mid-range,student,Yes,"19,357",£18791,NaN,£2446,13204,10774,7210,£16579,10108," 6,497"
+31/08/2024,Laptop,macos,intel,desktop,2015-17, gaming ,dell,bluetooth,e-ink,-999, 3y ,silver,premium,student,missing,£1384,2267,18616,10190,15637,"11,049",-999,8228," 1,676",10777
+2024-05-25,drone,ios,Amd,2-In-1,2015-17,enterprise,hp,5g, E-Ink ,C,3y,blue,Flagship,creator,yes,11858,missing,10843,£13595,1206,15265,15451,11307,13487,13690
+"Mar 26, 2022",DRONE,android,missing,desktop,2024+,enterprise,Hp,wi-fi,LCD,C,3Y,BLACK,Flagship,student,no,NA,3410,missing,3548,6888,8335,5511," 9,527",£10891,19703
+01/05/2024,Drone,Macos,QUALCOMM,Mini Pc,<2015,enterprise,lenovo,bluetooth,e-ink,C,3y,BLUE,flagship,Gamer,yes,9570,17733,18073,£17903," 7,343",11496,9516,missing,12412,1462
+"Sep 24, 2021",drone,linux,intel,mini_pc,2021-23,education, hp ,ETHERNET,-999,c,1y,white,Premium,NA,YES,15522,," 4,531",3611,2350,15915,£19277,£13398,19827,11343
+17/07/2024,ROBOT, Linux ,NaN,2-In-1,2024+,consumer,dell,bluetooth,oled,D,no warranty,silver,flagship,creator,no,6610,14421,15411,£18116,7302,,7628,,£2744,10426
+28/08/2022,,Macos, amd ,ultrabook,2015-17,Gaming,acer,ethernet,Oled,a,3y,BLACK,flagship,creator,YES,1009,18011,7519,9763," 8,615",£9330,-999,11367,17473,10423
+24/09/2021,drone, MACOS ,amd,ultrabook,2018-20,consumer,ACER,ethernet,LCD,c,5y,BLACK,budget,Creator,YES,6644,8733,7489,19262,15318,"17,819",5130,-999,£16403,11552
+28/07/2023, smartphone ,Android,amd,desktop,2018-20,consumer,lenovo,bluetooth,lcd,A,missing,WHITE,budget,professional,Yes," 6,438",19325,£1747,10315,18860,13383,£3344,3545,£2146,£9917
+18/11/2023,tablet,Macos,Intel,2-in-1,-999,EDUCATION,Acer,ethernet,Oled,a,noWarranty,missing,premium,creator,yes,4983,£8447," 2,490",£13627,missing," 7,923",1531,18127,£19655,missing
+2023-03-25,smartphone, CHROMEOS ,qualcomm,Mini Pc,2021-23,gaming, ASUS ,WI-FI, e-ink ,b,noWarranty,black,MID-RANGE,creator,yes,£5249,13384,70,10706,£13198,"18,694",2875,14140,4750,19739
+"Nov 09, 2021",robot,missing,INTEL,ultrabook,missing, CONSUMER ,dell,wi-fi, e-ink ,d,1Y,grey,mid-Range,professional,YES," 7,350",£9145,14247,7546,"10,135",4482,9179,£14072,12568,£2850
+2021-06-21,ROBOT,Chromeos,Amd, MINI PC ,-999,NaN,hp,ethernet,-999,A,1y,GREY,mid-range,NA,missing,10381,£1577," 8,802",9316,15843,7204,1794,£17107,13285,£288
+-999,DRONE,linux,INTEL, ULTRABOOK ,2015-17,consumer,asus,bluetooth,mini-Led,C,no warranty,,,Professional,yes,745," 7,478",6948,6128,£14115,8947,,12933,15386,18278
+"Aug 08, 2022",server,missing,intel,ultrabook,, Education ,APPLE,Wi-Fi,NaN, c ,3y,WHITE, FLAGSHIP ,professional,yes,-999,4354,"18,733",NA,5277,"18,419",3311,"15,421",14036,19584
+08/01/2024,laptop,Windows,amd,DESKTOP,2015-17,Enterprise, asus ,Bluetooth,OLED,D,5y,BLUE,premium,NaN,no,11961,£16947,9105,,£14569,£13809,£8998," 9,006",5018,6458
+15/05/2021,server,chromeos,AMD,NaN, 2015-17 ,education, hp ,Wi-Fi,mini-Led,d, NO WARRANTY ,white, budget ,missing,no,,£15065,£9342,NA,13997,4245,17598,£10191,NaN,10817
+04/07/2023,smartphone,windows,amd,desktop,<2015,Consumer,acer,wi-fi,lcd,C,No Warranty, white ,Flagship,creator,Yes,11558,15448,9862,NA,NA,NaN,13438,8813,13460,7361
+2024-09-30,smartphone,MACOS,qualcomm,DESKTOP,2021-23,CONSUMER,APPLE,5g,e-Ink,d,5y,Grey,premium,-999,yes,£3509,£18766,18812,£720,1708,5977,19381,NA,2025,£16506
+2021-10-10,Robot,Chromeos,apple,ultrabook,2024+,gaming,hp,Ethernet,mini-Led,a,-999,GREY,BUDGET,gamer,YES,16439,1190,16840,15197,6665,418,17577,19725,-999,16708
+, SERVER ,ios,intel,Desktop,2021-23,ENTERPRISE,asus,bluetooth,E-INK,a, 5y ,silver,MID-RANGE,PROFESSIONAL,No,3707,£12436,17547,7728,9086,£15762,5524,12144,,9674
+04/06/2024,Tablet, ios ,Amd,2-In-1,2024+,education,apple,5g,oled,D,2y,grey,Mid-Range,CREATOR,yes," 2,097",,-999,11487,£14177,"14,673",£9634,3577,missing,9342
+2021-07-13,,CHROMEOS,apple,ultrabook,2018-20,consumer,Acer,bluetooth,e-ink,a,3Y,black, MID-RANGE , professional ,NaN,5892,13891,£18714,9045,15836," 3,022",2153,6218,NaN,
+14/04/2024,smartphone,macos,amd,desktop,2015-17,gaming,Asus,5g,missing,a,1y,blue,budget,gamer,NO,4062," 8,573",,12698,16721,822,"14,860",7481,"16,723",missing
+2023-08-16,robot,ANDROID,intel,mini_pc,2021-23,,Apple,wi-fi,oled, a , 2y , blue ,flagship,professional,no,15346,6788,4588,15838,"12,666",13332,10165,7783,19462,10663
+10/01/2021,tablet,Macos,NaN, mini_pc ,2024+,education,Acer,ethernet,mini-Led,B,no_warranty,blue,MID-RANGE,student,No,£6949,   383,3312,10693,NA,£16823," 7,261"," 2,394","17,752",2092
+06/01/2023,server,Android,qualcomm,DESKTOP, <2015 ,consumer,hp,bluetooth,E-Ink,D,2y,black,-999,professional,Yes,6267,51,9913,£4507,"12,956",,£19043,-999,NA,£1836
+16/03/2022,laptop,linux,intel,2-In-1,-999,education,DELL,ethernet,E-Ink,a,1Y,silver,,creator,NO,£10769,404,"13,357",14339,19347,14478,"17,090","19,076",NA,£18976
+2023-09-14,robot,macos,AMD,Ultrabook,2015-17,enterprise,dell,5g,e-ink,NaN, 1y ,black,flagship,CREATOR,yes,16962,18533,1200,,NaN,8212,4673,18564,£11690,1869
+16/05/2023,TABLET,MACOS,Qualcomm,mini_pc,2021-23,EDUCATION,acer,Wi-Fi,mini-Led,A,3y,silver,flagship,missing,yes,14888,12370,15710,£8026,9984,13045,10227,5963," 7,658",12464
+24/12/2021,tablet,macos,QUALCOMM,ultrabook,2018-20,-999,apple,wi-fi, oled ,A,3Y,white,flagship,STUDENT,,,NA,£7260,16354,2193,19253," 3,462",£1081,NaN,1514
+08/09/2021,server,chromeos,intel,-999,2015-17,consumer,acer,BLUETOOTH,lcd,c,2y,grey,,student,no,6262,missing,12368,11489,18798,19144,11081,-999,3304,£18719
+22/08/2024,smartphone,Windows,amd,DESKTOP,2018-20,Gaming,Acer,ethernet,lcd,D,2y,white,premium,PROFESSIONAL,Yes,£13315,,9775,13343,"10,412",1169,12163,1221,NaN,3156
+2024-08-02,-999,macos,INTEL,DESKTOP, 2024+ , GAMING ,,5g,mini-Led,D,1Y,GREY,missing,gamer,YES,NA,9160,£13991,," 9,226",17561,3479,4643,    92,£2176
+NaN,drone,LINUX,amd,2-in-1,<2015,consumer,dell,bluetooth,mini-Led,c,1y,black,budget,GAMER,no,10586," 8,371",10380,"16,659","16,849",   411,NA,4154,£12429,8347
+12/09/2024,drone,-999,amd,NaN, 2015-17 ,enterprise,apple,Ethernet,e-Ink,C,2Y,Grey,flagship,professional,no,11222,5654,7716,17487,12221,£10170,11385,"18,609",11104,£16412
+2022-10-03,Laptop,android,amd,NA,2024+,enterprise,lenovo,5g,oled,C,missing,white,budget,NaN,yes,£15704,"15,419",8747,4126,17578,9790,7492,17719,NA,NaN
+2024-01-30,smartphone,windows,QUALCOMM,Desktop,2024+,Consumer,hp,5g,LCD,D,2y,blue,mid-Range,student, no ,18802,12712,-999,8855,16416,9198,£3579,5451,10764,19169
+"Oct 03, 2021",TABLET,,-999, MINI PC ,2018-20,GAMING,apple,wi-fi,E-Ink,D,2y,White,flagship,Professional,no," 9,933","11,543",14959,"18,312",£7478,14146,£18391,13647,16815,"18,278"
+11/02/2022,Server,linux,INTEL,2-in-1,2018-20,consumer,dell,bluetooth,e-ink,A,1y,blue, budget ,Professional,no," 1,807",11032,7174,NaN,£7501," 8,707",NA,£12462,£65,4492
+"Dec 31, 2024",Laptop,chromeos,Qualcomm,mini_pc,2021-23,,Apple,ethernet,e-ink,-999,1y,white,mid-range,GAMER,yes,1366,13220,missing,£17393,£2062,18283,,8597,8087,18550
+25/10/2022,NaN,Linux,amd,Ultrabook,,ENTERPRISE,ACER,5g,e-ink,NaN,1y,grey,Premium,student,yes,£4370,10921,2691," 2,501",-999,£8948,"14,677"," 7,935",£3753,£14172
+2022-03-25,drone,Linux,qualcomm,2-in-1, 2018-20 ,EDUCATION,dell,5g,NaN,b,2y,-999,premium,Creator,NaN," 9,013",14017,-999,,9158,NaN,1150,19866,15173,17352
+24/06/2022,laptop,android,intel,Desktop,2015-17,,hp,ethernet,e-ink,NaN,1y,silver,Budget,creator,Yes," 4,494",,13778,NA,£14975,£18090,£14748,11703,443,16059
+22/07/2022,tablet,LINUX,QUALCOMM,NA,2021-23,GAMING,-999,WI-FI,Mini-Led,D,1y,black,budget,gamer,YES,7187,-999,£11062,711,£7512,-999,£13484,£5566,19946,13446
+18/03/2024,server,LINUX,, ultrabook ,2024+,ENTERPRISE,acer,NaN,mini-led,A,NO WARRANTY,GREY,mid-range,creator,NO,11138,4277,16759,8776,£5288,,621,£3548,8327,11285
+25/10/2024,DRONE,Linux,NaN,ultrabook,2021-23,gaming,Apple,BLUETOOTH,lcd,d,5y,grey,Budget,creator,yes,£16304,7011,16028,18026,£13185,12759,£11430,19056," 7,181",NaN
+2021-07-26,ROBOT,android,NaN,2-In-1,2024+,missing,Dell,wi-Fi,oled,c,2y,blue,premium,gamer,no,18896,1542,"18,816",3025,£19467,£13588,15513,"13,863",8726,15320
+missing,LAPTOP, ios , qualcomm ,ultrabook,2024+,NaN,asus,5g,oled,c,5Y,black,Budget,Gamer,Yes,"17,344",£6333,£3039,£14819," 4,895","18,494",£7817,£8969,£7158,£2241
+11/01/2024,robot,missing,apple,NA,2015-17,ENTERPRISE,Apple,5g,Oled,b,NO WARRANTY,WHITE, premium ,creator, NO ,missing,£14738,12559,,"19,223",£9061,,£19589,£15306,4118
+2023-05-25,,Windows,apple,Mini Pc,2021-23,GAMING,ACER,Bluetooth,Oled,d,1y,grey,PREMIUM,gamer, Yes ,"17,051",14571,£657,£15897,7529,£4723,17618,7656,19788,17901
+2023-09-25,DRONE,chromeos,intel,miniPc,2024+,missing,Lenovo, 5g ,lcd,B,1Y,Black,-999,STUDENT,YES,missing,£9588,£3486,13324,12496,2296,5199,18089,4443," 7,320"
+20/11/2021,tablet,,amd,Mini Pc,<2015,CONSUMER,missing,Bluetooth,OLED,d,5Y,grey,PREMIUM,Creator,No,£1856,£3005,14118,601,11918,10826,£5833,3754,7434,3780
+10/04/2024,robot,Ios,apple,Mini Pc,<2015,consumer,hp,ethernet,-999,D,1y,blue,premium,Gamer,yes,12321,5320,18895,13427," 6,971",missing,5766,"17,290",£6705,NaN
+07/12/2024,robot,chromeos,Qualcomm,NA,2015-17,gaming,Apple,5g,oled,c,1y,blue,NaN,,yes,2206,16873,10403,15562,16542,14662,,,6391,9504
+2024-10-23,,IOS, INTEL ,2-In-1,2024+,enterprise,apple, BLUETOOTH ,LCD,a,1Y,-999,PREMIUM,professional,yes,7785,3486,8309,10534,12923,12845,10901,7727,16226,17504
+2024-09-19,tablet,linux,apple,ultrabook,2018-20,Gaming,HP,wi-Fi,missing,c,3y,White,mid-Range, gamer ,yes,£9914,11528," 5,000","10,265",   599,9664,11322,8410,12518,£18534
+2023-07-06,server,CHROMEOS,AMD,2-in-1,2021-23,consumer,ASUS,BLUETOOTH,missing,A,2Y,missing,Budget,professional,yes,missing,£6707,19096,16267,   188,£6380,£1143,£19671,-999," 9,481"
+2023-04-18,drone,Chromeos,qualcomm,2-In-1,NaN,enterprise,APPLE, Ethernet ,mini-led,a,5y,Black,budget,Creator,yes,"16,303",NaN,13383,NA,£17351,1007,3375,1669,17564,16025
+05/02/2022,server,windows,Amd,mini pc,2024+,CONSUMER,dell,wi-fi,oled,b,1Y, Grey ,premium,gamer,yes,-999,2818,9033," 2,529",£642,£14113,10064,,NA," 2,521"
+2024-09-25,drone,NaN,apple,mini pc,-999,EDUCATION, Dell ,5g,NA,b,5y,black,premium,,no,"17,115",£4781," 6,980",£4536,9531,11528,10553,14725,£537,"11,852"
+2022-03-05,Tablet,linux,Intel, ultrabook ,2018-20,gaming,asus,wi-fi,lcd,c,5y, blue ,,STUDENT,no,16218,£9831,649,," 3,681",NaN,10374,619,missing,7996
+2022-05-02,Drone,android,AMD,2-in-1,2018-20, Gaming ,apple,wi-fi,lcd,b,5y,Black,BUDGET,PROFESSIONAL,no," 4,615","12,063",NaN,10017,"10,477",NaN,16998,NaN,15865,1364
+-999,NA,android,APPLE,2-in-1,2015-17,missing,dell,bluetooth,LCD,c,1y,blue,PREMIUM, professional ,Yes,3695,17180,"14,146",NaN,3702,£869,£19852,£13283,17623,13703
+15/03/2022,missing,macos,Intel,ULTRABOOK,2024+,NA,Lenovo,missing,mini-led,a,3y,BLACK,premium,Student,NO,NaN,NaN,£8639,12265,15455,14325,£9491,17079,18739,11195
+25/06/2023,tablet,,Qualcomm,mini_pc,2015-17,gaming, asus ,bluetooth,lcd,,5y,white,Mid-Range,gamer,no,8570,"13,765",18509,13134,15637,6414,£18058,7761,NaN,-999
+2024-04-23,server,MACOS,APPLE,ultrabook,missing,education,lenovo,wi-fi,Lcd,a,1y,BLUE,NA,creator,no,£3590,£15083,12727,"15,055",£8062,18758," 2,998",17453,4920,missing
+2022-06-25,tablet,-999,NaN,Desktop,2024+,EDUCATION,lenovo,wi-fi,,b,5y,blue,Premium,GAMER,no,6608,14427,   983,1918,£3494,19055,14111,9328,598,£15501
+"Oct 06, 2022",robot,chromeos,amd,mini_pc,,gaming,Lenovo,ethernet,MINI-LED,d,2Y,silver,mid-range, professional ,yes,"12,815",2507," 9,440",£16783,"12,158",18051,£3888,4871,NaN,5178
+"Feb 06, 2021",drone, WINDOWS ,Apple,miniPc,<2015, gaming ,Acer,Bluetooth,LCD, b ,no_warranty,Blue,MID-RANGE,Gamer,No,6445,6700,"18,105"," 7,902"," 3,802",-999,9699,missing,8865,3088
+2023-09-30,smartphone, android ,Intel,-999,2021-23,gaming,acer,5g, Lcd ,D,2y,white,FLAGSHIP,creator,no,£13660,17910,-999," 1,225",-999,2347,15888,£17938,   861,"19,793"
+07/12/2023,Laptop,Android,amd,desktop,2024+,consumer,APPLE, 5G ,missing,d,no warranty,WHITE, mid-Range ,creator,yes,,3217,£6147,17811,7212,970,11861,2605,£3888,16179
+11/11/2021,ROBOT,chromeos,Amd,Mini Pc,2024+,EDUCATION,, wi-Fi ,,A,-999,Blue,budget,student,yes,17546,4912," 8,630",14932," 7,078",NaN,9996,4961,8808,8601
+20/08/2021,Smartphone,windows,apple,NA,2015-17,CONSUMER,Dell, 5G , MINI-LED ,C, no_warranty ,blue,premium,gamer,no,933,3479," 8,630"," 3,481",10837," 4,003",4164," 7,881",-999,17885
+04/10/2021, drone ,macos,QUALCOMM,NaN,<2015,education,apple,ETHERNET,mini-led,c,no_warranty,missing,Flagship,student,-999," 8,023",4439,missing,1473,11819,£2842,14487,"15,332",£3171,NaN
+missing,DRONE,Ios,missing,Ultrabook,2024+,consumer,Lenovo,bluetooth,oled,NaN,5y,missing,budget,student,Yes,£4127,"19,070",-999,17809,£16382,15515,1425,9311,NaN,NaN
+"May 06, 2024",tablet,Ios, Qualcomm ,Desktop,2024+,education,NA,5G,Lcd,d,1Y,NaN,budget,creator,NO,£231,"18,631",NA,19280,11896," 4,433",7262,14215,£8555,NA
+26/02/2023,tablet,ios, AMD ,NaN,-999,education,acer,wi-fi,oled,b,3y,-999,flagship,professional, No ,13742,13504,5668,14291,9416,986,-999,501," 3,701",6750
+2022-05-10,laptop,macos,qualcomm, desktop ,2018-20, consumer ,Apple,wi-Fi,lcd,c,5y,WHITE,flagship,student,no,7659,5541,£273,19249,£4862,10944,15151,3731,6994,16267
+2024-11-04,server,windows,apple,MINI PC,2015-17,EDUCATION,acer,,mini-Led,d,5Y,blue,PREMIUM,GAMER, no ,£5261,"10,543",7019,missing,3405,3385,3507,18815,19041,9898
+29/12/2021,robot,windows,NaN,Mini Pc,NA,CONSUMER,Lenovo,ETHERNET,MINI-LED, d ,3y,silver, PREMIUM ,creator,no,16133,6599,£6772,8070,15203,"12,965",6972,£19240,£1882,17422
+04/02/2021, laptop ,android,INTEL,DESKTOP,<2015,ENTERPRISE,lenovo,wi-fi,MINI-LED, a ,5Y,WHITE,flagship,Creator,yes,"10,357",4615,"10,229",£8658,£18796," 7,087",2542,"17,366",8464,£6380
+2022-08-09,laptop,chromeos,NA, miniPc ,2021-23,enterprise,acer, WI-FI ,LCD,C,5Y,-999,budget,creator,missing," 3,010",£3277,£17010,679,"19,374",5724,   202,17340,"12,583","16,962"
+24/05/2021,,LINUX,intel,2-IN-1,2024+, EDUCATION ,apple,5g,e-Ink,b,-999,grey,mid-range,gamer,no,8298,8772," 8,530",3265,11586,10508,4785,8410,-999,95
+28/05/2023,robot,chromeos,amd, miniPc ,<2015,enterprise,Acer,wi-Fi,mini-Led,A,1y,grey,Mid-Range,Professional, yes ," 3,005",12865,8390,16501,6301,missing," 1,849",11609,13100,14948
+2021-11-14,robot,Android,intel,Desktop,2024+,consumer,dell,ethernet,NaN,c,No Warranty,BLUE,flagship,professional,no,16301,£5817,40,NA,1256,2544," 8,358",2065,16712,"17,830"
+2022-03-27,server, Android ,apple,,2021-23,enterprise,LENOVO,bluetooth,oled,B, 2Y , SILVER ,Mid-Range,student,missing,8233,17511,11410,3023,"19,909",£18748,"13,045"," 4,088",12422,3741
+13/02/2022,server,ANDROID,,desktop,<2015,consumer,dell,BLUETOOTH,Mini-Led,d,No Warranty,grey,flagship,,no,£8681,£7912,12906,3777,£9613,£17283,£5942,£15900,missing,15544
+2023-09-25,SERVER,missing,apple,ultrabook,2018-20,education,asus,5G,Oled,b,3y,Blue,premium,CREATOR,YES,3833," 9,825"," 2,476",£17164,6065,£16202,   979,10937,18079,£3746
+18/10/2022,missing,missing,Qualcomm,desktop,2015-17,education,Apple,bluetooth,e-ink,C, 1y ,black,mid-range,student,YES,£4093,£13656,6872,£12502,14930,5214,4708,14082,4040,10525
+2022-08-28,smartphone,ios,INTEL,NaN,2015-17,Education,Asus, Bluetooth ,Lcd,B,3y,silver,,GAMER,yes,16707,£995,8504,16632,10855,13040,£17419,15345,£8013,18427
+2022-11-01,SMARTPHONE,ios,apple,2-in-1,2018-20,gaming,Asus,bluetooth,oled,A,3Y,blue,flagship,STUDENT, YES ,13948,4166,8563,12422,16120,1427,NaN,10989,16388,8746
+20/12/2023,laptop,IOS,qualcomm,mini pc, 2024+ ,education,ACER, 5g ,E-INK,D,5y,Silver,flagship, PROFESSIONAL ,NA," 1,256",377,,NA,2864,3959,,5617,NA,
+2024-10-23,NaN,ios,qualcomm,2-IN-1,2015-17,gaming,asus,5g,oled,-999,No Warranty,missing,premium,Gamer,NO,8340,19236,13738,missing,3307,15666,£16746,3866,-999,
+2024-11-19,Smartphone,linux,intel,MINI PC,<2015,education,apple,BLUETOOTH,e-ink,a,3y,BLUE,-999,gamer,no,£17107,missing,£9249,10852,,14583,8018,1550,17150,2416
+2021-04-06,server,android, APPLE ,2-in-1,2015-17,education,dell,5g,mini-led,C,2y,NaN,budget,Gamer,no,£11373,19678,"15,129",4292,"12,541",£16951,"16,845",£148,£9321,15576
+2024-06-30,Server,NaN,NaN, Ultrabook ,2021-23,Gaming,apple,Bluetooth,e-Ink,D,-999,blue,budget,professional,no,8787,5930,6522,13,1767," 5,319",£17666,"17,717",3245,"17,586"
+2023-05-08, laptop ,Android,,desktop, 2015-17 , education ,asus,ethernet,lcd,d,,NaN, premium ,-999,YES,6727,5714,8145,6560,7009,NaN,1195,9947,"13,019",NA
+30/03/2023,laptop,chromeos,amd, desktop ,2021-23,Enterprise,NA,,lcd,B,2Y,white,budget,Gamer,no,12023,£18627,8867,8963,-999,18040,£1575,2858,4035,5190
+-999,server,LINUX,apple,desktop,<2015,ENTERPRISE,DELL,bluetooth,lcd,a,2y,blue,budget,Professional,yes,-999,10891,NaN,704,19594,13782,£13536,£12860," 8,032","18,999"
+02/05/2022,robot,,qualcomm,2-IN-1,<2015,education,acer,BLUETOOTH,Mini-Led,d,2y,Blue,BUDGET,STUDENT,no,2275,£17751," 9,702",6616,16727,2832,£13064,12041,10706,17885
+2021-06-25, server ,linux,intel,miniPc,2024+,ENTERPRISE,Apple,Ethernet,mini-Led,B, 5y ,Grey,BUDGET,CREATOR,yes,3073,12033,12999,,"13,472",3183,2313,2248,1094,£11456
+19/03/2024,robot,WINDOWS,apple,2-In-1,2024+, enterprise ,dell,WI-FI,mini-Led,c,2y,Grey, mid-range , gamer ,No,£15621,13665,19363,3939," 2,178","11,015",1310," 5,914",£14299,NA
+"Aug 19, 2021",smartphone,IOS,QUALCOMM,desktop,2021-23, gaming ,asus,Ethernet,E-Ink,a,5Y,black,,professional,No,£19090,19986,8582,"10,737",19901," 3,112",9821,10336,10353,£3751
+19/06/2021,TABLET,chromeos,amd,NA,2021-23, EDUCATION ,NaN,BLUETOOTH, oled ,B,3y,grey,PREMIUM, creator ,NA,11105,19104,19336,9263,12070,NaN,18757,,4198,9415
+01/12/2022,smartphone,missing,apple,2-IN-1,2024+,EDUCATION,ACER,wi-fi, E-Ink ,c,3Y,grey,Flagship,Gamer,,6401,NA,8803,6354,2395,£8622,7817,missing,17162,17045
+10/07/2024,drone,macos,missing,2-in-1,NA,gaming,asus,NA,NaN,b,2y,Grey,flagship,NA,Yes,-999,£207,NaN,7302,missing," 5,742","15,724",14909,,16233
+20/05/2023, DRONE ,windows,AMD,mini pc,<2015,education,hp,ethernet,E-INK,d,NaN,blue,flagship,missing,YES,18848,13122,NaN,13624,5857,£13447,£3310,£9076,,15696
+17/06/2024,drone, macos ,-999,DESKTOP,NaN, Consumer ,ASUS,ethernet,lcd,c, 3Y , BLACK ,,creator,yes,13936,£17455,8291,£9721,£1446,15413,7026,12923,800,2585
+19/02/2022,Smartphone,missing,APPLE,miniPc, <2015 ,enterprise,asus, 5g ,NaN,,1y,blue,NA,PROFESSIONAL,Yes,14871,£9285,17429,11090,16899,7364,16344," 1,650",NaN,9816
+2023-11-28,NaN,,qualcomm,NA,2024+,education,ASUS,5g,oled,d,1y,WHITE,mid-Range,creator,YES,13056,5506,7983,988,6450,9252,12028,-999,£12000,8118
+04/04/2024,-999, linux ,intel,DESKTOP,,GAMING,ACER,5g,E-Ink,d,2y,Black,mid-range,Gamer,no,16279,"13,962",18625,"13,216",19004,17575,9727,NA,£8452,NaN
+03/04/2021,server,MACOS,apple,,2021-23,NA,asus,wi-fi,e-ink,b,5y,grey,premium,missing,NaN,5360,"16,130",£3863,£653,6119,957,8209,"15,445",3631,18997
+2024-08-20,smartphone,macos,qualcomm,mini pc,2015-17,gaming,apple,bluetooth,e-ink,b,NA,blue,FLAGSHIP, Professional ,yes,£2929,458,13123,18038,11465,16716,15177,£18155,6590,5480
+"Mar 26, 2022",-999,ios,QUALCOMM,MINI PC,<2015, gaming ,acer,5g,mini-Led,b,3y,,NA,student,yes,17340,19193,15847,NA,3244,12507,NaN,15700,12361,1033
+2022-02-28,smartphone,linux,Apple,ultrabook,2021-23,enterprise,Apple,bluetooth,oled,d,1y,white,premium,Professional,NA,17065," 1,183",5775," 8,011"," 4,294",£12556,13038,£8129,"13,627",£3594
+29/12/2024, Laptop ,linux,apple,ultrabook,2024+,gaming,Hp,Ethernet,e-ink,,NA,black,budget,gamer,Yes,missing,4654,NA,14140,19407,15881," 2,200",£990,12451,7579
+2024-11-21, SMARTPHONE ,linux,Apple,2-In-1,2018-20,,Apple,NA,LCD,d,5y,BLUE,budget,gamer,Yes,18636,7094,"16,705",4296,£9071,£1547,10053,£11406,"17,658",missing
+06/08/2024,server,linux,Intel,ultrabook,2021-23,gaming,acer,BLUETOOTH,lcd,b,2y,blue,budget,CREATOR,YES,-999,£16256,"17,627",10056,"13,812"," 6,401",1987,6729," 6,921",£12396
+23/09/2022,tablet, ANDROID ,AMD,ultrabook,2018-20,enterprise,Hp,NaN,,D, 3Y ,Grey,Mid-Range,creator,No,"15,154",12544,£755,£8480,11033,£11349,2260,18783,3009,£12811
+01/02/2021,Robot,windows,missing,,<2015,Enterprise,acer, Bluetooth ,LCD,a,3Y,black,NA,professional,no,17982,10133,,missing,2771,12179,17502,1189,"16,045",5349
+31/03/2022,robot,windows,NA,NA,2021-23,Consumer,acer,Wi-Fi,E-Ink,d,3y, blue ,MID-RANGE,GAMER,yes,"16,699",£12246,11560,12122,£2258,16357,7176,11946,missing,19311
+03/12/2021,Tablet,NA,QUALCOMM,,2021-23,-999,Dell,wi-fi,MINI-LED,a,5y,,BUDGET,creator, yes ,"14,366",8079," 7,588",1230,£7683,12350," 6,648",£607,7807,4594
+01/04/2024,NA,macos,APPLE,desktop,2018-20,-999,NA,bluetooth,NaN,c,1y,blue, flagship , Creator ,yes,17407,19818,420,16813,2162,8330,6516,16732,2073,18378
+18/12/2021,Laptop, windows ,intel,2-in-1,2021-23,enterprise,missing,ETHERNET,lcd,A,2y, black , MID-RANGE ,student,Yes,-999,2291," 9,849",16796,3737," 6,492",1384,-999,£12097,17060
+2024-08-07,NA,macos, APPLE , desktop ,2021-23,EDUCATION,ACER,WI-FI,LCD,c,5y, blue ,NA,Gamer,YES,£6153,17549,,"17,993",£12824,-999,3414,8099,£6216," 9,821"
+"Sep 26, 2023",Drone,linux,Intel,desktop,2018-20,education,APPLE,NA,MINI-LED,a,2y,,NA,GAMER,NA," 6,240",missing,£13694,"11,852",8631,15612,8149,£4181,596,NA
+2023-09-16,Tablet,windows,intel,-999,<2015,consumer,acer,bluetooth,E-Ink,c,missing,WHITE,premium,gamer,yes,12075," 9,221",,10223,3850," 6,077",19045,12368,7854,£7071
+26/12/2024,tablet,linux,-999,Mini Pc,NaN,consumer,Asus, wi-Fi ,oled,c,2y, BLACK ,-999,creator,yes,16824,12777,NA,5610,"16,596",," 2,144",12088,£13149,1707
+10/03/2024,DRONE,android,AMD,,2024+,CONSUMER,lenovo,missing,e-Ink,b,1y,-999,premium,creator,Yes,"11,360",£19426,10478,9148,1112,5138,8249,6922,-999,17025
+2022-12-09, tablet ,-999,Qualcomm,DESKTOP,2015-17,gaming, Acer ,wi-fi,oled,b,2y,White,flagship,student,YES,17603,,14439,10268,£5864,4863,3791,11089," 4,114",missing
+17/01/2023,laptop,ANDROID, qualcomm ,desktop,<2015,enterprise,dell,wi-Fi,Oled,A,NO WARRANTY,black,Mid-Range,GAMER,No,,£11072,6239,15841,8731,16011,9625,,£7050,19854
+2023-05-12,SMARTPHONE,LINUX,qualcomm,desktop,2015-17,gaming, dell ,bluetooth, mini-led ,A,2y,blue,premium,creator,no,£2108,343,NA,18224,£13658,"13,500",1516,13793,9410,6564
+12/07/2023,SERVER,macos,-999,2-in-1,2021-23,enterprise,lenovo,ethernet,e-ink,C,2y,White,Budget,STUDENT,NO,"13,940",5948,6549,NaN,8260,11283,9881,£8628,£10467,19358
+"Oct 25, 2021",robot,ANDROID,amd,2-in-1,2024+,gaming,lenovo,Wi-Fi,e-Ink,A,3y,GREY,mid-range,Creator,no,6113,16401," 2,676",4715,£12754,-999,8490,missing,9150,12372
+07/06/2024,SMARTPHONE,macos,QUALCOMM,Ultrabook,2018-20,gaming,-999,Bluetooth,e-ink,c,3Y,black,premium,student, No ,2048,15983,"15,269",5549,11380,-999,5038,£3331,5332," 3,785"
+2021-08-02,server,,Amd,2-In-1,2024+,education,NA,5g, lcd ,c,-999,grey,FLAGSHIP,creator,Yes," 5,438",8807," 8,302",13704,"13,819",8165,17903,12864,£17263,£3253
+01/10/2023, Smartphone ,macos,Qualcomm,Mini Pc,<2015, EDUCATION ,lenovo,5g,lcd,-999, 1y ,grey, budget ,student,-999,2847,NA,"18,449",16949,5887,19891,missing,19159,14369,£16423
+"Jan 19, 2022",TABLET,,Intel,ultrabook,2018-20, enterprise ,ASUS,NA,,c,2y,blue,mid-range,CREATOR,no,7986,missing,19505,17789,1314,19365,18308,16899," 7,444",£8086
+"Jan 26, 2021", DRONE ,Macos,APPLE,desktop,2018-20,GAMING,asus,5g,LCD,C,3y,BLUE,flagship,Creator,Yes," 7,587",missing,£7721,13909,-999,,15467,9588,1499,£4691
+2022-07-02,tablet,windows,qualcomm,MINI PC,2024+,consumer,asus,5g,NaN,d,2y,black,PREMIUM,Creator,NO,14079,18527,18625,£19006,17467,13998,18835,2001,8026,16050
+2022-02-19,server,macos,amd,ULTRABOOK,2015-17,NaN,HP,wi-fi,Mini-Led,a,no warranty,black,premium,Professional,yes,NaN,16355," 4,164",£9708,£17714,missing,11044,£3174,10038,2831
+2024-11-04,SMARTPHONE,WINDOWS,intel, ULTRABOOK ,2018-20, enterprise ,apple,ethernet,E-INK,a,2y,grey,MID-RANGE,Professional,yes,19426,£16621,6452,5582,£14333,NaN,4989,missing,10884,£2974
+,NA,ANDROID,AMD,Mini Pc,2015-17,enterprise,hp,bluetooth,Mini-Led,missing,5Y,Blue,Flagship,Professional,YES,4256,missing,13296,8083,14522,4442,5643,£2088,12554,2184
+25/11/2023,Tablet,ANDROID,Qualcomm,ultrabook,2015-17, consumer ,LENOVO,WI-FI,Oled,D,5Y,Silver,budget,professional,missing,1918,12478,14332,-999,19272,NA,8497,13335,NA,12753
+06/03/2023, laptop ,Macos,INTEL,desktop,<2015,gaming,acer,WI-FI,mini-Led,d,1y,SILVER,NaN,CREATOR,no,1083,15193,3140,1301,£5472,"16,473",NaN,NA,8559,14145
+17/11/2024,-999,macos,qualcomm,ultrabook,<2015,Enterprise,LENOVO, ethernet ,missing,b,NO WARRANTY, WHITE ,flagship,NA,-999,   664,15950,NaN,NaN,19999,£12224,13709,   921,£16998,5597
+2021-12-19,tablet,chromeos, apple ,2-in-1,-999,ENTERPRISE,Apple,BLUETOOTH, mini-led ,A,2y,black,mid-range,gamer,NO,£729,13332,6266,5443,£11466,2692,12117,6814,-999,1195
+19/06/2023,NaN, ANDROID ,AMD,miniPc,2024+,Education,Asus,,oled,b,5y,black,budget,-999,no,18525,18910,£12429,£6269,2073,-999,11579,"13,911",,16037
+2022-04-27,robot, LINUX ,amd,ultrabook,2015-17,education,acer,Bluetooth,mini-led,c,2y,BLUE,missing,student,yes,15687,4474,-999,NA,12636,10836,£13842,15945,2385,NA
+21/09/2021,,android,apple,desktop,<2015,Gaming,asus,5g,e-Ink,b, 3y ,blue, Mid-Range ,Student,NO,13676,19241,15424,£11099,1838," 5,845",missing,£1433,,537
+2022-03-29,drone,chromeos,Apple, ultrabook ,2024+,gaming,Acer,5g,e-Ink,D,1y,,PREMIUM,creator,NO,£13267,16301,14702,£2565,15196,18062,13236,£6102,9763,missing
+16/05/2024,laptop,windows,intel,miniPc,<2015,education,asus,-999, oled ,NA,5y,grey,Budget,professional,YES,"18,145",15799,"14,352",2277,19033,,£11069,missing,19915,£12669
+missing,drone,windows, amd ,MINI PC,2015-17,ENTERPRISE,dell,bluetooth,,D,3Y,white,mid-range,student,NO,5016,17901,"14,793",4894,3101,£16922,£9658," 5,294",15814,15848
+2024-10-27,robot,,AMD,Mini Pc,2021-23,enterprise,acer,wi-fi,LCD,missing, 1y ,blue,premium,professional,Yes," 4,433"," 1,333",£8846,19209,missing,"19,365",18271,565,1409,£5543
+24/06/2023,TABLET,macos,AMD,desktop,2015-17,NaN,dell,5G,LCD,C,2y,silver,budget,professional,yes,£5162,£868," 5,593","16,903",12706,11324," 4,775",missing,14401," 2,418"
+2021-11-17,LAPTOP,LINUX,QUALCOMM,2-in-1,NaN,Consumer,asus,5g,e-Ink,,3y,Grey,premium,student,-999,£18032,10843,,12441,13154,£19858,NA,4368,12066,14059
+2023-09-11,drone,macos,NA,ULTRABOOK,<2015,education,Hp,bluetooth,MINI-LED,a,5Y,GREY,mid-range,missing,yes,£17934,11797,16684," 2,420",,£6479,NaN,£18908,NA,-999
+13/10/2024, server ,macos,apple,2-In-1,2024+,NA,acer,missing,lcd,B,2y,blue,,Student, yes ,5502,10963,NA,NA,£16166,14182,603,£8572,£17992,7887
+2022-06-24,laptop,macos, intel ,desktop, 2015-17 ,ENTERPRISE,lenovo,bluetooth,mini-led,D,5Y,blue,premium,professional,yes,,£3478,£13134,4119,19101,1825,"19,522",-999,£19248,"17,468"
+2024-11-30,tablet,ios,AMD,ultrabook,2024+,,dell,bluetooth,Lcd,NaN,No Warranty,-999,Budget,STUDENT,,9951,£2918,5654,£2153,£4629,14638,"13,003",15503,£13784,2246
+2021-03-24,DRONE,, Apple ,2-in-1,<2015,consumer,Lenovo,bluetooth,oled,,1y,White,premium,gamer,no,6232," 7,854",,11611,7123,£9358,missing,12430,15280,19850
+22/10/2023,drone,android,INTEL,NA,2021-23,enterprise,ACER,5G,lcd,c,noWarranty,Grey,premium,professional,NO,"13,912",NA,15053,18491,"19,792",7075,11601,664,,19041
+2024-01-17,robot,ios,intel,DESKTOP,2015-17,gaming,dell, WI-FI ,E-INK,B,NaN,-999,MID-RANGE,Professional,Yes,"18,699",£14676,4661,£9497,18899,4068,1072,3567,19032,NaN
+22/02/2023,Laptop, LINUX ,amd,Mini Pc,2024+,,apple,BLUETOOTH,e-ink,a,noWarranty,Black,premium,NA,yes,6601,6460,10684,7980,7734,£6133,2321,8776,18670,19412
+12/12/2024,laptop,android, apple ,Desktop,2018-20,gaming,LENOVO,Ethernet,E-Ink,a,1y, black ,Premium,NA,No,15850,4224,£14072,NA,5655,14917,13317,3871,10471,5882
+23/10/2024,TABLET,ios,AMD,Ultrabook,2015-17,consumer,lenovo,5g,oled,a,NO WARRANTY,White,FLAGSHIP,PROFESSIONAL,yes,2312,7434,£9306,£6477,£18283,9456,£2858,£18470,15870,8435
+"Jun 12, 2024",drone,android,apple,2-IN-1,<2015,education,acer,ETHERNET,missing,c,noWarranty,grey,flagship,student,no,8604,14033,£11424,£16081," 5,371","10,166",1874,9745,£13406,"10,176"
+23/01/2022,TABLET,windows,intel,ULTRABOOK,2021-23,-999,hp,bluetooth,oled,b,5y,white,flagship,CREATOR,Yes,"11,704",NaN,15291,£10002,"15,254"," 3,563",1786,510,4003,19716
+25/03/2022,robot,linux,apple,mini_pc, <2015 ,missing,acer,ethernet,,A,3y,white,premium,Gamer,yes,£12875,   269,£10963,15613,£1137,949,"14,478",missing,missing,2658
+2021-12-16,laptop, macos ,intel,NaN,2018-20,NaN,asus,bluetooth,LCD,d,missing,Silver,MID-RANGE, creator ,YES,NA,£14249,missing,£6809,9734,6777,"15,180",,NA,£6753
+30/03/2023,robot,windows,intel,miniPc,2018-20,gaming,asus,bluetooth,e-ink,d,3Y,BLUE,Budget,GAMER,yes,15020,,£4707,£417,9935,15620,6367,£15732,£17563,
+2022-04-24,server,linux,missing,Ultrabook,<2015,enterprise,dell,NaN,Lcd,C,1y,BLUE,Mid-Range, Student ,yes,£3643,2176,-999,"10,356"," 9,797",7778,17458,6560," 4,563",£17271
+2024-03-06,Drone,windows, intel , ultrabook ,<2015,Education,acer,wi-Fi,lcd,C,2y,silver,BUDGET,professional,YES,19141,9501,12183,£16329,9218,"19,860"," 7,442",3635,11933,5370
+13/10/2024,drone, android ,apple,ULTRABOOK,2015-17,consumer,asus,bluetooth,e-ink,c,5y,grey,premium,creator,No,18608,14778,NaN," 2,149",NaN,£8409,10437,11450,6809,12699
+2024-06-14,DRONE,macos,APPLE,ultrabook,2024+,Education,APPLE,Bluetooth,missing,c,5y,white,flagship,creator,yes,5764,-999,8974,1294,NA,4669,NA,8321,"15,529",8151
+16/09/2022,SERVER,ios,qualcomm,MINI PC,missing,Enterprise,asus,wi-fi,mini-led, C ,NO WARRANTY,silver,budget,Professional,yes,£383,9086,missing,12235," 9,138",3937,6316,£1633,NA,£13949
+27/04/2021,drone,Windows, qualcomm ,Ultrabook,2018-20,NA,ACER,Ethernet,e-ink,B,5y,blue,budget,NaN,yes,£9155,£15739,330,14540,17226,1779," 5,152",19253,£16439,-999
+2023-03-24,LAPTOP,chromeos,apple,2-in-1,2015-17,NA,Lenovo,NaN,e-ink,b,NO WARRANTY,black,budget,-999,no,£1103,1789,-999,"17,303",15958,£16561,9633,9823,18936,-999
+2021-04-07,robot,Android,apple,2-IN-1,2024+,ENTERPRISE,apple,ethernet,oled,b,noWarranty,Black,budget, GAMER ,yes,£2530,£15287,13866,-999,19893,£7422,,3089,18673,15018
+18/10/2021, Drone ,Windows,qualcomm,2-In-1,2021-23,enterprise,apple,Ethernet,e-ink,d,no_warranty,blue,FLAGSHIP,professional,yes,"14,707"," 5,685",18736,9106,£6398,7803,1535,£1018," 1,607",1877
+2023-06-03,smartphone,Macos,intel,desktop,2018-20,gaming,Lenovo,5G,missing,C,5y,white,mid-range,creator, yes ,"19,184",6794,10990,3320,18013,17331,,2375,18878," 1,040"
+2024-08-07,Server,android,QUALCOMM,DESKTOP,2015-17,gaming,lenovo,5g,mini-led,d, 1y ,Silver,premium,student,-999,13174,8388,14190,£909,10183,9053,14223,NA,3935,£13677
+2022-11-18,SMARTPHONE,NaN,missing,NA,2021-23,education,apple,5g,e-ink,NA,1Y,black,FLAGSHIP,creator,yes,£2435,£1626,13373,"14,208","10,036"," 4,706",7571,£500,missing,1518
+"Jun 03, 2024",robot,ANDROID,qualcomm,2-in-1,2018-20,Enterprise,dell,NA,missing,B,2y,GREY,budget,student,yes,18610,"12,255"," 9,499","16,400",£11315,4576,NA,£16358,missing,10757
+missing, server ,Linux,Intel,2-in-1,2024+,EDUCATION,lenovo,5g,Mini-Led,a,5Y,NaN,budget,creator,Yes,11162,NaN,15670,"19,470",£3328,3007,3408,3311,416,3117
+2024-05-28,LAPTOP,linux,amd,mini pc,2015-17,Enterprise,,5g,NA,c,no_warranty,Grey,Flagship,gamer,missing,6286,"17,671",£16466," 6,349",11656," 8,623","17,112",4680,16554,£10477
+2021-07-05, robot ,windows,apple,2-In-1,2021-23,enterprise,asus,BLUETOOTH,E-Ink,-999,2y,Grey,budget,professional,no,,950," 4,862",,338,NA," 9,734",-999,£2241,£7543
+06/06/2024,drone,linux,qualcomm,ultrabook,2015-17,NaN,DELL,5g, Mini-Led ,b,NA,white,PREMIUM,gamer,no,£1886,-999,14189,11703,10547,£7751,£16873,14267,13429,"17,589"
+2021-03-18,SERVER,LINUX,NaN,MINI PC,2024+,enterprise,asus,ETHERNET,lcd,c,NA,white,premium,professional,no,17034,10008,1222,£17446," 9,741",3381,15497,NA,8917,£15932
+2021-03-18,missing, ANDROID ,, desktop ,NA,CONSUMER,HP,bluetooth,oled,C,NaN,grey,-999,Gamer,,6002,1953,£19976,6075,£17073,1444,15379,17984,17331,£2869
+2021-11-21,server,chromeos,missing,2-IN-1,<2015,NA,dell,ethernet, lcd ,A,3y, GREY ,Premium,NaN,NO,13620,£13691,9454,,£11135,12708,£9121,15399,3076,1214
+05/08/2024,NaN,linux,qualcomm,Mini Pc,2015-17,education,ASUS,NA,lcd,b,-999,missing,premium, Professional ,yes,1542,£6598,9306,"19,114",179,15826,18078,12218,,NaN
+28/06/2023,laptop,Macos,APPLE,mini_pc,<2015,education,hp,5g,MINI-LED,B,1y,GREY,budget,gamer,no,£984,missing,545," 8,822",NaN,15901,17853,9910,"12,315",14499
+04/07/2024,tablet, linux ,APPLE,desktop, 2018-20 ,gaming,acer, ethernet ,oled, c ,No Warranty,-999,flagship,creator,yes,£12203,10661,£19422,3502,872,NaN,-999,£12625,£5394,866
+15/05/2023,SERVER,macos,APPLE,NaN, 2024+ ,education,APPLE,Ethernet,mini-Led,b,1y,GREY, FLAGSHIP ,CREATOR,no,7873,£2059,1465,15870,7138,missing,11613,,12145,"14,029"
+07/07/2022,Server,Android,Qualcomm,2-in-1,<2015, enterprise ,asus,5G,NA,C,3y, Blue ,mid-range, creator ,NO,13790,328,820,15282,,"11,844",19207,NaN,11940,19984
+16/05/2021,Laptop,macos,apple,MINI PC,<2015, enterprise ,DELL,5g,NaN,NaN,3y,BLUE,PREMIUM,gamer,yes,14407,-999,-999,"15,382",missing,15946,£4370,3901,10858,-999
+2021-05-15,tablet,linux,QUALCOMM,-999,missing,-999,acer, BLUETOOTH ,oled,C,NaN,White,Mid-Range,student,yes,15203,1331,5818,732,missing,3316," 9,883"," 2,830",   534,"11,130"
+10/06/2023,NaN,chromeos,qualcomm,ultrabook,<2015,CONSUMER,NaN,Bluetooth,mini-led,a,no warranty,grey, PREMIUM ,professional,yes,9795,6467,12252,-999,5112,7483,,12516,9221,£10941
+2024-05-06, Server ,android,qualcomm, mini pc , <2015 ,GAMING,LENOVO,,Oled, a ,3y,grey,premium,STUDENT,NA,19384,6993,£1340,2962,14784,8173,2482,"15,751",18432,3038
+05/11/2022,NaN,linux,QUALCOMM, ultrabook ,<2015,Gaming,DELL,5g,mini-Led,A,NO WARRANTY,silver,flagship, Gamer ,NO,£3628,17032,"19,475"," 2,998",18522,9817," 8,958",5335,3856,13628
+2022-01-17,drone,-999,INTEL, mini pc ,<2015,Education,ASUS,bluetooth,e-ink, a ,5y,white,flagship,student,yes," 7,478",NA,9506,12651,11752,19470,£6682,,-999,"16,919"
+"Sep 24, 2023",Smartphone,chromeos,apple,DESKTOP,,gaming,hp,WI-FI,,C,2y,SILVER,Flagship,missing,missing,17627,NaN,11044,3049,9131," 5,252",2740,3704," 2,773",17562
+"Jun 07, 2021",SERVER,windows,apple,Desktop,-999,gaming,asus,wi-Fi,E-Ink,b,NA,NA,premium,creator,no,£3183,£14680,,£4693,8505,NA,"15,804",-999,13215,missing
+2022-01-27,TABLET,android,intel,-999, 2018-20 ,Education,,WI-FI,oled,D,5y, silver ,budget,missing,Yes," 1,227",£9100,£5821,15509,12105,£11630,3596,15986,9772,9
+2022-06-16,Server,chromeos,INTEL,desktop,<2015,Enterprise,NaN,,LCD,d,2y,white, premium ,Gamer,yes,10391,17468,812,£17875,,£8965,930,183," 9,710",10518
+14/12/2022,drone,ios,Intel,ultrabook,2021-23,gaming,Lenovo,wi-fi,oled,d, NO WARRANTY ,silver,budget,professional,yes," 8,040",£10745,4177,14570,£11082,£5026,£17114,4899,4927,15586
+2023-11-02,smartphone,Android,intel,NaN,2015-17,consumer,asus,wi-Fi,Oled,c,5Y,silver,budget,gamer,yes,1215," 2,802",18001,"16,828",£16781,4299,missing,£15474,1560,1802
+2021-10-06,Drone,windows,intel,ultrabook,2021-23,gaming,asus,bluetooth,mini-led,a,5Y, SILVER ,premium,professional,Yes,£24,19711," 2,524",18156,18080,16313,18383,16180," 1,520",£2323
+11/05/2023,smartphone,linux,QUALCOMM,2-in-1,2021-23,education, HP ,BLUETOOTH,lcd,a,NaN,missing,mid-range,student,no,£14577,15039,7157,£11812,"16,467",14792,3562,£18982,NA,£18025
+"Sep 07, 2023",robot,Ios,intel,DESKTOP,NA,Enterprise,,ethernet, E-Ink ,b,5y,Silver,premium,creator,Yes,3725,13674,£8148,18931," 3,739",16744,14186,13168,missing,12866
+30/09/2023,Tablet,macos,amd,2-In-1,2018-20, enterprise ,ASUS,wi-fi, oled ,c,3y,Grey,mid-Range,student,YES,NaN,15257,NaN,1116,137,13482,NaN,6726,7769,19215
+"Sep 27, 2021",smartphone,linux, QUALCOMM ,ULTRABOOK,2015-17,enterprise,lenovo,-999,MINI-LED,b,no warranty,White,premium,professional,NO,£11891,£3095,7843,"15,954",1131,9563,"19,819",17910,"13,102",11858
+"Mar 14, 2021",tablet,macos,amd,-999,<2015,gaming,apple,WI-FI,MINI-LED,b,5y,Silver,budget,gamer,,2197,19710,NA,8001,NaN,19536,19870,£1761,NA,"14,510"
+"May 11, 2022",NaN,linux, intel ,ULTRABOOK,2021-23,missing,apple,bluetooth,oled,c,3y,,premium,student,yes,14770,16182,£6858,15636,808,£13814,5738,12389," 2,448",NaN
+31/01/2024,Smartphone,CHROMEOS,NaN,desktop, 2018-20 , Gaming ,HP,bluetooth,oled,missing,NO WARRANTY,GREY,budget,student,no,2755,,£19643,   997,17352," 9,503",1444,16873,1881,"14,204"
+27/02/2022,laptop, windows ,Qualcomm,ULTRABOOK,2024+,ENTERPRISE, lenovo , bluetooth ,missing,B,5Y,silver,NA,student,yes,missing,-999,£17055,£18082," 3,568",£4197,8967,£19718,7153,15842
+"Oct 04, 2022",TABLET,Chromeos,QUALCOMM,2-In-1,2018-20,Enterprise,acer,5g,E-Ink,A,No Warranty,,FLAGSHIP,student,YES,1577,13963," 9,592","18,141",,8629,2765,£16359,£5255," 7,091"
+18/12/2022,tablet,macos,apple,desktop,2021-23,Gaming,missing, BLUETOOTH ,mini-Led,c,3y, grey ,mid-range,professional,yes,NaN,£18212,7991,missing,1858,"11,406",,10625,,18994
+2022-04-06,drone,ios,Amd,missing,<2015,Education,Asus,bluetooth,oled,C,3y,GREY,Flagship,professional,no,2852,"10,060",missing,9957,6992,-999,8315,"12,407",NaN,1021
+27/10/2022,Laptop, windows ,qualcomm,MINI PC,NaN,education,apple,ethernet,E-Ink,missing,missing,-999,mid-Range,gamer,Yes,NA,£6696,18002,9528,"10,791",10540,   186,10851,"18,419",9951
+04/02/2024,drone,macos,Intel,ultrabook,<2015,EDUCATION,APPLE, 5g ,mini-led,c,5y,black,budget,-999,no,-999,"13,175",15084," 5,513",£6715,£13340,"10,999",-999,£10230,13986
+"Sep 27, 2022",server,Android,AMD,Ultrabook,<2015,enterprise,lenovo,wi-Fi,,A,1y,BLUE,Budget,-999,No,10528,£16384,14401,£3310,£5423,6712," 2,854",NA,£6563," 5,474"
+18/05/2023,ROBOT,linux,QUALCOMM,2-In-1,2015-17,missing,APPLE,5g,e-ink,b,no_warranty,,premium,creator,Yes,8039,5698,£15161,8474,£1132,2162,£834,,3876,6886
+2024-12-30,drone,chromeos,Qualcomm,2-In-1,2018-20,enterprise,acer, bluetooth ,OLED,c,NaN,GREY,premium,GAMER,no,£19559,19768,14790,"18,629",,-999,,    84,961,-999
+04/06/2022,SERVER,chromeos,APPLE,Mini Pc,NA,enterprise,Dell,Wi-Fi, oled ,b,missing,Black,Mid-Range,Student,no,13597,17520," 1,423"," 8,690","16,783",5796,19890,£11696,8511,-999
+NaN,LAPTOP,MACOS,qualcomm,missing,2018-20,gaming, Lenovo ,bluetooth,oled,B,5y,Grey, budget ,student,YES,4226,15732,14359,9842,12174,5179,6261,18670,"12,492",-999
+22/11/2022,smartphone,CHROMEOS,NA,ultrabook, 2015-17 ,missing,-999,ETHERNET,lcd,a,1Y,Silver,premium,Creator,no,£7423,12948,"16,035",£12308,,NA,15911,9098,10251,
+2023-02-01,smartphone,-999,intel,2-IN-1,2021-23,enterprise,asus,BLUETOOTH,E-INK,C,NO WARRANTY,grey, FLAGSHIP ,gamer,yes,13629,902,7615,15084," 4,132",NA,£7069,14243,£16058," 1,918"
+02/04/2022,SERVER,,NaN,desktop,<2015,, hp ,Wi-Fi, mini-Led ,d, No Warranty ,SILVER,mid-range,gamer,yes,15539,7516,11737,£1131,13293,13524,7698,6883,,12711
+2022-12-29,ROBOT,WINDOWS,apple,desktop,2021-23,NA,NaN, wi-fi ,oled,a,5y,silver,mid-Range,student,NO,£8808,13393,NaN,5197,"17,940",-999,-999,466,15157,£17932
+2024-02-16,Robot,android,amd, 2-IN-1 ,2015-17,consumer,apple,bluetooth,E-INK,a,NA,BLUE,Premium,,-999,19746," 6,775"," 8,944",1799,missing,1584,19484,-999,19504,2066
+NaN, Laptop , windows ,amd,2-In-1,2018-20,enterprise,,5g,OLED,c,5y,white,budget,professional,NA,9670,2222,5026,13416,5437,2062,8533,£1492,15509,"14,403"
+08/03/2023,tablet,ios,AMD,Desktop,2024+,,dell,WI-FI,lcd,c,missing,-999,Premium,Professional,no,19021,NaN,17481,,1922,"18,390",12703,951,17413,£15567
+2023-01-18,Laptop,linux,missing,desktop,2024+,Enterprise,asus,5g,OLED,d,NA,blue,premium,student,NA,-999,14307,5635,£9414,NA,NA,3205,9687,2878,"15,650"
+2023-05-07,drone,Windows,missing,2-in-1,2018-20,consumer,hp,5g,mini-led,A,1Y,black,Flagship,professional,no,41,NaN,5749," 1,508",£13257,-999,13474,,11620,missing
+NaN,DRONE,-999,NaN,missing,NaN,enterprise, acer ,5g,NaN,A,1y,grey,MID-RANGE,STUDENT, yes ,13947,£4900,NaN,"17,020",£4529,833,8317,6114," 3,102",17234
+27/04/2021,laptop, CHROMEOS ,AMD, ultrabook ,-999,Enterprise,acer,NaN,E-Ink,a,5y,grey,Flagship,GAMER,No,17427,3452,262,5762," 2,868",19758,missing,14356,1707,
+,tablet,macos,amd,DESKTOP,2021-23,ENTERPRISE, DELL ,5G,e-Ink,c,NO WARRANTY,Black,BUDGET,student,yes,15710,15973,7668,1594,13050,16436,14100,4149,14737,
+,tablet,android,amd,miniPc,<2015,enterprise,acer,ethernet,-999,a,2y,grey, mid-range ,Student,NO,9049,13237,,836," 9,026"," 2,796",9872,16029,2129,19146
+2022-01-03,robot,NA,INTEL,Mini Pc,missing,Consumer,acer,bluetooth,OLED,D,2y,-999,Budget,Student, NO ,-999," 4,167","10,433",404,19240,17019,£11131,4631,14868,13025
+2023-07-23,smartphone, chromeos ,apple,2-in-1,<2015,education,hp,Wi-Fi,LCD,d,2y,silver,PREMIUM,Student,yes,£8171,3930,3546,7410,7313,8740,16792,£14456,3588,9951
+16/08/2021, laptop ,LINUX,Apple,ULTRABOOK,missing, enterprise ,Apple,WI-FI,mini-Led,d,5y,SILVER,Budget,gamer,missing,7979,"10,155","11,468",£13724,16360,£375,NaN,5191,£17415,19192
+06/10/2021,SMARTPHONE,Linux,intel,desktop,2018-20,CONSUMER,APPLE,5g,mini-led,a,-999, silver ,flagship,Student,yes,3814,1553,£15363,-999,£6293,£19783,17783,14070,£3154,6668
+2024-07-19,NaN,linux,APPLE,ultrabook, 2015-17 ,enterprise,Hp,Wi-Fi, E-INK ,a,3y,WHITE,FLAGSHIP,creator,NaN,593,£1487,14284,-999,10656,£2178,5334,missing,"10,583",18272
+2021-06-03,-999,macos,apple,desktop,2024+,consumer,DELL,5g,mini-led,,2y,White,mid-Range,,yes,2977,18628,12511," 3,417",9858,,14044,7274,18514,1918
+03/05/2023,laptop,Windows,intel,desktop,2015-17,consumer,apple,5G,E-INK,NaN,3y,Silver,premium,student,yes," 9,842",1285," 5,986",11908,2622,2068,missing,,15796,4985
+09/04/2023,Robot,Windows,apple,mini pc,2021-23,education,Dell,wi-fi,e-ink,a,1y,white,premium,student,no,-999,17482,10446,17129,£3936,   638,£2334,18363,£13488,missing
+26/09/2023,Drone,macos,apple,-999, 2021-23 ,,dell,Ethernet,Mini-Led,a,3y,NA,budget, Gamer ,no,£19225,18433,6062,5663,-999,-999,12512,5625,1535,   888
+"Jan 31, 2024",server,Android,intel,ultrabook,2018-20,,Dell, Wi-Fi , mini-led ,-999,2y,,budget,professional,no,"17,196",£8704,15292,3528,NA,NaN,-999,9644," 2,931",£4904
+2022-03-19,tablet,Windows,intel,MINI PC,2018-20,enterprise,ASUS,5g,Lcd,B,NaN, silver ,Budget,student,Yes,£11294,19323,"19,276",17016,19210,£19293,14790,18699,"11,390",£14295
+25/03/2022,,CHROMEOS,qualcomm,Mini Pc,<2015,education,,ethernet,e-Ink,a,,grey,mid-range,gamer, No ,NaN,NA,5883,13018,-999,NaN,11186,9219,11846," 4,986"
+2022-01-02,smartphone,IOS,Apple,miniPc,2024+,ENTERPRISE,lenovo,5g,mini-led,c,2Y,blue,PREMIUM,gamer,no,missing,13907,"18,985",10931,£7195,13918,-999,£13096," 2,418",13128
+2021-10-03,tablet,Windows,,desktop,2021-23,NaN,dell,NaN,MINI-LED, b ,5y,silver,flagship,creator,No,537,18436,5095,,7942,7044,194,4796,4158,£12541
+15/03/2023,NaN,linux,intel,ultrabook,missing, enterprise ,hp,5g,mini-Led,-999,2y,white,NaN,GAMER,NO,missing,-999,18251,£15359,"17,633",5287,£11899,8127,3481," 9,017"
+06/09/2024,Tablet, ios ,intel, 2-in-1 ,2021-23,consumer,missing,wi-fi,lcd,b,no_warranty,,NA,creator,no,7029,6020,8532,NaN,10654,8336,19551,,"13,113",2487
+2024-12-27,drone,CHROMEOS,intel,mini pc,2015-17,ENTERPRISE, dell ,bluetooth,e-Ink,D,missing,SILVER,mid-Range,professional,no,£4532,NaN,-999," 4,264",9787,NaN," 3,771",9463,11645,635
+26/02/2023,server,missing,Amd,2-In-1,2015-17,NaN,dell,BLUETOOTH,LCD,A,2y,black,MID-RANGE,,NO,,19710,£5310,11889,16647,£8726,-999,8245,1898,NA
+2022-04-18,tablet,NA,AMD,Mini Pc,2018-20,education,hp,bluetooth,Mini-Led,A,2Y,blue,flagship,student,no,1848,NaN,12373,670,9609,12528,-999,-999,£5583,13960
+2021-08-25, tablet ,android,apple,desktop,2015-17,consumer,APPLE,WI-FI,lcd,c,No Warranty,black,Mid-Range,-999,Yes,£7319,8852,6256,15890,2276,923,£6509," 8,578",17039,18932
+NaN,drone,Linux,QUALCOMM,MINI PC,2024+,missing,DELL,5g,missing,B,1Y,blue,budget,professional,missing," 4,891",18756,£8294,13107,£15969,£12086,13482,"19,765",NaN,NaN
+"Dec 24, 2024",Laptop,Ios,QUALCOMM,Mini Pc,2015-17,Enterprise,HP,wi-Fi,MINI-LED,c,5y,blue, flagship ,NaN,NO,,13540,7773,missing,"16,559"," 1,952",£3410,6523,-999,7928
+02/04/2022,Robot,LINUX,APPLE,desktop,2018-20,consumer,dell,5G,Mini-Led,d,2y,SILVER,PREMIUM,GAMER,NO,1648,1345,£7472,5711,14006,£5046,-999,10164,17923,£3144
+28/04/2022,laptop,Chromeos, QUALCOMM ,2-IN-1,2015-17,Consumer,dell,NA,mini-led,A,3y,silver,budget,Professional,Yes,10335," 7,585",3816,1743,"16,006",3137,NA,4557,9363,13138
+18/10/2023,NaN,Windows,-999, desktop ,2018-20,Consumer,hp, ethernet ,NaN, d ,NO WARRANTY,SILVER,missing,student,no,,missing,5615,12975," 6,044",13910,19773,303," 4,968",£3264
+"Nov 02, 2023",ROBOT,windows,Apple,ultrabook,2018-20,gaming,dell,missing, E-Ink ,B,5Y,BLACK,BUDGET,creator,no,10894,£18935,£18423,£13440,NaN,NA,564,661,14011," 7,399"
+2021-10-25,,chromeos,amd,mini_pc,2015-17,consumer,HP,Wi-Fi,E-INK,C,noWarranty,WHITE,BUDGET,-999,no,-999,6072,£16560,12964,15855,10011,"18,938",2148,1397,£5981
+NaN,smartphone,chromeos,amd,NaN,2015-17,gaming,acer,Bluetooth,lcd,D,3y,silver,mid-range,gamer, yes ,"18,749",-999,4472,£6660,13186,"15,929",16681,10773,-999,£7743
+2021-11-26,smartphone,Macos,apple,desktop,2021-23,consumer,hp,,lcd,b,1y,White,NaN,gamer,yes,£6923,19837,195,14595,7757,-999,3453,12906,19749,17760
+2022-02-06, Smartphone ,ios,apple,desktop,2018-20,Education,asus,Wi-Fi,-999,C,2y,Silver,flagship,CREATOR,no,4335,18178,13750,NaN,19793,missing,,6331,12068,11012
+15/06/2021,tablet,ANDROID,qualcomm,2-In-1,2018-20,consumer,ASUS,BLUETOOTH,Lcd,missing,3y,white,Flagship, CREATOR ,no,17827,   181,,NA,10634,14476,"10,066",10450,£19582,7795
+2024-12-20,robot,macos,,Ultrabook,2024+,gaming,asus,5g,e-ink,d,3Y,SILVER,NA,Creator,yes,5576,14457,19761," 4,766",16795,4650,-999,3673,NaN,3683
+30/06/2024,ROBOT,WINDOWS,Amd,2-in-1,<2015,,acer,WI-FI,OLED,d,2y,grey, premium ,missing,yes,697,16456,14641,£293,7352,8696," 3,129",12402,11849,13540
+27/11/2024,DRONE, ANDROID ,intel,desktop,<2015,ENTERPRISE,Hp,ethernet,E-INK,a,2Y,grey,,Gamer,No,16813,£7246,-999,17838,£19205,2533,"15,496",18994,-999," 5,707"
+"Aug 17, 2022",DRONE,Android,NA,2-in-1,2021-23,gaming,apple,wi-fi,oled,C,1y,black,BUDGET,,no,-999,NaN,13540,16287,NA,11130,"15,933",7724,19319,
+2024-12-24,laptop,Windows,-999,2-In-1,2018-20,Education,apple,Wi-Fi, LCD ,c,2y,BLACK,flagship,gamer,Yes,6924,NaN,NaN,17014,6875,8517,£7456,14040,9040,-999
+19/11/2022,robot,android, amd ,2-in-1,2015-17,gaming,Dell,, mini-led ,D,5y,NaN,-999,student,yes,NA,£9788,13719,14422,13339,NA,3594,18103,-999,2697
+2022-08-06,tablet,ANDROID,Amd,NA,<2015,Gaming,lenovo,Ethernet,LCD,d, No Warranty ,blue, premium ,Professional, no ," 8,746"," 5,127",18911,9024,,"13,311",2492,15285,19950,16802
+"Mar 19, 2024",Drone,WINDOWS,apple,NaN,2018-20,Consumer,hp,bluetooth,E-INK,d,1y,white,Budget, Professional ,NA,13491,13098,"18,107"," 3,114",12283,"18,502",£15948,11840,NaN,£2584
+2022-02-03,SMARTPHONE,ios, qualcomm ,ultrabook,2024+,Education,hp, 5G ,mini-led,a,NA,NaN,mid-range,professional,YES,7665,NA,6347,15722," 1,006",£12454," 3,318",8224,£16091,"18,153"
+10/08/2022,server,-999,-999,ultrabook,2015-17,ENTERPRISE,dell,-999,lcd,a,-999,blue,mid-range, CREATOR ,NaN,10971,11414,"14,996",16930,6588,NaN,122,£3590,£12311,
+NaN,tablet,-999,amd, desktop ,<2015,consumer,-999,wi-Fi,OLED,b,NaN,WHITE,flagship,PROFESSIONAL,no,"17,024",4119,"11,861",13328,5472,"14,374",11126,1278,13644,£12929
+NA,tablet,linux,qualcomm,mini_pc,2018-20,EDUCATION,acer,5g,e-ink,a,5Y,Blue, premium , gamer ,yes,16911,"19,455",,4775,"12,864",10547,£2541,19478,NA,missing
+07/07/2024,LAPTOP,android,intel,,2021-23,enterprise,acer,ETHERNET,oled,A, 3y ,blue,Premium,Creator,no,2365,2253,14858,3840,-999,£18912," 6,300",16612,4117,10054
+17/06/2024,tablet,Android,intel,ULTRABOOK, <2015 ,gaming,Acer,bluetooth,Mini-Led,d, 1y , black ,Premium,CREATOR,YES,-999," 9,321",NA,"19,828",13292,7838,,NA," 5,118",12092
+2023-07-24,drone,NaN,intel,miniPc,2015-17,gaming,DELL, 5g ,e-Ink,C, 2y ,white,MID-RANGE,NA,No,-999,£5135,9129,£1449,1834,11163,£15077,6719,3275,10053
+17/04/2024,drone,Android,intel, 2-in-1 ,2015-17,gaming,acer,5g,e-ink,b,3y,White,,missing,YES,17538,"10,368",4714,£4702,£15098,,missing,19062,-999,5406
+05/11/2021,SMARTPHONE,linux,missing,Desktop,2015-17,gaming,dell,missing,lcd,c,2y,white,Premium,missing,NO,6378,NaN,7507,12108,"12,702",£5819," 2,240",11255,107,4127
+2022-09-08,smartphone,windows,NaN,desktop,2018-20,GAMING,apple,Wi-Fi,e-Ink,C,1y,grey,Flagship,gamer,no,"19,448",£19308,"11,387",16442,13679,2926,10268,£15632,573,£4076
+24/04/2024,-999,ios,Qualcomm,desktop,2024+,Consumer,Acer,ethernet,e-Ink,D,NA,white,premium,gamer,yes,,12576,17384,17092,£19151,-999,,-999,NA,19352
+"Jan 18, 2023", drone ,Linux,Qualcomm,Desktop,2024+,Enterprise,Apple,ethernet,lcd, B ,missing,-999,Flagship,professional,NO,£9198,£12847,18290,6647," 6,540",6703,£5949," 2,097",16107,17328
+2024-11-05,server,ANDROID,Qualcomm,Ultrabook,2015-17,enterprise,apple,5G,lcd,d,3y,GREY,-999,student,Yes,12265,"14,022","18,920",10159,£578,"18,249",11822," 3,228",10287,£16883
+2024-10-26,drone,LINUX,INTEL,2-In-1,NaN, CONSUMER ,lenovo,Wi-Fi,lcd,D,-999,blue,premium,PROFESSIONAL,no,1737,9831,619,missing,8906,11288,7279,18174,£18130,missing
+2023-12-13,Laptop,ios,APPLE,NaN,<2015,CONSUMER,lenovo,BLUETOOTH,mini-led,d,5Y,silver,FLAGSHIP,PROFESSIONAL,YES,6075,£16998,8208,missing,£8748,19021,7303,10732,£10516,£16336
+15/11/2023,drone,LINUX,Intel,Mini Pc,2015-17,GAMING,Lenovo,ethernet,Oled,c,1Y,SILVER,NA,student,no,"13,788",5099," 3,927",9598,"12,692",£12206,8933,-999,," 7,746"
+,laptop,missing,NA,ultrabook,<2015,Education,lenovo,WI-FI,e-ink,A,no_warranty,silver,FLAGSHIP,professional,No,15992,6591,£10613,11174,missing,12972,6127,"18,092",13250,17279
+, server ,, Amd ,2-in-1,2018-20,consumer,NA,,Lcd,a,3y,NaN,PREMIUM,Creator,missing,,missing,"15,237",£15480,"19,690",£10624,19218,£6245,£19477,£3962
+25/02/2023,NaN,macos,qualcomm,desktop,<2015,Education, lenovo ,5g, lcd ,D,no_warranty,BLUE, Mid-Range ,Gamer,yes,,11151,4402,16009,15839,£2686,10588,18260,£16382,-999
+2024-04-30,smartphone,CHROMEOS,Apple,desktop,2015-17,education,ASUS,ETHERNET,oled,b,2y,Silver,flagship,Creator,no,15329,   829,16589,"18,781",15460,1764,£3729,12840,2975,NA
+"Nov 04, 2024",-999,linux,apple,Mini Pc, 2024+ ,Consumer, ASUS ,wi-Fi,e-Ink,NaN,NO WARRANTY,Black,Premium,professional,yes,NA,13237,2760,£7819,10330,£5296,£12179,NaN,NaN,£6463
+2021-06-27,ROBOT,ios,apple,NA,-999,enterprise,lenovo,Ethernet,MINI-LED,C,NA,Grey,FLAGSHIP,-999,no,14179,£13695,19875,12644,14144,8151,15606,"19,562",£2394,NA
+2023-03-10,smartphone,Ios,qualcomm,2-in-1,<2015,missing,LENOVO,ethernet,NA,B,missing,blue, MID-RANGE ,gamer,no,9644,"16,396","15,694",8996,11815,,1375,18229,6016,NaN
+03/06/2022,Laptop, LINUX ,AMD, ultrabook ,2015-17,consumer,APPLE,NA,e-ink,c,3y,Blue,flagship,student,yes,7348," 1,327",14604,missing,£16194,£10755,£17014,16398,NA,3946
+"Dec 29, 2022",SMARTPHONE,ios,apple,2-In-1,<2015,education,NA,5G,mini-led,B,3y,Grey,MID-RANGE,professional,yes,NA,13479,missing,17006,9283,13644,14877,1031,£1889,
+2024-09-03, ROBOT ,ios,qualcomm,desktop,2024+,NaN,ASUS,NaN,E-Ink,c,1y,white,Mid-Range,-999,yes,missing,"13,191",,"14,623",missing,"11,451",NaN,£11487,,8685
+13/04/2024, laptop ,Macos,qualcomm,Mini Pc,<2015,enterprise,asus,bluetooth, lcd ,,NA,white,mid-range,PROFESSIONAL,no,12264," 7,101",£3576,6295,15860,13414,£17131,missing,£3013,
+2022-09-14,smartphone,windows,Intel,2-in-1,2021-23,ENTERPRISE,dell,NaN,E-INK,d,2y,WHITE,Flagship,,no,9539,missing,"19,388","16,017",9924,7484,£7217,£9796,NaN,11465
+2021-04-27,Server,linux,Qualcomm,-999,,GAMING,hp,ETHERNET, lcd ,c,2y,-999,Mid-Range,Professional,yes,NaN,3127,6076,£8528,15342,"19,737",18492,6037,19208,19580
+missing,SERVER,macos,qualcomm,desktop,2021-23,consumer,hp,Bluetooth,LCD, b ,no warranty,Blue,missing,creator,-999,10834,19546,£14496,9041," 2,147",£19260,8689,4385,3859,-999
+2021-02-28,DRONE,macos,QUALCOMM,Ultrabook, 2021-23 ,gaming,Apple,Wi-Fi,e-ink,d,2y,,flagship,Gamer,missing,12187,"13,789",13154,12586,14475,18528,£14054," 3,333",£2835,"18,890"
+"Mar 03, 2024",SERVER,windows,qualcomm,ultrabook,2015-17,education,ACER,NA,OLED,b,1y,White, premium ,STUDENT,yes,£16306,£4612,11051,7323,2552,9421,3343,-999,1620,£7091
+2023-05-02,Smartphone,android, QUALCOMM ,Ultrabook,-999,NA,hp,bluetooth,Mini-Led,NA,1Y,white,NaN,professional,yes,£4558,13223,"19,086",12345,8133,10420,£16391,£279,16641,16406
+2023-07-11,Drone,windows,amd,desktop,2024+,gaming,ACER,bluetooth,lcd,c,1Y,white,mid-Range,Student,no,13677,"13,599",-999,£10647,"17,029",19115,5241,£5429,missing,19152
+23/08/2024,server,android,QUALCOMM,MINI PC,2015-17,consumer,ACER,Wi-Fi,lcd,d,no warranty, silver , Mid-Range ,NaN,NO," 7,068",14599,12937,14339,,£11743,7229,3807,10073,£16230
+"Mar 07, 2021",NaN,android,qualcomm,miniPc, 2024+ ,CONSUMER,hp,5G,mini-led,D,3y,silver,FLAGSHIP,-999,,18216,"14,089",£6276,"16,969",13170,4227,"10,830",4084,12456,4839
+29/12/2022,robot,windows,APPLE,desktop,2024+,ENTERPRISE,Dell,Wi-Fi,Mini-Led,B,3y,white, flagship ,gamer, yes ,15372," 9,132",   205,15083,NaN,16609,£5823,14822,3675," 3,424"
+2021-07-19,laptop,ios,intel,desktop,2018-20,gaming,acer,bluetooth,lcd,A,3y,black, BUDGET ,professional,no,19946,16957,11788,"13,964",8020,10199,NaN,5811,16582,9413
+21/04/2022, smartphone ,android,intel,NaN,2024+,-999,-999,missing,e-ink,B,5y, black ,FLAGSHIP,professional,no,2117,14901,15655,19165,£6470,16321,2107,£17177,4714,4021
+"Jul 10, 2023",missing,LINUX, apple ,ultrabook,2018-20,enterprise,Hp, BLUETOOTH ,NA,D,2y,White,FLAGSHIP,professional, yes ,NaN,17369,£59,4769,442,18602,NaN,NA," 1,053",£626
+2021-10-04,Drone,,intel,mini_pc,2015-17,enterprise,hp, ETHERNET ,MINI-LED,D,5Y,SILVER,Mid-Range,professional,YES,-999,4210,9417,16374,9878,15031,£11616,"15,315",7877,"15,342"
+01/08/2023,laptop,Chromeos,APPLE,missing,2018-20,Gaming,hp,BLUETOOTH, e-ink ,D,2y, GREY ,budget,GAMER,yes,-999,6526,£7548,12577,6623,"13,803",4340,4484,19226,4426
+21/08/2021,Tablet,windows,intel,ultrabook,2018-20,Gaming,HP, ETHERNET ,e-ink,B,no warranty,silver,MID-RANGE,gamer,yes,£14474,missing,£12789,12519,2350,13253,missing," 4,647",4478,£12806
+26/02/2022,laptop,android,amd,ultrabook,2021-23,enterprise,LENOVO,ethernet,LCD,c,5Y,NA,Premium,gamer,yes,16929,11894,10297,10648," 3,835",9640,9242,16277,14188,13580
+"Nov 23, 2024",-999,ios,apple,mini_pc,<2015,ENTERPRISE,lenovo,wi-fi,mini-Led, A ,2y, Grey ,budget,Student, YES ,16537,8746,14963,4712," 4,486",19490,675,£1907,17435,294
+27/07/2023,Robot,linux,apple,Desktop,2015-17,GAMING,Asus,Ethernet,oled, c ,1y,BLUE,BUDGET,-999, yes ,1807,17378,9133,7823,11105," 3,798",15393,11295,£12657,7131
+13/10/2023,NA,chromeos,intel,Ultrabook,2018-20,enterprise, asus ,bluetooth,OLED,d,3Y,silver,budget,gamer,No,9375,missing,,18988,NA,"18,880","19,762",£16799,9771,1012
+06/07/2024,drone,macos,QUALCOMM,ultrabook,2015-17,enterprise,apple,missing,lcd,missing,3y,,premium,missing,yes," 1,124",7008,6349,1903,£4113,11414,£19711,"10,113",1140,667
+2023-05-06, robot ,ANDROID,qualcomm, 2-In-1 ,<2015,gaming,apple,wi-Fi,mini-led,d, 5y ,grey,mid-range,gamer,no,6616,6727,£6281,8098,137,3759,-999,14476,,15344
+2021-06-19,,-999,Apple,mini pc,2018-20,NaN,hp,NaN,e-ink,d,1y,WHITE,premium,CREATOR,no,   647,"10,564",15058,£663,11143,£11043,10637,15206,8538,3002
+19/02/2022,drone,WINDOWS,AMD,2-In-1,2015-17,enterprise,apple,,oled,NA,2y,White,budget,gamer, No ,17558,11152," 8,037",4966,NaN,£17173,£1433,3771,2901,4102
+20/12/2024,smartphone,IOS,,Desktop,,Gaming,asus,5g,NaN,D,noWarranty,GREY,BUDGET, Creator ,YES,NA,£5117,13106,£1106,18783,,," 6,250",16892,"15,034"
+2024-07-20,smartphone,WINDOWS,QUALCOMM,desktop,2018-20,Gaming,Hp,ethernet,mini-led,d,3y,Black,Premium,student,Yes," 7,835",19816,6399,7966," 7,967",4724,NaN,2753,"13,177",3
+01/11/2022,server,Chromeos,intel,desktop,<2015,education,lenovo,NA,,C,No Warranty,white,Flagship, CREATOR ,missing,"18,075"," 9,606",£13239,£14850,8793,8229,£1383,10931," 3,026"," 7,705"
+23/03/2022,smartphone,Ios,Apple,2-In-1,2015-17,education,,ethernet,lcd,D,2y,blue,Mid-Range,creator, YES ,15475," 2,808",10852,12344,£5634,7986,10706,2305,17027,£875
+02/03/2021,TABLET,LINUX,qualcomm,mini pc,<2015,consumer,APPLE,ETHERNET,mini-led,a,no warranty,white,mid-range,professional,no,1698,4862,11879,£14642,4323,"10,198",12593,4567,£8493,£15615
+2021-07-09,laptop,chromeos,intel,desktop,2018-20,ENTERPRISE,DELL,Ethernet,Lcd,c,5y,Blue,mid-range,professional,yes,16711,17482," 1,210","16,364",£9253,-999,£18897,£18027,£4993,16021
+missing,smartphone,linux,Qualcomm,mini pc,2024+, consumer ,apple,wi-Fi,NaN,,3y,black,PREMIUM,professional,No,12718,12845,"16,028",9242,-999,16800,16635,£2220," 7,698",1915
+2021-08-23,server,-999,Amd,DESKTOP,2024+,enterprise,dell,wi-fi,lcd,a,5y,BLUE,flagship,GAMER,NO,NaN,10944,11405,11570,"13,722",6700," 2,387","10,046",£19205,   487
+24/09/2023,laptop,android,,2-in-1,<2015, enterprise ,Hp,5G,Lcd,D,noWarranty,BLUE,BUDGET,gamer,no,3727,missing,£4111,18683,17968,14977,5648,5128,"14,236",NA
+10/12/2021,drone,ios,Intel,2-in-1,<2015,gaming,dell,missing,OLED,d,2Y,black,budget,creator,yes,missing,12344,1083,-999,NaN,7774,"18,202",11155,missing,£18418
+2024-08-31,missing,Macos,APPLE,-999,2018-20,gaming,ASUS,BLUETOOTH,mini-Led,B,NA,missing,budget,student,yes,5363,10926,1200,15950,18916,13707,5947,£376," 3,846",13581
+2021-12-01,smartphone, windows ,AMD, miniPc ,<2015,missing,lenovo,NaN,e-ink,b,noWarranty,black,premium,creator,NO,14158," 8,237",17022,missing,12119,"11,053",17158,,18319,19809
+2021-07-20,ROBOT,linux,QUALCOMM,2-IN-1,2015-17,Enterprise,-999,wi-Fi,mini-Led,a,1Y,SILVER,Flagship,NA,yes,,19522,£1293,NaN,12199,£1270,17650,14236,8692,"14,387"
+18/03/2021,tablet,android,apple,2-In-1,2024+,Education,asus,,lcd,NaN,noWarranty,NA,missing,Student,no,5693,5219,17162,£13237,£16625,19141,£7975,missing,£9483,£6779
+2021-04-12,tablet,Linux,qualcomm,Ultrabook,2015-17,enterprise,acer,Bluetooth,Lcd,C,5Y,grey,-999,creator,NO,13829,18496,6482,17126,£11798,7845,-999,14705,9141,missing
+2021-11-26,TABLET,WINDOWS,Qualcomm,DESKTOP,<2015,NA,Dell,ethernet,missing,C,1y,Silver,flagship,CREATOR, no ,-999,£13256,2863,£5531,8109,£6239,5703,"17,609"," 2,551",7001
+20/10/2024,drone,Windows,amd,2-in-1, <2015 ,consumer,Hp,bluetooth,oled,d,2Y,grey,PREMIUM,Student,Yes,NaN,,"18,872",18214,,15145,8413,£6239,18364,17672
+20/08/2021, TABLET ,Ios,INTEL,ultrabook,2018-20,GAMING,LENOVO,wi-fi,mini-Led,missing,-999,Grey,premium,Creator,NaN,,19872,11400,£9856,6110,£17544,17965,7794,4409,"11,891"
+2022-09-18,ROBOT,,amd,DESKTOP,NA,Enterprise,Acer,5g,NaN,,no_warranty,missing,BUDGET,creator,NO,15279,12339,15840,£18413,missing,5728,£15148,2747,missing,"17,198"
+2023-05-23,server,windows,INTEL,Ultrabook,2015-17,gaming,Hp, Wi-Fi ,Oled,NA,2Y,-999, Budget ,GAMER,yes,2497,"15,567",6492,17386,435,14216,17577,4620,NA,   298
+08/03/2021,server,missing,AMD, 2-In-1 ,2015-17, gaming ,hp, bluetooth ,E-INK,a,no warranty,silver,MID-RANGE,STUDENT,No,16649,£19724,11015,10488,NA,NaN,£8642,£528,9181,£7899
+2021-08-11,Drone,chromeos,Qualcomm,mini pc,2018-20,gaming,NA,Ethernet,E-INK, C ,NO WARRANTY,NA,BUDGET,student,yes,£13955,,£2961,332," 7,933",NA,-999,"18,072",13703,8351
+14/09/2022,missing,WINDOWS,apple,ultrabook,2021-23,consumer,Apple,wi-fi,lcd,c,2Y,NaN,premium,NaN,yes,£16619,"16,684",missing," 3,169",5987,"11,305",1306,1454,3359,    49
+2021-01-02,robot,windows,Intel,ULTRABOOK,<2015,education,,5g,MINI-LED,c,noWarranty,NaN,-999,creator,no,£16811,1144,1816,13459,18355,6942,12878,NA,6769,14046
+09/08/2021,TABLET,MACOS,amd,Mini Pc, 2015-17 ,missing,asus,BLUETOOTH,mini-led,d,1y,silver,mid-Range,Creator,no,8440,£10532,,"13,835",9291,13007,NaN,"18,794",£9035,4716
+2022-05-04,laptop,android,-999,2-IN-1,2021-23,enterprise,Apple,Ethernet,oled,d,3y,black,missing,creator,Yes,£4426,"16,372",5121,10967,9233,2437,19068,1692,10006,NaN
+2023-05-22,tablet,-999,QUALCOMM,ultrabook,2015-17,consumer,Hp,,lcd,D,NO WARRANTY, White ,BUDGET,creator,no,11145,13585,£18791,-999,10169,4940,13771,8546,15803,13623
+2022-11-01,ROBOT,android,qualcomm,DESKTOP,2021-23, education ,hp,wi-fi,lcd,A,3Y,silver,premium,gamer,no,"13,704",9662,,£11568,-999,-999,19562,2123,4754,£13506
+2022-10-18,laptop,chromeos, APPLE ,mini pc,-999,ENTERPRISE,,wi-Fi,e-Ink,b,5y,BLUE,budget,GAMER, no ,£6610,NA,"16,401",7740,4774,4675,14626,18605," 9,990",£19768
+2022-06-14,drone,macos,Amd, mini pc ,2024+,GAMING,Asus,ethernet,lcd,D,3Y,grey,,gamer,yes,8994,12665,13596,18507,missing,4792,£13752,15418,14998,19189
+08/03/2022,DRONE,Macos,intel,MINI PC,2018-20,NaN,NaN,ethernet,MINI-LED,-999,3Y, BLUE ,mid-range,gamer,NO,16455,£4381,£19035,18929,£6636,,4791,6031,,7249
+missing,robot,Macos, Amd ,-999,2021-23, enterprise ,lenovo,NA,NA,A,No Warranty,GREY,MID-RANGE,PROFESSIONAL, yes ,"10,625",8989,13163,£1088,18575,"10,518",£2637,3961,£10853,2194
+"Feb 05, 2022",robot,chromeos,amd,Mini Pc,<2015,Education,-999,missing,mini-led,C, 5y ,White,MID-RANGE,student,no,3982,4608,£14762," 6,775",7604," 6,584","10,266","17,359",13206,missing
+2021-06-22,missing,,APPLE,miniPc,missing,enterprise,apple,wi-fi,LCD,d,no_warranty,Black,BUDGET,student,Yes,3719,£4145,£13258,10478,9294,4896,13657," 1,627",£9031,-999
+2024-11-17,robot,android,NA,Mini Pc,<2015,EDUCATION,lenovo,-999,Lcd,-999,3y,Blue,flagship, gamer ,yes,,8630,6247,3913," 1,484",18701,19887," 9,447",9580,13491
+28/05/2024,tablet,CHROMEOS,apple,NaN,2018-20,Education,lenovo,ethernet,mini-Led,NaN,1y,grey,PREMIUM, gamer ,yes,18380,17270,9822,£9805,£7929,8356,12647,6146,9439,-999
+"Jul 04, 2021",SERVER,CHROMEOS,amd,mini_pc,2021-23,Consumer,-999,Wi-Fi,NA,a,2y,blue,flagship,PROFESSIONAL,yes,13800,NA,2758,,13827,11142,16965,13460,missing,13002
+28/03/2022,tablet, linux ,apple, mini_pc ,missing,gaming,HP,NA,mini-Led,A, No Warranty ,white,Premium,student, no ," 4,183",-999,NaN,"12,251",13591,6255,-999,17799,NA,10704
+08/12/2021,smartphone,windows,QUALCOMM,Desktop,NA,-999,NA,5G,Oled, B ,2y,grey,mid-range,Student, no ,19791,"17,932",NaN,£8074,15825,9114,18915,10065,11181,missing
+2024-06-22,smartphone,ios,qualcomm,desktop,2024+,NaN,-999,5g,mini-led,d,2y,blue,budget,gamer,no,2609,10043,"17,364",879,3644,15815,2834,"14,936",5753,£14803
+2024-10-18,DRONE,macos,apple,2-In-1,2021-23, enterprise ,hp,ETHERNET,lcd,c,1y,white,premium, student ,no,15291,7708,£9441," 7,729",13750,19764,NaN,1027,13219,4696
+-999,drone,ios,Qualcomm,Mini Pc,2018-20,NaN,LENOVO,Wi-Fi,NaN,D,5y,grey,MID-RANGE,STUDENT,-999,missing,12755,,£5927,4269,11719,3265,7928,£10295,£3300
+2024-03-21,laptop,,Intel,ultrabook,2015-17,Consumer,-999,missing,oled,c,5y,blue,FLAGSHIP,professional,yes,6368,15553,3720,£16913,4212,13431,18932,3631,£16140,£17946
+2021-01-23,robot,ios,APPLE,desktop,2018-20,enterprise,asus,Wi-Fi,MINI-LED,a,2Y,NA,Premium,Creator,no,11142,18303,11002,£10558,314,missing,£19882,9595,15992,7762
+17/05/2021,Laptop,ANDROID,INTEL,Ultrabook,2024+,EDUCATION,HP,ethernet,Oled,NA,2Y,silver,PREMIUM,student,YES,-999,£12333,£12869,12628,"11,984",6751,,£18777,10108,19166
+30/05/2024,server,linux,INTEL,DESKTOP,2021-23,Consumer,lenovo,, oled ,-999,1y,silver,Budget,,yes,11124,4963,18644,10742,11109,9019,£10554,£7946,£14895,£4295
+2021-03-22,TABLET, WINDOWS ,Amd,MINI PC,2024+,enterprise,asus,wi-fi,lcd,c,2Y,BLACK,PREMIUM,student,no,£10908,7415,£526,"13,543",15702,12040,"11,881"," 3,572","15,626",5689
+2021-09-11,Server,linux,Qualcomm,desktop, 2018-20 ,consumer,apple,NaN,NaN,d,3y,grey,FLAGSHIP,professional,No,18974,6848,11693,NaN,   167," 9,266",£2613,5519,12111,11531
+"Sep 26, 2023",laptop,IOS,Amd,,2021-23,NA,Asus,Ethernet,Oled,D,5y,white,mid-Range,missing,No,£8143,19518,5735," 7,467",8714,£2483,10686,8708,6369,16861
+2024-07-10,robot,linux,Qualcomm,mini_pc,missing,gaming,dell,bluetooth,mini-Led,A,-999,GREY,missing,student,yes,NaN,14498,1684,"12,993",1908," 5,522",16280,£8546,6558,£12177
+11/06/2023,ROBOT,missing,missing, desktop ,2024+,CONSUMER,LENOVO,bluetooth,oled,NA,-999,Grey,Budget,student,NA,17945,£6998,£8144,17658,7271,8171,4017,missing,19130,£9175
+06/09/2023,TABLET,ios,intel,desktop,2024+,gaming,hp,ETHERNET, e-ink ,c,2Y,Grey,Budget,professional,yes,18581,2755,"13,489",£6703,106,12060,5136,£6918,17279,NA
+2024-06-06,Tablet,MACOS,APPLE,desktop,NaN,consumer,Asus,ethernet,oled,A,2y,Silver,flagship,gamer, yes ,£16975,NA,16084,18409,missing,1929,£4735,£8523,NaN,missing
+2022-11-26,smartphone,Macos,apple,2-IN-1,2021-23,,asus,bluetooth,mini-led,a,3y,silver,flagship,Student,YES," 9,495",3405,17707,1820,-999,NA,17477,NA,8791,£2285
+15/05/2022,drone,Ios,missing,DESKTOP,2021-23,Consumer,Asus,5G,E-INK,D,2y,black,Budget,gamer,yes,7421,8284,13180,,,17443,7075,"18,492",3390,7417
+21/12/2022,NA,android,Intel,2-In-1,<2015,education,hp,WI-FI,E-Ink,c,NA,NA,budget,NA,no,229,17972,3372,17851,12611,9795,18309,16554,£12312,541
+2023-03-25,robot,ios,AMD,2-in-1, <2015 ,gaming,asus, Ethernet ,Lcd,missing,2y,Blue,flagship,creator,-999,£14711,"17,137",NaN,7327,missing,£9764," 8,304",   952,£1587,
+12/09/2023, smartphone ,NaN,Amd,2-in-1,2021-23,gaming,hp,BLUETOOTH,Mini-Led,c,5y,blue,missing,professional,NaN,3193,£3370,13275,"17,078"," 4,132",NA," 6,580",9708,NA,£7579
+2024-04-20,Tablet,IOS,QUALCOMM,Ultrabook,2018-20,Education,lenovo,wi-Fi,e-ink,B,3y,grey,budget,professional,yes,6912,,4993,£5110,-999,14908,1906,10287,£18498,13177
+"Sep 11, 2024",Server,missing,qualcomm,mini_pc, 2024+ ,enterprise,ACER,ETHERNET,mini-led,A, NO WARRANTY ,Silver,premium, Professional ,no,7727,£19972,4158,£3313,19728," 1,263",6755,15035,4830,9844
+2022-05-18, server ,CHROMEOS,AMD,2-In-1,2021-23,enterprise,acer,wi-Fi,mini-Led,a,1y,blue,NA,-999,YES,12246,,3195,1302,19759,£9973,17586,12845,7926,"15,684"
+,ROBOT,Windows,-999,2-In-1,2024+,-999,NaN,ethernet,lcd,b,2Y,black,Premium,student,No,8605,18730,9508,9392,-999,missing,£7514,6380,8258,
+2022-07-09,drone,NaN, apple ,mini pc,2015-17,Education,acer,ethernet,Mini-Led,b,5y,silver,PREMIUM,Gamer,no,8262,£4001," 9,627",£6596,10364,10343,,18702,9472,missing
+05/12/2023,ROBOT,macos,intel,2-in-1,2018-20,NA,APPLE,WI-FI,MINI-LED,D,no_warranty,black,,-999,NO,,,NaN,£14254,13377,"19,896",3051," 8,756",19963,£4551
+11/09/2022,smartphone,Macos,intel,NaN,-999,gaming,Hp,5G,NaN,d,no_warranty,blue,budget, gamer ,yes,£619,NaN,14871,5467,£8982,NaN,"10,332"," 2,017",9970,£15424
+01/02/2024,-999,missing,Intel,ultrabook,2024+,education,Dell,BLUETOOTH,e-ink,A,no_warranty,Blue, premium ,student,yes,3600,NA,1432,3703,18658,2467,missing,,19693,missing
+2022-07-25,robot,Ios,amd,ultrabook,2015-17,Education,Asus,bluetooth,lcd,D,5y,blue,PREMIUM,professional,yes,"14,199",8235,5892,2514,14871,8546,"12,170",4841,7811,15120
+08/04/2021,LAPTOP, Windows ,missing,Mini Pc,2015-17,GAMING,,5g,e-ink,C,1y,white,,student,no,5265,18239,"19,283",12953,7202,£11556,2139,2212,£5196,£19102
+2024-09-10,drone,linux,Intel, miniPc ,2015-17,enterprise,,bluetooth,mini-Led,d,3Y,NA,flagship,professional, yes ,18099,,15837,16699,NA,-999,£17162,NA,14882,2380
+11/11/2022,Laptop,chromeos,apple,Mini Pc,2018-20,ENTERPRISE,ASUS,,mini-led,d, 3Y ,Silver,,missing,no,8637,,14331,"15,569",£231,£6245,"10,525",NA,12164,£3650
+2022-01-03,server,linux,apple,desktop,<2015, consumer ,LENOVO,5g,mini-led,d,5y, grey ,Flagship,CREATOR,missing,778,£9992," 8,428",7098,£17149,£10149,   647,-999,17208,17276
+"Jun 01, 2022",Tablet,Macos,intel,ultrabook,2021-23,consumer,NaN,ethernet,oled,C,3Y,White,flagship,-999,YES,7842,"17,158",NaN,-999,£17929,14336,6771,18848,£14188,£16392

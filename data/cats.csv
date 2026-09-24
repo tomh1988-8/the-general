@@ -1,0 +1,1001 @@
+ date , Breed ,colour,COAT LENGTH,pattern,eye_colour, vaccination_status ,microchipped?,age band?,indoor/Outdoor, favouriteToy ,temperament,food preference?,Litter Type/,Adoption Source,health issue,weight kg,age_months,LENGTH CM, height_cm ,daily calories,vet visits/,litterUsedKg,Play Sessions/Week, NAPS/DAY ,cost_£/month
+2022-02-18,SIAMESE,Grey,Short,BI-COLOUR,Gold,OVERDUE,no,, Indoor ,catnip_mouse,playful,DRY,silica,shelter,,"16,074",2083,missing,14926,NA,2536," 9,258",£11690,6738,19062
+2024-09-04,Bengal,NaN,hairless, TABBY ,Gold,unknown, YES ,SENIOR,indoor,laser_pointer,lazy,MIXED,CLUMPING,Friend,ALLERGY,-999,4090,2335,"13,154","10,042",£3509,12796,8293," 8,184",8147
+"Jun 06, 2022",tabby, tortoiseshell ,Hairless,Spotted,odd-eyed,Up-To-Date,yes,prime,Both,featherWand,shy,NA,Clumping,stray,allergy,12935,£11872,£17732,9487,11698,"19,974",15399,900,   283,11143
+"May 25, 2022",maineCoon,grey,Hairless,bi-colour,NaN,-999,no,mature,outdoor,NaN,Friendly, dry ,NA,shelter,OBESITY," 9,352","17,016",11511,£5069,"18,829",missing,£6430,"13,326","12,307",12475
+2022-02-01, maineCoon ,orange,medium,SOLID,GOLD,not required,missing,junior,outdoor,ball,FRIENDLY,raw,recycled_paper,BREEDER,allergy,£10018,9282,"11,203",8938,,3971,NA,2601,£2662,8790
+NaN,maineCoon,tortoiseshell,short,BI-COLOUR,green, overdue ,YES,senior,both,featherWand,playful,mixed,silica, friend ,None,12203,"12,985","14,740",,21,£5419,£3866,19375,14848,15093
+2023-04-26,BENGAL,Brown,Short,spotted,Odd-Eyed,up-To-Date,NaN,prime,both, catnip_mouse ,PLAYFUL,wet,non-Clumping,breeder,arthritis,7190,8892,18667,19619,4770,3056,19540,3565,19967,7137
+"Aug 04, 2023",MAINE COON,grey,long,Pointed,Copper,,Yes,junior,BOTH,ball,FRIENDLY,missing,non-clumping,stray,NA,10789,15584,£9446,3694,missing,£16296,19273,4688,,NA
+07/10/2021,ragdoll, grey ,medium,bi-Colour,copper,not required,, junior ,indoor,Ball,missing, wet ,missing,shelter,OBESITY,9380," 7,965",NA,13454,NaN,13140,-999,1561,11942,14201
+NA,British Shorthair,,hairless,BI-COLOUR,odd-Eyed, up-to-date ,YES,geriatric, OUTDOOR ,catnip mouse,shy,NaN,Non-Clumping,stray,ALLERGY,11620,£17337,14028,7367,£13574,£15035,12541,£13853,£13847,6344
+30/05/2024,bengal,black,LONG,NaN,copper,unknown,no,senior,-999, FEATHER WAND ,shy,,recycledPaper,Online,arthritis,£17112," 8,695","10,230",13500,£13747,NaN,19351,£18825,£11990,10034
+11/10/2024, SPHYNX ,cream, short ,Bi-Colour,copper,Not Required,NaN,MATURE,indoor,String,Lazy, raw ,Clumping,Friend,Dental,£8082,7224,1086,18026,£17090," 9,807",5240,£16825,"11,297",15381
+"Jan 11, 2023",RAGDOLL,Grey,short,bi-colour,blue,up-to-date,no,MATURE,both,NA,shy,dry,silica,Breeder,missing,missing,NaN,NA,10930,3820,6806,-999,6912,1943,£19085
+02/04/2023,persian,grey,LONG,Bi-Colour,Green,up-to-date,yes,geriatric,Both,string,friendly,-999,recycled_paper,shelter,dental,-999,£10679,1030,£10860,-999," 2,521",1615,4177,5217,"15,761"
+"Jul 30, 2024",ragdoll, white ,Hairless,pointed,copper,Not Required,yes,MATURE,outdoor,Feather Wand,NA,-999,SILICA,breeder,OBESITY,£17354,£4575," 7,355",9303,9763,5262,£8500,£15229,£6969,12559
+-999,british shorthair,white,long,tabby,gold,not_required,missing,junior,BOTH,missing,playful,NaN,NON-CLUMPING,NaN,none,NA,9028,19352,15979,NaN,11276,"13,542",13878,11664,1023
+2023-03-28,sphynx,Calico, Long ,bi-colour,green,up-to-date,Yes,geriatric, indoor ,Catnip Mouse,friendly,Dry,clumping,breeder,NaN,15086,1827,£6596,missing,£18181,£13146,13541,19986,13998,2929
+2022-03-18,NaN,,-999,solid,gold,Unknown, no ,geriatric,indoor,String, friendly ,mixed,clumping,stray,ALLERGY,753,,£12456," 8,113",2117,NaN,£1492,18970,5255,11293
+2022-06-21,BRITISH SHORTHAIR,grey,long, bi-colour ,COPPER,Not Required,YES, geriatric ,outdoor, ball ,friendly,raw,SILICA,Online,ALLERGY,£19292,663,17688,-999,2786,-999,4585,7936,8268,2376
+2024-11-28,,Orange,MEDIUM,SPOTTED,GREEN,Up-To-Date,no,mature,Indoor,STRING,lazy,mixed,NA,stray,-999,-999,17500,6505,-999,8112," 1,905",£18,17729,NaN," 8,841"
+20/05/2023,bengal,tortoiseshell,Hairless,pointed,Copper,not required,yes,mature,both, laser pointer ,AGGRESSIVE,Mixed,non-Clumping,SHELTER,dental,14604,£13477,3022,6440,11087,£8608,-999,£16684,"19,650",2460
+11/03/2023,Ragdoll,White,-999,spotted,odd-Eyed,Up-To-Date,no, senior ,both,BALL,friendly,WET, Non-Clumping , shelter ,OBESITY,20000,£3186,2270,-999,,14885,"14,053",NaN,   519,£11066
+18/05/2024,Tabby,black,missing,Pointed,BLUE,up-to-date,YES,PRIME,indoor,-999,PLAYFUL,RAW,non-clumping,breeder,Allergy,   362,10010,NaN,15023,£6979,15631," 4,302",2586,9988," 2,050"
+30/05/2023,ragdoll,-999,long,spotted,green,Up-To-Date,Yes,JUNIOR,BOTH,-999,lazy,RAW,non-clumping,stray,NONE,10461,£1978,£12033,-999,18112,14976,6550,3884,11069,£18224
+2021-04-18,persian,NA,long,TABBY,-999,up-To-Date,no,,both,Ball,shy,dry,NaN,breeder,obesity,9273,15622,,£14747,6472,18657,8888,£14496,10245,13061
+"Sep 10, 2023",Bengal,orange,Long,,COPPER, overdue , no ,senior,outdoor,,aggressive,wet,recycledPaper,Breeder,ALLERGY,8119,missing,6150," 3,828",16021,£17576,3180,7484,"14,765",17123
+2021-09-22,MAINE COON,cream,Short,solid,odd-eyed,missing,No,prime,-999,feather_wand,Playful,dry,NA,Online,obesity,-999,missing,14878,-999,12100,3868,£16941," 5,242",4279,8347
+15/09/2023,SPHYNX,orange,NA,Spotted,copper,NA,NA,mature,outdoor,string,aggressive,NA,non-clumping,SHELTER,allergy,NaN,NaN," 8,853",8613," 8,349",14462,,11910,19742,12939
+03/01/2022,PERSIAN,missing,short,,GOLD,Overdue,no,Senior,both,FEATHER WAND,,wet,recycled paper,SHELTER,arthritis,£12171,£17946,£7428,16915,£770,12996,   394,19435,8781," 7,682"
+19/05/2021,persian,-999,medium,SOLID,gold, UNKNOWN ,yes, PRIME ,-999,Ball,Aggressive,mixed,-999,FRIEND,arthritis,18206,£9411,10263,missing,4029,NA,17886,10599,£10476,12919
+15/09/2022,TABBY,CREAM,short,pointed,blue,not required, no , mature ,Indoor,ball,friendly,DRY,non-Clumping,shelter,ALLERGY,10931,£18807,19763," 6,620",13180,17322,12143,7227,,645
+15/02/2023,ragdoll,calico,Short,Bi-Colour,gold,overdue,YES,kitten,outdoor, string ,Playful,Raw, Recycled Paper ,shelter,none,13257,360,10292,13021,17103,15449,5638,"11,783",£7177,10018
+2023-03-28,SIAMESE,brown, medium ,pointed,GREEN,notRequired,Yes,senior,-999,string,lazy,dry,recycledPaper,friend,,8066,10949,17113,£61,NaN,"19,069",7266,£4794,£2152,9050
+2022-11-06,NaN,black,-999,tabby,green,unknown,,mature,Outdoor,Feather Wand,LAZY,DRY,Silica,breeder,NONE,4116,12968,"19,474",£12430,-999,17186,NaN,17551,4873,13632
+2023-05-12,persian,NaN,Long,Solid,Green,up-to-date,yes,MATURE,Outdoor,laserPointer,missing,-999,silica,Stray,none,£2174," 9,300",2866,9863,16442," 3,452",£19921,7942,19149,11285
+missing,SIAMESE,black,short, spotted ,COPPER,unknown,NaN,junior,outdoor,ball,Aggressive,Wet,NA,online,arthritis,   103,11772,13684,12220,15991,£9906,£17731,10641,"16,159",2917
+22/12/2021,ragdoll,grey,HAIRLESS,bi-colour,Odd-Eyed,notRequired,missing,Kitten,both,Ball,FRIENDLY,DRY,recycledPaper,Breeder, DENTAL ,7002,4781,11725,8757,5620,16699,8696,missing,£1950,16653
+2024-09-01,bengal,cream, hairless ,spotted,GOLD,up-to-date,No,geriatric,both,BALL,Lazy, mixed ,clumping,friend,NONE,11252," 8,416",17680,18369,,16390,£16860,4706,18632,10676
+09/05/2021,British Shorthair,Black,,POINTED, copper , unknown ,no,kitten,missing,catnip mouse, aggressive ,raw,Recycled Paper,Online,ALLERGY,3138,12122,NA,3527,6407,NaN,19569,NA,15508,-999
+02/07/2021,MAINE COON,tortoiseshell,medium, SPOTTED ,GOLD,unknown,YES,PRIME,OUTDOOR,catnip mouse,NaN,RAW,NON-CLUMPING,shelter,dental,NaN,16431,1478,7797,£9221," 3,102",   773,7061,18989,8390
+"Aug 17, 2024",Tabby,orange,short,pointed, copper ,up-to-date,YES,senior,BOTH,missing,lazy,raw,Clumping,shelter,allergy,£18109,"16,582",14767,"12,296",£12129,8858,1665,19996,£12673,NA
+29/12/2023,Persian,cream,Hairless,Spotted,NaN,Not Required,yes,geriatric,Both,BALL,shy,dry,non-clumping,friend,DENTAL," 7,019",14678,12915,NaN,1150,£15943,18812,15206,13327,5426
+-999, bengal ,TORTOISESHELL,long,spotted,NaN,Not Required,NO,senior,outdoor,laser_pointer,, Mixed ,Recycled Paper,breeder, DENTAL ,£17733,,11092,7609,£11125,17363,14265,13447,£4443," 7,376"
+2022-11-05,,CALICO,MEDIUM,spotted,GOLD,unknown,YES,prime,indoor,catnipMouse,shy,Dry,recycled_paper,BREEDER,missing,15578,£5421,NaN,£18921," 4,442",19596,£10439,7759,17215,12091
+2021-12-18,NaN,tortoiseshell,medium,SPOTTED,-999,overdue,YES,prime,both,NA,shy,-999,SILICA,shelter,none,6098,17635,£11930,19930,11489,," 2,632","11,880",141,
+2024-05-31,bengal,orange,HAIRLESS,tabby,Green,Up-To-Date,yes,prime,OUTDOOR,feather_wand,Friendly,-999,recycled_paper,friend,None,"12,234",2862,17220,18261,15317,5479,7897,-999,£13076,6781
+2023-02-08,siamese,CALICO,medium,Pointed,gold,overdue,missing,Prime,Outdoor,FEATHER WAND,AGGRESSIVE, raw ,Recycled Paper,Shelter,Dental," 6,533",16117,3549,£9485,£6452,£3044,£9981,8556,607,18435
+03/08/2024,TABBY,tortoiseshell,short,solid,gold,overdue, No ,KITTEN,outdoor,CATNIP MOUSE,lazy,mixed,recycled_paper,SHELTER,ARTHRITIS,17379,missing,2789,"19,304",1838,"14,361",2029,12522,£5655," 8,978"
+"Nov 05, 2022",Maine Coon,calico,hairless,pointed,gold,NOT REQUIRED,yes,senior,Indoor,laserPointer,playful,Mixed,CLUMPING,shelter,NONE,"16,417",6515,1091,3399,"12,663",13915,£17240,missing,3789,£13986
+24/01/2023,persian,calico,SHORT,pointed,gold,,missing,KITTEN,outdoor,FEATHER WAND,Aggressive,wet,NA,breeder,missing,7627,13079," 2,944",14318,"11,691"," 6,116",£10194,11476,10918,£14849
+10/12/2022,SIAMESE,Brown,Hairless,Pointed,blue,up-to-date,NO,junior,INDOOR,string,missing,NA,clumping,-999,none,5480,£2742,NA,6049,£18537,missing,,"11,291",70,19670
+"Nov 03, 2022",persian,Brown,hairless,Pointed,NA, Not Required ,yes, prime ,OUTDOOR,BALL,friendly,dry,silica,friend,dental,7682,19669,9368,£16985,14216,-999,"12,362",NaN,£13575,6027
+2024-10-30,SPHYNX,CALICO,short,bi-colour,green,unknown,yes,junior,indoor,-999,lazy, Dry , non-clumping ,BREEDER,NaN,15631,,15395,£11741,£12767,15493,12999,8584,3798," 9,136"
+"Nov 01, 2023",maine coon,black,long,Spotted,green,up-To-Date,yes,Junior,OUTDOOR, ball ,PLAYFUL,raw,NA,breeder,NONE,£9069,15347,5394," 2,790",8940,10590,7877,3731,3281,missing
+2023-09-22,tabby,Black,long,solid,odd-eyed,not required,No,KITTEN,indoor,Catnip Mouse, Shy ,raw,Silica,ONLINE,obesity,17586,6408,"16,927","19,458",2768,12773,18555,2086,"19,006",£19967
+"Jan 27, 2022",Ragdoll, Brown ,Hairless,pointed,green,Unknown,no,KITTEN,both, string ,aggressive, Wet ,recycled_paper,BREEDER,arthritis,19130,   370,14973,7686,13006,3650," 2,274",17325," 5,603",4937
+, siamese ,cream,Long,pointed, blue ,,yes,NA,Indoor,catnipMouse,lazy,mixed,clumping,online,dental,165,£356," 1,962",17415," 4,617","10,510",17653,4357,£15285,13614
+28/02/2021,tabby,GREY,Short,spotted,COPPER,UP-TO-DATE,no,NA, Outdoor , laser pointer , AGGRESSIVE ,mixed,clumping,shelter,obesity,6509,13677,18731,10613,£1764,3513,8742,NA,-999,"10,270"
+10/10/2022,sphynx,NA, MEDIUM ,TABBY,GREEN,not_required,Yes,prime,outdoor,ball,FRIENDLY,dry,Silica,friend,arthritis," 4,561",710,£7978,7032,£14763,17616,13870,5087,£14305,3296
+2024-08-12,bengal,NaN,short,Tabby,odd-Eyed, up-to-date ,yes,Junior,indoor,feather_wand,lazy,Dry, RECYCLED PAPER , shelter ,none,4008,2613,," 3,159"," 8,603",13944,12688,NaN,17821," 3,268"
+26/03/2022,missing, cream ,hairless,solid,copper,up-to-date,yes,mature,outdoor,laser_pointer,Aggressive, RAW ,recycled_paper,online,allergy,4724,,£17581," 5,944",15038,19781,19287,2184,10441,10968
+2021-11-06,-999, cream ,Short,spotted,ODD-EYED,Up-To-Date,no,geriatric,both,missing,aggressive,,Silica,stray,Obesity,NA,4632,NA,7860,6175,19197,£12023,13014,-999,5560
+"Oct 12, 2021",Persian,BROWN,NaN,TABBY,GOLD,Unknown,yes,,Both,String,lazy,wet,Clumping,-999,arthritis,17387,2809,16838,£14202,NaN,3348,7683,38,7122,17147
+2024-06-23,Sphynx,white,hairless,pointed,green,up-to-date,NO,NaN,Both,STRING,Aggressive,mixed,silica,breeder,allergy,4012,8904,NA,NaN,NaN,6835,NA,19639,£9619," 8,360"
+missing,maine coon,grey,Long,bi-colour,gold,unknown,No,NA,Both,string,lazy,Raw, Non-Clumping ,online,NaN,1910,4679,5227,£3453,missing,,7249,£15532,8390,£13118
+"Dec 14, 2023", TABBY ,Calico,MEDIUM,solid,green,overdue,no,missing,Both,featherWand,playful,wet,clumping,missing, Allergy ,NaN,£6151,£17851,2118,16797,2602,1204,9240,16424,   767
+2022-03-12,SPHYNX,-999,medium,SPOTTED,Blue,missing,YES,,NA, LASER POINTER ,lazy,Raw,,online,allergy,£2631," 9,506",£3537,10396,11710,547,NaN,"10,417",16048,10357
+11/10/2021,-999,, Long ,Tabby,green,overdue,NO,geriatric,INDOOR,NaN,shy,Wet,clumping,Stray,Obesity,£15762,-999,7877," 9,975",15200," 6,171",6353,18299,NaN,19996
+20/02/2022,NA,Orange,long,,copper,unknown,yes,PRIME,indoor,Feather Wand,SHY,mixed,recycled paper,shelter,NaN,,4903,missing," 9,415",£2306,3681,NA,"17,373",2194,NA
+"Aug 27, 2022",persian,grey,HAIRLESS,Solid,ODD-EYED,not required,yes,geriatric,Outdoor,CATNIP MOUSE,lazy,wet,-999,Shelter,Dental,NaN,9359," 4,586",7269,£15716,16893,15650,NA,12885,-999
+26/08/2022,SPHYNX,tortoiseshell, SHORT ,POINTED,copper, not required , no ,geriatric,NaN,catnipMouse,shy,RAW,missing, STRAY ,none,£16841,3033,6439,"12,147",NA," 5,179",12648,18489,19350,811
+2022-09-24,siamese, calico ,NA,bi-Colour,gold,Up-To-Date, No ,geriatric,both,string,Shy,Dry,NON-CLUMPING,Online,arthritis,671,,12781,12302,NA,331,18522,2323,3767,-999
+20/04/2021,SIAMESE,cream, hairless ,solid,green,notRequired,no,prime,OUTDOOR,Feather Wand,playful,NaN, non-clumping ,,obesity,7958,13659,1070,"10,686",7965,15137,17706,13089,18286," 6,913"
+2024-01-03,SPHYNX,NA,NaN,tabby,blue,missing,yes,GERIATRIC, Both ,-999, friendly ,mixed,Recycled Paper,Online,dental,14002,-999,2345,1875,14814,1137,431,6154," 4,477",5524
+"Sep 02, 2024",, Black ,short, tabby ,green,not required,no,prime,INDOOR,string,lazy,DRY,Recycled Paper,Stray,Arthritis,3296,£14504,17004,£14572,18543,£14256,8761," 5,706",£12436,19174
+24/01/2024,MAINE COON,white,medium,spotted,Gold,notRequired,no,JUNIOR,Both,ball,Shy,MIXED,non-Clumping,Friend,none,£18474,15515,18864,6171,11789,£6106," 4,851",5932,-999,£18483
+2024-05-01,British Shorthair,Cream,medium,NA,odd-eyed,Unknown,NaN,GERIATRIC,-999,NaN,playful,dry,recycledPaper,Shelter,DENTAL,£12814,6163,4488,£6119,-999,17992,5047,15751,14328,1129
+2023-10-16,persian,tortoiseshell,,,gold,OVERDUE,-999,kitten,indoor,missing, SHY ,Dry, Non-Clumping ,ONLINE,NaN,"19,496",£19024,11407,"14,517",£6052,NaN,10005,   981," 7,531",7355
+01/10/2022,BRITISH SHORTHAIR,white,missing,BI-COLOUR,GOLD, Not Required ,missing, prime ,indoor,Catnip Mouse,LAZY,NA,Clumping,breeder,allergy,13362,9331,1055,17051,£19722,£15409,5958,1780,4223,685
+2021-09-17,NA, calico ,medium,solid,odd-eyed,missing,yes,geriatric,BOTH,catnip_mouse,friendly, WET ,missing,friend,NA,14075,NA,16680,,£18710,19706,NA,£12668,£12836,"16,544"
+2023-07-16,sphynx,brown,medium, pointed ,blue,NA,missing,KITTEN,INDOOR,Catnip Mouse,FRIENDLY,wet,non-clumping,shelter,Obesity,NA,"14,275",£7270,£11007,14631,£8614,2018,£3784,4492,8662
+02/12/2022,tabby,cream,long,SPOTTED,Blue,UP-TO-DATE,yes,Mature,both, Laser Pointer ,LAZY,mixed,clumping,shelter,Arthritis,"15,127",4637,£13875,"16,099",17851,missing,1762,4567,656," 1,305"
+2021-07-26,NaN,WHITE,-999,SPOTTED,odd-eyed,overdue,No,Prime,Outdoor, string ,lazy,dry,silica,friend,arthritis,10772,-999,3009,4097,£10145,16394,13959,"16,167",-999,16137
+2023-01-28,SIAMESE,CREAM,long,pointed,Odd-Eyed,up-to-date,no,senior,indoor,laser pointer,,Dry,NON-CLUMPING,shelter,none,4839,"11,543",1042,6898,15124,9686,18119,4469,10013,8693
+15/05/2023,Bengal,ORANGE,long,Pointed,ODD-EYED,-999,yes,JUNIOR,Indoor,laser pointer,Friendly,mixed,non-Clumping,FRIEND,none,12643,"10,524",3578,17882,17617,," 1,065",16615,19593,6747
+,British Shorthair,tortoiseshell,medium,spotted,ODD-EYED,unknown, no ,prime,outdoor,ball,friendly,wet,clumping,friend,Arthritis,12019,12311," 2,368",missing,16942,5791,13421,1092,19003,£10561
+14/06/2022,bengal,WHITE,long,SOLID,Odd-Eyed,-999,yes,NA,indoor,laser_pointer,aggressive,wet,silica,stray,Obesity,7501,11222,2226,17024,-999,£10208,5175,£1785,15156,17419
+18/09/2022,sphynx,Tortoiseshell,Long,tabby,odd-Eyed,not required,-999,NaN,Indoor,-999,playful,wet, silica ,Friend,Obesity,10205,NA,2714,£5378,4737,154,£4672,,11531,
+2023-04-08,tabby,,LONG,tabby,Gold,not_required,NO,prime,missing,ball,Playful,dry,SILICA,breeder, dental ,NaN," 2,453",11619,3030,16437,19905,16852,11127,6875,6726
+2023-07-06,PERSIAN,Cream,short,spotted, BLUE ,up-to-date,no,mature,OUTDOOR,string,aggressive,MIXED,clumping,BREEDER,ARTHRITIS,314,18517,NaN,731,3692,4461,£649,16845,9932,1145
+16/09/2023,tabby,,LONG,Solid,NA,not_required,no,Geriatric,Outdoor,String,SHY,raw,non-clumping,friend, dental ,15642,"10,962",   714,£11425,18285,NA,16109,missing,13534,18308
+17/01/2023,British Shorthair,white,medium,tabby,Blue,unknown,,MATURE,Indoor,ball,Lazy,wet,silica,STRAY,NONE,7569,"10,685",4688,£6059,NaN,17334,£10122,1994,16187,12243
+"Aug 31, 2021",bengal,white,medium,solid,COPPER,overdue,no,SENIOR,indoor,missing,NA,MIXED,SILICA,friend,missing,2015,£14636,£3399,NA," 7,632",-999,10768,3107,3665,missing
+"Jul 06, 2023",NA,cream,Medium,bi-colour,Copper,overdue,yes,JUNIOR,BOTH,featherWand,Aggressive,raw,clumping, Friend , None ,£8597,17408,14870,7532,16755,3754,12351,2054,-999,2349
+2022-07-17,Bengal,black,MEDIUM,spotted,GREEN,OVERDUE,YES,senior,Both,CATNIP MOUSE,LAZY,,recycledPaper,,none,NA,£486,10957,2302,NA,"10,128",£16179,NA,14241,16938
+2023-01-03,persian,black,SHORT, solid ,gold,NA,yes,senior,indoor,catnip_mouse,lazy,raw,recycledPaper,breeder,NONE,NA,"14,432","15,945",2735," 5,718",NA,19560,15430,£2021,3741
+"Aug 06, 2023",-999,missing,-999,tabby,gold,overdue,no,junior,both,NA,PLAYFUL,dry,Recycled Paper,FRIEND,ARTHRITIS,£12430,11906,17116,£7412,19472," 6,264",2885,14785," 1,630",
+04/12/2022,sphynx,grey,medium,POINTED,missing, up-to-date ,yes,JUNIOR,both,string,FRIENDLY,MIXED,recycled paper,NA,DENTAL,9604,11182,£11200,"15,997",£2819,13989,NaN,,8648,5535
+10/10/2023,maine coon,NA,long,solid,NaN,unknown,no,Prime, both ,Ball,friendly,wet,silica,friend,Arthritis,£4856,2660,6900,"14,754",£13427,,12229," 8,680",£11181,17052
+"Oct 05, 2023",British Shorthair,Orange,-999,TABBY,blue,unknown,yes,PRIME,Indoor,BALL,Friendly,mixed,clumping,breeder,,NA,£5882,2630,2037,16593,6772,7022,14073,19203,NaN
+2023-10-02,britishShorthair,tortoiseshell,hairless, solid ,GREEN,UNKNOWN,No,kitten,outdoor,laser pointer,Shy,dry,NaN,friend,arthritis," 6,621"," 1,016"," 7,836",£13658,8577,512,2659,12195,£15769,9840
+21/12/2021,ragdoll,Tortoiseshell,LONG,tabby,Copper, UP-TO-DATE ,yes,Junior,indoor,catnip mouse, Shy ,wet, recycled_paper ,stray,-999,NA,9416,12515,£5292,5173,18626,12446,£18749,10741,9619
+2024-08-21,tabby,tortoiseshell,short,pointed,odd-eyed,not_required,No,kitten,OUTDOOR,ball,shy,Wet,CLUMPING,online,allergy," 3,794",13085,1625," 1,449",£15440,10983,NaN,NaN,11241,3292
+2024-11-27,persian,Grey,Hairless,,missing,,no,JUNIOR,INDOOR,STRING,Friendly,RAW,clumping,breeder,DENTAL,7861,4087,2882,NaN,£14743,NA,NA,-999,14343,
+2022-03-01,Sphynx,missing,LONG,pointed,blue,UNKNOWN,NO,mature,OUTDOOR,ball,Shy,raw,non-Clumping,stray,allergy,17400,   637,"13,244",18804,"15,073",,19452,17230,£3919,8030
+2022-04-18,-999, black ,long,tabby,gold,not_required,yes,NaN,outdoor,STRING, lazy ,wet,Recycled Paper,Stray,dental,4205,4590,18824,9144,932,37,"14,500",7092,817," 5,445"
+01/05/2024,missing,Brown,medium,tabby,NA,Unknown,No,prime,-999,String,NaN,Wet,silica,Stray,obesity,1196,12035,£1604,missing,-999,14356,13502,9018," 8,565",17759
+-999,Ragdoll,white,Medium,solid,gold,Unknown,no, MATURE ,Both, ball ,PLAYFUL,dry,non-clumping,breeder,arthritis,,15258,8246,NA,17121,8483,989,6861,19789,NaN
+20/10/2023,tabby,white,long,BI-COLOUR,gold,UNKNOWN,no,geriatric,outdoor,laser_pointer, lazy ,RAW,silica,friend,-999,13324," 8,283","17,376",13392,£14616,"17,002",£19503,NaN,12196,1461
+"Sep 14, 2021",British Shorthair,black, hairless ,spotted, odd-eyed ,overdue, no ,kitten,outdoor,string,friendly,mixed,clumping,online,Arthritis,8351,15194,2871,£14009,2610,£16823,1678,19509,"15,658",16905
+2022-06-11,maine coon, Orange , hairless ,pointed,green,Up-To-Date,No,prime,-999,catnip mouse,lazy,mixed,recycled_paper,friend,obesity,£10206,£16152,6650,-999,£13405,,4083,13409,£12534,15900
+13/10/2024, SPHYNX ,missing,long,Solid,ODD-EYED,up-To-Date,yes,Senior,both,catnip mouse,playful,Mixed,non-clumping,STRAY,Obesity,missing,6401,"10,038",£7195," 5,325",1140,3377," 4,121","17,621",5008
+2021-02-05,british_shorthair,White, medium ,SOLID,GREEN,-999,yes,junior,Indoor,LASER POINTER,lazy,raw,recycledPaper,Online,dental,3775,13000,£9645,12548,"15,166",NA,,19250,£17216,14077
+-999,bengal,,SHORT,BI-COLOUR, blue ,Up-To-Date,yes,mature,Outdoor,STRING,friendly,raw,recycledPaper,SHELTER,OBESITY,£8693,missing,£8330,missing,NA,,£11379,£9323,"16,848",6358
+,sphynx,GREY,-999,Tabby,ODD-EYED,Overdue,no,-999,Both,Ball,playful,Dry,Non-Clumping,-999,OBESITY,"10,909",7351,   746,14655,7189,18488," 7,180",8750,,NaN
+16/06/2023,British Shorthair,calico,SHORT,Pointed,BLUE,Up-To-Date,NO,-999,-999,-999,lazy,Mixed,Clumping,breeder,none,missing,9420,12590,7283,18267,12682,"11,410",13907," 6,971",3317
+21/03/2022,tabby,cream,hairless,pointed,odd-Eyed,up-to-date,missing,senior, both ,catnipMouse,FRIENDLY,Mixed,recycledPaper,-999,NONE,10863,NaN,£1708,-999,"11,767",13838,£12619,"11,296",2495,19156
+2022-08-21,missing,tortoiseshell,long,solid,gold,overdue,Yes,-999,outdoor,STRING,NaN,Dry,RECYCLED PAPER,STRAY, allergy ,£19248,2206,NA,2030,19390," 4,542",   689,"14,247",2928,NA
+2021-10-21,tabby,tortoiseshell,long,missing,Odd-Eyed,overdue,no, geriatric ,outdoor,missing,friendly,raw,SILICA,shelter,ALLERGY,13604,-999,17750,,NA,4986,£10093,NA,1101,11032
+19/12/2021,siamese,tortoiseshell,hairless,NA,odd-eyed,overdue,Yes,senior,Outdoor, Feather Wand ,Lazy, RAW ,CLUMPING,-999,Arthritis," 9,331",1332,17455,,9214,1434,NA,5781,9436,19393
+17/08/2023, maine_coon ,cream,SHORT,pointed,odd-eyed,not_required,NA,MATURE,Outdoor,ball,Shy,NaN,clumping,SHELTER, obesity ,14827,£13071,£3754,12579,12554,"14,995",9216,9848,847,£5455
+2023-10-23, maineCoon ,Black,short,spotted,blue,UP-TO-DATE,NO,Mature,indoor,missing,PLAYFUL,raw, non-clumping ,Shelter,none,13554,18778,"16,817",1215,NA," 2,206",NaN," 7,981",£10686,6186
+2022-01-04, British Shorthair ,cream,NaN,Tabby,blue,unknown,yes,junior,OUTDOOR, Laser Pointer ,friendly,wet,Recycled Paper,online,arthritis,16818,2787,303,1314,2680," 7,249",16421,£415,13411,14748
+2021-05-13,PERSIAN,grey,medium,bi-colour,Blue,unknown,NA,prime,BOTH, Ball ,lazy,NA, clumping , Breeder ,NA,19988,   995," 6,262"," 5,711",15847,8868,4007,12236,621,3230
+2023-12-01,tabby,CREAM,missing,Spotted,Gold,up-To-Date,NO,mature,outdoor,catnip mouse,Lazy,mixed,silica,missing,none,NaN,18601,£19795,7674," 4,437",18322,£15924,18013,"17,013",6895
+2022-02-11,persian,missing,hairless,spotted,copper,Overdue,no,prime,both,ball,shy,mixed,-999,BREEDER,DENTAL,£7000,3752,5148,3309,6503,8573,£17672," 5,207"," 2,711",18557
+2021-08-05, british shorthair ,CALICO,missing,Pointed,GREEN,up-to-date,NO,senior,outdoor,string, lazy ,MIXED,NON-CLUMPING,NaN,NaN,1645,NA,missing,2332,£9688,10729,,missing,14647,"17,708"
+2024-01-27,Tabby,grey,medium,solid,Blue, unknown , yes ,PRIME,Outdoor,ball,AGGRESSIVE,missing, Non-Clumping ,Shelter,allergy,,"15,675",£2364,,15155,,19770,18060,5059,
+NA,PERSIAN,grey,long,pointed,copper,NOT REQUIRED,no,Senior,outdoor, LASER POINTER ,Lazy,wet,NON-CLUMPING,online,none,NA,£17812,1708,-999,2657,6829,19169,9707,12608,13889
+"Nov 26, 2024",Maine Coon, BLACK ,LONG,tabby,blue,Not Required,YES, prime ,OUTDOOR,Laser Pointer,missing,wet,silica,stray,Obesity,4602,4677,£14591,"11,523",9884,missing,7950,14070,4249,£12701
+"May 24, 2023",Persian,tortoiseshell,short,tabby,gold,up-to-date,yes,PRIME,both,laser_pointer,shy,wet,Silica,stray, Allergy ,    39,11917,," 6,858",12234,4868,10818,4704,9902,12466
+"Apr 11, 2024",maine coon,Tortoiseshell,-999,Tabby,copper,unknown,yes,geriatric,outdoor,featherWand,Friendly,raw, silica ,stray,None,674,10552,7361,7570,1714,NA,£12774,10158,-999,£14673
+2024-03-29,tabby,NaN,MEDIUM,SPOTTED,Copper,not_required,YES,prime,outdoor,Laser Pointer,shy,mixed,NaN,ONLINE,-999,missing,503,14042,,18479,10449,NaN,11149,7913,NA
+"Jan 22, 2024",Siamese,brown,short,SPOTTED,-999,not required,yes,kitten,Outdoor,laserPointer,Friendly,wet,silica,-999,none," 1,260",16707,11377,-999,17166,8918,"11,051",5251,£12506," 1,147"
+2021-12-09,sphynx,white,Medium,missing,copper,NOT REQUIRED,yes, Geriatric ,NaN,NA,LAZY,wet,RECYCLED PAPER,ONLINE,arthritis,14275,,2207,9238,2493,917,4881,11756,NA," 1,385"
+22/01/2022,NA,White,medium,Tabby,gold,NOT REQUIRED,yes,geriatric,indoor,,Lazy,dry,silica,Breeder,NaN,-999,£11555,6858,5358,£19646,4562,£2233,15570,13269,£3587
+2022-07-28,Ragdoll,grey,medium,spotted,COPPER,NaN,NO,geriatric,indoor,string,lazy,wet,non-Clumping,ONLINE,ALLERGY,378,7262,,£12253,£11361,18140,4941,8287,6034,75
+2021-05-24,sphynx,white,Hairless,missing,gold,up-to-date,Yes,Kitten,both,ball,shy,raw,NaN,missing,-999,missing,11895,19900,£3371,4948,7932,,2891,17946,5327
+NA,siamese,BROWN,hairless,Solid,ODD-EYED, up-to-date ,NaN,senior,indoor,String,aggressive,raw,silica,Breeder,allergy,1745,13561,-999,"16,307",12920,4050,10633,£15193,£2936,14414
+25/11/2021,TABBY,white,medium,-999,blue,UNKNOWN,Yes,mature,outdoor,CATNIP MOUSE,aggressive,raw,missing,BREEDER,OBESITY,£270,£3503," 5,349",7429,£5825,13085,"18,172",£13430,13357,3379
+10/04/2024,BRITISH SHORTHAIR,Black,missing,solid,Gold,Overdue,Yes,-999,INDOOR,Catnip Mouse, shy ,WET,clumping,Friend,-999,17247,15652,8588,4759,NaN,£17772,5876,missing,18433,1042
+06/03/2023,MAINE COON,cream,Hairless,spotted,gold,notRequired,Yes,,BOTH,String, LAZY ,missing,recycled_paper,Breeder,arthritis,£3952,1170,"12,438","11,850",14515,£19119,£8306,"19,205"," 4,537",723
+NA,ragdoll,grey,Medium,bi-Colour,BLUE,,Yes,junior,BOTH,feather wand,lazy,dry,CLUMPING,missing,NONE,6,13105,4278,1674,,17395,NA,11900,11457,£14356
+27/07/2024,Maine Coon,cream,missing,bi-colour,copper,NA,yes,mature,outdoor,ball,lazy,dry,NON-CLUMPING,online,allergy,15502,   201,3738,596,11277,12181,7548,13935,7772,£2206
+14/11/2021,Sphynx,Tortoiseshell,MEDIUM, pointed ,copper,overdue,no,KITTEN,Outdoor,, aggressive ,MIXED,recycledPaper,ONLINE,dental,9802,9687,£1798,7166," 8,941",£3098,£16345,£18779,9779,6316
+"Jun 08, 2022",SPHYNX,orange,NA,missing,Odd-Eyed,UP-TO-DATE,no,mature,INDOOR,Feather Wand,Playful,raw,NON-CLUMPING, Breeder ,none,"15,758",1553,12213,-999," 2,033",18682,12188,1749,3253,3558
+18/09/2021,ragdoll,CREAM,hairless,bi-colour,Blue,-999,NA,geriatric,NaN,LASER POINTER,PLAYFUL, DRY ,non-clumping,shelter,Obesity,7186,NaN,15162,6447,2664,12375,10868,"19,236",15205,£2337
+missing,missing,Brown,Hairless,pointed,copper,up-to-date,no,kitten,OUTDOOR,string,SHY,DRY,recycled paper,missing,allergy,-999,£6712,13857,NA," 7,717",11937,6980,18621,19543,18339
+2022-08-13,tabby,calico,long,pointed,ODD-EYED,overdue,No,kitten,both,-999,Aggressive,DRY,Silica,,arthritis,708,16893,"19,206",7237,£1920,"10,387",NaN,£7663,NA,17273
+19/09/2021,tabby,white,short,Pointed, odd-eyed ,Unknown,yes, Junior ,both,LASER POINTER,aggressive,mixed,Clumping, friend ,-999,,17307,£7655,6536,18037,1960,13716,missing,,£14499
+2022-08-08,bengal,Grey,SHORT, solid ,green,overdue,no,junior, indoor ,feather wand,friendly,wet,non-clumping,Shelter, ALLERGY ,,13845,£17,7941,-999,£10778,NaN,9410,NA,£997
+2024-10-13,ragdoll,,Short,bi-colour,blue, not required ,NO,NaN,both,String,shy,mixed,Silica,shelter,dental,19992,12732,NA,3402,3817,17855,3765,missing,£15806,18045
+21/04/2021,MAINE COON,ORANGE,LONG,missing,green,NaN,yes,,Both,Laser Pointer,aggressive,Raw,RECYCLED PAPER,breeder,none,8456,£11254,19554," 3,802",-999,2892,,5097,1470,14452
+18/02/2023,ragdoll,,hairless,spotted,GREEN,overdue,yes,junior,both,NA,Shy,dry,missing,shelter,arthritis,"19,189",£7254,-999,5117,£1790,£2312,15330,16893," 5,173",7724
+2023-01-23,bengal,Brown,NaN,SPOTTED,odd-Eyed, overdue , yes ,Junior,Both,catnip mouse,SHY,wet,NON-CLUMPING,online,arthritis,3802,NA,£1737,7166,£13533," 4,234"," 9,120",3409,"12,491",missing
+29/08/2023,britishShorthair, Brown ,short,TABBY,gold,unknown,no,Kitten,indoor,STRING,LAZY,DRY,silica,Shelter,ALLERGY,11314,7488,1373,£18942,16541,10251,-999,£477,18229," 8,306"
+08/07/2024,-999, brown ,long, TABBY ,odd-eyed,up-to-date,yes,SENIOR,both,CATNIP MOUSE,-999,-999,Silica,breeder,dental,£4713,13121,missing,17696,£12285,7805,8468,19821,£2852,3754
+2024-06-15,SPHYNX,ORANGE,Short,spotted,Green,UP-TO-DATE,Yes,mature,missing,String,Aggressive,raw,NON-CLUMPING,Online, Allergy ,   928,£16435,   606,14475,missing,£16994,8190," 7,514",4369,   815
+29/07/2023,tabby,cream,medium,solid,GREEN,Overdue,no,,Indoor,FEATHER WAND,NA,DRY, Clumping ,,arthritis,1571,,"14,320",19053,-999,661,£10587,251,"11,477",17734
+15/08/2021,sphynx,missing,,SPOTTED,ODD-EYED,Overdue,no,senior,outdoor,STRING,SHY,dry,-999,breeder,dental,225," 1,496",£15451,13880,15410,10367,10271,NA,13084,4673
+2024-10-10,siamese,calico,-999,BI-COLOUR,NaN,OVERDUE,no,kitten,both,CATNIP MOUSE,Shy,MIXED,Non-Clumping,-999,arthritis,7478,9240,4529,8526,17431,70," 8,289",£6267,"15,021",11272
+2024-11-29,Bengal,GREY, Short ,pointed,Gold,NaN,no,KITTEN,both,FEATHER WAND,NaN,MIXED,silica,FRIEND,allergy,NaN,13649,£5169,14693,£8276,£9265,14414,£4225,6605,5354
+missing,NaN,ORANGE,-999,solid,NA,unknown,YES,senior,both,laserPointer,lazy,raw, Recycled Paper ,friend,-999,9477,2441," 1,442",15544,£16052,13513,"15,378",15676,£9595,12146
+"Jan 23, 2021",british_shorthair, grey ,SHORT,SPOTTED,odd-eyed,,no,junior,NaN,featherWand,Friendly, raw ,NaN,online,none,7319,5062,3188,10431,12208,"14,844",14113,"14,828",990,11770
+21/01/2024,Tabby,calico,short,SPOTTED,green,notRequired,yes,junior,BOTH,, shy ,wet,clumping,Shelter,allergy,5772,12719,,11396,£3310,NaN,NA,18954,NA,15363
+01/06/2022,BENGAL,cream,SHORT,Pointed,BLUE,not_required,yes,Mature,both,ball,shy,Raw,silica,online,dental,8831,£9576,NA,£14750,1283,1450,4410,-999,16728,17683
+14/04/2022,ragdoll,BLACK,Long,solid,gold,unknown,NO,JUNIOR,,String,NA,NA,recycled paper,shelter,Dental,17448,3957,7942,missing,871,7373,12807,10758,"12,525",£9766
+08/02/2021, bengal ,Calico,long,bi-Colour,Odd-Eyed,Overdue,no,junior,indoor,Catnip Mouse,Shy,mixed,silica,NA,allergy,19564,"15,343",14366,£3032,12442,10339,6658,15141,£3250,4601
+"Jul 23, 2021",bengal,Black,HAIRLESS,solid,copper,Up-To-Date,yes,junior,outdoor,-999,,raw,clumping,Online,dental,2812,7693,,7577,4379,17149,6926,6758,11271,"15,929"
+28/02/2024,Bengal,calico,MEDIUM,NaN,blue,not_required,YES,GERIATRIC,INDOOR,catnipMouse,,Dry,non-clumping,shelter,arthritis,18681,6554,£5854,,15250,2684,"12,247",6547,8944,
+NaN,SPHYNX,cream,MEDIUM,TABBY,blue,up-To-Date,Yes,Kitten,both,ball,,mixed,non-Clumping,,obesity,NaN,14905,NA,,-999,£13468,£8169,9837,4365,5655
+04/12/2021, bengal ,brown,long,tabby,blue,Not Required,-999,PRIME,indoor,string,aggressive,WET,silica,Shelter,none,7408,"17,434",12093,£3967,15042,17962,11044,missing,£4108,"19,964"
+missing,bengal,NA,Medium,tabby,gold,unknown,-999,geriatric,both,catnip_mouse,LAZY,wet,,SHELTER,none,£1983,3346,"15,093",19884,"12,898",,NA,9833,9772,17737
+-999,missing,white,HAIRLESS,tabby,GOLD,unknown,No,geriatric,both,catnip mouse,playful,Mixed,SILICA,shelter,allergy,5958,5558,15973,17035,18087,6504,"10,596",6448,6691,-999
+07/10/2022,bengal,Tortoiseshell,long,Pointed,copper,UNKNOWN,no,senior,BOTH,Catnip Mouse,Playful,mixed,,ONLINE,dental,16983,£6314,16276,8139,£7324,3591,1949,7975,14469,12130
+2021-07-15,maine coon,calico,long,solid,Copper,NOT REQUIRED,no,JUNIOR,outdoor,Feather Wand, Lazy ,MIXED,silica, Breeder ,arthritis,NA,18419,£741,"18,084",£7526,,£3012," 8,101",£8306,10416
+"Oct 14, 2023",-999,grey,hairless,solid,blue,OVERDUE,,senior,OUTDOOR,ball,friendly, mixed ,non-Clumping,FRIEND,none,£6620,16747,NaN,"14,793",4437,14259,£17970,7330,£19160,1594
+"Feb 17, 2021",Siamese,tortoiseshell,Medium,Pointed,gold,overdue,Yes,KITTEN,Both,NaN,NaN,Wet,silica,stray,Dental,14412,12050,missing,7953,8209,,£13289,NaN,£7449,£9240
+17/11/2022,tabby,BROWN,hairless,solid,COPPER,Unknown,NO,kitten,indoor,Feather Wand,Friendly,wet,clumping, online ,Obesity,10225," 5,154",£13808,17918,9732,13500," 4,338",-999,15231,NaN
+"Dec 06, 2022",ragdoll,calico,medium,BI-COLOUR,blue,overdue,no, prime , indoor ,string,playful,wet,recycled_paper,-999,obesity,376,7473,"12,830",9306,14002,14147,£827,£16703,"14,527",10695
+30/08/2023,Ragdoll,calico,Medium,POINTED, copper ,unknown,NA,mature,OUTDOOR,ball,playful,Dry,recycled paper,friend,obesity,725,17177,£15883,£6958,1408,4046,15330,1689,8326,10673
+2023-11-02,siamese,Orange,Short, Pointed ,odd-eyed,UP-TO-DATE,No, geriatric ,both, featherWand ,SHY,raw,recycledPaper, stray ,Arthritis,7306," 5,748",,8820,£12845,£4448,11823,£17251,6621,12276
+2024-09-27,siamese,ORANGE,long,SOLID,Odd-Eyed,notRequired,, Kitten ,Outdoor,ball,aggressive, Mixed ,Clumping,shelter,dental,15959,£19578,£10485,445,missing,£16407,£2106,£2417,7814,16143
+2021-03-18,-999,BROWN,HAIRLESS,Bi-Colour,odd-eyed,up-To-Date,,GERIATRIC,indoor,Catnip Mouse,aggressive,Raw,Recycled Paper,Shelter,arthritis,11661,15946,13068,1402,10168,10247,"10,287",11853,12709,£7944
+2024-01-31,TABBY, white ,long,tabby,green,overdue,NaN,Kitten,both,string, PLAYFUL ,RAW,NA,Online,ALLERGY,11550,NA,5713," 8,899",,£10754,£17237,19684,£6703,1140
+NA,Ragdoll,Orange,LONG,TABBY,blue, UP-TO-DATE ,Yes,KITTEN,Both,Catnip Mouse,Friendly,wet,Recycled Paper,shelter,none,£3700,NA,4266,£18984,13220,,14031,"11,428",£16792,13287
+15/07/2023,sphynx,brown, MEDIUM ,-999, GOLD ,overdue,Yes,NA,Outdoor,Ball,friendly, dry ,NaN,Breeder,obesity,19814,£11035," 5,623","17,801",11334,NaN,16008,463,7117,10866
+11/12/2022,ragdoll,orange,Short,pointed,, up-to-date ,yes,Senior,outdoor,ball,LAZY,raw,missing,online, ALLERGY ,18203,"16,445",5297,"15,529",£13642,£10857,,1292,13448,16076
+29/11/2021,maine_coon,BLACK,short,solid,odd-eyed,NaN,no,junior,Indoor, catnip mouse ,NaN,Raw,missing,stray,allergy,£15401,£5926,6264,1284,£13516,missing,6628,1624,missing,£6819
+30/12/2023,BENGAL,calico,-999,spotted,copper,Not Required, no ,junior,both,Ball,PLAYFUL,WET,recycledPaper,friend,NONE," 3,702",193,4929,16241,,9688,18623,£5481,missing,NaN
+,Maine Coon,,medium,bi-Colour,gold, overdue ,yes,junior,both,ball,SHY,wet,NON-CLUMPING,stray,dental,19354,14927,16103,15797," 3,995",2118,123,"14,178",6122,15850
+02/02/2023,maine_coon,calico,medium,Solid,Copper,overdue,-999,GERIATRIC, indoor ,Laser Pointer, FRIENDLY ,dry,Non-Clumping,shelter,Obesity,NA,16937,7638,-999,£9298,3794,,5196,£17133,6198
+2021-06-19,siamese,Tortoiseshell, Medium ,spotted,green,-999,no, prime ,INDOOR,NaN,NA,Mixed,clumping,breeder,missing,15287,£6395,8951,£17095,£6552,975,   927,697,7568,NaN
+-999,BENGAL,white,HAIRLESS,Bi-Colour,gold, not required ,missing, GERIATRIC ,both,BALL,NaN,raw,non-clumping,stray,obesity,NaN,NA,17579," 3,939",12600,13651,£10242,£16842,9476,2048
+2022-10-29,NaN, Orange ,long,Pointed,Odd-Eyed,Not Required,no,SENIOR,INDOOR,catnip mouse,,raw,recycled paper, stray , Arthritis ," 9,084",14240,NA,968,4939,NaN,£6342,6260,14358,£19081
+2024-12-25,bengal,TORTOISESHELL,Long,BI-COLOUR,ODD-EYED,NOT REQUIRED,NaN,,NaN,,SHY,mixed,recycledPaper,SHELTER,allergy,13127,18561,9001,NA,16219,"11,135"," 2,755",17143,8626,4299
+,TABBY,BLACK,,tabby,odd-Eyed,up-to-date,Yes,Junior,indoor,ball,aggressive,dry,clumping,online,,13847,11030,1148,8436,19031,5662,9117,missing,12438,"12,069"
+2024-10-08,MAINE COON,Cream,long,missing,Blue,overdue,no,kitten,INDOOR,laser_pointer,AGGRESSIVE,DRY,RECYCLED PAPER, friend ,obesity,18091,4479,£15845,15008," 3,366",8320,6488,19582,3986,£10573
+2021-03-22,ragdoll,Calico,long,SOLID,ODD-EYED, Not Required ,no,prime,Indoor,string,FRIENDLY,missing,,online,missing,618,5107,11533,£8874,9435,2185,12693,"15,960",16626,5895
+2024-10-20,BENGAL,grey,,-999,,up-to-date,no,senior,indoor,Ball,playful,Raw,Clumping,STRAY,None,   122,18108,-999,-999,16989,missing," 7,504"," 7,071",£5713,£13877
+09/12/2023,NA,Orange,short,Solid,Gold,up-to-date,YES,mature,both,string,Lazy,dry,non-clumping,FRIEND,Allergy,3931,452,£5944,"13,199",1837,19718,6889,11695,8026,"12,605"
+2024-12-02,bengal,calico, Short ,Tabby,copper,Not Required, yes ,PRIME,both,Feather Wand,friendly, raw ,clumping,stray, dental ,10849,£17587,10944,£11704,£9686,9838,," 6,243",11665,£4787
+02/04/2024, maineCoon ,orange,SHORT,Solid,odd-eyed,-999, no ,NA,Indoor,featherWand,LAZY,mixed,-999,Friend,arthritis,10682,£5046,9928,   707,1075,NA,,"19,850",9317,12667
+2023-08-18,Bengal, tortoiseshell ,HAIRLESS,spotted,gold,-999,YES,prime,indoor,feather_wand,Lazy,raw,Recycled Paper,NaN,ALLERGY,9086,7114,17764,4245,15903,10238,18382,2264,6270,13052
+2021-09-17,sphynx,black, short ,Tabby,copper,unknown,YES, senior ,indoor,NaN,LAZY,mixed,non-Clumping,BREEDER,Dental," 5,307",7946,13224,NA,8344,8305,5870,8216,NA,NA
+22/02/2021,SIAMESE,grey,short,SOLID,copper,NOT REQUIRED,NO, Prime ,Both,laser_pointer,playful,,CLUMPING,online, arthritis ,5049,9394,9024,497,"14,141",1018,NaN,16469,NaN,NaN
+14/09/2023,Bengal,CALICO,Short,solid,blue,notRequired,Yes,junior,-999,ball,aggressive,raw,clumping, friend ,Obesity,£4407,14682,10952,£15583,NaN,14480,17166,7640,"19,043",NaN
+10/05/2023,tabby,GREY,long,solid,odd-eyed,overdue,yes,senior,outdoor,ball,friendly,RAW,NON-CLUMPING,stray,None,3946,19789,15443,18688,11461,14577,"13,300",missing,4735,2730
+08/08/2022,bengal,Calico, hairless ,TABBY, copper , Not Required ,yes,prime,both,feather_wand,friendly,Dry, SILICA , Friend ,arthritis,9931,"15,623",12262,,13871,"17,110",10003,13935,£4022,£15110
+27/07/2021,SPHYNX,cream,Short,spotted,gold,,Yes,kitten,Both,catnip mouse,shy,DRY,Clumping,breeder, Dental ,5903,4696,10252,3926,9449,14697,missing,14382,£14208,19768
+2022-07-29,ragdoll,white,short,tabby,green,NOT REQUIRED,yes,prime, indoor ,laserPointer,Aggressive,raw,silica,Online,Allergy,"19,251",15448,9022,9008,7517,-999,NA,£2465,8350,missing
+2023-09-11,BENGAL,calico,hairless,missing,Odd-Eyed,UP-TO-DATE,Yes,NaN,OUTDOOR,feather_wand,aggressive,mixed,NA,friend,arthritis,,£1296,missing,2128,1206,£11184,3958,missing,£15455,790
+06/09/2022,NA,black,medium,solid,-999, Not Required , yes ,MATURE,Outdoor, BALL ,SHY,RAW,-999,breeder,Arthritis,12416,11626,5121,11603,-999,£17223,14439,12781,18887,11829
+2022-01-10,Siamese,TORTOISESHELL,NaN,spotted,blue,UNKNOWN,YES,GERIATRIC, both ,catnip_mouse,PLAYFUL, Dry ,clumping, ONLINE ,none,£2112,£16606,9168,17641,£16606,11461,18806,7680,4012,16618
+06/03/2024,tabby,GREY,Short,tabby, copper ,unknown,no, Junior ,OUTDOOR,ball,aggressive,raw,silica,breeder,dental," 9,080",13642," 3,887",5871,£8251,1314,£10922,7242,285,18759
+03/02/2022,maine coon,,long, spotted ,NA, overdue ,No,GERIATRIC,both,Feather Wand,lazy,Raw,silica, online ,,18629,5957,£11108,14511,"19,942",10253,"16,663",£4135,£10513,£7853
+2024-07-03,ragdoll,cream,hairless,SOLID,-999,OVERDUE,NO,KITTEN,indoor,string,shy,Dry,Clumping,Stray,dental,16072,£2655,17839,,10189,16185,12657,,NA,16277
+"Nov 24, 2022",missing,brown,medium,pointed,green,up-to-date,yes,mature,Outdoor,ball, aggressive ,WET,non-Clumping,online, Obesity ,£11978,£17825,,11629,£16985,9496,-999,16284,11754,£17665
+2021-01-30,ragdoll,ORANGE, medium ,pointed,green,overdue,NaN,senior,indoor,String,playful,MIXED,Silica,ONLINE,dental,£14132," 4,804",3770,"18,335",£2256,6147,£12240,£10112,£16589,"15,733"
+22/02/2021,Bengal, grey ,SHORT,BI-COLOUR,NA,up-To-Date,no,SENIOR,outdoor,CATNIP MOUSE,friendly,mixed,missing,friend,none,NA,7541,16156,4848,1006,4127,8846,17539,11200,18943
+05/04/2023,British Shorthair,calico,short,solid,Blue,up-To-Date,NO,kitten,outdoor,-999,friendly,mixed,SILICA,Shelter,none,14605,6491,1009," 1,429",£17356,NaN,14157,10284,994,"17,243"
+2024-12-05,NaN,missing,NaN, pointed ,blue,UP-TO-DATE,No,PRIME,INDOOR,NaN,aggressive,mixed,,NaN,NA,£4527,3411,£11043,6951,15486,£4644,£9919,13086,£14015,"15,367"
+21/12/2023,SIAMESE,cream,long,tabby,GREEN,OVERDUE,no,Junior,indoor,string,Shy,NaN,,-999,dental,7265,2238,missing,missing,£6565,missing,19730,17852,£5987,2020
+2022-01-06,british shorthair,Brown, hairless ,bi-Colour, BLUE ,unknown,yes,junior,indoor,laserPointer,shy,RAW, RECYCLED PAPER ,stray,Obesity,,11980,11296,1939,£1378,17997,16592,,missing,14992
+2023-03-30,british_shorthair,missing,hairless,tabby,gold,NaN,no,Junior,outdoor,catnip mouse,SHY,mixed,recycledPaper,SHELTER,NaN,13291,£14352,£2229,-999," 7,188",NA," 6,404",11998,9329,£10199
+,NA,tortoiseshell, Medium ,bi-colour,blue,up-To-Date,yes, JUNIOR ,indoor,NA,playful,mixed,RECYCLED PAPER,shelter,ARTHRITIS,4853,NA,8850,4772,4588,4406,15052,11259,"17,106","14,951"
+2022-02-18,MAINE COON,orange,Short,pointed,green,overdue,YES,PRIME,both,STRING, friendly ,MIXED,SILICA,friend,None,15210,14876,"15,755"," 7,441",12170,434,£7772,11199,missing,17918
+"Oct 05, 2023",sphynx,brown,long,solid,gold,not required,No,Senior,indoor,CATNIP MOUSE,shy,RAW,silica,breeder,arthritis,£10041,10199,£15178,559,6531,£19957,"17,993",18425,£13788,12554
+15/02/2022,bengal,grey,short, tabby ,copper,overdue,yes,PRIME,INDOOR,missing,aggressive,Wet,NaN,online,none,3029,10797,1274,3300,6099,£4978,13544,2937,"15,688",£623
+20/10/2022,sphynx,white,short,bi-Colour,ODD-EYED,NA,no,kitten,both,String,playful,dry,silica, online ,allergy,NA,15787,1737,11401,13565,£1104," 5,714","14,280",,8140
+31/10/2021,Ragdoll,calico,long,pointed,odd-eyed,UNKNOWN,Yes,Prime,indoor,feather wand,missing,WET,Recycled Paper,ONLINE,ARTHRITIS,missing,"17,964",3988,15896,£8959,5927,£15402,18371,"13,670",£15501
+17/01/2021,BENGAL, grey ,Long, SOLID ,blue,overdue,,Prime,Both,String,lazy,wet,non-Clumping,Online,ARTHRITIS,8281,645,14760,10269,18468,"17,905",6938,7278,6968,£11726
+2023-12-17,bengal,missing,long,Bi-Colour, odd-eyed ,UP-TO-DATE,NO,NaN,outdoor,ball,playful,wet,Non-Clumping,BREEDER,NA,19901,missing,£10935,£6256,14489,NA,,11513,7477,16421
+2022-12-06,siamese, Calico ,SHORT,spotted,copper,overdue,-999,geriatric,outdoor,LASER POINTER,aggressive,raw,Non-Clumping,STRAY,obesity,5390,£1863,£3164,   604,£384,17267,"10,872",NA,£8580,9939
+19/06/2024,Tabby,ORANGE,hairless,POINTED,gold,unknown,no,senior,both,NaN,lazy,raw,Recycled Paper,shelter,dental,£116,9914,£7179," 3,125",8364,£5323,1964,,-999,-999
+20/02/2023,Bengal,Calico,Long,NaN,BLUE,UP-TO-DATE,no,geriatric,indoor,String,LAZY, wet ,recycled paper,FRIEND,NA,10379,NaN,£6314,16731,NaN," 7,611",,6790,10813,5448
+07/01/2023,Bengal,black,MEDIUM,SOLID,GOLD,overdue,YES,MATURE,both,FEATHER WAND,lazy,DRY,silica,shelter, arthritis ,£10772,7608,missing,12027,19858,1157,1315,NA," 6,479",13840
+2021-04-30,persian,cream,missing,BI-COLOUR,GREEN,NOT REQUIRED,No,junior, Outdoor ,ball,playful,RAW,missing,stray,dental,£1155,£9241,7450,5117,11713,£18308,8504,13991," 5,243",   417
+19/01/2022,Maine Coon,tortoiseshell,short,BI-COLOUR,blue,NaN,YES,mature,Both,-999,Friendly,mixed,clumping,friend,allergy,-999,NaN,£1219,847,9774,19683,19965," 5,280",12129,8052
+2024-01-27,Siamese,brown,medium,missing,green,UNKNOWN,NO,kitten,missing,ball,Playful,raw,clumping,Breeder,obesity,18343,13030,"11,143",£14054,£5365," 9,969",11060,16082,"18,192",2441
+13/03/2022,persian,orange,long,pointed,odd-eyed,overdue,NO,mature,Both,Feather Wand,NA,mixed,non-Clumping,Breeder,Allergy,14999,-999,5829,£11359," 9,497","18,374",13190,1709,6422,£8451
+17/11/2022,SIAMESE,tortoiseshell,medium,pointed,gold, unknown ,no,Kitten,BOTH,LASER POINTER,playful,mixed,silica,SHELTER, dental ,19529,8920,5375,18429,135,£552,£11608,£4125,1776,10139
+28/07/2022,bengal,white,long,spotted,NaN,NOT REQUIRED,missing,prime,indoor,feather wand,NA,wet, CLUMPING ,shelter,,7262,15898,236,6339,,£14697,NaN,£7002,6368,5177
+2024-08-01,BRITISH SHORTHAIR,Brown,hairless,Bi-Colour,GREEN,OVERDUE,no,senior,BOTH,string,friendly,NA,CLUMPING,breeder,ARTHRITIS,   970," 1,383",16645,15284,NaN,NA,-999,£10205,-999,£17887
+20/08/2022, Sphynx ,grey,short, SPOTTED ,gold,notRequired,,KITTEN, both , laserPointer ,Shy,mixed,Non-Clumping,-999,none,15476," 6,802",18949," 2,457",11261,5805,14023,16048,12565,18129
+-999,sphynx,ORANGE,medium,Solid,gold,up-to-date, no ,MATURE,outdoor,featherWand,lazy,Dry,clumping,breeder,obesity,£10817,18109,1193,8869,751,£7563,"19,355",1734,703,214
+27/06/2024,ragdoll,WHITE,LONG,pointed,odd-eyed,not required,yes,Geriatric,Indoor,CATNIP MOUSE,friendly,WET,non-clumping,online,none,7995,"17,410","19,975",17382,17306,14517,£13124,14651,9433,13573
+10/03/2022,persian,White,SHORT,tabby,,Unknown,yes,prime,outdoor, feather_wand ,LAZY,RAW,clumping,friend,NA,NA,   841,6846,7626,NA,6472,2245,6898,17527,6106
+2022-09-25,sphynx,NA,LONG,NA,Copper,up-to-date,yes,prime,INDOOR,BALL, AGGRESSIVE ,dry,clumping,SHELTER,allergy,NA,2706,2796,,13051,£2255,2489,1322,16877,3782
+24/06/2022,siamese,calico,Long,Pointed,Odd-Eyed,up-To-Date,,mature,outdoor,STRING,Playful,wet,RECYCLED PAPER,shelter,dental,£6724,5054,"17,694",1484,15804,2789,14204,-999,£3505,10189
+2021-11-19,Maine Coon,ORANGE,short, Tabby ,odd-eyed,NOT REQUIRED,missing,geriatric,indoor,NaN,-999,wet,non-clumping,,dental,,11897,11325,NA,£9695," 6,792","14,564",£16348,10259,£16450
+2022-04-21, BRITISH SHORTHAIR ,Orange, hairless ,SPOTTED,Green, up-To-Date ,NO,JUNIOR,both,String,FRIENDLY,raw,silica,friend,ALLERGY,-999,4721,2736,£1194,8226," 7,530"," 8,494",14980,3102,NA
+19/07/2023,BRITISH SHORTHAIR,ORANGE,long,solid,copper,,no,Junior,Outdoor,laser_pointer,playful,dry, recycled_paper ,missing,allergy,16764,11381,10410,2334,"18,809",13282,9144,13599,NA,16568
+2022-11-20, sphynx ,missing,Hairless,POINTED,odd-eyed,Not Required,yes,Senior,BOTH,ball,playful,dry,recycled_paper,Online,arthritis,13207,£7974,12234,19391,2126,6207," 5,398",£15957,3391,£7178
+"Jan 30, 2023",BENGAL,,medium,solid, BLUE ,up-To-Date,missing,missing,indoor,BALL,lazy,-999,missing, friend ,arthritis,7123,18440,NA,"10,770",NA,,missing,6140,10815,"15,680"
+22/04/2023,missing,orange,Medium,tabby,copper,not required,yes,senior,NA,CATNIP MOUSE,PLAYFUL,RAW,non-clumping,stray,dental,-999,212," 3,997",6731,"13,870",£6426,£3097,14593,missing,"15,175"
+04/11/2023,British Shorthair,black, short ,TABBY,copper,Not Required,Yes,kitten,outdoor,CATNIP MOUSE,Shy,dry,NA,Online,none,£15092,£9517,NA,14333,2383,3245,"13,600",£9473,16644,9365
+2024-06-23,Ragdoll,white,short,BI-COLOUR,odd-Eyed,OVERDUE,,SENIOR, OUTDOOR ,string,SHY,Dry,,SHELTER,Obesity,missing,£17495,4077,£1135,"14,676",£8590," 5,329",15375,NA,226
+2021-04-22,siamese, Black ,SHORT,spotted, green ,unknown,no,MATURE,OUTDOOR,CATNIP MOUSE,playful,missing,Non-Clumping,friend,allergy,6041,553,£17382,9333,2847,2705,11509,£9454,4871,16442
+31/12/2022,RAGDOLL,tortoiseshell,hairless,SOLID,copper,, NO ,prime,OUTDOOR,laser pointer,Playful,WET,non-Clumping,ONLINE,NONE,9485," 1,123",13813,14328,7612,NA,15131,"17,829",NaN,9583
+09/11/2021,siamese,cream,,spotted,green,UP-TO-DATE, Yes ,prime,outdoor,Catnip Mouse,aggressive,wet,clumping,online,,8920,15833,NA,"18,320",£18211,£1946,,3371,-999,18229
+"Aug 12, 2024",tabby,Cream,Medium,spotted, blue ,notRequired,yes,mature,NA,NaN,shy,Wet,recycled paper,ONLINE,none,"16,537",-999,8085,-999,6841,7349,£3736," 1,827",£7043,17879
+"May 21, 2021",TABBY,GREY,Long, POINTED , blue ,notRequired,yes,MATURE,INDOOR,,shy,DRY,-999,friend,none,,£6067,£18791,3327,17039,18158,,1118,4381,
+2023-09-24,British Shorthair,TORTOISESHELL,-999, POINTED ,odd-eyed,overdue,missing,geriatric,BOTH,catnip mouse,missing,wet,RECYCLED PAPER,Breeder,ARTHRITIS,£12119,13132,10943,16329,5706,461,"15,091",90,3864,8272
+15/11/2022,bengal,cream,medium,-999,blue,NaN,no,junior,indoor,Laser Pointer,aggressive,raw,-999,online,obesity,16748,   910,9993,-999,£17772,missing,14517,£18411,10140,£271
+-999,Siamese,NaN,short,NA,GOLD,Overdue,NO,kitten,indoor,FEATHER WAND,friendly, wet ,silica,BREEDER, dental ,13513,14027,NA,£13447,   103,10190,16934,18635,17934,£18759
+22/09/2023,siamese,BLACK,long,Spotted,ODD-EYED,unknown,missing,Prime,outdoor,FEATHER WAND,shy,DRY, recycled paper ,shelter,arthritis,209,£11585," 4,522",17206,£17472,,   356,£134,6929,17593
+26/09/2023,Sphynx,brown,Medium,missing,NaN,unknown,no,GERIATRIC,outdoor,ball,aggressive,DRY,RECYCLED PAPER,Stray,ALLERGY,-999,1797,955,758,12542,14300,8596,NA,12952,6209
+06/03/2021,missing, Orange ,short,solid,green,Overdue,NO,Kitten,outdoor,FEATHER WAND,aggressive,DRY,recycled paper,friend,arthritis,3605,19035,18382,1998,15924,"19,356"," 2,459",19633,4549,16768
+2024-09-06,tabby,white,short,NA,copper,NOT REQUIRED,No,PRIME,both,Feather Wand,aggressive,wet,-999, FRIEND ,dental,9611,17953,2075,5123,-999,," 2,156",-999,£2050,£9963
+01/07/2023,british shorthair,tortoiseshell,MEDIUM,bi-colour,NA,up-to-date,yes,geriatric,indoor,feather wand,friendly,mixed,NON-CLUMPING, BREEDER ,-999,14684,,1991,missing,13015,19709,8424," 7,700",6905,1505
+27/01/2024,siamese,white,Short,solid,Gold,OVERDUE,yes,geriatric,INDOOR,NaN,playful,mixed,NON-CLUMPING,friend,dental,3009,18557,6643,12032,11130,8646,4585,3130,£17884,NaN
+04/08/2023,maineCoon,white,HAIRLESS,bi-Colour,gold,UP-TO-DATE,yes,junior,-999,ball,AGGRESSIVE,missing,recycledPaper,online,-999,7220,19793,18740,10526,969,-999,6286,£13923,12158,15469
+22/08/2024,persian,,hairless,pointed,gold,unknown,no,NA,Both,catnipMouse,NaN,dry,CLUMPING,SHELTER, OBESITY ,"15,594",8638,15259,"12,250",3920,3753,3647,£8485,18894,10367
+16/09/2021,persian,CALICO,long,tabby, BLUE ,not required,no,senior,outdoor,catnipMouse,aggressive,WET,clumping,STRAY,obesity,£5848,10507,2432,2788," 5,994",18786,9168,"19,009",8898,£11390
+25/08/2022,persian,Calico,long,tabby,Copper,NOT REQUIRED,missing,PRIME,Both,feather_wand,aggressive,missing,Non-Clumping,shelter,Dental,£332,missing,15747,3475," 5,629",8273,8070,16245,13381,13364
+2021-11-07,persian, calico ,short,tabby,gold,up-To-Date,-999,prime, both ,BALL,shy,wet,non-clumping,breeder,Dental,"17,491",10835,19981,£6920,10614,£5068,missing,7117," 7,658",1845
+2022-03-08,Tabby,Brown,HAIRLESS,solid,Odd-Eyed,up-To-Date,yes,Mature,indoor,feather_wand,aggressive,Dry,recycled_paper, online ,none,2925,6697," 4,110",497,13396,18607,£14417,6554,16680," 6,759"
+08/04/2023,bengal,brown,Hairless, Solid , gold , overdue ,-999,NaN,OUTDOOR,BALL,shy,Raw,NA,breeder,dental,12998,3342,16544,11152,12041,11736," 5,514",,13974,8835
+16/04/2024,Ragdoll,BLACK,medium,POINTED,copper,UP-TO-DATE,No,mature,NA,Laser Pointer,Shy, wet ,Silica,friend,dental,16892,8466,NA,NA,£3935,3474,£2919,"16,026",15860,4486
+"Apr 11, 2021",ragdoll,WHITE,long,NaN,copper,overdue,no,Senior,Indoor,laser pointer,missing,,Clumping, online ,OBESITY,19160," 9,684",14848,16782,"19,458",£8685," 2,338",5580,NaN,5072
+06/07/2024,ragdoll,TORTOISESHELL,missing,tabby,Gold,unknown,yes,kitten,INDOOR,laser pointer,friendly, wet ,NON-CLUMPING,friend,dental,£5796,7229,17446,-999,12357,630,£10333,"13,655",7390,12056
+23/05/2024,persian,black,MEDIUM,SOLID,COPPER,OVERDUE,yes,geriatric,Indoor,ball, lazy ,dry,non-clumping, shelter ,none,3750,NaN,missing,14141,£902," 4,039",£9644,369,"14,047",3238
+"Jun 14, 2024",Bengal,tortoiseshell,Short,missing,odd-eyed,overdue,-999,prime,Both,string,playful,raw,CLUMPING, ONLINE ,ALLERGY," 2,983",£4600,6575,15859," 7,217",10596,14686,£4298,£15512,£14943
+2021-12-23,britishShorthair, grey ,short,spotted,green,unknown,YES,NA,NaN,string,aggressive,mixed, Silica ,online,dental,£17042,NaN,£5216,16288,NA,1804,£19612,7720,16851,NA
+2021-10-01,NaN,WHITE,,SPOTTED, Blue ,unknown,no,-999,indoor,-999,NaN,raw,clumping,ONLINE,none,NaN,NaN,£5138," 1,089","19,444",19028,NaN,18681,6807,6978
+2023-12-25,persian,NA,NaN,spotted,ODD-EYED, UNKNOWN ,no,prime,both,ball,Playful,Wet,CLUMPING,Shelter,none,3049,missing,£18188," 4,067",£8843,£12835,missing,2102,8437,17
+21/05/2024,tabby,cream,MEDIUM,solid,ODD-EYED,notRequired,No,NA,indoor,Catnip Mouse,missing, raw ,-999,online, Allergy ,£3762,3045,14194," 7,949",626,19419," 6,019",£15447,13731,"19,868"
+14/01/2023, SPHYNX ,white,MEDIUM,pointed,-999,overdue,Yes,kitten,Both,string,Shy,raw,CLUMPING,friend,ALLERGY,15108,NA,7675,£5739,4818,1815,6892,5978,NaN,13265
+2022-08-05,tabby,CREAM,Short,bi-Colour,green,NA,NO,Prime,Both,-999,aggressive,wet,non-Clumping,breeder,NONE,13437,"17,306",5567,14555,missing,15703,363," 8,891",8433,NA
+07/02/2023,BRITISH SHORTHAIR,missing,hairless,NA,GREEN,OVERDUE,yes, junior , Outdoor ,BALL,lazy,dry,non-Clumping,shelter, obesity ,"13,318"," 7,010",19264,"12,124",£13231,£8588,£6891,"10,404",19791,11705
+NA,,NaN,hairless,bi-Colour, gold ,unknown,yes,geriatric,OUTDOOR,Laser Pointer,LAZY,mixed,Silica,FRIEND,Arthritis,11964,£4526,,   692,17452,7705,4558,£14792,£5825,4583
+14/07/2024, maine_coon ,TORTOISESHELL, long ,TABBY,blue,Up-To-Date, yes ,geriatric,BOTH,laser_pointer,AGGRESSIVE,mixed,clumping, Online ,none,£19417,missing,16760,missing," 7,398"," 7,568","19,854",10916,12184,19441
+24/01/2024,maine coon,grey,Hairless,NaN,copper,NaN,no, KITTEN ,Both,laser pointer,playful,Dry,NaN,online,OBESITY,19343,11486,missing,13000,1471,£1654,9030,340,£1559,1327
+2023-06-12,PERSIAN,tortoiseshell,Medium,tabby, Odd-Eyed ,NOT REQUIRED,no,geriatric,OUTDOOR,feather_wand,aggressive,MIXED,missing,Breeder,obesity,8581,9560,3208,"13,311",8661,missing,"11,517",7070," 6,916",6579
+07/11/2022,sphynx, GREY ,HAIRLESS,SOLID,gold, UNKNOWN ,Yes,junior,both,ball,Playful,Wet,CLUMPING,friend,obesity,991,£12572,11929,16501,£13618,4283,10253,15557,4168,15239
+NA,siamese,orange,long,missing,Blue,unknown,YES,senior,Indoor,Catnip Mouse,AGGRESSIVE,WET,silica,BREEDER,missing,10978,£1931,3388,£430,15515,12785,6847,missing,4292,-999
+20/10/2021,persian,brown,HAIRLESS,Spotted,BLUE,not required,yes,missing,Indoor,Feather Wand,friendly,mixed,clumping,breeder,NA,17788,missing,16859,16010,£16220,6323,444,18997,5945,9651
+24/10/2022,BRITISH SHORTHAIR,brown,Hairless,bi-Colour,copper,up-To-Date,no,Geriatric,indoor,-999,friendly,Mixed,silica,breeder,arthritis,19280,£13848,15278,NA,11999,9462,-999,15194,12216,9712
+2024-08-07,bengal,brown,Medium,,,UNKNOWN,Yes,geriatric,-999,string,lazy,raw,clumping,shelter,none,£10768,£16887,17151,2419,"10,234",4917,10716,£9568," 3,053",2534
+15/01/2023,maine_coon,TORTOISESHELL, Hairless ,pointed,copper,not required,NO,prime,indoor,BALL,shy,dry,silica,shelter,allergy,-999,7737,10449,5060,£5267,6340,NA,14019,£2714,10683
+2021-01-16,siamese,Brown,short, SOLID ,odd-eyed,UP-TO-DATE,yes,geriatric,both,Feather Wand,playful,MIXED,NaN,ONLINE,None,"15,218",6654,£15594,NA,11319,17150,11954,missing,12265,£471
+-999,siamese,white,MEDIUM,BI-COLOUR,copper,Up-To-Date,NaN,senior,outdoor,featherWand,FRIENDLY,raw,clumping,Breeder,DENTAL,16320,13785,£5109,11666,NA,"13,675",19538,5974,£15049,£2934
+28/10/2024,BENGAL,cream,short,solid,blue,Overdue,yes,prime,both,string,playful,dry,RECYCLED PAPER,shelter,,10878,9046," 3,909",NA,NaN,8070,11603,4284,"13,278",18706
+"Feb 26, 2024",british_shorthair,ORANGE,long,bi-colour,Gold,Overdue,-999,missing,Both,catnip mouse,AGGRESSIVE,Wet,non-clumping,stray,arthritis,missing,13233,1053,NA,8957,"10,539",£4867,10868,18063,121
+18/11/2023,,NaN,long, tabby ,copper,up-to-date,yes,Mature,indoor,Feather Wand,aggressive,wet,-999,STRAY,allergy," 4,557",5265,£18704,missing,"10,436","17,222"," 6,591",8973,£3051,
+2023-01-05,British Shorthair,White,hairless,Tabby,Gold,unknown,no,senior,both,LASER POINTER,FRIENDLY,raw,Clumping,ONLINE,Allergy,17897,13655,11384,,-999,17997,"18,294",missing,1351,4767
+2022-05-17,SIAMESE,cream,MEDIUM,missing,gold,,yes,geriatric,both,catnip mouse,PLAYFUL,raw, non-Clumping ,BREEDER, dental ,"13,710",£3033,19708,"12,237",£10463,£19671,missing,4114,8231,6658
+19/05/2024,SIAMESE,grey,MEDIUM,Solid,gold,overdue,no,mature,indoor,ball,playful,mixed,Clumping,breeder,OBESITY,5345,8600,17288,19743,missing,17869," 5,372",-999," 5,869",1732
+20/01/2023, persian ,tortoiseshell,missing,BI-COLOUR,odd-eyed,UP-TO-DATE,yes,senior,Indoor,missing,aggressive,Dry, recycled_paper ,friend,NA,1087,"15,215",11960,2423,19979,9068,16360,£1779,841,12715
+2022-12-29,tabby,BROWN,HAIRLESS,Spotted,green,UNKNOWN,missing,PRIME,both,ball,playful, raw ,non-clumping,,allergy,17395,NaN,5935,NA,"15,184",6918,18550,10668," 7,049",-999
+2021-01-01,Siamese,calico,Hairless, Spotted ,Copper,up-to-date,yes,kitten,OUTDOOR,Ball,friendly,,Non-Clumping,friend,Arthritis,-999,13039,13173,15282,13622," 8,793"," 6,614",£2742,12977,17083
+24/07/2022,-999,Black,Hairless,pointed,BLUE,Overdue,yes,geriatric,NA,-999,shy,Dry,non-Clumping,FRIEND,arthritis," 9,565",1873,   788,"19,660",£13224,missing,12670,£17690,6839,£17095
+2021-10-20,britishShorthair,black, LONG ,pointed,copper,-999,No, kitten ,OUTDOOR,string,lazy,-999,non-clumping,Friend,none,9495,£3027,£9383,NaN,12918,1346,,15511,6623,12667
+2021-02-15,maine_coon,BROWN,medium,-999,gold,OVERDUE, yes ,Mature,-999,Feather Wand,playful,raw,CLUMPING,-999,NA,17671,3982,missing,18563,1903,8381,15901,NA,-999,1735
+2024-04-30,siamese,tortoiseshell,short, SOLID ,gold,not_required,NO,Prime,outdoor,LASER POINTER,shy,DRY, Clumping ,,none,15971,"12,059",£10932,£17125,18625,NA,3004,15830,18972,6887
+"Aug 10, 2021",bengal,Cream,hairless,solid,copper,overdue,NO,geriatric,NA,NA,FRIENDLY,dry, Recycled Paper ,Online,Arthritis,11652,12052,£8216,£7096,14899,13261,11656,£12976,£14954,
+12/10/2023,SPHYNX,calico, hairless , pointed ,Gold,up-To-Date,no,SENIOR,indoor,ball,playful,dry,silica,,NA,"18,332",14167,4898,18033,12344,13991,9096,12438,15622,345
+-999,maineCoon,NaN,short,spotted,copper,overdue,no,geriatric,both,Catnip Mouse,friendly,-999,Silica,Friend,dental,£2985,7494,11486,6905," 9,908"," 4,188",18754,6824,6262,£14079
+2024-12-18,bengal, ORANGE ,hairless, bi-colour ,gold,Not Required,yes,JUNIOR,Indoor, laser_pointer ,FRIENDLY,dry,,SHELTER,dental,7670,4534,"16,269",missing,-999,1488,15561,£1300,15694,"11,569"
+2022-01-04,tabby,black,Short,Pointed,Blue,missing,no,GERIATRIC,Outdoor, STRING ,lazy,dry,non-clumping,breeder,allergy,18833,12180,£396,6483,9384,missing,£18877,9103,,1634
+"Jun 14, 2021",RAGDOLL,white,Medium,solid,NA,up-To-Date,no,junior, both ,ball,FRIENDLY,wet,silica,BREEDER,Allergy,10703,13054,£7124,11972,   392,10433,8409,2243,19630,-999
+2022-11-01,-999,,Long,bi-colour,Green,overdue,yes,senior,Both,catnipMouse,FRIENDLY,dry,Recycled Paper,shelter,dental,9164,3724,10160,NaN,3336,10370,NA,"11,068",15718,11837
+28/11/2023,persian,black,short,missing,Odd-Eyed,not required,no,kitten,both,Ball,friendly,Raw,recycled paper,stray,dental,£10812," 5,153",1526,11352," 1,668",9281,10444,14947,5197,17933
+25/09/2021,tabby,BLACK,Short,solid,odd-eyed,up-To-Date,no,mature,outdoor,-999,aggressive,Raw,NON-CLUMPING,STRAY,dental," 5,728","12,731",£11546,NaN,17379,11482,£4967,8493,15477,14358
+12/11/2023,PERSIAN,calico,missing,NaN,gold,up-to-date,yes,junior,NaN,catnip_mouse,shy,raw, recycled paper ,NA,obesity,£10581,1899,missing,4087,2721,missing,NA,NaN,14933,11712
+23/02/2023, ragdoll ,orange,SHORT,pointed,Odd-Eyed,overdue,Yes,geriatric,OUTDOOR,, shy ,Wet,recycled_paper,friend,allergy,14772,5174,74,£8323,,149,16474,5913,9171,19744
+2023-04-28,PERSIAN,BLACK,medium,spotted,green,-999,yes,junior,both,string,friendly,DRY,Recycled Paper,shelter, none ,14086,465,3014,2588,5061,6688,9981,£7627,£3199,£18930
+24/06/2023,sphynx,white,long,bi-Colour,gold,Up-To-Date,yes, Mature ,-999,featherWand,playful,MIXED,non-clumping,shelter,NONE,2797,NA,19753,4721,3971,12014,2734,3548,9585,1466
+07/05/2021,missing, WHITE , long ,solid,odd-eyed,unknown,Yes,senior,both,catnip mouse,SHY,Dry,-999,Friend,obesity,£12946,"13,114"," 5,918",£5082,£15062,10693," 8,760",14919,"17,017",
+2022-11-26,tabby,white,MEDIUM,NA,odd-eyed, Unknown ,Yes,geriatric,BOTH,string,lazy,wet,clumping,friend,Obesity,NaN,£16666,£5551,£19599,4840,"14,004","11,381",NA,1302,2233
+"Sep 29, 2022",maineCoon,White,short,bi-colour,green,UP-TO-DATE,No,junior,indoor, Feather Wand ,Aggressive,dry,Silica,Stray,ARTHRITIS,£12484,2901," 3,510",-999,8310,13023,2151,19643,13919,18963
+19/06/2022,ragdoll,grey,long,TABBY,GOLD,unknown,YES,Mature,Both,string,aggressive,raw, RECYCLED PAPER ,Shelter,None,13168,£19035,15497,NA,19562,965,7639,12714,-999,18198
+20/01/2024,britishShorthair,White,-999,Pointed,blue,Up-To-Date,Yes,KITTEN,INDOOR,ball,lazy,mixed,clumping,breeder,,9178," 5,156","12,299",7931,£2819,4451,," 7,678",5653,11603
+"Oct 15, 2022",bengal,BROWN,LONG,tabby,odd-eyed,unknown,yes, senior ,OUTDOOR,LASER POINTER,lazy,wet,clumping,NA,obesity,6807,£10511,"16,618",-999,8675,5166,14820,"15,593",7563,£7592
+"Jan 13, 2022",maineCoon,BLACK,long,spotted,NaN,Up-To-Date,yes,prime,OUTDOOR,missing,Friendly,raw,silica,shelter,DENTAL,1465,17301,£16419,1681,   256,"12,726",£11127,8859,£7758,7741
+NaN,maine_coon,grey,Short,SOLID,Odd-Eyed,Overdue,NO,kitten,outdoor,ball,playful, RAW ,SILICA, SHELTER ,Dental,£9958,£10301,13509,"13,628",£4658,-999,269,10020,£2153,NA
+01/03/2023,siamese,cream,MEDIUM,missing,odd-eyed,-999,NO,junior,both,string, playful ,wet,RECYCLED PAPER,NA,Obesity,"14,498",13845,"14,180",5618,£1935,£688,16668,£14675,£6698,9510
+03/04/2021,sphynx,BROWN,HAIRLESS,Tabby,gold,not_required,Yes, prime ,indoor,string,lazy, dry ,RECYCLED PAPER,breeder,arthritis,6366,-999,NA,£855,15141,2360,10355,,NaN,£18287
+11/06/2022,RAGDOLL,-999,HAIRLESS,tabby,green,unknown,yes,-999,INDOOR,feather wand,friendly,mixed,Silica,breeder,Arthritis,18618,NA,£13172,11410,3564,16200,£2780,-999,12682,17513
+09/10/2022,ragdoll, white , Short ,TABBY,blue,up-to-date, Yes ,SENIOR, indoor ,NA,SHY,wet,clumping,friend,dental,"10,072",18427,-999,8513,10109,12288,17955,671,£18927,£10205
+2022-06-06,bengal,brown,HAIRLESS,spotted,COPPER,missing,no,KITTEN,indoor, BALL ,LAZY,raw,Non-Clumping,breeder,none,£9842,£13737,19994,"11,654"," 3,707",5708,"12,411",NA,   829,1081
+06/12/2022,persian,-999,long,spotted,odd-eyed,up-To-Date,yes,senior,,,shy,Wet,recycledPaper,shelter, NONE ,£3800,£11482,2265,17013," 5,039",5108,1365,2089,,1458
+"Dec 21, 2021",british shorthair,brown,HAIRLESS,spotted,gold,overdue,No,Junior,missing,ball,shy, wet ,Non-Clumping,shelter,Obesity,13058,£18635,NaN,7097,£16244,15047,"11,766"," 1,866",£19962,3191
+04/10/2023,MAINE COON,tortoiseshell, short , Spotted ,NA,Up-To-Date, YES , Kitten ,indoor,catnip_mouse,playful,MIXED,RECYCLED PAPER,Friend,obesity,6579,£2245,£1846,NA,£8529,NaN," 5,486",-999,£16569,12359
+16/05/2024,sphynx,black,short,pointed,copper,Up-To-Date,no,kitten,NA,string, shy ,raw,silica,shelter,allergy,6312,missing,£14980,9204,6427,14299,,£9366,11383,2270
+NA,tabby,calico,SHORT, BI-COLOUR ,BLUE,unknown,no,prime,both,feather wand,PLAYFUL,Wet,SILICA,Friend,ARTHRITIS,4342,"19,443",£7289,3451,"18,402"," 6,441",50,-999,£1729,10597
+2024-11-28,British Shorthair,orange,Short,spotted,copper,OVERDUE,yes,mature,INDOOR,feather_wand,PLAYFUL,NA,missing,breeder,ARTHRITIS,2417,14547,2520,   281,19021,NA,16433,2044,13881,8868
+13/07/2023,Maine Coon,grey,medium,Bi-Colour,odd-eyed,Overdue,No,geriatric,indoor,laser_pointer,missing,wet,Silica,breeder, arthritis ,15348,£698,6432,5612,£1292,5581,13102,6353,11499,NA
+16/08/2023,persian,black,HAIRLESS,bi-colour,Green,not_required,no,Junior,NaN,NaN,Friendly,mixed,clumping,SHELTER,DENTAL," 7,368",£11207,£1183,£3832,11993," 9,065",£11051,missing,£5939,£8103
+"Sep 24, 2023",sphynx, BROWN ,hairless,SOLID,blue, Up-To-Date ,no,MATURE,NaN,Laser Pointer,friendly,Raw,non-Clumping,friend,Arthritis,365," 8,325",10688,14914,"12,824",1328,9668,11940,8337,NaN
+,BRITISH SHORTHAIR,black,missing,pointed,green,up-To-Date,NA,,both,LASER POINTER,Friendly,dry,non-clumping,BREEDER,none,10827,missing,8584,11874,652,15060,NaN,12758,19937,17978
+2024-01-15,missing,White,hairless,Pointed,blue,overdue,-999,kitten,both,laserPointer,FRIENDLY,WET,clumping,ONLINE,obesity,19035,4790,5231,5090,-999,441,17440,16754," 6,733",2919
+05/03/2021,missing,CALICO,hairless,pointed,blue,unknown,no,senior,indoor,ball,Lazy, raw ,Clumping,online,obesity,12288,missing,8724,8147,NaN,,-999,17138,14122,17177
+16/09/2022,sphynx,black,medium, Spotted ,green,unknown,Yes,kitten,indoor,string,shy,raw,silica,shelter,NA,12246,£17517,251,7398," 4,020","14,867",11086,10348,17109,missing
+2021-09-03,tabby,brown,short,Spotted,-999,not_required,No, junior ,NaN,BALL,AGGRESSIVE,wet,recycled_paper,shelter,Obesity,£9202,"15,295",12674,630,missing,9064,10489,"11,777"," 1,322",10184
+04/03/2024,siamese,ORANGE,-999,tabby,Copper,up-to-date,no,missing,-999,laserPointer,playful,DRY,recycledPaper,friend,none,£14949,1622,19099,14372,£19771,-999,3996,£12651,," 4,343"
+08/02/2024,Tabby,TORTOISESHELL,Long,tabby,,OVERDUE,YES,,INDOOR, String ,lazy,raw,clumping, stray ,NONE," 9,637",£6976,7194,£3720,NaN,19413,15969,626,11210,£18537
+29/12/2023,british shorthair,CREAM,,tabby,gold,UNKNOWN,Yes,prime,Both,Laser Pointer,shy,wet,recycled paper,BREEDER,OBESITY,"10,707",10763,missing,17687,14144,£9717,2014,15994,3284,-999
+02/09/2024, TABBY ,Cream,hairless,SOLID,blue,missing,No, geriatric ,outdoor,FEATHER WAND,NaN,wet,Recycled Paper,BREEDER,ARTHRITIS," 1,672",£13414,18544,NaN,8864,9275,"13,698",1933,"19,375",13055
+28/10/2024,bengal, White ,long,SOLID,copper,overdue,yes,NA,outdoor,featherWand,friendly,WET,non-clumping, breeder ,arthritis,3555,missing,£3968,£16060,17181,2918," 8,124",,-999," 8,927"
+2022-05-20,ragdoll,orange, MEDIUM ,solid,BLUE,up-To-Date,YES, geriatric ,outdoor,feather_wand,playful,MIXED,Clumping, stray ,DENTAL,missing,£16068,17661," 1,456",17512," 6,133",9256,2337,11021,2913
+09/03/2024,bengal,White,hairless,Spotted, green ,UNKNOWN,NO,Geriatric,INDOOR,ball,Playful,Mixed,recycled paper,friend,NaN,15239,3697," 7,496",£16719,,9608,725,12339,NaN,11778
+2021-10-16,missing,Brown, short ,Bi-Colour,gold, overdue ,no,MATURE,NA,CATNIP MOUSE,lazy,raw,recycled_paper,Stray,allergy,"17,286",£12595,8475,£10772,13789,11808,15706,16577,9026,3891
+2022-04-29,NaN,,HAIRLESS,Bi-Colour,GOLD,OVERDUE,no,NA, indoor ,catnip mouse, PLAYFUL ,dry,clumping,online,obesity,£15712," 7,935",18868,£6979," 4,424"," 9,079","17,960",7522,£9599,missing
+"Jul 11, 2023",bengal,Black,short,pointed,odd-eyed,OVERDUE,no,mature,,catnip mouse,aggressive,NA,NA,Breeder,obesity,£2361,"16,579",2689,6876,11242,8349,£3036,16625,10135,7428
+"Jan 26, 2022",,calico,hairless,solid,COPPER,OVERDUE,no,geriatric,both,FEATHER WAND,aggressive,-999,clumping,stray,none,8453,16304,£3083,17772,"16,715","11,939"," 2,345",9269,13828,8691
+"Oct 07, 2023",MAINE COON,ORANGE,Hairless,tabby,gold,missing,yes,mature,OUTDOOR, feather wand ,shy,MIXED,NA,BREEDER, none ,4994,,£7599,£3791,4233,19548,£3658,£5050,   558,19933
+27/05/2023,Bengal,white,missing,Bi-Colour, blue , not_required ,Yes,prime,Indoor,Feather Wand,shy,RAW,clumping,friend,none,£13539,16008,9052,15154,£18495,NA,£257,5925,1588,12383
+2023-10-27,TABBY,WHITE,long,SPOTTED,gold,NaN,yes,junior,NaN,CATNIP MOUSE,friendly,raw,non-clumping,Shelter, allergy ,12411,18903,11097,3258,12235,£6299,£19797,11301,£16476,6406
+,TABBY,calico, MEDIUM ,TABBY,Odd-Eyed,Up-To-Date,Yes,NaN,outdoor,BALL,,DRY,non-Clumping,Breeder,missing,NaN,,£8589,"16,781","14,314",12838,£3483,2856,16446," 5,156"
+2022-07-14,bengal,Orange,Hairless,bi-colour,copper,NOT REQUIRED,no,Mature,Both,catnipMouse,shy,wet,CLUMPING, stray ,dental,19876,"17,518",6579,770,NA,"16,383",NA,17743,17458,12694
+2023-11-26,Sphynx,Cream, hairless ,SPOTTED,-999, Not Required ,no,NaN,Both,ball,playful,-999,missing,shelter,arthritis,16191,,1859,5423,£7870,1722,£5178,£1903,7248,12327
+22/10/2024,RAGDOLL,black,hairless,spotted,GOLD,unknown,no,kitten,missing,STRING,Lazy,dry,silica,-999,Obesity,£15315,missing,£1185,11508,"19,634",£826,47,£10000,"19,356","17,855"
+07/11/2024,sphynx,tortoiseshell,medium,spotted,COPPER,NOT REQUIRED,no,prime, outdoor ,catnip_mouse, playful ,Dry,non-Clumping,BREEDER,allergy,8910,19415,NaN,-999,missing,1978,2720,"17,451",£2727,9430
+30/08/2021,maine_coon,WHITE,medium,Pointed,Green,Overdue,no,JUNIOR,Outdoor,FEATHER WAND,-999,DRY,missing,stray,ALLERGY,9057,£15182," 4,251",18626,15720,£10630,8077,19864,1137,12374
+"May 06, 2024",persian,missing,short, pointed ,NaN,NA,NO,mature,both,feather_wand,SHY,RAW,silica,missing, ALLERGY ,£9617," 2,762",£621,19844,£7339,9340,11138,    49,£9338,£6077
+04/07/2024,Siamese,white,long,NaN,blue,Unknown,yes,kitten,indoor,catnipMouse,aggressive,DRY,clumping,shelter,NONE,6767,3917,£17312,19566," 4,822"," 4,409",6270,"11,754",15131,11178
+"May 09, 2021",persian,Cream,LONG,bi-colour,Gold,NOT REQUIRED, No ,Junior,Indoor,laser pointer,shy,wet,silica,online,None,9412,£1883,14657,12813,£15136,£3843,18665,2439,£10581,4133
+,persian,BLACK,,Pointed,blue,notRequired,YES,SENIOR,both,Ball,aggressive,Raw,NA,breeder,arthritis,4457,8465,£3712,15609,NaN,11370,7535,18837,£12137,£12959
+2022-07-06,SPHYNX, white ,long,pointed,odd-eyed,up-To-Date,Yes,missing,INDOOR,Laser Pointer,PLAYFUL,-999, Recycled Paper ,friend,allergy,NA,19509,16925,-999,11538,missing,1882,-999,2664," 3,958"
+12/12/2024,ragdoll,cream,Medium,tabby,green,Up-To-Date,no,Kitten,indoor,String,,NaN,recycled_paper,FRIEND, Allergy ,£16309," 1,187",7832,£8428,3667,4313,missing,NA,£1610,7774
+"Aug 28, 2021",british shorthair, orange ,long,TABBY,ODD-EYED,unknown,YES,junior,missing,laser pointer,lazy,Raw,Silica,NaN,allergy,,£2399,15931,12944,3275,415,5904," 7,562",£17663,19996
+27/02/2021, tabby ,-999,long,spotted,gold,OVERDUE,NaN,kitten,INDOOR,Catnip Mouse,lazy, Wet ,NON-CLUMPING,breeder,Arthritis,£2637,19770,NA,£1098,6886,10767,18931,£18842,13887,"10,909"
+16/03/2022,Siamese,,NA,SOLID,NaN,OVERDUE,no,senior,Indoor,BALL,aggressive, wet ,recycled paper,shelter,none,15560," 7,494",£18993,"17,504",12598,19256,19222,7941,5996,14541
+"Sep 16, 2023",British Shorthair,NA,short,tabby,NaN,not required,no,Junior,missing,featherWand,Aggressive,NaN,Silica,Online,allergy,10655,2239,NA,16422,12364,18194,,£6517," 5,420",NaN
+2022-03-26,NA,brown,MEDIUM,Tabby,NA,NOT REQUIRED,NO,GERIATRIC,indoor,Ball, Shy ,mixed, Non-Clumping ,shelter, DENTAL ," 1,895",16885,14243,15259,4640,11818,6476,"12,655",4316,£12630
+24/08/2023,RAGDOLL, CALICO ,NA,missing,COPPER,UNKNOWN,yes,prime,indoor,ball,Aggressive,dry,clumping,SHELTER,dental,£8402,-999,7585,"15,937",1696,2055,14568,6733,£2209,£76
+20/05/2022,Tabby,Brown,medium,NA,blue,overdue,yes,-999,NaN, Feather Wand ,shy,mixed,SILICA,Online,,6049,11060,151,2041,8152," 4,257",11635,6413," 7,262"," 4,432"
+"Mar 04, 2023",PERSIAN,calico,medium,solid,copper,overdue,yes,geriatric,-999,string,friendly,raw,recycled_paper,friend,none,2105,7496,7686,16553,"11,951",9149,1068,£13890,£16442,16004
+"Dec 15, 2021",ragdoll,Cream,short,SOLID,gold,Up-To-Date,no,JUNIOR,outdoor,laserPointer,friendly,Wet,clumping,ONLINE,Arthritis," 7,613"," 8,415",-999,13362,NA,"14,892",9536,£2834,£9647,19321
+2024-02-19,tabby,White,NA,solid,blue,Up-To-Date,Yes,senior,indoor,LASER POINTER,playful,raw,Recycled Paper,missing,None," 1,340",14718,9955,-999,18931,"18,917",£12859,-999,9656,missing
+2024-10-02,Maine Coon,brown,HAIRLESS,tabby,Copper,UP-TO-DATE,No,KITTEN, Outdoor ,catnip mouse,playful,mixed,RECYCLED PAPER,shelter,none,15187,17706,14730,NaN,10608,£19312,"11,399",10939,14152,17175
+,sphynx,-999,long,Tabby,Copper,unknown,-999,mature,indoor,catnipMouse,Aggressive,wet,non-Clumping,Shelter,none,8168,13252,7104,9652,15476,NA,6681,7035,13665,-999
+"Mar 28, 2024",Tabby,Cream,long,Bi-Colour,Green,Not Required,No,Prime,indoor,catnipMouse,shy,mixed,SILICA,NA,none,£13869,17098,£16501,14682,13276,"14,667",1122,7762,19697,5353
+2021-09-24,maine coon,NaN,NaN, bi-colour ,Copper, not required , NO ,PRIME,indoor,String,friendly,RAW, Clumping ,online,Arthritis,18759,19208,"16,767",5208,9385,"18,852",2881,13938,19983,missing
+missing,bengal,tortoiseshell,LONG,Solid,GOLD,up-to-date,NO,kitten,INDOOR,ball,shy,mixed, silica ,stray,obesity,969,11419,-999,13020,£8333,NaN,4012,19556,4742,7286
+19/07/2022, british_shorthair ,black,short,bi-colour,NaN,Not Required,NO,mature,Both,string,friendly,raw,non-Clumping,Online,None,18634,10423,2592,6989,4495," 9,480",£375,,5469,7950
+2023-02-25,missing,NA,long,Spotted,blue,UP-TO-DATE,yes,missing,outdoor,Feather Wand,Playful,wet,silica,Stray,NA,"18,943",14908," 8,467",missing,19030,"15,666",16241,3092,£19971,8851
+2022-02-18,siamese,calico,hairless,tabby,Blue,unknown, yes , Senior ,both,,shy,dry,NaN, shelter ,none," 2,453",-999,631,1116,7051,,4481,NaN,7125,15936
+"Feb 24, 2021",PERSIAN,BLACK,long,solid,green,NA,no,geriatric,INDOOR,String,aggressive,mixed, Clumping ,breeder,dental,3859,£19315," 8,913",16980,£19856,8803,NaN,9736,11390,19393
+30/04/2022,persian,white,long,tabby,blue,Up-To-Date,YES,prime,Both,string,playful,mixed,silica,breeder,none,NA,3104,£15280,19625,,2552,"14,855",£13066," 8,520",12291
+2021-01-07, ragdoll ,black,short,Tabby,NA,unknown,no,Senior,Both,feather wand,shy, raw ,recycledPaper,Online,none,6153,4935,2872,18140,181,1464,£5172,£1664,NaN,£16837
+missing,sphynx,BLACK,short,bi-colour,Blue,Overdue,NaN,mature,INDOOR,Catnip Mouse,friendly,mixed,recycled paper,Online,NONE,9774,10267,   118,,£14849,2904,missing,6940,12594,11836
+NaN,NA,white,short,POINTED,copper,Up-To-Date,no,PRIME,both,catnip_mouse,friendly,Mixed, Recycled Paper ,friend,allergy,11004,11569," 6,056",   847,1345,"13,592",15019,3220,2044,18148
+"Jul 21, 2023",NA,NaN, hairless ,Pointed,GOLD,unknown,NaN,SENIOR,outdoor,FEATHER WAND,shy,wet,non-clumping,NA,ALLERGY,7123,£10756,£7750,£79,11512,"15,058",17570,10787,8328,19518
+09/08/2021,British Shorthair,NaN,LONG,spotted,gold,Not Required,NA,Mature, BOTH ,featherWand,-999,wet,non-Clumping,breeder,obesity,5163,10533,£14420,NaN,2830,"18,131",£3087,£16911,missing,NaN
+"Mar 02, 2024",SIAMESE,black, medium ,POINTED, copper ,Unknown,yes, Junior ,Outdoor, feather_wand ,NA,MIXED,Recycled Paper,Online,Obesity," 9,212",14060,   556,£18119,£8781,15413,11894,NaN,13793,8304
+2021-10-01,Tabby,missing,medium,solid,Gold,NOT REQUIRED,-999,junior,Outdoor,NA,shy,RAW,recycled_paper,Breeder,dental,7127,17051,"18,625",," 9,055","15,676",NA,13757,10622," 7,773"
+07/04/2021,ragdoll,Orange,LONG,bi-colour,NaN,Unknown,no,KITTEN,NaN,ball,aggressive,mixed,silica,friend,Dental,£11506,£16362,£9370,4101,8188,7589,NaN,6421,1346,6954
+2021-06-22, RAGDOLL ,NA,Hairless,tabby,-999,Not Required,yes,NaN,NaN,ball, SHY ,raw,RECYCLED PAPER,NaN,arthritis,missing,12992,NA,£882,15121,"16,714",NA,,"15,373",NA
+2023-07-26,siamese,brown,,pointed,green,up-to-date,NO,mature,BOTH,catnip mouse,shy,raw,RECYCLED PAPER,friend,Allergy,11945,2603,19725,"15,166",missing,2521,13376,£17839," 5,194",missing
+missing,NA,Cream,hairless,NaN,copper,UP-TO-DATE,YES, mature ,Outdoor,string,playful,,Silica,Shelter,obesity,19636,19181,15502,3066,,3146," 2,149",£3962," 8,652",3981
+2024-02-27,NA, BLACK ,long,Solid,Gold,Not Required,Yes,mature,Indoor,catnip mouse,friendly,wet, Clumping ,Breeder,-999,2984,834,£6969,9061,"12,191",£12047,4026,19832,15756," 6,606"
+30/03/2021,sphynx,grey,HAIRLESS,missing,copper, notRequired ,Yes,kitten,indoor,feather_wand,aggressive,raw,silica, friend ,ALLERGY,1980,15598," 2,545",16097,3243,,5889,8119,18762,-999
+"Oct 17, 2024",Tabby,brown,Short,BI-COLOUR,missing,up-to-date,yes,SENIOR,indoor,BALL,aggressive,dry,recycled paper,Shelter,dental,19787,17355,NaN,14801,3173,"17,910","10,583","11,468",2095,10603
+21/06/2023,maineCoon,White,MEDIUM,Bi-Colour,copper,not required,YES,Kitten,Both,catnip mouse, shy , Wet ,Silica,NA, Dental ,16200,£1392,18475,£7459,532,9837," 2,409",8608,1796,£10921
+"Jul 27, 2022",SIAMESE,,MEDIUM,pointed,Green,notRequired,yes,junior,outdoor,ball,shy,,CLUMPING, stray ,Dental,5860,8346," 7,765",18468,26,£5462,16156," 9,171",3074,14870
+2024-01-16, RAGDOLL ,brown,-999,tabby,blue,-999,no,Mature,Both,laserPointer,NaN,Dry,clumping,shelter,arthritis,11514,6457,13216,19763,2700,13635,16514,£16835,£11947,16158
+05/01/2024,Tabby,NaN,Long,Pointed,green,notRequired,yes,Geriatric,NaN,LASER POINTER,lazy,NaN,silica,missing,Dental,4486,8147,"10,785",7522,17591,3798,7079," 2,390",£4169,5625
+2022-08-07,britishShorthair,-999,hairless,bi-colour,copper,Unknown,no,-999,Indoor,catnipMouse, Shy ,Dry,Non-Clumping,online,dental,£4214,12562,£15030,17527,12571,£13907,,6294,3461,20
+"Oct 17, 2024",Tabby, brown ,HAIRLESS,tabby,gold,overdue, yes ,-999,OUTDOOR,string,aggressive,Raw,clumping,online,OBESITY,£4234,2676,18970,17837,"12,626",16909,£15944,11206,"13,306","11,828"
+06/04/2023, SIAMESE , brown ,long,Solid,copper,Not Required,yes,geriatric,both,string,Aggressive,-999,NaN,breeder,none,10196,8060,8164,£3496,"15,568",3801,"19,539",17772,12724,5834
+14/06/2022,siamese,tortoiseshell,long,Spotted,GOLD,up-to-date,yes,Kitten,outdoor,feather wand,PLAYFUL,,silica,BREEDER,arthritis,17339,17141,3418,4970,1480,19245,£10947," 3,324",NaN,£19844
+NaN,TABBY,orange,LONG,Pointed,ODD-EYED,NA,yes,JUNIOR,missing,string,SHY,MIXED, silica ,Online,allergy,missing,£17613,£9277,14680," 1,992",NaN,"15,234",NA,18022,7917
+25/07/2021,MAINE COON,CREAM,hairless,spotted,odd-eyed,Up-To-Date,NaN,Geriatric,outdoor,featherWand, shy ,dry,non-Clumping,online,missing,19007,9029,16414,£15830,8765,18831,19156,missing,£13960,4142
+02/05/2021,siamese,black,Medium,,copper,notRequired,no,senior,indoor,-999,playful,Wet,CLUMPING,Friend,Arthritis,10336,,1149,1929,365,10074,NaN,19403,5321,17253
+21/06/2022,sphynx,,SHORT,,copper,unknown,No,Senior,indoor,Catnip Mouse,SHY,,non-clumping,NaN, arthritis ,£13176,1756," 4,252",19069,7735,-999," 1,331","12,746",£1132,"18,244"
+29/05/2024, maine coon ,tortoiseshell,short,bi-colour,gold,up-to-date,YES,mature, both ,string,lazy,-999,missing,STRAY,ARTHRITIS,17858,2481,13044,NA,"14,373",3065,"18,965"," 7,168"," 6,950",-999
+27/05/2022,Siamese,grey,medium,bi-colour,BLUE,unknown,Yes,mature,Indoor,string,,Mixed,Clumping,Online,arthritis,11005,1716,4985,6646,"17,856",missing," 9,816",19362,£16066,£1471
+"May 13, 2023",bengal,BROWN, hairless ,solid,GOLD,notRequired,NO, JUNIOR ,outdoor,,Aggressive,wet,recycledPaper,friend,ALLERGY,18611,10478,7503,£6512,7077,£3454,6083,7645,5155,£9144
+31/12/2021,britishShorthair,Tortoiseshell,hairless,Pointed,Copper,not_required,yes,prime,both,,friendly,wet,silica,Friend,Dental,£4138,"11,593",4429,£16832,7378,15645,9250,£12408,NaN,7495
+17/02/2023,persian,calico,medium,tabby,odd-eyed,not_required, Yes ,junior,BOTH,missing,NaN,mixed,silica,-999,ARTHRITIS,£13382,missing,16366," 8,226",£8341,13273,£15922,12569,16583,11026
+2022-04-25,persian,BROWN,hairless,tabby,blue,up-to-date,Yes,Senior,BOTH,catnip_mouse,AGGRESSIVE,Dry,non-clumping,online,allergy,3485,£9905,1655,NaN,19544,13508,£18370,10656,£10714,15044
+23/01/2023,persian,orange,medium,NaN,Green,unknown,Yes,-999,both,STRING,Lazy,raw, clumping ,Stray, arthritis ,8559,3529,-999,,13331,3218,£8275,£1248,10354,14190
+"Jul 05, 2022",missing,missing,hairless,NA,Copper,OVERDUE,yes,prime,indoor, CATNIP MOUSE ,AGGRESSIVE, raw ,,FRIEND,obesity,2604,17683,-999,-999," 7,478","10,889",17491,12867,£2365,£11865
+02/08/2024,sphynx,WHITE,medium,Bi-Colour,odd-eyed,UNKNOWN,yes,prime,OUTDOOR,string,Friendly, dry ,,friend,dental," 9,569",£13350,16338,£10175,17916,£1683,18730,£759,£11360,-999
+27/05/2023, Maine Coon ,Black,hairless,pointed,missing,NaN,no,mature,Indoor,NA,PLAYFUL,MIXED,silica,breeder,NaN,missing,12598," 3,844",£15800,,NA,11437,13562,8188,NaN
+2021-04-08,SIAMESE,BLACK,LONG,pointed,green,NaN, no ,prime,both,string,aggressive,mixed, Recycled Paper ,BREEDER,none,19453,NA,18491,5490,8318,10369,16419,17666,£19314,4906
+2024-07-29,ragdoll,NA, medium ,solid, BLUE ,unknown,missing,Prime, indoor ,FEATHER WAND,shy,mixed,CLUMPING,stray,OBESITY,19884,13691,9406,9620,2067,£12844,"12,309",NA,10781,16071
+,british_shorthair,tortoiseshell,MEDIUM,tabby,NA,up-to-date,NO,NA,BOTH,laser pointer,friendly, DRY , recycledPaper ,online,Dental,17929,18600,£2826,£12277,£19292," 5,366",£18844,£9304,18761,"15,328"
+31/01/2022,-999,White, hairless ,bi-colour,GREEN,,No,mature,outdoor,Catnip Mouse,aggressive,,non-clumping,-999,dental,"15,477",£1869,£15703,18478,14179,9994,£18399,10324,9939,18271
+20/03/2024, sphynx ,white,long, TABBY ,odd-eyed,,-999,senior,both,laser_pointer,playful,wet,NaN,friend,arthritis,9805,£843,14474,12150,1944,9367,£14108,17341,£16160,£6667
+2024-02-26,BENGAL,cream,medium,Solid,green,up-to-date,No,GERIATRIC,Indoor,laser pointer, playful ,mixed,-999,-999,dental,5760,10252,"17,139",£14711,7199,NA,6998,9005,NaN,£2007
+08/04/2021,NaN,,short,Pointed,gold,unknown,yes, senior ,outdoor,string, AGGRESSIVE ,WET,recycled paper,BREEDER,obesity,19912,1006,2909,16407,£8278,£2191,12001,10162,1906,-999
+19/08/2021,maine_coon,WHITE,medium,pointed,Blue,unknown,no, geriatric ,both,feather wand,NaN, Raw ,clumping,breeder,allergy,7110,-999,£13275,£12991,18172,11463,,1148,13759," 5,825"
+2022-01-30, PERSIAN ,tortoiseshell,long,bi-colour,Gold,NOT REQUIRED,no,mature,indoor,string,-999,NA,non-clumping,Friend,dental,missing,NA,16395,-999,15530,11767,19933,missing,missing,-999
+2022-02-09,ragdoll,brown,SHORT,tabby,odd-eyed,overdue,yes,Prime,Both,Catnip Mouse,friendly,mixed,non-clumping,Stray,OBESITY," 7,651"," 2,634",19125,15928,NA,17799,10807,"10,597"," 6,473",5726
+16/11/2021, BENGAL ,WHITE,short,solid, BLUE ,Unknown,YES,GERIATRIC,OUTDOOR,Ball,AGGRESSIVE,mixed,RECYCLED PAPER,online,none,11459,12708,1742,9193,12594,10442,"15,259",£15384,2494,£9700
+10/07/2024,BENGAL,WHITE, Long ,Pointed,gold, Up-To-Date ,no, prime , both ,feather_wand,playful,dry,clumping,Shelter,NA,13700,6669,£4687,16876,2701,£13009,,£15880,£16805,7578
+2023-09-13,maine coon,cream,short,pointed,blue,unknown,yes,Mature,both,NA,playful,wet,silica,BREEDER,NaN,£15803,3153,"17,916","14,283",16042,£15911,19518,£88,£16921,19694
+"Dec 13, 2022",Tabby,grey,MEDIUM,TABBY,Copper,Up-To-Date,no,geriatric,Outdoor,NA,aggressive, mixed ,SILICA,online,obesity,"14,212",8789,-999,£15764,6945,679,6251,-999,£7425,17116
+2022-11-02,Sphynx,Calico,short,BI-COLOUR,green,unknown,yes,kitten,outdoor,Catnip Mouse,shy,raw,silica,online,None,NA," 8,901",7980,17432,£17905,3602,1141,-999,405,18772
+2022-04-23,maine coon,brown,HAIRLESS,spotted,blue,not required,No,senior, BOTH ,NA,shy,-999,silica,online, dental ," 2,446",missing,"18,190",17340,3538,1174,4958,18382,12839,3367
+25/10/2024,tabby,black,SHORT,NaN,,overdue,YES,MATURE,outdoor,string,playful,MIXED,SILICA, breeder ,obesity,6620," 3,476",£16043,"14,523",£12920,8343,missing,7216,£18002,7032
+21/01/2022, BENGAL ,black,medium,SPOTTED,Odd-Eyed,Up-To-Date,yes,geriatric,indoor,Feather Wand,playful,RAW, recycledPaper ,friend,NaN,4464,8275,18874,£15216," 7,067",-999,£18361,16768,£8845,
+2024-09-03,tabby,,medium,Solid,odd-Eyed,unknown,no,Senior,outdoor,BALL,-999,raw,CLUMPING,breeder,allergy,8911,626,6061,£14249,,16095,18120,NaN,-999,404
+2022-03-16,tabby,tortoiseshell,long,solid,GOLD,Up-To-Date,No, geriatric ,BOTH,BALL,SHY,NaN,-999,stray,obesity,"12,342"," 1,650",3440,19280,4142,19388,12532,3794,10235,15937
+2021-09-27,Siamese,,,spotted,Copper,not_required,No,geriatric,both,CATNIP MOUSE,playful,dry,non-clumping,breeder,NA,NA,16687,5716,15383,   716,9245,6959,13535,"13,641",415
+2024-03-19,bengal,Black,short,Pointed,gold,UP-TO-DATE,Yes,MATURE,Both, string ,-999,Mixed,recycledPaper,Stray,obesity,NA,£15455,£19105,19057,7577,2671," 7,665",1341,5324,"17,950"
+2023-08-04, maineCoon ,white,NA,solid,GREEN,NaN,Yes,MATURE,Both,FEATHER WAND,Playful, RAW ,non-Clumping,online,obesity," 7,937",£4399,6901,£16546,NA,14396,7790,-999,5393,NA
+"Jun 12, 2024",Persian,NA,Short,solid,COPPER,overdue,NA,PRIME,indoor,Catnip Mouse,Playful,Wet,recycled_paper,stray,none,"12,090",9654,£15486," 8,756","15,323",13852,19252,£12203,"16,150",2370
+2023-02-21,tabby,orange,hairless,Tabby,gold,overdue,Yes,kitten,Indoor,ball,lazy,-999,CLUMPING,shelter,obesity,NA,9507," 7,050",,2559,4029,12101,1776,6515,5689
+2021-03-22,ragdoll, brown ,hairless,,blue,NaN,Yes,mature,both,String,NaN,wet,non-Clumping,shelter,dental,4547,15328,£4491,10214,NaN,3112,11612,14568,7294,"11,274"
+01/09/2021,siamese,orange,Hairless,pointed,blue,overdue,NO, senior ,outdoor,feather_wand,shy,Raw,non-clumping,stray,arthritis,3849,1466,11134,£5809,NA,-999,14402,8062,1861,1532
+21/04/2022, Persian ,Cream,-999,solid,COPPER,Not Required,No, Mature ,Outdoor,Feather Wand,shy,wet,RECYCLED PAPER,online,Obesity,1605,-999,3231,£12273,17409,1038,10207,13072,9075,17181
+2021-06-15,PERSIAN,black,medium, tabby ,COPPER,unknown,YES, Prime ,-999,Feather Wand,Shy,-999,Clumping, Shelter ,NA,18787,9,5405,691,15583,2120,   107,3093,19593,£4103
+2024-03-19,PERSIAN,cream,short,spotted,missing,Unknown,Yes,NA,Indoor,feather_wand,aggressive, wet ,silica,FRIEND,none,£16060,"14,429","13,108",missing," 4,072",15295,missing,£414,14005,£10178
+2023-07-21,RAGDOLL,white,short,solid,odd-eyed,Unknown,No,missing,BOTH,feather_wand,playful,Wet,missing,friend,obesity,1883,17720,"15,775"," 7,572",14845,9230,£17641,,missing,£14914
+10/03/2023,ragdoll,white, medium ,bi-colour,copper,UP-TO-DATE,NaN,NaN,OUTDOOR,Catnip Mouse,NaN,,silica,Online,NONE,16474,missing,£19035,19039,2059,,18989,13298,5510,
+2023-11-15,Ragdoll,white,short, spotted , green ,UNKNOWN,No,mature,both,feather_wand, lazy ,dry,silica,friend,missing,10723,17687,,"18,680",£9810,14105,£10308,"12,726",16821,2071
+"Jan 24, 2022",maine_coon,CREAM,medium,bi-colour,green,overdue,yes,mature,NaN,laser_pointer, friendly ,Raw, NON-CLUMPING ,missing,dental," 5,943",17222,4128,   278,8204,14032,£11677,"10,065",3363,"13,903"
+30/01/2022,British Shorthair,-999,missing,solid,green,not_required,yes, KITTEN ,indoor,feather_wand,playful,wet,silica,friend,None,missing,,£14809,,6098," 5,139",12133,£16832,   894,4356
+15/12/2023, tabby ,-999,Short,TABBY,Odd-Eyed,NOT REQUIRED,NA,mature, outdoor ,CATNIP MOUSE,friendly,dry,SILICA,friend,None,7452," 3,291",1985,NA,£16399,5658,"18,002",793,£1774,NA
+2023-06-19,persian, brown ,NaN,Pointed,Green,overdue,yes,NA,OUTDOOR, catnip mouse ,playful, Wet , Non-Clumping ,breeder,NaN,£4643,19289,£17356,12762,£5435,9570,,£4107,14588,1114
+11/09/2022,persian,White,long,bi-colour,blue,missing,NO, geriatric ,Indoor,String,shy,mixed,RECYCLED PAPER,breeder,allergy,10410,,£5611,18288,10225,16076," 8,696",NA,19890,564
+2022-07-22,sphynx,missing,hairless, tabby ,COPPER,UNKNOWN,no,JUNIOR,-999,catnip mouse,,Wet,silica,online,arthritis," 4,756","13,347",15567,8518,£14022,missing,"18,749",5965,£16259,"10,340"
+2022-05-22,SIAMESE,NaN,HAIRLESS, BI-COLOUR ,gold,NA,,kitten,both,CATNIP MOUSE,aggressive,Dry,silica,STRAY,allergy,-999,NA,£6704,£5532,"14,306",8076,9122,£18396,16825,2711
+2024-11-13,Sphynx,calico,NaN,Solid,green,UNKNOWN,no,Senior,Both, ball ,NaN,mixed,non-clumping,,NONE,2773,1482,9864,missing,5836,9131,£543,3659,NaN,729
+2024-12-20,maineCoon,orange,missing,pointed,gold,NA,-999,prime,outdoor,catnip_mouse,Shy,missing, Non-Clumping ,breeder,Allergy,£12588,-999,19283,17719,1735,NA,15648,18961,6275,3313
+"Nov 27, 2024",persian,brown,short,spotted, blue ,NOT REQUIRED,NO,missing,,string,Friendly,NaN,silica,friend,allergy,14011,£4654,£2939,19002,8208,7510,£18467," 1,660",2904,4238
+2023-06-29,NA, white ,short,solid, GREEN ,Unknown,YES,kitten, indoor ,laser_pointer,lazy,raw,clumping,breeder,none," 2,397",11332,£10907,10348,788,13614,10957,NA,£9767,13668
+13/04/2021,missing,cream,long,Solid,odd-eyed,Overdue,no, kitten ,Both,BALL,aggressive,NaN,Clumping,SHELTER,NONE,-999,9829,"17,439",12452,£5513,£3989,-999,7863,8173,£175
+2022-02-06,sphynx,NaN,medium,POINTED,NaN,not_required,No,JUNIOR,both, feather wand ,lazy,RAW,SILICA,breeder,allergy,"14,720",NaN,19787," 2,990",NaN,2719,"10,996",10443,19122,16048
+2024-07-03,persian,Cream,long, tabby ,gold,overdue,no,junior,both,ball,aggressive,WET,NON-CLUMPING,Friend,obesity,17876,19936,5834,"13,765"," 6,914",£19445," 9,966",12434,1836,11151
+11/08/2022,siamese,white, Short ,solid,ODD-EYED,not_required,yes,Junior,both,Ball,friendly,missing,SILICA,Online,NA,missing,10423,7365,"17,052",11647,missing,£16673,,£1402,missing
+28/12/2023,british_shorthair,cream,missing,missing,copper, up-to-date ,No,NA,Both,string,Lazy,mixed,non-Clumping,missing,OBESITY,"10,992",17557,5148,19047,12830,497,9219,NA,£7034," 8,598"
+28/09/2021,NA, BLACK ,long,pointed,gold,overdue,No,senior,indoor,featherWand,AGGRESSIVE,raw,clumping, breeder ,none,13179,13127,"17,776"," 9,086",10345,NaN,missing,"11,872",11349,1086
+13/01/2024,missing,brown,HAIRLESS,missing, copper ,overdue,-999,mature,Outdoor,String,Friendly,Mixed,Non-Clumping,Stray,obesity,13690,8899,15753,15897,7504," 9,510","19,947",13362,"15,496",6767
+29/01/2023,-999,cream,medium,pointed,COPPER,up-to-date,No,missing,BOTH,feather_wand,playful,wet,recycled_paper,shelter,dental,"19,888",5624,missing,"16,594",15492,18377,£6298,3698,11992,1076
+2023-09-26,sphynx,Brown,hairless,solid,green,not_required,yes,mature,indoor,missing,playful,-999,Clumping,online,ALLERGY,NaN,10514," 6,254","19,120"," 9,886",NaN,1528,16861,19710,16842
+2022-05-23,PERSIAN,NA,medium,spotted,Odd-Eyed,NA,no,-999,Outdoor,missing,aggressive,raw,clumping,online,Arthritis,888,15823,"19,720",£12199,7613,16107,17740,£1994,£13732,£11328
+12/04/2024,PERSIAN,brown,medium,NaN,blue,,no,-999,missing,featherWand, AGGRESSIVE ,mixed,missing,online,dental,6735," 3,421",2874,151,14342,5211,4227,3985,2868,8274
+14/04/2022,bengal,-999,medium,solid,ODD-EYED,overdue,no,senior,OUTDOOR,NaN,shy,, recycledPaper ,online,arthritis,"11,328",17116,"11,506",£18075,5535,£13514,12969,missing,18271,19954
+2022-06-20,,Brown,long,POINTED, copper ,not required,no,MATURE,OUTDOOR,ball,aggressive,wet,SILICA,STRAY,ALLERGY,£10963,19582,£12556,19350,£14691,3015,8256,,"17,850",17555
+29/07/2022,TABBY,orange,-999,Pointed,Odd-Eyed,not required,yes,PRIME, OUTDOOR , string ,lazy,NA,non-clumping,Online,NONE,9623,"16,262",9240,1179,NaN,2113,1749,£6601,£8416,3217
+31/10/2024,Sphynx,black,MEDIUM,Tabby,missing,up-to-date,NA,senior,Both, String ,playful,missing,clumping,Shelter,,15467,14576,6379,9734,-999,4738,6616,6079,"12,357",£1030
+-999,siamese,NaN,short,missing,,overdue,NO,Mature, Both ,NaN,Lazy,NA,recycled paper,-999,Dental,10716,19680,11205,£3509,11952,10566,,4264,£6607,-999
+2022-08-11,tabby,brown,medium,pointed, green ,Up-To-Date, yes ,junior,outdoor,Ball,FRIENDLY,Mixed,SILICA,STRAY,obesity,"12,193",17126,19499,,"10,618",5205,15644,£9893,3200,£9466
+2024-11-21, british shorthair ,NA,hairless,pointed,blue,notRequired, yes ,Junior,BOTH,ball,shy,raw,clumping,Online, allergy ," 1,541"," 6,305","11,385",£588,7688,£15148,10043,"18,023",12598,£5313
+2021-01-17,maine_coon,TORTOISESHELL,short,spotted,Odd-Eyed,up-To-Date,no,missing,indoor,catnipMouse,playful,dry,Non-Clumping,breeder, None ,11270,17821,6856,4839,7394,1792,15043,19553,1628,14413
+2022-09-20,britishShorthair,Grey,hairless,,blue,not required,YES,KITTEN,Both,STRING,playful,raw,recycledPaper,-999,ALLERGY,"15,604",-999,19693,4922,"10,885",8270,8460,£10184,£5552,£14812
+13/10/2024,sphynx,Calico,long,TABBY,missing,UP-TO-DATE,YES,mature,outdoor,laserPointer,shy,RAW,recycledPaper,shelter,NONE,"11,715",13471,4259,£18180,£6126,9164,£8062,"14,300",,4644
+05/01/2024,ragdoll,,short,tabby,green,Overdue,yes,mature,OUTDOOR,laserPointer,playful,mixed,silica,friend,arthritis,£6758,17559,16685,£12349,"13,533","19,091",£3242,missing,13840,3179
+2024-12-05, Sphynx ,CREAM,missing,tabby,odd-eyed,not required,NaN,junior,missing,Feather Wand,playful, wet ,non-clumping,STRAY,none,3368,9942,,19113,15130,missing,17595,5771,4247,6016
+2022-11-18,Ragdoll,Calico,-999,bi-colour,copper,Not Required,no,kitten,Both,laser_pointer,missing,Dry,non-clumping,online,none,missing,12374,10926,21,£16983,2,19235,6441,"19,042",13302
+12/05/2022,,tortoiseshell,NaN,bi-colour,blue,OVERDUE,no,GERIATRIC,outdoor,, friendly ,Wet,non-clumping,stray,arthritis,£16250,-999,   854,7700,6794,13235,381,405,18630,3459
+2022-06-26,Bengal,grey,medium,tabby,Green,up-to-date,yes,senior,OUTDOOR,Feather Wand,aggressive,dry,SILICA,shelter,arthritis,£4669," 7,908",12603,£15681,£16766,17950,£18909,4384,4426,"12,891"
+"Oct 28, 2021",MAINE COON,-999,long,bi-colour,green,NaN,No,geriatric, Both ,featherWand,shy,raw,clumping,friend,obesity,14786,10493," 9,031","11,369",£1087,929,13767,NA,6488,£3864
+19/09/2023,ragdoll,Brown,HAIRLESS,NA,blue,overdue,no,Geriatric,-999,string, AGGRESSIVE ,RAW,SILICA,FRIEND,allergy,£7050,missing,16076,-999,4719," 1,310",NaN,3424,344,missing
+24/10/2024, SPHYNX ,calico,Medium,pointed,gold,overdue,No,SENIOR,indoor, laserPointer ,LAZY,Raw,RECYCLED PAPER,online,NaN,7952,,£8514,3528,5494,18925," 3,880",17282,£161,
+27/02/2024,tabby,orange,missing,Bi-Colour,GOLD, Unknown ,NO,Kitten,Outdoor,Catnip Mouse,shy,dry,non-clumping,NA, none ,2750,2705,NA,14070," 5,592",12621,18267,14602,18405,11911
+23/01/2021,SPHYNX,Brown,short,pointed,gold,Unknown,yes,kitten,Outdoor,FEATHER WAND,,wet,Clumping,Friend,dental,,"13,150",missing,NA,12457,13072,8156,1554,13975,£5780
+03/04/2021,,tortoiseshell, LONG ,pointed,GREEN,NA,no,mature,both,string,Shy,-999,silica,online,NONE,£7577,8723,6172,11982,5895,3703,10378,NaN,11209,NaN
+31/08/2022,BRITISH SHORTHAIR,GREY,long,solid,gold,NOT REQUIRED,yes,mature,-999,BALL,playful,NaN,silica,missing,arthritis,5380,1574,10846,5206,missing,13506,1240,NaN,,£13605
+21/04/2024,Ragdoll,grey,short,spotted,blue,Up-To-Date,yes,kitten, BOTH ,featherWand,lazy,WET,silica,shelter,ARTHRITIS,14838,missing,5222,8843,-999,£11867,-999,-999,10099,4774
+2022-09-05,Persian,cream,long,TABBY,gold,up-to-date,no,missing,both, BALL ,aggressive,mixed,,STRAY,dental,NA,missing,NaN,9403,missing,6420,12031,NaN,13550,
+2023-09-04,persian,black, Medium ,NaN,green,not required,yes,geriatric,indoor,ball,aggressive,mixed,,friend,none,11590,4213,17238,14132,17911,424,,£2426,17826,19701
+29/08/2023,ragdoll,calico,long,NA,odd-Eyed, unknown ,yes, kitten ,outdoor,string,shy,NA,clumping,NA,dental,missing,£12422,£16099,£4939," 1,965",12705,"10,441",£10161,16496,"14,079"
+2023-11-05,persian,ORANGE,HAIRLESS,SPOTTED,gold,unknown,no,mature,NA,string,lazy,Wet,silica,stray,arthritis,9455,-999,9224,15530,5258,"13,458",2167,£15911,18502,10406
+25/06/2022,Tabby,missing,short,tabby,GOLD,unknown,yes,kitten,INDOOR,ball,Shy, raw ,clumping,, Dental ,9363,15550,£7098,-999,"15,153",£3717,19112,NaN,£12136,2444
+08/03/2023,NA,Calico,long,SOLID,NA,-999,No,geriatric,both,string,friendly,wet,CLUMPING,Breeder,OBESITY,NA,£13395,3829,13055,£14680,£63,3028,15904,6706,1320
+19/03/2022,siamese,calico,medium,Spotted,green,Not Required,yes,senior,OUTDOOR,laser pointer,playful,,recycled_paper,, obesity ,£18694,£18501,1459,15159,"11,840",18766,NA,11840," 4,760",11522
+2022-07-03,Siamese,Orange,long,TABBY,,-999,yes,PRIME,both,laserPointer,Playful,wet,Recycled Paper,shelter,allergy,"10,757",19065,6198,5252,,4192,-999,11377,12073,£8794
+2021-09-15,TABBY,CALICO,hairless,bi-colour,green,Not Required, yes ,SENIOR,both,,Aggressive,wet,clumping, SHELTER ,Allergy,11028,"13,474",£2486,missing,£19559,4135,221,7872,6945,6395
+2024-01-08,british_shorthair, ORANGE ,HAIRLESS, SPOTTED ,blue,overdue,Yes,,outdoor,LASER POINTER,shy,Raw,clumping,,dental,missing,7042,2226,18840,19764,£11039,£12164,17988,7105,-999
+missing, persian ,grey,SHORT,SOLID,odd-Eyed, NOT REQUIRED ,yes,prime,both,NA, Friendly ,Raw,recycled_paper,BREEDER,Arthritis,11920,17770,missing,19102,£13230,1945,2890,£12913,14696,18175
+"Jul 08, 2022",persian, White ,NaN,Tabby,,notRequired,no,junior,INDOOR,-999,lazy,dry,non-clumping,online,ARTHRITIS,13351,NA,£1721,£4897,£2342,17150,14639,NaN,NA,£8037
+09/03/2022,maine coon,WHITE,Medium,BI-COLOUR,odd-eyed,not_required,no, kitten ,Both,Feather Wand,aggressive,Mixed,,NaN,obesity,2891," 9,082","11,639",-999,6034,NA,5545,19483,2358,
+11/07/2023,bengal,cream,hairless,pointed,NaN,up-to-date,yes,geriatric,outdoor,ball,PLAYFUL,wet,Clumping,Friend,ALLERGY,2178,"18,091"," 3,953",£16312,£1108,1132,8710,18885,6121,13818
+09/02/2021,tabby,BLACK,long,TABBY,BLUE,UP-TO-DATE,NaN,senior,outdoor, string ,shy,NaN,non-clumping,friend,Arthritis,£18487,16433,16873,1000,NaN,14652,10006,4568,16053,2353
+12/05/2024,british_shorthair,orange,NA,tabby,GOLD,notRequired,NO,mature,indoor,NA,AGGRESSIVE,Dry,NON-CLUMPING,STRAY,allergy,11791,14033,7751,563,14798,5196,11595,,£16080,1239
+31/10/2024, maine coon ,grey, Medium ,SPOTTED,Odd-Eyed,up-to-date,-999,PRIME,both,ball,lazy,,non-Clumping,breeder,allergy,19536,"12,128",8366,16510,2343,"18,655",11324," 5,828","12,428",19872
+2022-05-22,,cream,NA,Solid,Blue,overdue,NA,JUNIOR,both,feather wand,shy,mixed,clumping, friend ,,,5978,5345,18145,-999,19453,17386,"17,800"," 1,501",17321
+2023-04-28,maine coon,GREY, long ,bi-Colour,odd-eyed,unknown,NO,KITTEN,both,catnip mouse,lazy,NaN,Non-Clumping,friend,dental,8953,"11,366",11343,missing,7092,£12518," 1,797",£15316,1587,4
+2024-12-14,BENGAL,ORANGE,short,Bi-Colour,Gold,OVERDUE,No,mature,missing,featherWand,LAZY,Dry,Silica,Shelter,ALLERGY,17844,NA,14147,4973,15791,£5033,   878,£2339,"12,651",£13858
+2024-12-06,RAGDOLL,calico,short,bi-Colour,GOLD,Unknown,Yes,KITTEN,indoor, catnipMouse ,AGGRESSIVE,mixed, recycled_paper ,ONLINE,Allergy,NaN,16352,5469,NaN,164,£274,£14099," 4,634",3467,12619
+, persian ,orange,medium,spotted,Green,Up-To-Date,yes,kitten,outdoor,laserPointer,playful,mixed,non-clumping, shelter ,Obesity,11272,"16,916",14704,"13,359"," 5,501",£18962,£51,18724,3350,missing
+"Jun 21, 2023",SPHYNX,missing,Hairless,NaN,Green,overdue,yes,Prime,NA,string,shy, raw ,missing,SHELTER,ALLERGY,£10121,16817,£16786,11026,8326,19739,missing,2502,11721," 5,097"
+"Feb 06, 2022",Sphynx,grey,medium,bi-Colour,Blue,-999,No,mature,outdoor,catnip_mouse,Playful,DRY,clumping,online,DENTAL,18597,6184,15275,NaN,10014,17171,£18305,17236,14630,14872
+"Feb 28, 2023",ragdoll,Black,medium,SPOTTED, COPPER ,overdue, yes ,NaN,outdoor,catnip_mouse,Shy,RAW, recycled_paper ,online, Arthritis ,£12147,809,£10420," 1,437",NA,19743,£1207,missing,11975,3523
+01/07/2021,SIAMESE, ORANGE ,Short,TABBY,blue,UNKNOWN,no,Geriatric,missing, LASER POINTER ,Aggressive,wet,silica,shelter,none," 9,215",£13667,15624,7459,NA,14693,£15945,    67,NaN,11013
+16/09/2023, ragdoll ,grey,medium,Spotted,GREEN,up-To-Date,yes,Senior,outdoor,FEATHER WAND,LAZY,Wet,RECYCLED PAPER,stray,ARTHRITIS,14588,missing,16603,£3036," 1,730",2570,1003,10163,16777,£4185
+06/11/2023,TABBY,tortoiseshell,HAIRLESS,tabby,odd-eyed,Unknown,yes,Junior,Outdoor,string,lazy,dry,recycledPaper,online,DENTAL,£14989,10667,10222,396,£18299,NA,8385,£18765,"11,150",17619
+28/06/2023,bengal,tortoiseshell,missing,Pointed,gold,not_required,missing,geriatric,indoor,Catnip Mouse,playful,dry,recycled_paper,NaN,ALLERGY,16306,14221,143,11136," 3,625",17633,£2787,NaN,"17,363",-999
+04/08/2022,British Shorthair,tortoiseshell,hairless,solid,green,UNKNOWN,YES,JUNIOR,Indoor, string ,shy,-999,Silica,breeder,Obesity,missing,"16,368",£7502,£16517,398,9028,,£11813,17217,"14,754"
+25/07/2021,BENGAL,tortoiseshell,HAIRLESS,BI-COLOUR,blue,,Yes,kitten, BOTH ,laser_pointer,friendly,wet,recycledPaper,NA,arthritis," 8,370",£17779,1429,,-999," 5,485",11117,5834,12158," 4,719"
+2022-03-02,SPHYNX,brown,hairless,SPOTTED,blue,unknown,Yes,kitten,BOTH,catnip mouse,NA,DRY,clumping,friend,None,6080,£17938,NaN,£13323,8864,£5272,NA,7653," 3,440",missing
+2022-04-10,maine_coon,white,hairless,SOLID,green,,no,missing,Indoor, string ,NaN,WET,Silica,NA,dental,18087,14181,2236,4827,NA,£8780,11841,18044,14878,16415
+2023-01-20,maine coon, cream ,NA,pointed,blue,Overdue,YES,prime,outdoor,laserPointer,PLAYFUL,WET,recycled_paper,shelter,allergy,NaN,10951,18921,16648,8368,£7424,NA,,16734,2368
+"Oct 08, 2023",persian,NaN,missing,tabby,blue,unknown,no,geriatric, BOTH ,string,Playful,dry,RECYCLED PAPER,online, ARTHRITIS ," 3,059",15980,-999,3440,NaN,£1219,NaN,7030," 1,430","12,244"
+NaN,maine coon,grey,hairless,Spotted,Gold,Up-To-Date,no,junior,outdoor,string,aggressive,dry,NON-CLUMPING,BREEDER,none,,15363,2962,5456,"14,493",8354,NA,5724,12764,"10,713"
+17/01/2024,Bengal,cream,short,Tabby,,,YES, kitten ,outdoor,BALL,Shy,mixed, Non-Clumping ,breeder,Arthritis,missing,6062,-999,NA,"13,892",15079,12934,16513,13746,   307
+-999,ragdoll,cream,long,tabby,GOLD,up-to-date,yes,Mature,both,Ball,lazy,mixed,NA,breeder,dental,£11799,NaN,"19,651",,10408,14633,7611,1233,15777,7050
+21/12/2023,maine coon,TORTOISESHELL,SHORT,Solid,green,Not Required,no,prime,outdoor,Laser Pointer,Lazy,dry,,-999,ARTHRITIS,4621,£626,16565,"15,983",4296,"16,287",16892,£2371,13601,7095
+03/01/2022,ragdoll,missing,medium,SPOTTED,COPPER,OVERDUE,No,-999,Both,CATNIP MOUSE,lazy,Dry,Non-Clumping,stray,obesity,1450,17994,17755,7802,£18076,11280,£7051,£19572,£8974,4592
+"Mar 28, 2022",Bengal,grey,NaN,,COPPER,up-To-Date,NaN,mature,Outdoor,string,Shy,wet,silica,,None,"13,671",14943,£6645,£14191,NaN,£17686,9819,,13562,18360
+2022-06-05,siamese,calico,short, solid , BLUE ,up-To-Date,yes, senior ,indoor,NaN,shy,-999,recycled_paper,online,none,11032,2643,14663,3212,8906,11430,9906,-999,5593,10038
+2023-10-15,bengal,calico,SHORT,Pointed,Gold,up-to-date,-999,senior,missing,string, LAZY ,wet,NaN,Shelter,Arthritis,12896,19594,5143,1250,17413,7580," 9,567",13993,11866,9459
+21/08/2022,-999,cream,hairless,Tabby,NaN,NA,YES,JUNIOR,outdoor,catnipMouse,-999,MIXED,recycledPaper,friend,Dental,17366,17536,12171,6695,643,£19799,£2357,2195,-999,£14610
+2024-08-23,maine coon,black,NaN,solid,Green,UP-TO-DATE,yes,Geriatric,outdoor,CATNIP MOUSE,shy,wet, SILICA ,NA,Dental,,1539,2005,12747,8976,   328,1508,3041,NA,14550
+2023-12-27,NA,BLACK,Long,SOLID, odd-eyed ,up-to-date,Yes,geriatric,outdoor, string ,SHY,mixed,silica,SHELTER,OBESITY,"18,157",£14205,£1674,£2520,13426,13912,17388,18644,5722,19144
+2021-10-15,PERSIAN,grey,short,pointed,BLUE, OVERDUE ,,Prime,outdoor, laser pointer ,friendly,mixed,silica,breeder,,11637," 2,349",missing,£8686,£4010,15939,£10893,7145,17990,4104
+2024-04-07,maineCoon,black,long,spotted,odd-eyed,UP-TO-DATE,no,Senior,-999,catnip mouse,Playful,missing,clumping,NaN,NA,17145,4517,   841,£15284,9228,missing,,5974,7478,£4711
+2024-12-24,missing,Black,long,pointed,-999,unknown,yes,geriatric,indoor, Feather Wand ,Friendly,MIXED,silica,stray,NONE,£17253,13572,5467,13218,5232,"16,410",£12427,4938,£1524,£11093
+2022-04-19,-999,-999,short,tabby,green,NaN,yes,prime,Outdoor,CATNIP MOUSE,missing,missing,NON-CLUMPING,online,arthritis,7765,£15698,6357,-999,14631,2211,"13,836",19063,"18,285",£7185
+2022-02-16,british shorthair,grey,hairless,bi-colour,green,-999,yes,mature,outdoor,ball,missing, Mixed ,clumping,Breeder,allergy,12054,NaN,£7139,1459,14247,-999," 3,892",6367,7147,NA
+NaN,BRITISH SHORTHAIR,Calico,HAIRLESS, Tabby ,copper,not required,yes,missing,Outdoor, feather wand ,Friendly,raw,CLUMPING,friend,,19755,843,5622," 8,790",8444,8785,£16316,5464,12076,13544
+2023-02-20,SPHYNX,black,long,missing,Copper,NOT REQUIRED,Yes,PRIME,outdoor,missing,AGGRESSIVE,wet,clumping,shelter,allergy,11050,14543,missing,16590," 7,555",2012,£17681,17850,4065,NA
+30/10/2024,Tabby,brown,Short,solid,green,unknown,Yes,JUNIOR,both,catnip mouse,playful,mixed, recycledPaper ,STRAY, Obesity ,6609,12280,2516,6410,"14,241",1656,11709,NA," 4,616","16,115"
+2023-10-29,british shorthair,-999,long,NaN,blue,unknown,no,NaN,missing, laser_pointer ,NA,dry,silica,Stray,NA,17073,"16,792",7292,4004,789,10322,NA,19049,£5992,£14272
+2023-03-24,,orange,short,,ODD-EYED,-999,NA,NaN,outdoor,FEATHER WAND,FRIENDLY,NaN,non-clumping,-999,NONE,£17141,"17,146",18971,missing,£9275,6948,16612,1760,16701,£5051
+NaN,persian,-999,HAIRLESS, bi-colour ,green,unknown,yes, kitten ,,feather wand,LAZY,raw,clumping,STRAY,Allergy,"11,012",2320,13873,19466,-999,7050,£15707,15015,11628,17982
+2021-04-17,Ragdoll,NaN,short,NA,odd-eyed,UNKNOWN,NO,NA,both,LASER POINTER,aggressive,raw,Silica, breeder ,NA,11685,5995,"18,684",4038,4067,1864,12623,9578,1730,4573
+2022-12-12,maine_coon,NaN,short,spotted,NA,NaN,missing,senior,outdoor,NA,Friendly,wet,CLUMPING,breeder,DENTAL,£15532,"18,624","15,077",2349,12726,-999,9230,NA,missing,10802
+2023-06-13,maineCoon, TORTOISESHELL ,hairless,Spotted,green,-999,no,SENIOR,indoor,featherWand,Shy,NaN,non-Clumping,breeder,allergy,18963," 4,989",10737,"18,942",9718,5515,13815,£14388,9311,15118
+02/11/2022,SPHYNX,tortoiseshell,medium, bi-colour ,COPPER,UNKNOWN,no,prime,indoor,laserPointer,AGGRESSIVE, raw ,non-clumping,Stray,ALLERGY,5268,5614,17093,17246,missing," 6,447",2652,£4409,£8711,£2466
+24/03/2021,persian,tortoiseshell,short,bi-colour,green,up-to-date,yes,geriatric,outdoor,catnip mouse,Aggressive,RAW,silica,Friend,obesity,£3036,7673,missing,10998,18829,NaN,12042," 1,550",1512,-999
+"Oct 01, 2021",tabby,Grey,,solid,GOLD,Unknown, no ,kitten,outdoor,string,Playful,wet,Non-Clumping,Breeder,arthritis,£3252,missing,missing,16279,8825,"14,653",6650,17791,18872,2307
+12/11/2023,Tabby,missing,NaN,solid, gold ,overdue,missing,GERIATRIC,-999,String,playful,wet,non-Clumping,BREEDER,arthritis,,£15050,10184,-999,11073,£12284," 2,243",2595,19399,
+04/04/2024,persian,grey, long ,bi-colour,copper,overdue,no,junior,missing,string,shy,raw, Recycled Paper ,breeder, Allergy ,15343,5892,15415," 6,048",NA,"13,521",7751,,NaN,-999
+25/10/2024,sphynx,brown,Hairless,Tabby,copper, up-To-Date ,no,JUNIOR,BOTH,feather_wand,playful,wet,recycledPaper,online,obesity,7049,12731,£3694,4521,7382,5360,13901,336,9359,12592
+17/04/2021,ragdoll,White,long,spotted,Copper,overdue,no,junior,Both,,playful,Mixed,Non-Clumping,Stray,missing,£6875,4217,3709," 1,423",£11207,"19,547",7495,11796,-999,
+20/07/2021,Tabby,Calico,long,Solid,missing,NOT REQUIRED,no,PRIME,INDOOR,FEATHER WAND,shy,raw,silica,Stray, none ,,10927,£8453,missing,4260,8135,-999,   539,19698,"12,055"
+2021-10-29,Bengal,Tortoiseshell,medium,bi-colour,green,not required,YES,Mature,both,NaN,aggressive,wet,non-clumping,STRAY,," 6,593",6537,£17248,9753,,2919,9239," 7,521",16670,-999
+2021-10-07,PERSIAN,calico,Long,tabby,odd-eyed,overdue,no,Geriatric,-999,ball,shy,Mixed,recycled_paper,ONLINE,Obesity,,6219,£5379,missing,£60,£1688,19766,3457,£8878,18992
+2022-07-28, BRITISH SHORTHAIR ,CREAM,missing,spotted,copper,Unknown,NA,Senior,-999,catnip mouse,LAZY,raw,clumping,breeder,obesity,missing,£7488,£4987,6662,12891,9722,7263,8517," 1,437",2755
+2021-05-23,sphynx,brown,hairless,POINTED,GREEN,Overdue,no,GERIATRIC,indoor,laser_pointer,PLAYFUL,wet,CLUMPING,shelter,NaN,£18776,5828," 2,273",14580,missing,£4392,12178,"10,264",missing,3862
+15/04/2024,Ragdoll,ORANGE,Medium,solid,NA,unknown,yes,senior,Indoor,Ball,playful, Raw ,SILICA,stray,Dental,"12,765"," 7,288",7781,£14815,£9313,16659,£12428,8849,"19,188","13,133"
+09/06/2022,RAGDOLL,White,hairless,tabby,Blue,unknown,no, senior ,both,Catnip Mouse,shy,dry,clumping,Friend,obesity,10907,£9333,10163,3695,,14939,14182,NA,14791,17199
+2022-12-25,SIAMESE,cream,hairless,spotted,odd-eyed,OVERDUE,Yes,kitten,indoor,catnipMouse,Friendly,Dry,non-Clumping,missing,allergy,10130,2114,5109,8016,£10501,10425,19106,£2035,15678,5974
+-999,sphynx, brown ,long,spotted,gold,NOT REQUIRED,yes,Senior,both,ball,shy,mixed,silica,breeder,Arthritis,11579,missing,"18,881",8046,17330,£730,8750,17516,£18242,15307
+24/12/2021,persian,grey,long, Spotted ,gold,missing,no,GERIATRIC,outdoor,Feather Wand,LAZY,Wet,recycled_paper,-999,arthritis,"16,277",15758,5904,£7115,11875,£3808,4272,15568,2856,"13,039"
+31/12/2024,tabby,white,hairless,spotted, copper ,unknown,no,Prime,Both,catnipMouse,Aggressive,raw,NaN,Breeder,allergy,"18,927"," 5,101",£13893,14323,£8182,16683,"14,498",5280,,NaN
+04/03/2021,BRITISH SHORTHAIR, CALICO ,medium,bi-Colour,odd-Eyed,up-To-Date,No,geriatric,Both,NaN,lazy,RAW,missing,stray,DENTAL,14863,16432,1733,4596,15326,1276,NaN,16708,NaN,16134
+11/07/2023,British Shorthair,-999,Medium,bi-Colour,odd-Eyed,NOT REQUIRED,no,junior,INDOOR,BALL,NA,NaN,clumping,Friend,dental,"14,269",14248,£16605,£19312,2815,£11470,1718,-999,16998,6846
+10/04/2021,BRITISH SHORTHAIR,calico,short,solid,missing,not required,NO, senior ,indoor,-999,aggressive,-999,Silica,shelter,None,17684," 4,913",£5441,£5467," 1,824",£1254,16945,18608,7421,18607
+2021-11-03,persian,brown, Short ,SOLID,-999,overdue,yes,PRIME,OUTDOOR,-999,friendly,raw,CLUMPING,breeder,NONE,8326,18695,£12175,£13580,17313,4540,14431,2228,19810,£6695
+27/10/2022,Tabby,black,short,spotted,blue,not required,Yes,junior,both,LASER POINTER,AGGRESSIVE,Dry,NA,STRAY,None,NA,£15988,-999,2057,18468," 2,923",£2684,£11577,9950,3159
+2024-11-01,tabby,NA,long,tabby,blue,overdue,-999,mature,OUTDOOR,ball, aggressive ,wet,silica,FRIEND,arthritis,"11,878",,£11988,13066,NA,9987," 5,050",£11632," 5,981",4988
+16/11/2022,,,medium,-999,GREEN, up-to-date ,no,mature,indoor,feather_wand,Playful,raw,Non-Clumping,friend,NaN,16164,1742,10764,£5699,14467,5127,15984,£3339,£7843,£9158
+NA,british_shorthair,tortoiseshell,Short, tabby ,Odd-Eyed,unknown,yes,PRIME,both,string,-999,raw,clumping,friend,Allergy,5277," 3,303",,15937,£844," 1,254",17348,7673,"19,971",NA
+17/12/2021, BENGAL ,CREAM,long,tabby,green,UP-TO-DATE,no,NaN,indoor,Ball,lazy,raw,non-Clumping,NA,allergy,£2365,2085,£10971,£2156,7347,£4620," 9,537"," 1,276",NA,15023
+2021-04-08,bengal,orange,short,,gold,notRequired,yes,Senior,indoor,Catnip Mouse,Playful,NA, clumping ,friend,none,1333,£16701,3869,£1169,7577,"14,819",NaN,"17,704",£18197,19548
+10/05/2021,SIAMESE, cream ,LONG,spotted,green,unknown,Yes,mature, outdoor ,catnipMouse,playful,RAW,recycled_paper,SHELTER,ALLERGY,16016,,missing,8283,10089,18568,10849,£10037,"10,582",£17806
+2021-03-27,sphynx,white,NaN,solid,copper,not required,No,Prime,both, string ,FRIENDLY,raw,missing,online,arthritis,5314," 3,658",71,missing,302,£19034,19607,£15655,-999,993
+2022-02-07,SIAMESE,cream,hairless,TABBY,odd-eyed,unknown,yes,senior,indoor,Catnip Mouse,aggressive,,clumping,SHELTER,obesity,"13,306",13083,9208,£4005,£13449,missing,9374,6475,£19347," 7,146"
+2024-10-31,BRITISH SHORTHAIR,,HAIRLESS,tabby,Odd-Eyed,notRequired,No,geriatric,,Catnip Mouse,shy,raw, RECYCLED PAPER ,online,DENTAL,£1957,missing,1499,7237,"13,464",13063,9131,19912,17034,£1234
+29/07/2022,Persian,black, long ,solid, blue ,overdue,Yes,NaN,OUTDOOR,laserPointer,FRIENDLY,RAW,silica,NaN,allergy,10383,£16821,£15551,16958,£10453,14649,13699,7839,3974,2282
+2021-08-17,british shorthair,BLACK,short,spotted,Gold,missing,NO,senior,outdoor,catnipMouse,Shy,DRY,Clumping,FRIEND,Arthritis,"13,019",6274,-999,£13608,"17,120",19394,18504,£4629,3187,9902
+"Dec 25, 2021",persian,white,SHORT,bi-Colour,Odd-Eyed,not required,NO,geriatric,Indoor,missing,playful,mixed,SILICA, FRIEND ,ALLERGY,£7885,15908,15984,550,17978,"18,521",14180,1923,missing," 5,462"
+2024-05-15,NaN,tortoiseshell, long ,NaN,Odd-Eyed,Not Required,Yes,prime,NaN,ball,aggressive,WET,recycled paper,stray,OBESITY," 6,868",9095,£16108,6695," 7,480"," 5,203",14886," 2,385",18262,5850
+missing,MAINE COON,NA,Medium,,Copper,Overdue,YES,Junior,INDOOR,feather_wand,aggressive,Mixed,clumping,shelter,None,£12350," 5,771",NA,5107,"13,087",£5213,13209,15131,2703,2289
+NA,RAGDOLL,NaN,short,solid, odd-eyed ,up-To-Date,no,SENIOR,outdoor,laser pointer, Shy , dry ,Recycled Paper,SHELTER,arthritis,19993,£7512,"11,733",8968,7888,15029,18775,7641,£14473,886
+18/10/2023, ragdoll ,CREAM,Short,bi-Colour,odd-Eyed,overdue,no,Prime,both,BALL,playful, RAW ,recycled_paper,,DENTAL,-999,6831,"10,946",17409,18535,NA,2090,,426,
+23/03/2021,Ragdoll,White,MEDIUM,solid,BLUE,up-to-date,Yes,PRIME,Outdoor,Laser Pointer,Aggressive,RAW,recycledPaper,FRIEND,dental,3161,1565,£10239,17440,NA,£7018,NaN,18666," 9,762",£6925
+23/07/2024,bengal,ORANGE,-999,TABBY,ODD-EYED,UP-TO-DATE,yes,senior,outdoor,laser pointer,-999,raw,clumping,STRAY,allergy,£9710," 8,471",11295,,7425," 7,261",10544,14608,19177,11276
+25/05/2024,persian,cream,hairless,tabby,,unknown, yes ,geriatric, Indoor ,ball,FRIENDLY,raw,clumping,stray,None,7725,14327,missing,9577,,£8219," 3,282"," 8,479"," 3,694",-999
+"Dec 02, 2024",ragdoll,grey,,Spotted,copper,Overdue,no,senior, Indoor ,STRING,Shy,wet,NA,ONLINE,ALLERGY,£12216,10350,£13001,6550,14466,13328," 4,963",14181,£14000,£13701
+2023-01-08,MAINE COON,grey,SHORT,solid,Copper,Up-To-Date,no,Junior,Indoor,Feather Wand,playful,wet,NON-CLUMPING,STRAY,Allergy,missing,NA,1934,11533," 7,007",missing,-999,NA,"16,006",8535
+03/06/2024,BRITISH SHORTHAIR,,medium,Tabby,GREEN,not_required, no ,KITTEN,outdoor,LASER POINTER,aggressive,dry,non-clumping,breeder,none,£8888,NA,1678,12162,16547,19870,736,"13,684","10,028",778
+NA, Bengal , grey ,short,pointed,GOLD,up-to-date,-999,mature,BOTH,string,shy,raw,NaN,friend, arthritis ,17505,8666,1322,£6720,missing,"17,237",£13420,,14773,£6934
+2022-07-28,sphynx,brown,HAIRLESS, BI-COLOUR ,odd-eyed,unknown,yes,Senior,indoor,String,aggressive,WET,CLUMPING,missing,None,23,5786,15835,5955,10299,16678," 4,134",£2398,9575,4925
+01/07/2021,Ragdoll,GREY,SHORT,tabby, odd-eyed ,Overdue,YES,Kitten,outdoor,Laser Pointer,Lazy,DRY,recycledPaper,NA,allergy," 6,099",6829,NaN,£4569,14621,10350,"17,711",,13951,8927
+"Jan 24, 2021",Ragdoll,BLACK,Medium,spotted,NA,unknown,no,senior,outdoor,String,aggressive,Mixed, clumping ,breeder,,18097,,£12329,"18,691",£7867,missing,"11,684",-999,£11704,18436
+NaN,siamese,tortoiseshell,long,Tabby,NA,missing,yes, Mature ,NA, ball ,AGGRESSIVE,Raw,clumping,stray, NONE ,"19,521",-999,11634,6088,"14,042",9453,£14812,£2693,8359,NaN
+27/02/2023, ragdoll ,calico, long ,spotted,blue,UP-TO-DATE,yes,mature,Both,laser pointer,lazy,Wet,recycledPaper,breeder,dental,£3617,"10,023",17037,3461,£18012,£2808," 8,396",£14112,£4850,14880
+2022-08-06,british_shorthair,Calico,LONG,pointed,,overdue,no, Kitten ,Outdoor,ball,shy,dry,non-Clumping,NaN,obesity," 6,564"," 1,543",3679,missing,"19,741",2912,7517,£9202,£6626,2729
+28/08/2024,tabby,white,MEDIUM,SOLID,odd-eyed,missing,yes,Kitten,Indoor,ball,aggressive,mixed,recycled paper,Stray,arthritis,16310,missing,"16,207",6906,£286,19093," 9,273",£18993,NaN,NA
+2021-04-21,sphynx,white,SHORT,solid,gold,not_required,NaN,PRIME, INDOOR ,featherWand,aggressive,dry,clumping,stray,OBESITY,£7893,6240," 3,398",18717,£371,,11835,1888," 3,505",£14919
+"Feb 23, 2023",tabby,ORANGE,MEDIUM, spotted ,blue,OVERDUE,YES,senior,indoor,string,Friendly,wet,silica,ONLINE,dental,10990,,12811,18102," 7,646",NA,15585,"17,893",16714,19749
+02/08/2023,maine_coon,,short,bi-colour,blue,UP-TO-DATE,no,geriatric,outdoor,STRING,LAZY, raw ,clumping,STRAY,dental,"13,084",NaN,5969,6312,,-999,9292,"18,435",£11022,5774
+"May 25, 2023",siamese,tortoiseshell,long,SPOTTED,gold,overdue,Yes,Mature,outdoor,LASER POINTER, PLAYFUL ,mixed,recycled_paper,Stray,NaN,15797," 9,217",12800,-999,8377,"14,365",10703,"13,176",536,4747
+2021-03-15,siamese,grey,short,tabby,NaN,overdue,no,Kitten,outdoor,String,lazy,WET,SILICA,STRAY,Arthritis,£17659,"15,161",1787,   432,8178,15372,7970,"17,723",1524,£6281
+NA,tabby,NA,NaN,bi-colour,copper, up-to-date ,Yes,MATURE,outdoor, Feather Wand ,Lazy,mixed,SILICA,online,dental,17824," 3,808","19,338",2793,2896,"11,318",£17424,3130,5482,18718
+11/06/2022,BRITISH SHORTHAIR,White,HAIRLESS,NA,green,UNKNOWN,YES,senior,NaN,string,lazy,NA,non-Clumping,breeder,allergy,£12765,6889,£8485,11217,missing,4825,£18213,18356,,11406
+"Aug 01, 2022",tabby,brown, medium ,pointed,blue,up-to-date,no,NaN,OUTDOOR,feather wand,shy,,NA,friend,arthritis,"10,560",12092,18785,10511,-999,10399,11255,13764,4199,17709
+2024-05-16,tabby,White, long ,pointed,Gold,NOT REQUIRED,no,Prime,indoor,CATNIP MOUSE,Playful,raw,clumping,missing, allergy ,13436,£19617,13944,8415,," 6,374",8765," 4,755",7326,15427
+2021-05-16,persian,cream,missing,spotted,odd-Eyed,, No ,senior,Indoor,string,Friendly,-999,Silica,SHELTER,-999,15607,£9449,£14666,11716,£3692,743,missing,10655,18520,452
+NA, sphynx ,calico,medium,missing,Odd-Eyed,unknown,yes,mature,both,NaN,PLAYFUL,wet,recycledPaper,shelter,arthritis,15589,16615,,6094,8236,3285,£1443,£3308,"16,822",14806
+18/07/2023,british shorthair,white,medium,pointed,GREEN,missing,no,geriatric,indoor,string,NA,raw,recycledPaper,NA,none,NaN,7633,NA,9380,16117,17380,11630,1787,10978," 6,979"
+2023-02-05,Ragdoll,WHITE,short,tabby,GOLD,up-To-Date,no,JUNIOR,indoor,laser pointer,AGGRESSIVE,dry,missing,FRIEND,OBESITY,1398,4958,NA,5077,£10615,£16645,802,19973,2622,5245
+2021-12-13,siamese,BLACK,hairless,solid,GOLD,NA,no,NA,outdoor,-999,shy,Raw,silica,Shelter,dental,6525,3258,15171,"10,815","16,933",1282,£4274,NA,£11172,797
+2024-07-30,TABBY,cream, hairless ,TABBY,odd-eyed,NaN, Yes ,Prime, Indoor ,CATNIP MOUSE,lazy,dry,NaN, breeder ,Obesity,10373,9227," 8,262",2900,NaN," 2,092","11,550"," 6,600",,1857
+23/10/2024,-999,CALICO,short,spotted,blue,up-To-Date,NaN,Mature,BOTH,catnip_mouse,NaN,MIXED,non-Clumping,stray,obesity,19154,4307,11296,5987,missing,8716,6745,9281,7259," 7,355"
+2023-01-26,NaN,NaN,medium,Spotted,,Unknown,no,PRIME, both ,NA,shy,MIXED,clumping,stray,arthritis,missing,3131,£5350,10710,,"11,476",£10054,11739,9990,£6326
+2023-07-20,maine_coon,ORANGE,medium,pointed,Blue,Overdue,yes,kitten,-999,ball,Aggressive,dry,Non-Clumping,shelter,missing,15673,NA,973,7629,6947,14468,8340,13494,18403,missing
+04/09/2024,bengal,white,long,spotted,COPPER, overdue ,no,prime, INDOOR ,FEATHER WAND,friendly,Raw,non-Clumping,NaN,arthritis,NaN,19013,£13858,15905,4997,764,4285,£17078,5957,NA
+2022-06-25,maine coon,NaN,HAIRLESS,NA,gold,not required,Yes,junior,indoor,featherWand,SHY,raw,silica,friend,Dental,£9497,10599,12243,£17294,17781,£19976,£18783,£4164,1085," 1,192"
+2021-06-27,Ragdoll,CREAM,short,Pointed, green ,up-To-Date,no,NaN,INDOOR,Feather Wand,lazy,DRY,-999,stray,Allergy,15191,NaN,"15,718",816,£8205,13809,NaN,"16,979",3784,4819
+2024-12-02,persian,cream,SHORT,NaN, green , unknown ,yes,-999,both, laserPointer ,shy,Dry,clumping,shelter,dental,,17448,17062,1004,£19296," 4,637"," 5,193",-999,£9995,£13811
+11/01/2023,bengal,orange,medium,solid, GOLD ,UNKNOWN,YES,mature,both,NA,-999,raw,Silica,friend,,7431,2416,18610,6934,16435,missing,15829,£2570,1340,NaN
+08/02/2024,tabby,NA,,,NaN,OVERDUE,Yes,Senior,OUTDOOR,BALL,aggressive,wet,SILICA,friend,NONE,1457,£2549," 6,825","14,901",244,8227,399,missing,9501,£2034
+29/01/2022,tabby,Grey, medium ,Bi-Colour,gold,unknown,yes,NA,both,LASER POINTER,aggressive,MIXED,silica,online,none,2452,134,£8345,1922,9969,£14832,11854,8252,NA,£7242
+19/11/2024,Sphynx,NaN,-999,solid,blue,,YES,geriatric,outdoor,string,missing,wet,Clumping,online,missing,-999,3673," 5,220",3572,,19638,6891,"12,756",8463,13017
+2021-09-23,Persian,BROWN, long ,-999,Gold,Not Required,no,SENIOR,indoor,Catnip Mouse,aggressive,raw,SILICA,NA,none,17075,597,8655,961,£13971,£2630,9496,£14839,"12,701",18407
+27/12/2022,sphynx,missing, Short ,pointed,BLUE,Not Required, YES ,senior,both,Feather Wand,LAZY,MIXED,missing,FRIEND,obesity,   468,11656,11629,NaN,missing,10716,10312,£7937,2468," 6,577"
+12/04/2022,MAINE COON,white,hairless,Spotted,gold, unknown ,no,NA, INDOOR ,string,aggressive,wet,recycled_paper,missing,Dental,1409,7938,12991,1972,8580,NaN,1937,5961,missing,955
+21/08/2024,Bengal, calico , MEDIUM , pointed ,Odd-Eyed, Overdue ,no,junior,indoor,Ball,lazy, dry ,Silica,friend,NONE,6074,4781,£16291,-999,missing,11237,19175,£9817,768,19095
+20/04/2024,tabby,Calico,long,pointed, copper ,UP-TO-DATE,yes,Junior,INDOOR,string,aggressive,wet,silica,NA,allergy,-999,7769,-999,8600,NaN,3960,£10202,£8157,2607,17380
+NaN,sphynx,CALICO,SHORT,pointed,Copper,OVERDUE,Yes,mature,both,feather wand,NaN,Mixed,SILICA,Shelter,obesity,9844,£5337,"19,965",16788,8707,"12,242",15784,12217,£7558,13402
+missing,persian,brown,long,pointed,odd-Eyed,up-to-date,Yes,Kitten,BOTH,ball,Aggressive,Wet,clumping,Online,none,£2438,18095,-999,18353,£6680,5187,NA,£4485,1255,16147
+2024-10-02,Bengal,BROWN,medium,tabby,odd-Eyed, not_required ,NO,senior,BOTH,FEATHER WAND,Friendly,raw,,breeder,allergy,£2982,,6941,17269,£5797,14523,8069,NaN,7386,£11905
+27/11/2021,sphynx,orange,medium,pointed,blue,missing,YES,senior,Outdoor,string,Friendly, RAW ,SILICA,Online,NONE,£666,1741,6720,-999,-999,5885,£2155,12175,3815,missing
+2021-06-03,sphynx,White,short,pointed,Blue,Overdue,missing,PRIME,both,missing,Shy,raw,recycled paper,NA,OBESITY,-999,3276,NaN,3583,£12175,3336,11522,   181,17264,"19,520"
+missing,Sphynx,white,Hairless,bi-colour,NaN,UNKNOWN, yes ,junior,NaN,FEATHER WAND,Aggressive,DRY,silica,shelter,obesity,7605,6102,1218,1046,£937,"13,295",10479,14941,11298,3765
+"May 26, 2023",BENGAL,grey,hairless,tabby,green,overdue,Yes,Mature,Outdoor,featherWand,Lazy,missing,NA,friend,arthritis,13900,11119,13889,"18,970"," 9,925","10,862",£14446,£2879,4919,4493
+NA, British Shorthair ,black,long,tabby, BLUE ,up-to-date,yes,NA,BOTH,featherWand,shy,wet,RECYCLED PAPER,Breeder,none,"10,306",-999,7139," 4,414","12,792",NaN," 3,820","13,554",155,£6581
+18/06/2023,maine_coon,cream,MEDIUM,POINTED,odd-eyed,UNKNOWN,YES,geriatric, Indoor ,laserPointer,lazy,WET,silica,online,dental,£15306,15489,1982,15517,15156,9185,18846,7485," 8,281",£12150
+"Mar 06, 2024",britishShorthair,Grey,LONG,spotted,missing,Unknown,no,NA,outdoor,FEATHER WAND,AGGRESSIVE,raw,silica,Friend,dental,12099,9398,6467,8720," 2,955","18,790",9130,£8574,5284,3208
+2021-01-13,missing,cream,short,tabby,NA,NaN,yes,prime,indoor,Ball,Lazy,raw,,Stray,obesity,NA,£16751," 9,214",NA,6012,14152,,"14,813",10131,£14214
+15/06/2023,tabby,calico,Medium,spotted,Odd-Eyed,Not Required,no,kitten,outdoor,catnip_mouse,missing,NA,clumping,shelter,none,12272,,NA,9609,£2584,3478,,2045,£10109,4594
+20/12/2023,bengal,brown,long,TABBY,Odd-Eyed,up-To-Date,Yes,prime,missing,featherWand,SHY,Dry,clumping,Shelter,Arthritis," 1,388",£15795,14998,"19,684",£10701,8042,8309,13561,16551,17313
+13/05/2021,,calico,hairless,Bi-Colour,blue,-999,yes,KITTEN,BOTH,BALL,NaN,Mixed,missing,Stray,ARTHRITIS,16759,£2039,17747,14283,13875,3982,1117,11410,NA,£12213
+28/11/2023,Persian,black,medium,bi-Colour,ODD-EYED,not_required,no,MATURE,OUTDOOR,-999,FRIENDLY,Wet,Clumping,stray,none,1387,16123,16938,"17,523",6567,4914,3366,£3579," 5,379",4323
+12/03/2024, BRITISH SHORTHAIR ,black,Medium,tabby,gold,up-to-date,yes,PRIME,both,,shy,dry,Clumping,Breeder,none,"13,600",missing,820,8472,-999,16873,missing,16111,17343,£12140
+16/07/2022,NaN,brown, Hairless ,Spotted,GOLD,NaN,yes,geriatric,outdoor,laserPointer,SHY,WET,non-clumping, friend ,obesity,2378,12962,missing,2370,£8161," 6,339"," 7,887",7999,NaN,   940
+2021-08-18,Maine Coon,Cream,hairless,pointed,COPPER,not_required,yes,junior,indoor,Laser Pointer,playful,mixed,CLUMPING,Stray, Dental ,£665,17181,£9734,4123,14703,11460,,£5526,11557,   949
+09/01/2023,BRITISH SHORTHAIR,CREAM,NaN,pointed,copper,missing,no,senior,both,catnipMouse,Aggressive,Mixed,silica,SHELTER,Dental,"17,575",£4786,"11,775","15,504",14313,£18677,£17166,2977,£3303,6211
+,SPHYNX,CREAM,short,NA,Blue,,NaN,mature,both,string,Friendly,RAW,silica,STRAY,DENTAL,6413,2953,£1632," 2,139",   580,£1259,5591,2826,14553,10158
+27/11/2024,Tabby,calico, long ,pointed,-999,not required,Yes,prime,both,string,PLAYFUL,DRY,recycled paper,ONLINE,obesity,£19829," 9,729",£8185,missing,7244,"12,489",£3694,7523,16873,£11861
+20/04/2024,bengal, Grey , long ,POINTED,Odd-Eyed,Unknown,YES,geriatric,Outdoor,featherWand,friendly,Mixed,silica,online,NONE,5741,£7983,4782,"17,476",£12834,12020,4934,11694,"13,794",13935
+NA,Sphynx,Tortoiseshell,long, solid ,-999,Unknown,missing,NaN,Both,FEATHER WAND,LAZY,NaN,silica,stray,arthritis,13032,6039,13998,£12644,6200,4524,£13279,1642,16916,10828
+2023-02-26,tabby,calico,short,Solid,-999,unknown,no,junior,outdoor,Laser Pointer,playful,Dry,Recycled Paper, breeder ,,NA,10999,,4614," 4,357",13980,"19,449",9165,3828," 4,103"
+NA,sphynx, white , hairless ,pointed,green,notRequired, no ,mature,outdoor, ball ,shy,Dry,silica,Shelter,none,2510,NA,19883,17344,13396,8216,£1140,NaN,missing,£1560
+21/04/2021,tabby,Calico,long,tabby,NaN,Up-To-Date,YES,Senior,outdoor,feather_wand, aggressive , Dry ,Recycled Paper,stray,Arthritis,15405,19616,-999," 6,081",£9568,7576,,£5281,14515,£6111
+18/12/2023,Sphynx,black,hairless,solid,COPPER, up-To-Date ,NaN,mature,both,String, playful ,MIXED, silica ,online,dental,10319,£2746,4874,3204,missing,£19006,13222,-999,"12,707",16749
+19/09/2022,britishShorthair,,medium,Solid,odd-Eyed,OVERDUE,yes,GERIATRIC,indoor,string,playful,dry,non-clumping,breeder,arthritis,NA,£15027,"19,572",8569,8198,17635,1076,missing,15594,"15,224"
+2023-07-26,persian,white,hairless,BI-COLOUR,copper,UP-TO-DATE,no, prime ,BOTH,catnip_mouse,Playful,Raw,recycled_paper,Friend,none,2701,17801,-999,1879,12869,6888,11866,"17,163",-999," 9,870"
+2022-10-29,ragdoll,ORANGE,hairless,solid,GOLD,Up-To-Date,no,senior,BOTH,FEATHER WAND,playful,mixed,Clumping, breeder ,allergy,18790,£17762,NaN,10453,NA,,£7067,2350,£653,NA
+08/10/2022,sphynx,ORANGE,HAIRLESS, POINTED ,NA,missing,missing,Mature,both, LASER POINTER ,shy,dry,NA,stray,arthritis," 5,092",NA,£18472,£16045," 3,865",6462,£3695,missing,699,£8506
+2024-04-27,siamese,orange,long,SPOTTED,missing,up-To-Date,yes,KITTEN, both ,Laser Pointer,aggressive,raw,silica,NA,arthritis,14739,15220,2549,17221,7792,7291,17475,2616,"15,454",£15834
+05/04/2024,MAINE COON,NA,short,solid,gold,unknown,yes,junior,outdoor,Catnip Mouse,AGGRESSIVE,missing,CLUMPING,breeder,allergy,15017,570,6603," 2,565",15147,7891,"19,490",-999,£18006,£16448
+NaN,BENGAL,cream,hairless,Solid,ODD-EYED,OVERDUE,no,kitten,both,FEATHER WAND,shy,dry,SILICA,, NONE ,missing,   939,11640,10893,18539,17522,£14661,7399,19150,11705
+2022-01-30, RAGDOLL ,orange,short,bi-colour, GOLD , overdue ,yes, mature ,outdoor, feather wand ,aggressive,wet,silica,Online,obesity,1993,9394,missing,9555,4469,4968,19370,544,10145,7695
+18/07/2023,siamese, grey ,MEDIUM,spotted,gold, up-To-Date ,no,senior,both,Laser Pointer,playful,Dry,clumping,online,Dental,6685,19701,£8471,454,NA,NA,6480,8770,"15,103",5051
+2021-08-02,siamese,cream,short,Spotted,odd-eyed,not required,no,,Indoor,laser pointer, lazy ,Wet,clumping,NA,Allergy,NaN,8648,,1316,   189,13439,"19,369"," 3,842",19881,9505
+missing,persian,orange,Medium,tabby,Blue,Up-To-Date,NaN, senior ,outdoor,feather wand,Playful,missing,Non-Clumping,breeder, NONE ,15323,1306,    25,5303,£6928,19409,13084,1725,9779,missing
+2021-11-04,maineCoon,CALICO, LONG ,tabby,NA,unknown,yes,GERIATRIC,-999,catnip_mouse,playful,Raw,silica,FRIEND,allergy,"19,938",17333,10894,10112," 4,656",736,£18040,16925,18238,2626
+02/03/2022,tabby,white,SHORT,missing,blue,unknown,NA,prime,Outdoor,catnip_mouse, shy ,missing,clumping,online,allergy,   985,"19,255",19854,£19997,5228,£15325,13067,12292," 9,706","18,099"
+06/11/2024,ragdoll,black, hairless , spotted ,copper,up-to-date,yes,missing,outdoor,BALL,aggressive,Raw,,BREEDER,DENTAL,4692,6100,2602,NA,8212,14364," 9,396",8630,19469,19329
+20/01/2023,sphynx,Orange, LONG ,missing,NA,up-to-date,No,geriatric, outdoor ,missing,Friendly,raw,CLUMPING,Breeder,OBESITY,"16,188",12044,£4292,"14,323",14786,NA,13446,10537,1126,10026
+2021-12-26,NA,orange,hairless,SOLID,Gold,unknown,no,geriatric, indoor ,string,playful,DRY,recycled paper,stray,Arthritis,-999," 8,582",19620,733,-999,£12102,7120,£1849,10106,"16,265"
+-999,ragdoll,cream,Short,solid,Copper,up-to-date,NO,GERIATRIC,indoor,BALL,playful,wet,recycledPaper,STRAY,none,NaN,9699,18255,19578,14157,7290,£14651,£3393,£6621,"11,831"
+2023-12-15,tabby, BROWN ,HAIRLESS,Tabby,Green,up-to-date, no ,KITTEN,both,NaN,friendly,wet,clumping,breeder,Dental,18699,£13631,3795,£9346,3978,16612," 6,839",11168,£10929,12311
+09/02/2024,tabby,black,LONG, solid ,gold,UNKNOWN,No,Prime,outdoor,String,NaN,Dry,clumping,friend,allergy,5539,"16,782",1219,12401,8008,11969,2312,NA,12174,13406
+"Sep 02, 2022",MAINE COON,tortoiseshell,Long,bi-colour,Odd-Eyed,overdue,No,junior,INDOOR,BALL,missing,-999,recycledPaper,BREEDER,allergy,13617,16665,15197,£3210,£193,£989,£19033,16486,-999,19796
+2024-08-11,Bengal,brown,,solid,GREEN,Overdue,no,NaN,both,string,lazy,wet,missing,NaN,none,NaN,17783,16178,£17987,-999,7485,missing,missing,17009,"16,329"
+2024-05-16,sphynx,black,HAIRLESS,bi-Colour,GOLD,unknown,Yes, Junior ,indoor,String,aggressive,MIXED,Silica,ONLINE,allergy," 3,517",-999,18652,19224,9391,£4071,15446,7717,8340,8809
+30/04/2023,persian,calico,Short,POINTED,gold,unknown, yes ,Geriatric,OUTDOOR,string,Lazy,wet,non-clumping,missing,dental,19896,NaN,,6673,"19,096",1257," 1,327",16962,15247,
+16/12/2024,British Shorthair,Black,medium,Pointed,blue,not required,no,junior,outdoor,catnip_mouse,lazy,Wet,-999,shelter,allergy,£5796,£2522,"17,203",NA,7903,£2711,14343,14435,18334,14870
+20/11/2024,maineCoon,Orange,Short,Pointed,Gold, overdue ,no,NA, indoor ,NaN,friendly, RAW ,silica,FRIEND,Arthritis,6895,,2796,359,5992,-999,NA,-999,17511,7980
+"Oct 22, 2021",SIAMESE,black, HAIRLESS ,BI-COLOUR,ODD-EYED,unknown,No,JUNIOR,both,ball,playful,raw,NaN,shelter,NONE,1448,"16,395",-999,NA,missing," 9,817",£15220,4064,5128,17231
+13/05/2021,siamese, grey ,long,spotted,blue,NA,no,GERIATRIC,outdoor,laserPointer,friendly,WET,SILICA,SHELTER,none,"14,883",15246,2652,18162,"17,590",17778,"11,656","13,357",9342,NaN
+15/06/2022,maine_coon,orange,long,-999,Gold,up-to-date,YES,JUNIOR, both ,missing,playful,Dry,clumping,ONLINE,Arthritis,£760,17079," 4,352"," 6,211",NaN,13732,£10518,14185," 9,853",16460
+2024-02-14,siamese,ORANGE,Medium,Spotted,COPPER,not required,No,JUNIOR,outdoor,Laser Pointer,friendly,dry,recycled_paper,shelter,arthritis,10892,£11167,NaN,£13033,"10,293",missing,£1591,"18,211",NA,4582
+2023-07-13,BRITISH SHORTHAIR,Tortoiseshell,long, bi-colour ,, overdue ,yes,junior,BOTH,LASER POINTER,AGGRESSIVE,Wet,RECYCLED PAPER,,None,13089,15678,NA,7091,8098,10812," 3,849",£630,233,10222
+15/04/2021,RAGDOLL,orange,short,POINTED,gold,Not Required,yes,geriatric,outdoor,Feather Wand,shy,wet,non-clumping,online,arthritis,£10807," 1,799","14,017",15219,6520,£8062,5723,£11031,NA,£3711
+08/06/2023,sphynx, Grey ,NA, pointed ,ODD-EYED,Unknown,yes,junior,INDOOR,ball, LAZY ,dry, silica ,breeder,Obesity,9592,"17,930",£4899,2676,6372,£3984,£7961,16157,NaN,10297
+2022-01-12,MAINE COON,orange,Long,spotted,green,Overdue,yes,NaN,Indoor,Ball,PLAYFUL,raw,Silica,online,obesity,7111," 9,382",£17815,£2788,   887,,17917,£7850,NaN,3692
+24/02/2022,tabby,GREY,hairless,bi-Colour,odd-Eyed,not required,-999,junior,indoor,string,AGGRESSIVE,dry,recycledPaper,online,Dental,17510,NA,18222,£1114,3631,£7229,8349,£5589," 1,405",13733
+08/06/2024,maine_coon,CREAM,Short,solid,odd-eyed,UP-TO-DATE,NO,prime, both ,Ball,friendly,Mixed,non-clumping,friend, dental ,"19,946"," 7,641",,9702,9198,19573,£4438,£18054,10194,8329
+"Feb 01, 2024",tabby,Cream,Long,bi-colour,copper,NaN,no,geriatric,INDOOR, ball ,,-999,recycledPaper,online,obesity,£19102,,19784,15094,£9108,NA,557,4781,3038,"13,657"
+25/04/2023,Ragdoll,calico,medium,solid, odd-Eyed , up-to-date ,-999,JUNIOR,,Feather Wand,friendly,wet,silica,NaN,missing,£3094,5041,18037,£4722,£13544,12478,8730,"14,690",16063,17177
+18/01/2024,NaN,brown, LONG ,Spotted,blue,NA,yes,prime,outdoor, catnip_mouse ,friendly,Wet,non-Clumping,Online,dental,-999,,964,2102,10145,"16,191",14378,-999,18589,391
+15/11/2024,maine coon,grey, long ,TABBY,copper,unknown,NO,Senior,OUTDOOR,laserPointer,SHY,raw,,ONLINE,None,"14,330",£14796,-999,4864,1332,18746,2058,"12,765","15,046",13087
+2022-10-27,bengal,missing,HAIRLESS,BI-COLOUR,odd-Eyed,notRequired,NO,kitten,indoor,ball,aggressive,raw,,STRAY,ALLERGY,NA,10869,1091,£6303,£5098,19735,12243,17607,18109,17480
+26/04/2021,-999,Grey,Long,tabby,gold,Unknown,no,prime,both,laserPointer,LAZY,dry,NaN,FRIEND,Obesity,10555,4669,10464,5983,missing,15003,,"16,122",15311,10312
+2021-01-21,Sphynx,black,NA,tabby,gold,overdue,Yes,Senior,BOTH,STRING,shy,Mixed, non-clumping , breeder ,arthritis,6011,64,£1383,13625,6312,£282,-999," 2,901",9319," 5,103"
+08/06/2023,SIAMESE,Brown,missing, tabby ,GREEN, notRequired ,NO,kitten, both ,String,FRIENDLY,raw,,friend,none,NA,"17,543",4690,1357,"14,867",2363," 7,531",8207,NA,9359
+28/07/2023,ragdoll,white,short,solid,gold,NaN,no, kitten ,NA,string,Aggressive,raw,recycled_paper,shelter,-999,£14623,16181,"19,428",12364,£5953,missing,14441,NaN," 4,080",7023
+02/03/2023,BENGAL,cream,MEDIUM,Spotted,Blue,up-To-Date,No,KITTEN,both,catnip mouse,friendly,RAW,Recycled Paper,friend,dental,17631,£14621,14248,12815,"18,570",-999,NaN,892,   935,3658
+2021-10-06,Tabby,brown,hairless,solid,blue,NOT REQUIRED,Yes,senior, Indoor ,String,shy,WET,non-clumping,Shelter,ALLERGY,"18,352",10792,4870,3617,£15265,NA,10852,£7707,"19,742",NaN
+,siamese,white,LONG,TABBY,blue,Unknown,yes,Mature,outdoor,laserPointer,playful,Raw,Clumping,SHELTER,obesity,1057,9139,£12415,16655,NaN,£1271,NA," 6,752",£15145,7279
+09/10/2024,bengal, Orange ,medium,POINTED,Blue, overdue , YES ,mature, indoor ,string, playful ,,NA,friend,-999," 5,895",5789,4153,missing,6290," 7,800"," 2,393",£19503,,11145
+29/11/2021,RAGDOLL,tortoiseshell,Long,missing,copper,missing,YES,mature,Outdoor,FEATHER WAND,friendly, dry ,recycled_paper,STRAY,none,13380,12162,19053,1769," 8,865",13053,£6004,£7996,9569,18715
+2024-08-20,maine_coon,WHITE,SHORT, bi-Colour ,BLUE,up-To-Date,no,Geriatric, Indoor ,Laser Pointer,aggressive,dry,non-clumping,Friend,obesity,missing,10768,"17,162",7833,£15845,13646,13265,"14,394",16246,19646
+2024-10-09,BRITISH SHORTHAIR,Tortoiseshell,Medium,pointed,blue,up-To-Date,YES,mature,indoor,feather_wand,aggressive,mixed,recycledPaper,shelter,NaN,,,14274,£8853,78,£8623,7454,-999,786,12216
+2023-04-16,SPHYNX,brown,long,Spotted,blue,notRequired,no,geriatric,INDOOR,string,NA,dry,Clumping,online,Allergy,£16544,5263,£9977,42,5391,NA,£18057,£17312,£12661,2041
+,TABBY,calico,MEDIUM,pointed,GOLD,Overdue, yes ,NA,Indoor,LASER POINTER,playful,dry,NaN,online,allergy,9934,,"14,374",4235,8749,3429,£19561,11075," 3,326",3390
+2023-05-28,persian,NaN,,Pointed,COPPER,NA,YES,SENIOR,INDOOR,Laser Pointer,SHY,mixed,recycledPaper,friend,,£12234,£11441,6949,"11,414",£3490,19861,"16,664",NaN,"19,712",£6872
+2021-04-21,bengal,CREAM,LONG,bi-Colour,copper,missing,no,NaN,indoor,laser pointer,friendly,wet,silica,,dental,665,11108,8099,5952,19067,4236,"18,766",   314,17341,1350
+18/04/2021,Bengal,WHITE,hairless,bi-colour,NaN,Unknown,YES,-999,both,catnip mouse,shy,mixed,silica,Friend,allergy,"13,558",£2911,16922,10150,15504,8086,1242,10892,£16085,12515
+2024-04-12,,TORTOISESHELL,Long,pointed,ODD-EYED,unknown,Yes,prime,indoor,ball,Friendly,wet,SILICA,online,arthritis,£2601,1550,£5851,19300,1359,8520,18264,NaN,14341,2267
+,ragdoll,white, short ,Solid,blue,up-To-Date,-999,NA,both,ball,Aggressive,raw,missing,online,None,"17,880",NaN,9160,19983,15620,£11061,1873,9235,2291,3408
+08/02/2022,sphynx,grey,MEDIUM,pointed,copper,up-To-Date,no,junior,INDOOR,string,playful,-999,recycled paper,online,missing,13400,"17,640",12781,"11,048",£14633,5538,7845,11154,NaN,6689
+2024-08-07,maine_coon,CALICO, MEDIUM ,solid,Gold,not_required,Yes,junior,both,CATNIP MOUSE,Playful,wet, non-clumping ,Shelter,Obesity,NaN,2529,9310,"16,722",1833,4108,8768,13209,,"17,672"
+10/11/2024,maine coon,cream,NA,TABBY,green,overdue,no,Geriatric,both,Ball,friendly,WET,Non-Clumping,shelter,obesity,£8215,,17729,15112,NA,12026,3044,5639,£6830,"17,267"
+2021-05-17,siamese,Orange,,spotted,gold,up-To-Date,no,Junior,outdoor,-999, Aggressive ,dry,NaN,stray,obesity,   415,missing,£2201,3538,10262,12088,12047,13819,1912,12090
+"Sep 17, 2024",Siamese,ORANGE,Medium,,Green,Overdue,NO,SENIOR,,FEATHER WAND,Aggressive,raw,non-clumping,friend,Dental,5431,15711,NA,"12,283"," 5,164",-999,£13325,19945,9669,   172
+13/06/2022,SPHYNX,black,hairless,bi-colour,-999,up-to-date,no,geriatric,missing,String,playful, dry ,Clumping, stray ,obesity,£18309," 9,445",9868,11579,£12649,16333,£8539,6295,£19296,8200
+2021-07-17,NA,NaN,Short,POINTED,Odd-Eyed,notRequired,no,mature,outdoor,-999,FRIENDLY,mixed,missing,Stray,None,15156,13249,19426,14881,3377," 1,385",16738,10414,£7302,"16,485"
+2021-01-23,,white,LONG,pointed,copper,unknown,Yes,kitten,INDOOR,CATNIP MOUSE,aggressive,-999,silica,BREEDER,obesity,NA,2052,10448,18695,-999,"19,975",£4651,NaN,14678,£12891
+04/04/2021,british_shorthair,orange,short,spotted,gold,UNKNOWN,no,senior, indoor ,feather_wand,Lazy,raw, Recycled Paper ,Friend, Allergy ,16115,£13971,8384,NA,19083,4521,9185,9027,-999,4176
+NA,Siamese,orange, medium ,Tabby,missing,Not Required,yes,geriatric,NA,STRING,aggressive,mixed,recycledPaper,NA,allergy,10776,NaN,16805,2949,12309,£8467,5821,£5901,-999,£2783
+2023-06-27,siamese,calico,HAIRLESS,pointed,copper,overdue,no,-999,NA,catnip_mouse,lazy,Wet,Non-Clumping,Stray,missing,8677,NA,143,6553,£7774,9272," 6,089",10998,6141,1621
+2023-10-30,tabby,Brown,Short,solid,missing,up-To-Date,yes,senior,NaN,missing,Aggressive,wet, silica , Breeder ,allergy,£8804,3279,NaN,4121,18210,6920,NA," 5,286",9765,£2114
+2022-01-23,british_shorthair, cream ,missing,SPOTTED,NA,up-To-Date,no,SENIOR,indoor,string,shy,dry,RECYCLED PAPER,online,allergy,1618,4012,16544,14468,13045,£19644,14365,£8034,6591,4759
+2024-06-04,persian,BROWN,hairless,tabby,Copper, unknown ,,Senior,both,Feather Wand,Lazy,mixed,silica,-999,dental,missing,2988,NaN,7150,14282," 1,261",£10019,£1228,7451,£1763
+25/03/2024,Bengal,white,-999,tabby,NA,Up-To-Date,yes,mature,indoor,feather wand,PLAYFUL,dry,recycledPaper,ONLINE,obesity,15484,1669,1737," 7,890",£6119,"13,451",2126,5136,,NaN
+17/10/2021,NaN,calico,long,pointed,odd-eyed,overdue,NO,Geriatric,NaN,catnip_mouse, aggressive ,wet,SILICA,SHELTER,NONE," 9,179",3183,5637,8170,183,11970,4021,NA,18341,7955
+07/07/2022,missing,Orange,Medium,Pointed,Blue,unknown,Yes,geriatric,both,feather wand,lazy,DRY,-999,ONLINE,Obesity,£16891,4356,£18874,£1697,8710,NA,£10314,   535,382,NA
+2023-12-27,Siamese,white, Medium ,Pointed,Gold,unknown,No,SENIOR,indoor,String,playful,mixed,SILICA,STRAY,NONE,16803,"14,353",13631,£1681,402,£5759,missing,£4711,15835,7190
+22/12/2022,tabby,TORTOISESHELL,medium,solid,Gold,NOT REQUIRED, no ,senior,Both,feather wand,Playful,mixed,silica,online,arthritis,16353,NA,NA,-999,19852,£11082,7348,13710,-999,£8992
+22/03/2023,RAGDOLL,white,medium,spotted,blue,overdue,No,Kitten,both,LASER POINTER, PLAYFUL ,MIXED,RECYCLED PAPER,FRIEND,allergy,2566,12736," 3,142",11949,17684,£17200,15774,NaN,NaN,1140
+2021-09-21,britishShorthair,-999,short,POINTED,blue,Unknown,Yes,GERIATRIC,both,feather wand,Playful,MIXED,missing,shelter,allergy,£8098,"15,911",,"13,706","10,529",13841,17216,16102,10171,3095
+17/06/2024,persian,tortoiseshell,Medium, pointed ,gold,notRequired, YES ,JUNIOR,indoor,NA,playful,dry,Clumping,shelter,ARTHRITIS,3955,NA,14360,2609,-999,6414,NaN,483," 6,896",12179
+,RAGDOLL,BROWN,Hairless,spotted,copper,up-To-Date,yes,kitten,both,FEATHER WAND,aggressive,missing,CLUMPING,SHELTER,NONE,18629,12758,3210,NA,127,"11,751",642,277,5018,£6913
+2022-10-14,maine_coon,-999,medium,Tabby,ODD-EYED,up-to-date,YES,KITTEN,INDOOR, feather_wand ,AGGRESSIVE,missing,non-clumping, friend ,obesity,9718,missing,8109,13709,-999," 1,493",4059,16517,3011,NaN
+28/12/2021,maine_coon,brown,-999,NaN,blue,unknown,yes,Senior,indoor,featherWand,Playful,dry,Recycled Paper,Online,arthritis,2237,3603,9950,13774,"13,437",17790,3981,12124,2580,620
+22/11/2024,NaN,NA,missing,solid,missing,unknown,-999,,NA,Catnip Mouse,Lazy,dry,non-clumping, online ,dental,9464,£15941," 9,756",1141,"14,876",19539,1448,1262," 4,811",11302
+26/04/2023,ragdoll,cream,Short,-999,BLUE,up-To-Date,no,SENIOR,outdoor,feather wand,Shy,Wet,clumping,stray,None,NA,NaN,4084,19586,2006,£13560,17791,NaN,,13482
+18/10/2022,persian,missing,LONG,tabby,Green,-999,No,mature,Both,catnip_mouse,aggressive,mixed,Non-Clumping,Stray,NA,13962,"17,559",,"14,100",-999,"10,860",7304," 2,583",14009,"19,886"
+2023-11-29,maineCoon,tortoiseshell,hairless,pointed,Gold,overdue,yes,Prime,BOTH,featherWand,Shy,mixed,recycled paper,stray,allergy,"11,424",NA," 6,010",NA,£19041,15747,NaN,£5510,13563,9205
+2023-04-25,MAINE COON,white,long,Tabby, Blue ,unknown,no,senior,outdoor,string,shy,wet,silica,FRIEND,arthritis,14046,NA,"11,611",£18097,£17486,2118,£6316,"12,895",17140,    96
+04/11/2021,Tabby,Tortoiseshell,MEDIUM,missing,Gold,overdue,no,PRIME,indoor,LASER POINTER,Shy,-999,Clumping,Friend,arthritis," 7,305",NA,"19,691",£12751,£5596,£10443,£4075,4332,14575,5979
+06/11/2021,siamese,GREY,medium,bi-Colour,GREEN,overdue,NO,-999,indoor,featherWand,shy,wet,SILICA,SHELTER,NA,NaN,1973,12027,"13,491","11,078",7198,£7912,16699,5418,8392
+14/02/2022,persian,cream,HAIRLESS,,COPPER,unknown,No,Junior,INDOOR,NaN,playful,NaN,recycled paper,breeder, arthritis ,NaN,17311,6274," 8,734",NA,15725,£16811,,8794,£4377
+2022-11-28,SPHYNX,grey,Short,bi-colour,Green,up-to-date,yes,prime,outdoor,NaN,shy,WET,recycled paper,friend,none,£13105,521,NaN,"17,837",14146,16361," 1,567",£13680,missing,£7749
+2024-12-30,britishShorthair,black,medium,spotted,missing,unknown,-999,mature,OUTDOOR,FEATHER WAND,shy,-999,non-clumping,friend,arthritis,6507,2894," 1,871",£9069," 4,368"," 2,970",5139,"10,793",£14029,7430
+"Mar 01, 2023",sphynx,white,long,pointed,odd-eyed,Unknown, yes ,Prime, outdoor ,CATNIP MOUSE,aggressive,Mixed,silica,online,-999,£3673," 1,721",15186,NaN,7130,"10,605",1777,£18737,"18,303",3776
+13/05/2021,BENGAL,calico, hairless ,pointed,gold,overdue,Yes,Mature,Indoor,laserPointer,playful,mixed,Silica,FRIEND,allergy,8647,18989,11832,8875,10734,£9661,14401,£4260,8434,NaN
+"Aug 05, 2023",maine_coon,TORTOISESHELL,NA,-999,blue,Not Required, yes ,PRIME,outdoor,laser_pointer,Playful,Wet,Recycled Paper, breeder ,ALLERGY,-999,£11330,missing,9532,£17025,£1284,," 9,344",NaN,19745
+2021-06-14,Persian, brown ,Medium,spotted,NA,unknown,Yes,missing, INDOOR ,ball, LAZY ,raw, clumping ,BREEDER,arthritis,17844,9914,missing,missing,"10,375",-999,£18095,-999,7476,£17321
+2021-05-16,sphynx,grey,Short,POINTED,odd-eyed,NOT REQUIRED,yes,kitten,outdoor,string,aggressive,Wet,non-clumping,breeder,allergy,16868,NA,5984,6795,10210,11520,missing,15897,,17035
+"Apr 17, 2022", Siamese ,tortoiseshell,NA,Spotted,COPPER,overdue,no,Junior,indoor,feather_wand,shy,-999,recycledPaper,shelter,Obesity,239,£14354,2491,-999,3574," 5,936",£12542,9239,6825,12673
+14/01/2023, siamese ,cream,long,solid,GREEN,overdue,NaN,kitten, outdoor ,catnipMouse,playful, wet ,RECYCLED PAPER,STRAY,allergy," 2,779",3853,4984,16742,14147,-999,"10,342",2909," 9,615",1318
+2021-06-29,Bengal,missing,MEDIUM,spotted,gold,,NO,GERIATRIC,OUTDOOR,missing,playful,wet,silica,stray,missing,17082,missing,"11,185",12869,£3550,11863,-999,4746,,312
+2022-02-22,bengal,-999, Short ,spotted,green,Up-To-Date,No,Senior,indoor, string ,PLAYFUL,raw,Recycled Paper,missing,NONE,,14314,3667,"16,853"," 7,178",9414,19834,2072,6161,£6472
+2024-06-16, bengal ,TORTOISESHELL,Long,tabby,gold,OVERDUE,,,indoor,Ball,lazy,NaN,Silica,STRAY,arthritis,NaN,19882,£1314,£11420," 1,798",2293,3526,11965,11639,10253
+2023-01-25,missing,black,Hairless,tabby,COPPER,not_required,yes,senior, both ,LASER POINTER,playful,NaN,non-Clumping,ONLINE, dental ,NA,10138,10055,10206,8293,£12746,798,11360,2116," 4,790"
+2021-08-16,maine_coon,tortoiseshell,medium,pointed,copper,not required,YES,JUNIOR,outdoor,string,FRIENDLY,dry,recycled_paper,,ARTHRITIS,,981,1995,missing,£6570,missing,1794,15781,"19,142","11,384"
+2024-03-18,siamese,WHITE,Medium,POINTED,odd-eyed,OVERDUE, no ,KITTEN,-999,catnipMouse,lazy,dry,Silica,stray,none,NA,3284,-999,1271,8377,19431,NA,NaN,NA,13619
+13/09/2024,PERSIAN,cream,medium, solid ,Gold,not_required,YES,senior, Both ,laser_pointer,Aggressive,dry,CLUMPING,Shelter,ALLERGY,11087,19943,8203,£5109,£11278,missing,569,12422,19511,NA
+15/04/2023,BRITISH SHORTHAIR,brown,Hairless,solid,Odd-Eyed,up-to-date, No ,GERIATRIC,indoor,string,NaN,DRY,RECYCLED PAPER,online,arthritis," 8,587","18,513",£18807,18085,£10689,£1077,"15,285",,7963,4932
+18/08/2023,bengal,Calico, long ,spotted,Odd-Eyed,missing,YES,senior,INDOOR,catnip_mouse,shy,mixed,RECYCLED PAPER,NaN,none,16086,missing,missing,£201,£16825,-999,"18,170",472,"14,236",7602
+02/09/2021,NA,tortoiseshell,Medium,solid, blue ,Unknown,NO,junior,outdoor,string,lazy,DRY,clumping, shelter ,Arthritis,915,4863,7077,8967,£12917," 8,111",8967,£9413,£13716,13570
+2022-12-16,maineCoon,black,short,bi-colour,Blue,notRequired,,,OUTDOOR,laser_pointer,playful, WET ,CLUMPING,stray,missing,3932,4934,12376,19492,"13,982",7325,17311,12297,16072,9299
+missing,persian,Orange,hairless,tabby, GOLD ,up-To-Date,yes,mature,both, Catnip Mouse ,friendly,, Recycled Paper ,Online, none ,12594,4409,5210,NaN,8563," 3,282",632,missing,14051,£15397
+2024-03-06,NaN,tortoiseshell,missing,bi-Colour,Blue,unknown,yes,junior,OUTDOOR,FEATHER WAND,lazy,NaN,NA,stray,Allergy,,15337,4509,17117,5796,£2110,16526,582,£14860,£10125
+12/08/2024,BRITISH SHORTHAIR,ORANGE,MEDIUM,solid,blue,overdue,Yes,geriatric, both ,string, Aggressive ,raw,non-clumping,,ALLERGY,3636,15784,"10,836",£941,£4547,7574," 1,468"," 9,875",missing,18394
+2022-01-29,bengal,Orange, HAIRLESS ,spotted,Gold,Overdue,no, Kitten ,Outdoor,string,Aggressive, Mixed ,recycled_paper,shelter,Obesity,13353,3606,13056,£9886,17398,3459,10639,"19,580",15527,4967
+03/06/2022,bengal,brown,short,Tabby,Copper,OVERDUE,no,JUNIOR,indoor,catnipMouse,lazy,MIXED,NON-CLUMPING,online,none,missing,£12690,"16,131"," 9,231",£2816,17342,£15279,16962,£8929,£4992
+"Oct 21, 2024",britishShorthair, WHITE ,medium,BI-COLOUR,-999,overdue,no,prime,both,ball,shy,dry,recycled paper,ONLINE,-999,1341,3896,£5683,£7369,missing,18336," 9,918",£17251,"13,203",8795
+02/12/2023,bengal,NaN,MEDIUM,NaN,Gold,unknown,no,JUNIOR,both,laser_pointer,LAZY,Dry,clumping,stray,NaN,£1021,8543,missing,"19,472",£17579,2467,8695,6754,2023,18562
+11/03/2024,,white,Short,solid,Blue,Not Required,NO,geriatric,both,laserPointer,lazy,raw,Recycled Paper,breeder,DENTAL,8063," 3,118",12779,£13814,7305," 5,500"," 5,879",18948,missing,6365
+03/11/2024,sphynx, calico , hairless ,SOLID,gold,Up-To-Date,Yes,geriatric,,string,aggressive,Wet,non-clumping,online,dental,£7439,1091,2948,2848,19881,12809,4663,16037,11485,£3333
+05/10/2021,siamese, Orange , long ,pointed,green,overdue,NaN,Kitten,INDOOR,Feather Wand,PLAYFUL,dry, non-clumping ,stray,NONE,8592," 3,105",5807,2251,NaN,4514,14004,9771,6600,3692
+2023-02-17, Bengal ,cream,short,bi-Colour,gold,UP-TO-DATE,yes,mature,Outdoor,CATNIP MOUSE,lazy,Dry,clumping,stray,arthritis," 4,361",7229,13608,4614,10141,NaN,£3407,3079,missing,15079
+2023-07-03,Tabby,tortoiseshell,short,Pointed,GOLD,overdue, No ,junior,INDOOR,Feather Wand, Playful ,dry,Non-Clumping,breeder,missing,12073,NA,15907,11800,    59,4588,13028,8759," 8,509",15279
+2024-07-19,SIAMESE,brown,NaN,solid,gold, Up-To-Date ,yes,mature,BOTH,ball,Friendly,wet,non-clumping,friend,Arthritis,9461,10887,"10,871"," 2,739",604,-999,NA,1500,5257,missing
+2022-03-09,SPHYNX,grey,NaN,SOLID,gold,Up-To-Date,no,KITTEN,outdoor,Laser Pointer,LAZY,RAW,Non-Clumping,shelter,dental,12831,16566,9069,4567,NA,15655,£9085,13279,141,5114
+17/04/2021,Sphynx,orange,Hairless,pointed, copper ,missing,yes,Kitten,indoor,string,aggressive,dry,NA,STRAY,allergy,17825,NA,NA,15300,"12,870"," 9,541",10773,1158,7942,4253
+18/08/2021,tabby,Orange,Short,spotted,COPPER,NOT REQUIRED,missing,JUNIOR,both,ball,Friendly,NA,clumping, shelter ,ALLERGY,1552,£6300,missing,18665,16432,11726,4898,13824,2711,1265
+2024-04-09,British Shorthair,calico,medium, Spotted ,copper,OVERDUE,yes,geriatric,both,Laser Pointer,playful,raw,SILICA,online,Allergy,7854,7656,4252," 5,364",-999,4469," 9,549",6621,8166,4460
+12/03/2022,maineCoon,calico,Medium,BI-COLOUR,green,NA,no,senior,NaN,String,playful,raw,NaN,stray,arthritis,9387,11333,NaN," 3,516",14709,-999,£4005,13005,5108,18894
+2023-04-21,ragdoll,CREAM,Short,tabby,COPPER,UP-TO-DATE,NA,prime,Both, LASER POINTER ,friendly,dry,SILICA,breeder,obesity,14538,16902,15060,£3819,4972,1893,16331,"17,280",£16410,18495
+,maineCoon,Cream, Hairless ,spotted,copper,Not Required,YES,geriatric,Indoor,string,playful,Dry,NON-CLUMPING,,obesity,5698,12989,14422,£18844,£1943,"15,146","10,874",17987,12373,3714
+2023-12-17,BRITISH SHORTHAIR,BLACK,hairless,NaN,ODD-EYED,Up-To-Date,NO,geriatric,Both,ball,playful,NaN,RECYCLED PAPER,friend,Obesity,NaN,19462,4441,£16204,17108,6103,£6988,£10322,£11635,14284
+2023-01-14,sphynx,NA,long,tabby,gold, not required , No ,kitten,Indoor,catnipMouse,AGGRESSIVE,NaN, clumping ,-999,arthritis,14678,£8671,5173,8498,missing,1487,£10609,17332,8398,-999
+2021-04-26,SIAMESE,Cream,short,tabby,green,Overdue,yes,mature,INDOOR,ball,aggressive,NaN,silica,shelter,ALLERGY," 5,515",14889,-999,14823," 8,042",£9746,9873,16047,3299,15794
+"Dec 10, 2024",persian, calico ,short,pointed,Copper,up-To-Date,NO,,OUTDOOR,ball,shy,Dry,-999,shelter,NA,766,£10080,"16,107",10041,19773," 9,704",NaN,17614,NaN,2986
+01/01/2024,PERSIAN,-999,medium,solid,odd-Eyed,up-to-date,no,KITTEN,both,feather wand,lazy,Mixed,missing,NaN,obesity,"18,440",18805,4958,12399,3090,9323," 6,858",,9297,10443
+-999,british_shorthair,ORANGE,Hairless,NaN,missing,Up-To-Date,no,mature,OUTDOOR,catnip_mouse,NaN,mixed, non-clumping ,friend,Obesity,NaN,16608,10613,£5592,8331,2051,NaN,NaN," 6,368",6389
+19/05/2022,SPHYNX,orange,hairless,spotted,blue,NOT REQUIRED,YES,kitten,outdoor,ball,Friendly,mixed, recycled_paper ,Online,dental,18767,13551," 6,216","10,569",19578,£13734,£11700,£4605,£2673,9606
+NA,tabby,cream,missing,NaN, gold ,Up-To-Date,NO,geriatric,indoor,catnip mouse,AGGRESSIVE,dry,clumping,Breeder,NaN,12672,£5905,£13624,13353,10352,12352,8527,NA,3423,"16,589"
+,Siamese,black,medium, SOLID ,missing,Overdue,no,geriatric,INDOOR,Catnip Mouse,AGGRESSIVE,WET,,friend,obesity,4918,NA,16413,8873,2515,£14733,6367," 7,319",£4502,NaN
+"Feb 18, 2023",maine coon,orange,medium,POINTED,gold,missing,No,Mature,OUTDOOR,Feather Wand, LAZY ,dry,Recycled Paper,NaN,None," 2,861",10275," 3,113",10025,10290,11962,6127,£1527,10137,£13452
+2022-06-22, bengal ,orange,medium,SOLID,BLUE,overdue, NO ,Mature,both,featherWand,NaN, wet ,non-Clumping,breeder,arthritis,2768,-999,"14,969",missing,"10,123",16697,11264,8657,NA,NaN
+2022-06-21,bengal,white,Hairless,Solid,copper,UNKNOWN,No,mature,indoor,laser pointer,,wet,CLUMPING,online,NONE,"12,025",NA,£1794,1013,4054,17413,£5585,"16,767",-999,"16,624"
+26/11/2023,british shorthair,cream,short,TABBY,green,Unknown,no,kitten,outdoor,string,shy,mixed,non-clumping,ONLINE,none,£17867,-999,18972,17825,2817,£887,4907,£4527,6827,8862
+NA,SIAMESE,brown,MEDIUM,BI-COLOUR,gold,notRequired,NO,missing,indoor, feather_wand ,Lazy,mixed,recycledPaper,friend,," 2,132",18919,NA,"19,152",12119,6136,9985,15730,NA,17176
+17/01/2021,ragdoll,BLACK, short , solid ,blue,Overdue,no,SENIOR, INDOOR ,STRING,playful,WET,NA,online,arthritis,15141,4968,15939,NA,3613,4227,   478,17047,"17,638"," 6,449"
+2021-06-10,Siamese,calico,long,NaN,copper,not required, yes ,prime,OUTDOOR,FEATHER WAND,missing,dry,NaN,FRIEND,,15652," 2,701",19630,13189,12150,19523,6174,16396,-999,£949
+"Sep 01, 2024",missing,white,hairless, Pointed ,green,NOT REQUIRED,no,mature,both, catnipMouse ,playful,Wet,CLUMPING,Stray,None,NaN,18501,£19999,"10,893",£8283,679,18404,8061,1924,£4827
+2023-09-07,sphynx,brown,hairless,Solid,copper, UP-TO-DATE ,no,prime,outdoor,string,Lazy,Wet,non-clumping,NaN,allergy,5737,NA,4213,£1200,"11,482",NaN,12688,£17278,13067,£16523
+2021-01-01,siamese,grey,SHORT,solid,GREEN,notRequired,No,mature,Outdoor,laserPointer,aggressive,Dry, clumping ,STRAY,ALLERGY,12411,11485,missing,3453,missing," 5,372",9379,£7519,   475,NA
+"Oct 30, 2021",SIAMESE,ORANGE,long,SOLID,,UP-TO-DATE,no,Junior,outdoor,missing, lazy ,raw,Recycled Paper,ONLINE,ARTHRITIS," 6,390",17323,£19119,14387,"13,154",NaN,£4272,12370,£13393,£5774
+2023-10-22,persian,orange,hairless,POINTED,copper,Unknown,no,Kitten,indoor,String,friendly,dry,non-clumping,-999,Arthritis,"17,814",£5642,"17,854",£9561,£5555,£8301,7917,-999,NaN,9996
+23/10/2021,tabby,orange,SHORT,bi-colour,gold,UNKNOWN,yes,kitten,outdoor,Ball,aggressive,dry,non-clumping,SHELTER,NA,£1843,13184,3321,    11,4025,1382,£773,15278,£2577,1754
+2022-05-23,SPHYNX,ORANGE,medium,Bi-Colour,copper,overdue,no,prime,BOTH,string,friendly,wet,CLUMPING,stray,obesity,"15,396",180,15726,missing,missing,NaN,,NaN,6308,16015
+2023-01-02,maineCoon,tortoiseshell,long,TABBY,missing,up-To-Date,Yes,mature,both,NA,playful,raw,non-clumping,BREEDER,missing,19372,3642," 1,762",NaN,9328,11217,5245,16054,17180,8187
+28/11/2022,britishShorthair,Orange,long,SPOTTED,odd-Eyed,UNKNOWN,NA,Geriatric,Indoor,string,aggressive,mixed,non-clumping,NA,NONE,1908,12879,£1785,£19058,7674,8987," 2,634",2233,7173,£2016
+23/03/2024,sphynx,ORANGE,NaN,solid,NaN,up-to-date, NO ,prime,NaN,Laser Pointer,NA,-999,non-clumping,stray,allergy,,5246,NaN,£12217,6638,7100,6217,13045,7457,19777
+2022-05-22, british_shorthair ,calico,short,tabby,Blue,unknown, NO ,mature,missing, String ,shy,mixed,recycled paper,breeder,Arthritis,7201,3894,1730,15564,NA,£15860,11763,4383,18126,12951
+09/08/2021,tabby,Tortoiseshell,Hairless,solid,odd-eyed,-999,NO,junior,indoor,Laser Pointer, Playful ,DRY,non-clumping, shelter ,dental,11110,3373,4505,"13,969",£16300," 1,394","15,749","18,541",£17732,NaN
+"Aug 27, 2024",tabby,grey,long,SOLID,copper,not_required,yes,kitten,indoor,,shy,mixed,clumping,BREEDER,NaN,68,"11,081",5972,missing,missing,"19,012",12674,3235,-999,6398
+,Ragdoll,Calico,NA, TABBY ,green,,no,kitten,both,feather wand,AGGRESSIVE,raw, non-Clumping ,friend,allergy,14429,2034,£15075,13470,7025,NaN,£12554,-999,11209,"10,550"
+12/12/2021,Bengal,tortoiseshell,long,pointed, blue ,Up-To-Date,yes,senior,Indoor,LASER POINTER,shy,raw,Recycled Paper,shelter,allergy,"19,368",missing,-999,-999,2285,4363,"13,556",5686,£18402,2555
+2024-07-20,sphynx,calico,NA, SOLID ,gold,unknown,NO,prime,missing,Catnip Mouse,PLAYFUL,Wet,RECYCLED PAPER,shelter,Arthritis,15752,15023,10645,8181,NA,15928,"19,826","14,594","12,493","12,608"
+2022-06-28,SIAMESE,black,short,solid,COPPER,NaN,no,JUNIOR, INDOOR ,laser pointer, AGGRESSIVE ,raw,recycled paper,FRIEND,obesity,£5326,£8800,,-999,"10,633",£2096,,10558,18846,£18267
+26/06/2023,sphynx,orange,HAIRLESS,BI-COLOUR,green,unknown,yes,geriatric, outdoor ,string,Aggressive,DRY,recycledPaper, STRAY ,allergy,195,NaN,648,"15,178",NA,-999,16930,£15503,2664," 3,612"
+05/07/2024,siamese,missing,short,SPOTTED,copper,NA,-999,kitten,outdoor,BALL,PLAYFUL,WET,Silica,online,dental,18707,£16463,9017,5655,£629,17658,14683,5682,14076,NaN
+NaN,bengal,missing,medium,solid,copper,UP-TO-DATE,NaN,SENIOR,both,ball,LAZY,mixed,Clumping,Breeder,None,6220,18738,"17,048",-999,17540,11001,4442,£9358,14884,938
+-999,BENGAL,black,,Tabby,Copper,up-to-date,no,geriatric,both,CATNIP MOUSE,friendly,NA,SILICA, Online ,None,14203,£2846,8436,9050,3383,,16549,5360,13190,-999
+2022-01-20,RAGDOLL,BROWN,long,pointed,BLUE,overdue,missing,junior,outdoor, catnip mouse ,aggressive,missing,RECYCLED PAPER,friend,-999,16930,7236,7125,NaN,7980,   682,missing,3090,18487,6795
+13/06/2022,bengal,orange,hairless,spotted,blue,notRequired,no,prime, INDOOR ,string,lazy,raw,-999,friend,dental,2953,£13977,£13313,missing,10232,£7934,NA,4137,10187,18547
+25/04/2024,Persian,grey,Long,solid, green ,up-to-date,No,SENIOR,outdoor,featherWand,friendly,dry,clumping,shelter,none,2701,8049,6402," 6,126",8793,14320,-999,4374,"12,311",12555
+30/10/2024,ragdoll,cream,short,solid,copper, unknown ,, Prime ,indoor,ball,friendly,dry,NON-CLUMPING,Breeder,obesity,£2697,15444,5741,13104,,7435,17998," 3,777","10,372",10250
+NA,sphynx,Grey, MEDIUM ,bi-colour,Blue,up-To-Date,yes,kitten,INDOOR,String, Aggressive ,mixed,SILICA,FRIEND,ALLERGY,,£17227,9324,£12041,9630,6655,13229,£14493,11321,£8153
+"Mar 06, 2021",TABBY,black,long, tabby ,BLUE,UNKNOWN,YES,missing,outdoor,LASER POINTER,-999,missing,recycled_paper,NaN,obesity," 2,651",15071,8207,19196,6564,10947,£8916," 8,876",4313,£18784
+18/12/2021,Siamese,brown,,pointed,gold,up-To-Date,No,mature,both,catnipMouse,aggressive,wet,recycled_paper,Breeder,ARTHRITIS,2857,£771,"13,448",16099,7279,13425,16219," 3,557",18773,10078
+24/11/2023,siamese,White,hairless,SOLID,odd-eyed,overdue,NO,junior,indoor,feather_wand,NaN, Mixed , recycledPaper ,friend,none,"17,656",9034,,-999," 3,094",16535,16703,£18653,£17394,11873
+2024-08-11,sphynx,grey, Long , pointed ,,,Yes,kitten,outdoor,STRING,shy,wet,CLUMPING,breeder,NA,NA,9726,16607,8901," 1,289","14,416",14919,10067,10909,9592
+18/11/2021,tabby,BLACK,hairless,Tabby,odd-Eyed,up-to-date,no,geriatric,indoor, string ,,mixed,NA,shelter, arthritis ,"10,608",,£4547,6816,,£6659,10918," 4,405",13696,9266
+05/09/2023,Maine Coon,white,SHORT,Bi-Colour,copper,Unknown,no, senior ,indoor,string,friendly,dry,clumping,breeder,allergy,£8548,19199,-999,," 5,177",843,16903,£16955,10511,2342
+17/03/2024,ragdoll,orange,Hairless,BI-COLOUR,,Not Required,no,missing,OUTDOOR,,lazy,mixed,silica, BREEDER ,Dental,18400,NaN,4753,£18514,£6097,£8799,,8678,£13524,£9712
+NA,Siamese,black,MEDIUM,Bi-Colour,gold,unknown,YES, kitten ,indoor,,Shy,Wet, silica ,stray,Allergy,17132,£16115,missing,13108," 6,694",18480,15443,-999,"19,238",-999
+2021-03-22,missing,white,Short,Tabby,Blue,Unknown,No,senior,indoor,featherWand,friendly,mixed,,STRAY,Obesity,12580,missing,7431,missing,13003," 7,897",15405,£7913," 5,285",1166
+09/09/2021,Persian,brown,,SPOTTED,odd-eyed,Overdue,yes,kitten,INDOOR,feather_wand,friendly,Dry,recycledPaper,online,Arthritis,£7546,13545,missing," 5,162",3650,1769,7406,4674,NaN,19584
+31/10/2023,tabby,Black,long,Solid,green,NOT REQUIRED,YES,geriatric,indoor,ball,AGGRESSIVE,wet,Silica,stray,allergy,19071,£19660,£6113,"12,871",14622,11440,13167,3535,£13156,8493
+05/06/2021,NA,CALICO,medium,Solid,copper,NOT REQUIRED,,geriatric,Both,string,friendly,mixed,recycledPaper,Breeder,obesity,£19368,£4210,2689,"17,861",3802,1024,10659,£5225,"11,516",£19462
+-999,ragdoll,orange,hairless,BI-COLOUR,odd-Eyed,not_required,YES,missing,INDOOR,string,shy,wet,clumping,-999,none,£10847,," 3,393",9879,£17347,"18,475",-999,£979,16618,£16452
+2021-08-18,sphynx,Orange,LONG,pointed,GREEN,overdue,NO,SENIOR,both,ball, Shy ,NaN,recycled paper,,NONE,NA,"18,444",8575,13161,10441,13023,£13718,£18918,11831,missing
+2024-11-04,bengal,CREAM,Short,bi-colour,ODD-EYED,NOT REQUIRED,yes,junior,Outdoor,laser_pointer,NaN,dry, clumping ,NaN, obesity ,"12,324",£17338,11042,16237,14521,467,15735,£2074,5265,£13191
+2022-03-02,, BLACK ,medium,pointed,blue,-999,no,kitten,outdoor,Laser Pointer,lazy,missing,SILICA,Stray,none,12761,8864,£19897,"17,844","19,287",,4665,235,16972,NA
+"Dec 07, 2024",PERSIAN,,SHORT,Bi-Colour,blue,up-to-date,NO,PRIME,indoor,catnipMouse,lazy,mixed, Recycled Paper ,online,arthritis,£8899,14662,18251,missing,11059,£13141,"11,232",12367,4691,444
+30/09/2023,-999,WHITE, Long ,tabby,Gold,Not Required,,Prime,indoor,feather_wand,playful,dry,missing,,NA,8008,12338,NA," 1,170",,1248,,£9350,missing,NaN
+26/10/2024,SIAMESE,White,long,tabby, BLUE ,Overdue,no,Kitten,outdoor,Catnip Mouse,Lazy,raw,silica,missing, DENTAL ,6527,12553,9778," 8,070",-999,NaN,£11613,£2641,8812,£10529
+2021-02-04,NaN,Grey,long,bi-colour,blue,UP-TO-DATE,no, kitten , indoor ,laser_pointer,shy,WET,non-clumping,shelter,obesity,9130," 7,484",15442,£15597,12022,2114,2493,19188,-999,£5414
+"Jun 19, 2023",tabby,NA,Hairless,bi-colour,copper, Up-To-Date ,YES,kitten,,Laser Pointer,FRIENDLY,wet,recycledPaper,stray,Dental,12763,,4574,£14915,-999,£7651,£15030,5259,8665,£11203
+"Jun 01, 2022",british shorthair, grey ,NA,POINTED,blue,Overdue,NO,Kitten,outdoor,LASER POINTER,friendly,dry,NaN, Breeder ,obesity,5024,9476,19498,11792,5635,£14380," 2,829",7695,12392,£11402
+"Oct 07, 2024",NaN,Cream, hairless ,tabby,GOLD,not_required,no,missing,outdoor,ball,friendly,dry,clumping,Friend,obesity,4281,5787,19664,missing,"12,598",£12665,£272,7069,6665,£14450
+09/02/2022,british_shorthair,brown,medium,tabby,gold,up-to-date, no ,senior,NaN,LASER POINTER,LAZY,mixed, recycled paper ,online,OBESITY,9280,£7660,12289,15720,2013,2596,15671,13419,6736,12982
+13/01/2022,NA,white,MEDIUM,spotted,odd-Eyed,overdue,no,senior,BOTH,catnipMouse,PLAYFUL,-999,silica,FRIEND,obesity,5314,£12033,3353,16534,73,5945,7910,-999,6170,14131
+08/02/2023,missing,orange, Medium ,NA,green,UNKNOWN,no,junior,both,STRING,Aggressive,WET,silica,FRIEND,allergy," 2,741",5274,16077,19478,19222,£3621,19288,7029,1747,£19851
+2022-07-13,british shorthair,GREY,short,missing,missing,unknown,no,SENIOR,NaN,string,PLAYFUL,-999,CLUMPING,Friend,allergy," 8,269",3861,14255,15786,£6746," 8,744",2357,1938,NA,17389
+25/01/2021,persian,grey,long,spotted,gold, unknown ,yes,Kitten,Indoor, catnip_mouse ,SHY,mixed,recycled_paper,online,NaN,£11794,16157,1452,8976,"12,612",13752,18756,1720,10950,6078
+26/12/2021,persian,cream,hairless,POINTED,blue,UP-TO-DATE,NO,PRIME,outdoor,feather_wand,playful,Dry, SILICA ,stray,obesity," 9,273",£9197,19293,NA,13214," 4,036",17388,13089,9426,£6571
+2021-12-08,maineCoon,tortoiseshell,Hairless,bi-colour,Gold,overdue,no,PRIME,-999,CATNIP MOUSE,Friendly,Raw,silica, STRAY ,dental,missing,£9305,4202,£13680,3649,13212,12379,,£3124,14727
+2021-05-08,ragdoll,calico,short,tabby,Copper,unknown,NA,Kitten,indoor,-999,friendly,raw,recycled_paper,online,,-999,11252,12054,6527," 7,247",£7229,"15,850",2894,£14529,£18169
+20/10/2021,Persian,brown,long,NaN,Copper,unknown,YES,junior,indoor,ball,SHY,dry,recycled_paper,shelter,arthritis,16596,12769,£9222,"10,627",16997," 8,825",5633,12180,11058,£4923
+08/07/2021,Siamese,Cream, Long ,missing,,up-to-date,no,senior,BOTH,CATNIP MOUSE,playful,raw,Recycled Paper,BREEDER,DENTAL,"19,900",14831,17269,8104,£14469,10882,1128,14718,NA,2033
+missing,Sphynx,cream,Short,solid,,not required,yes,senior,NaN,catnipMouse,playful,WET,Recycled Paper,shelter,Arthritis,18655,10885,18029,18966,,540,8126,NA,missing,£2248
+2022-08-16,ragdoll,NaN,medium,bi-Colour,BLUE,notRequired,no,kitten,Outdoor,Feather Wand,aggressive,MIXED,SILICA,BREEDER,arthritis,£18896,4552,4120,"12,354",£9542,£8576,£13734,5254,12823,15258
+18/03/2023,britishShorthair,orange,medium, spotted ,NA,notRequired,no, senior ,,featherWand,shy, RAW ,clumping,STRAY,arthritis,19692,18581,NaN,12462,10795,4803,£19331,NA,£119,7471
+26/03/2022,NaN,,hairless,NaN,BLUE,Unknown,yes,kitten,Indoor,catnip_mouse,AGGRESSIVE,NaN,NON-CLUMPING,stray,obesity,2407,16343,£14074,£756,537,13793,14328," 1,200",18462," 1,402"
+"Mar 24, 2021",maineCoon,brown,MEDIUM,missing,Copper,overdue,yes,NA,outdoor,,lazy,Mixed,silica,Breeder,Arthritis,£19078,17181,18322,19924,14448,7565,14761,£7344,4192,missing
+27/12/2023,maine coon,NaN, hairless ,BI-COLOUR,Odd-Eyed,up-to-date,no,GERIATRIC,outdoor,Feather Wand,NA,wet,Clumping,breeder,obesity,£14442,"18,565",4702,9567,NaN," 3,518","13,377",NA,18862,NA
+2022-08-12,NaN,cream,NA,pointed,copper,NOT REQUIRED,yes,NA,both,ball,lazy,dry,NA,shelter,arthritis,14557,10983,16335,2340,19267,18742,17149," 6,589",£2990,2683
+NA,BRITISH SHORTHAIR,cream, Short ,-999,GOLD,unknown,Yes,geriatric,Both,string,Lazy,Mixed, silica ,SHELTER,allergy,15902,5370,£18273,"10,311",11559,425,16422,16743,£1094,£6880
+-999,sphynx,black,hairless,solid,-999, not_required ,no,senior,OUTDOOR,String,Lazy,wet,Non-Clumping,Stray,allergy,5423,£11540,7172,3005,NA," 1,441",12906,-999,NA,11557
+,tabby,NA,HAIRLESS,Solid,odd-eyed,UP-TO-DATE,Yes,GERIATRIC,OUTDOOR, string ,Lazy,mixed,recycled_paper,online,Obesity,6292,missing,£7190,11589,9116,5659,"16,759",£14857,,3699
+"Mar 27, 2021",siamese,Tortoiseshell,Long,SPOTTED,green,unknown,no,senior,outdoor,catnip_mouse,Aggressive,mixed,NaN,online,-999,12441,8094,714,£10073,missing,-999,5365,12758,3004,15350
+10/01/2022,BRITISH SHORTHAIR,black,long,bi-Colour,blue,notRequired,no,kitten,-999,ball,Lazy,mixed,non-clumping,friend,Allergy,"19,039",6653,2975,missing,19431,NA,16299,£15727,2260,8225
+"Nov 09, 2022",Maine Coon,white,medium,Tabby,Blue,Not Required,yes,JUNIOR, Both ,NA,SHY,raw,recycledPaper,breeder, arthritis ,11481,14409,£15602,NaN,12037,£19634,£3207,13887,7149,£16825
+12/08/2023,MAINE COON,White,medium,-999,green,up-to-date,yes,senior,both,Feather Wand,AGGRESSIVE,DRY,RECYCLED PAPER,NaN,Obesity,3406,9458,1693,12581,5582,17532,missing,4649,10507,14567
+20/12/2023,tabby,tortoiseshell,medium,pointed,blue,not required,Yes,prime,indoor,STRING,NaN,Raw,clumping,ONLINE,obesity,12149,4460,5345,NaN,6590,5640,13534," 4,183",£17819,"14,899"
+2022-09-02,ragdoll, CALICO ,SHORT,missing,NA, UP-TO-DATE ,Yes, SENIOR ,outdoor,,Shy,wet,silica,shelter,arthritis,6529,6211,10709,missing,£15528,12355,593,£310,11446,£6079
+13/02/2022,NA,CALICO,short,Spotted,GREEN,unknown,NA,KITTEN,OUTDOOR,ball,shy,NaN,clumping,breeder,None," 2,785",£3684,"10,786",£18115,19841,14907,£11514,10906,10105,£8249
+11/10/2023,maine coon,calico,short,SOLID,ODD-EYED,OVERDUE,no,senior,both,string,lazy,wet,SILICA,BREEDER,arthritis,£11650,12898,"18,899",NA,232,"13,054",4454,£2009,missing,
+2024-06-06,Sphynx,Calico,LONG,bi-Colour,COPPER,Overdue,yes,kitten,INDOOR,ball,aggressive,Mixed,clumping,online,dental," 5,347",NaN,12810,9222," 3,453",6803,NaN,"14,464","16,067",10523
+17/01/2022,Bengal,orange,LONG,spotted,blue,UP-TO-DATE,No,Mature,indoor,ball,Friendly,dry,silica,-999,dental,NaN,6502,missing,£18971,£12245,£14314,15606,5561,18271,
+07/03/2022,persian,Orange,HAIRLESS,spotted,blue,NaN, no ,senior,INDOOR,feather wand,aggressive,mixed,recycled_paper,online,Arthritis,£15680,£2668,13698,12328,4073,15888,14547,8055,11329,"16,385"
+2023-10-22,NA,white,medium,missing, gold ,Unknown,NO,-999, indoor ,catnip_mouse,lazy,Dry,clumping, shelter ,dental,£3391,-999,£7925,2092,"17,267",14416,4637,NA," 4,407",£12423
+2022-09-08,Persian, ORANGE ,hairless,TABBY,odd-Eyed,Not Required, no ,MATURE,INDOOR,Laser Pointer,Shy,Raw,recycled paper,breeder,dental,£14449,13309,NaN,,19070,7361,858,2866,12798,15601
+15/07/2021,british_shorthair,white,medium,bi-Colour,odd-Eyed, overdue , NO ,MATURE,indoor,missing,Aggressive,dry,NON-CLUMPING,missing, Obesity ,904,19409,£18365,£18514,"19,949",17202,1373,£6004,9050,"18,302"
+05/04/2021,ragdoll,black,MEDIUM,spotted,green,missing,YES,GERIATRIC,INDOOR,missing,Playful,RAW,NON-CLUMPING,Shelter,obesity,6975,18384,4201,£11766,1119,NA,6943,£9114,12560,NaN
+20/05/2023,sphynx,Grey,medium,Tabby,Green,unknown,yes,SENIOR,outdoor,laser pointer,playful,raw,NON-CLUMPING,-999,allergy,608,12838,NaN,missing,£4519,NA,3290,NaN,missing,4431
+15/11/2022,Bengal,missing,hairless,BI-COLOUR,gold,not required,yes,prime,,ball,SHY,RAW,clumping,missing,NONE,   826,4282,NaN,missing,£949,1841," 6,949",3938,9327,"17,510"
+"Aug 23, 2021", sphynx ,CALICO,Hairless, SOLID ,odd-eyed,up-to-date,no,Geriatric,indoor,CATNIP MOUSE,friendly,RAW, recycledPaper ,FRIEND,allergy,12952,£15142,missing,17885,£15126,18927,2687,missing,£14204,£14470
+09/08/2023,,grey,hairless,SPOTTED,copper,UP-TO-DATE,yes,Senior,Indoor,catnip_mouse,lazy,mixed,silica,online,NONE,245,7253,14676,NaN,£6362,3540,12757,6378,£17336,3105
+26/02/2021, Ragdoll ,calico,short,TABBY,Blue,notRequired,yes,Prime,outdoor,feather wand,aggressive,Raw, recycledPaper ,SHELTER,-999," 7,216",5641,£19740," 9,795",4836,"16,087",£277," 9,812",15083,£7498
+20/03/2024,PERSIAN,brown,Long,POINTED,GREEN,UNKNOWN,,kitten,outdoor,string,-999,mixed,recycledPaper,ONLINE,arthritis,£17864,"13,054",19221,2403,5637,7504,NaN,,NA,5952
+28/12/2024,BRITISH SHORTHAIR,BROWN,short,BI-COLOUR,odd-eyed,Unknown,no,GERIATRIC, outdoor ,ball,Lazy,raw,,FRIEND,arthritis,1479,£8119,5064,4329,14626,£6919,5146,NA," 3,071",£12132
+17/01/2022,bengal,white,long,-999,green,,missing,kitten,INDOOR,string, lazy , wet ,silica,stray, dental ,8438,2424,13923,54,3958,17542,6863,NA,774,-999
+2021-06-06,SIAMESE,white,medium,-999,NA,up-to-date,no,MATURE,indoor,Feather Wand, Shy ,wet,recycled_paper,-999,DENTAL,3887,14872,£6898,£2649,NA,3763," 7,520",17400,10785,4527
+2021-06-27,SPHYNX,brown,short,spotted,green,unknown,NO,Senior,Outdoor,catnipMouse,playful,wet, CLUMPING ,stray,NONE," 4,289",13441,1952,NaN,£4637,3747,,9680,-999,"19,239"
+NA,tabby,CALICO,long,NaN,gold,overdue,yes,,indoor,ball,lazy,DRY,RECYCLED PAPER,shelter,NONE,14648,-999," 5,082",18726,-999,14573,13848,£19635,"19,504"," 4,952"
+06/11/2021,RAGDOLL,NaN,LONG,missing,Blue,unknown,YES, SENIOR ,Indoor,,shy, dry ,NON-CLUMPING,SHELTER,obesity,£15142,12651,15378,2406," 6,085",11075,13038,15648,"18,226",15004
+2022-11-02,tabby,Brown,hairless,POINTED,GREEN,up-To-Date,NO,GERIATRIC, outdoor ,Catnip Mouse,FRIENDLY,dry,NON-CLUMPING,stray,ARTHRITIS,£19789,4005,15536,16494,"19,671",8883,651,£11198,1659,£19284
+03/05/2021,SPHYNX,tortoiseshell,LONG,pointed, GOLD ,up-to-date,no,GERIATRIC,-999,laserPointer,FRIENDLY,dry,non-Clumping,,Obesity,£6343,12110,17168,4765,6556,7392,8201,15295,17567,NA
+2024-09-30,maine coon, calico ,Hairless,spotted,odd-Eyed, notRequired ,yes,,outdoor,LASER POINTER,shy,WET, clumping ,STRAY,arthritis,13402,£6612,,3841,1076,"15,583",£9086,£17594,2461,18422
+"May 12, 2023",sphynx,BLACK,medium,bi-colour,blue,overdue,NaN,mature,OUTDOOR,Ball, PLAYFUL ,raw,clumping,friend,None,missing,,£8833,19279,12412,   894,-999,14731,"16,497",9908
+2022-01-06, Persian ,CALICO,missing,pointed,Gold,Unknown,Yes,missing,Indoor,Feather Wand,FRIENDLY,wet,missing,shelter,obesity,"14,491",NaN,14803,10211,16668,1916," 4,912",£588,14192,£13716
+missing,NaN,orange,NA,NA,GOLD,NOT REQUIRED,yes,GERIATRIC,indoor,catnip mouse,aggressive,raw,recycledPaper,online, dental ,,10346,1423,£16830,£12469,8464,missing,16510,19745,£17641
+2022-02-22,-999,grey,,NaN,gold,-999,no,junior,INDOOR,Laser Pointer,NaN,raw,silica,stray,allergy,NaN,712,£7643,£17671,"16,299",3389,19110,9845,15415,14746
+"Jun 23, 2021",bengal,BLACK,short,missing,NA, unknown ,-999,mature,outdoor,,Aggressive,raw,recycled paper,shelter,NaN,3711,"10,518",18182,7030,19011,7130,8050,18600," 5,058","14,145"
+2023-09-21,siamese,grey,Short,pointed,ODD-EYED,overdue, no ,MATURE,both,laserPointer,AGGRESSIVE,raw,non-clumping,shelter,arthritis,5155,4342,17807,13774,NaN,£17105,£17732,£18790,2388,8607
+2024-09-30,RAGDOLL,calico,long,spotted,NA,UP-TO-DATE,No,senior, INDOOR ,missing,aggressive,RAW,,Online,ARTHRITIS,£18970,£10706,NaN,13426,3117,12655,£16534,£6258,£6596,2241
+missing, RAGDOLL ,black,LONG,SOLID,NA,Not Required,yes,junior,BOTH,BALL,PLAYFUL,dry,silica, Shelter ,NA,-999,£15202,£8649,"10,437",5892,7644,3379,£10371,£16802,10729
+01/03/2023,TABBY,Orange,NA, Solid ,,up-to-date,no,junior,Indoor,NaN,friendly,dry,SILICA,Online,ARTHRITIS,£11237,£321,£3987,3547,-999,   998,6638,12299,"19,805","18,715"
+2021-07-05,British Shorthair,WHITE,medium,SOLID,NaN,UNKNOWN,Yes,PRIME,missing,laser pointer,playful,wet, clumping ,STRAY,obesity,19769,6259,17622,12833,13309,12079,1511,3202,13804,925
+2024-06-06,ragdoll,black,MEDIUM,solid, Green ,overdue,Yes,junior,NA,feather_wand,playful,NA, Recycled Paper ,STRAY,Allergy,NaN," 2,147",£10640,"10,367",£3235,£18385,14200,£15147,16095,17960
+2024-07-29,Persian,calico,medium,TABBY,GOLD,overdue,yes, KITTEN ,Both,ball,Playful,dry,non-clumping,Stray,arthritis," 3,920",3275,19357,"18,954",8270,16544,18794,11860,15075,604
+2023-11-14,missing,orange,long,tabby,gold, not required ,Yes,KITTEN,Outdoor,laser pointer,shy, WET ,clumping,stray,DENTAL,"13,132",3814,6526,8359,NaN,19681,13931,9075,10770,missing
+2024-07-30,sphynx,grey,long,bi-colour,NA,unknown,yes,junior,NaN,catnipMouse,friendly,RAW,Recycled Paper,,allergy,17009,"12,930",3657,-999,"12,701",3818," 7,917",9335,£19762,4695
+28/02/2021,persian,Brown,MEDIUM,BI-COLOUR,blue,unknown, yes ,prime,Both,Catnip Mouse,FRIENDLY,dry,CLUMPING,breeder,obesity,3681,3569,2700,NA,7462,"17,007",£14020,14848,NaN,-999
+09/10/2023,RAGDOLL,Grey,MEDIUM,solid,gold,overdue,yes,junior,both,CATNIP MOUSE, playful ,raw,clumping,shelter,NONE,£854,17902,£4863,£3172,13656,7358,11579,6615,£3463,£3399
+29/12/2022,MAINE COON,BROWN,hairless,POINTED,ODD-EYED,up-to-date,YES,junior,NaN,catnipMouse,shy,NaN,silica,Friend,obesity,£4642,631,£11106,19533,13169,-999,14034,13532,6354,11141
+2024-04-09,NaN,Grey,Medium,POINTED,NaN,not required,YES,kitten,indoor,-999,SHY,Raw,SILICA,Stray,arthritis,£18425," 9,567",£14753,missing,3635,16395,"10,388","10,446",18934,-999
+, Maine Coon ,BROWN,short,solid,odd-Eyed,unknown,NO,prime,indoor,BALL,aggressive,-999,recycled_paper,Online,arthritis,2892," 4,164",2952,missing," 7,463",10547,2068," 2,177"," 9,084",7131
+11/08/2021,tabby,white,medium,solid,gold,up-to-date, YES ,mature,BOTH,catnip_mouse, shy ,dry,recycledPaper,breeder,allergy,15565,,NA," 6,844",£2538,£12454,£1887,12975,18085,13104
+2024-05-29,British Shorthair, grey ,Long,spotted,copper,unknown,YES,prime,Both,NA, friendly ,raw,Recycled Paper,missing,dental,NaN,£16595,18778,missing,"17,512",£14321,6450,NaN,£6832,£12439
+"Jan 16, 2022",tabby,tortoiseshell,,spotted,blue,,no,senior,indoor,CATNIP MOUSE,shy,Wet,Silica,SHELTER,obesity,17704,17013,"14,797",-999,15062," 4,320",676,£1582,13444,5987
+07/04/2021,british_shorthair,brown,MEDIUM,spotted, green , notRequired ,yes,geriatric,BOTH,,AGGRESSIVE,raw,NaN,Breeder, dental ,-999,16692,5942,12500,£17204," 5,630",6033,1059,17458,
+2021-02-01, ragdoll ,Grey,HAIRLESS,SOLID,gold,up-To-Date,YES,Kitten,Indoor,catnip mouse,lazy,MIXED,Non-Clumping,Friend,Arthritis,"16,021",17491,16472,missing,£5876,12797,5852,"10,120","15,866",11384
+2023-03-22,persian,grey,short,bi-colour, copper ,up-To-Date, No ,kitten,both,-999,Shy,-999,missing,FRIEND,none,£12571,10446,"17,572",," 6,384",12697,12233,5418,missing,7489
+23/05/2022,,Orange,long,POINTED,gold,UP-TO-DATE,NO,geriatric,INDOOR,ball,lazy,Mixed,silica,online,arthritis,10625,16993,£14365,9969,£3231,17564,10129,14967,£18437,14491
+2023-09-16,tabby,orange,hairless,Pointed,Gold,NOT REQUIRED,Yes,KITTEN, both ,, SHY ,wet,silica,Stray,obesity," 1,962",17655,£10616,3800,936,£7568,£14479,missing,£43,6165
+07/07/2024,BRITISH SHORTHAIR,tortoiseshell,LONG,SPOTTED,gold,NA,,senior, indoor ,laser pointer,aggressive,mixed,clumping,shelter,obesity,14109,5049,3331,2414,11370,10253,1958,-999,   744,£7012
+10/08/2024,Ragdoll,-999,short,NA,Copper,not_required,yes,junior,Indoor,-999,NA,,silica,stray,Allergy,£16247,6152,11987,11596,13083,"12,278","14,700",2934,£8489,missing
+01/10/2023,persian,orange,Long,SPOTTED,COPPER,OVERDUE,yes,JUNIOR,indoor,string,Shy, Raw ,clumping,Stray,Obesity,17877,18953,NA,"14,018",missing,17071,£13177,8939,9492,12476
+"Nov 16, 2022",PERSIAN,missing,Hairless,Bi-Colour,odd-eyed,NaN,YES,junior,indoor,Ball,Friendly,MIXED,Silica,Stray,Obesity,"11,510",16638,12284,£9558,NA,6425,NA,£16293,2963," 5,931"
+24/11/2022,Siamese,grey,HAIRLESS,Tabby,Green,-999,no,SENIOR,indoor,feather wand,-999,dry,recycled paper,breeder, obesity ,,9506,13118,£4583,15531,"19,057",missing,3504,17513,13029
+27/01/2021,BRITISH SHORTHAIR,Brown,LONG,spotted,green,unknown,no,mature,INDOOR,ball,Aggressive,RAW, RECYCLED PAPER ,BREEDER,arthritis,"10,221",9784,NaN,8349,5998,,5851,£4878,7529,NaN
+"Jul 30, 2023",siamese,black, long ,bi-Colour,Odd-Eyed, unknown ,yes,GERIATRIC,INDOOR,catnipMouse,Friendly,MIXED,SILICA,stray,dental,14648,-999,14664,"14,777"," 9,211",6522," 4,587",19012,17912,missing
+2021-10-29,ragdoll,BLACK,long,tabby, GOLD ,Up-To-Date,No,kitten,both, String ,-999,wet,NaN,breeder, ALLERGY ,3653,"13,106",5710,"13,733",9901,missing,8211,missing,,£10803
+22/03/2022,Maine Coon,WHITE,missing,NaN,odd-Eyed,overdue,no,prime,NaN,catnipMouse,shy, WET ,recycled paper,shelter,dental,"18,981",8287,"16,526","15,520"," 1,385",£9188,19445,19934,10176,9003
+28/12/2022,,Black,Medium,TABBY,Gold,Unknown,YES,Prime,indoor,Laser Pointer,shy,,Silica, friend ,OBESITY,8632,18934,£13469,19951," 8,714",11245,12112,12424,13382,16613
+08/02/2021,MAINE COON,orange,SHORT,solid,blue,Unknown,YES,senior,indoor,STRING,AGGRESSIVE,missing,clumping,Online,none,£18710,5428," 1,098",-999,16062,2832,,19216,£5666,missing
+06/11/2024,britishShorthair,TORTOISESHELL,Short,tabby,missing,OVERDUE,missing,Prime,-999,Feather Wand, aggressive ,Wet,non-clumping,online,allergy,NA,£8414,15238," 2,948",6890,11340,£16499,NaN,7234,10039
+2022-09-25,bengal,cream,,solid,odd-eyed, Unknown ,yes,MATURE, Outdoor ,FEATHER WAND,playful,NaN,NA, online , Allergy ,missing,£1190," 7,831",10615,10804,1211,4940,13682,6713,16057
+2021-04-16, persian , black ,long,solid,odd-Eyed,OVERDUE,no,junior, both , FEATHER WAND ,playful,DRY,RECYCLED PAPER,Online,obesity,£18551,£11633,11463,£3950,," 1,748",-999,£11927,3210,7887
+2023-09-24,BENGAL, orange ,LONG, tabby ,NaN,up-To-Date,yes,kitten,both,feather wand,lazy, RAW ,clumping,,obesity,9044,16448,3434,-999,16373," 7,025",£13676,"12,715",697,£2970
+2023-03-23,TABBY,black,long,pointed,GOLD,UNKNOWN,yes,mature,indoor,ball,friendly,Raw,missing,shelter,NA,18819," 7,608",£6067,8759,NA,"15,603",10623,"12,545",£1462,268
+"Jan 29, 2023",tabby,Cream,Medium,pointed,odd-Eyed, Up-To-Date ,YES,KITTEN,indoor,laser_pointer,NA,missing,silica,online,allergy,9458,17812,,9061,NaN,8317,missing,17803,£8722,
+2024-07-19, persian ,grey,hairless,missing,odd-eyed,not required,,junior,both,-999,friendly,DRY,silica,BREEDER, arthritis ,"16,759",5606,11097,"15,365",,£1833,15106,12579,"15,611","10,038"
+2023-04-27,SIAMESE,CALICO,missing,TABBY,gold, Overdue ,no,PRIME,outdoor,,friendly,MIXED,Silica,SHELTER,arthritis,15091,7504,13122,12754,-999,15256,12109,6976,NA,3226
+2021-11-17,RAGDOLL,,medium,Tabby,copper,Up-To-Date,Yes,KITTEN,missing,Laser Pointer,friendly,MIXED,Silica,online,allergy,4129,2064,£4625,17541,£9085," 8,089",3319,17029,13130,18137
+30/12/2021,siamese,white,medium,,gold,NaN,NO,prime, indoor ,feather_wand,Friendly,wet,non-clumping,stray,none,£16553,4263,£5867,NaN,NaN,,17638,3755,5941,19339
+2022-07-04,tabby,Orange,Medium,,odd-Eyed,unknown,yes,kitten,BOTH,ball,NaN,dry,clumping,STRAY,allergy,"10,619",£9859,17808,NaN,£11063,15075,631,17697,£4523,15217
+2024-09-03,British Shorthair,orange,short,, green ,up-to-date,Yes,SENIOR,OUTDOOR,catnipMouse,Shy,missing,clumping,ONLINE,arthritis,"18,456"," 7,753","13,530",NaN,16294,14996,2435,NA,3348,16837
+2021-07-15,British Shorthair,Brown,Hairless,spotted,BLUE,-999,no,Mature,both,catnipMouse,FRIENDLY,raw, Recycled Paper ,Online,allergy,£4855,1351,£19686,9394,14311,18031,"18,778"," 3,300",   333,15361
+"Mar 27, 2021",sphynx,, short ,Bi-Colour,copper,overdue,yes,junior,NaN,Feather Wand,PLAYFUL,DRY,recycledPaper,online,NONE,13847,17911,-999,833,16277,"17,728",9091,19129,12205,19707
+14/04/2022,siamese,Orange,hairless,Bi-Colour,odd-eyed,overdue,missing,mature,indoor,LASER POINTER,NA,raw,non-Clumping,Breeder,dental,413,1246,5937,"14,515",£559,18863,8168,19652,£14687,"10,291"
+31/08/2024,siamese,white,-999,tabby,odd-eyed,unknown,no,Prime,Indoor,NA,NaN, wet ,silica,breeder,obesity,13524,14684,3861,NaN,1674,"18,871",5787,13603,missing,15632
+2021-09-07,sphynx,cream,hairless, spotted ,BLUE,Overdue,yes, kitten , OUTDOOR ,laser_pointer,SHY,WET,-999, breeder ,,19713,"13,474",9151," 6,943",9776,10163,NaN,208,"11,918",2595
+08/05/2021,NaN,tortoiseshell,hairless, TABBY ,GOLD,not required,no,NaN,both,NaN,shy,dry,recycled paper,NA,none,920,7182,8546,7795,1058,   935,9952,12587,12686,4429
+21/08/2024,-999,Calico,long,pointed,Copper,,No,prime,indoor,Ball,friendly,MIXED,silica,ONLINE,ARTHRITIS,10250,missing,19663,8258,7031,9999,19471,11305,-999,14522
+2022-08-22,SPHYNX, Tortoiseshell ,short,BI-COLOUR,Gold,unknown,no,Geriatric,BOTH,ball, shy ,MIXED,recycled paper,breeder,ALLERGY,14284,missing," 3,234",15785,16576,15725,12406,10890,£91,19072
+2024-05-28,PERSIAN,Calico,medium,NA, blue ,Up-To-Date,NO,kitten,both,Ball,Friendly,Wet,silica,-999,dental,4068,2380,12387," 8,710",14909,12220,16144,17908,9660,13880
+"Dec 09, 2023",tabby, TORTOISESHELL ,long,NaN,Gold,UP-TO-DATE,yes,NaN, both ,feather_wand,LAZY,Raw,non-Clumping,breeder,NONE,6331,£12962,12475," 1,461",9351,"10,906",11801,12781,8241,missing
+19/06/2022,siamese,NaN,long,spotted,GREEN,overdue,yes,prime,indoor,string,playful,Mixed,recycledPaper,friend,Obesity,"12,992",9162,17735,£14217,NaN,£7335,15747,15885,"17,701"," 9,157"
+2021-08-29,missing,brown,Medium,spotted,blue,-999,no,kitten,Both,Catnip Mouse,Lazy,WET,Silica,stray,arthritis,£16018,13693,14087,£10111,£18763,£2348,£6053,16100,£10821,9411
+05/02/2023,ragdoll,GREY,long,solid,blue,unknown,yes,PRIME,-999, ball ,friendly,RAW,recycled paper,ONLINE,DENTAL,18224,NA,11978,18990,626,£6094,11650,,£4242,12745
+05/10/2024,persian,cream,hairless,Bi-Colour,Green,unknown,No,NaN,both,STRING,aggressive,dry,silica,shelter,obesity,"14,456",7886,11925,"17,535",£1977,-999,18207,9892,1044,18969
+,siamese,calico,medium,bi-Colour,gold,overdue,yes,SENIOR,both,LASER POINTER,aggressive,wet, Clumping ,online,ARTHRITIS,18726,£8895,1716,9125,14658," 3,999",£15325,£13743,18667,£16622
+12/08/2023,British Shorthair,,long,spotted,Gold,unknown,no,senior,both,-999,Friendly,Wet,recycledPaper,Friend,arthritis,-999,16482,missing,£7155,,13827,19731,£8863,14635,£8647
+08/03/2021,BENGAL,Calico,short,Pointed,Green,up-To-Date,No,-999,BOTH, catnip mouse ,lazy,Raw, recycled_paper ,SHELTER,allergy,"15,404",,923,7732,12889,15220,NaN,£14387,10621,

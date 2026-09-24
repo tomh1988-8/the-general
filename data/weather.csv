@@ -1,0 +1,1001 @@
+ date ,Condition,region/,season,TEMPERATURE UNIT,forecast_provider,alertLevel/, time_of_day ,Cloud Cover, wind_direction /,uvIndexCategory,precip_type,humidity category, visibility band ,stormName/, day/Night , Temperature °C ?,temperature °f,humidity_%,wind speed kph,rainfallMm, Pressure Hpa ,visibility_km, DEWPOINT °C ,feelslike_°c,snowfall_cm
+2024-02-26,rainy,missing,winter,KELVIN,BBC,NA,morning,partly cloudy,se,low,Rain,comfortable,MODERATE,Corrie,day,15906,15073,   220,missing,1583,missing,missing,£7929,"10,999",£10740
+03/11/2023,stormy,MIDLANDS,NaN, fahrenheit ,weather.com,-999,night,overcast,NaN,Extreme,missing,dry,,Eunice,NIGHT,1586,1908,£5380,18147,17910,£3025,1265,8963,missing,19003
+NaN,sunny,inland,Summer,celsius,ACCUWEATHER,None,afternoon,overcast,Se,moderate,snow,comfortable,MODERATE, franklin ,night,5193,7473,17705,,"11,040",16907," 9,570",,"15,917",7710
+22/05/2023,Sunny,Inland,Spring,fahrenheit,missing,AMBER,-999,OVERCAST,sw,Moderate, rain , Oppressive ,POOR,eunice,Night,-999,9543,15409,£7469,18910,16186,6420,£7184,15418,12987
+24/03/2022,windy,north,Autumn,Celsius,NA,NONE, evening ,mostlyCloudy,missing, Low ,,oppressive,Poor,eunice,NA,7411," 6,882",19451,£455,17939,10872,£3790,£1900,17046,14185
+22/12/2021,SLEET,WEST,Autumn,Kelvin,MET OFFICE,yellow,morning,OVERCAST,n,Extreme,rain,comfortable,poor,BARRA,Night,NA,£12800,£19514,4636,18232," 3,562",£10157,"13,537",5970,NA
+19/08/2023,Sleet,South, Summer ,celsius,noaa,red,afternoon,Mostly Cloudy,w, high ,sleet,comfortable,Good,dudley,Day,11353,£19480,5687," 3,111",£10561,16741,16445,NaN,missing,11415
+2023-02-20,sleet,coastal,autumn,kelvin,NaN,red,night,partly cloudy,ne,missing,sleet,DRY,POOR,-999,-999,£8816,8417,13186,4307,10465,£13074,1424,£3290,NaN,£17721
+07/06/2022,Sleet,west,WINTER,kelvin,noaa,Amber,afternoon,mostly_cloudy,s,LOW,Sleet,comfortable,poor,arwen,Night,18707,17472,NA,NA,10433,18936,7476,15637,13454,NaN
+"Mar 19, 2022",sleet,south,Autumn,FAHRENHEIT,accuweather,amber,afternoon,clear,n,HIGH, none ,comfortable, poor ,Eunice,Night,£11669,2711,5736,£18036,-999,14002,NA,NA,£5299,11744
+2022-09-18,snowy,south,autumn,celsius,NOAA,none,afternoon,Mostly Cloudy,S, Low ,snow,Humid,good,NaN,night,4222,5198,10471,19896,16610,19349,10848,9021," 7,106",11105
+2023-05-10,FOGGY,coastal,WINTER,celsius,met_office,none,afternoon,overcast,S,,snow,dry,excellent,-999,night,missing,-999,£17391,7278,9027,-999,,7727,missing,"17,515"
+2024-11-05,sunny,NaN,autumn,celsius,ACCUWEATHER,red,morning,Overcast,SE,High,rain,oppressive,MODERATE,arwen,NIGHT,NaN,3695,15222,£13534,17556,£14108,£18138,£18213,£2912,5258
+09/01/2021,Cloudy,MIDLANDS,Spring,fahrenheit,Noaa,RED,night,NA,e,extreme,rain,humid,GOOD,arwen, night ,"15,354",13102,13467,NA," 4,610",£3079,£2805,7806,14070,9554
+2021-03-29,RAINY,north,spring,kelvin,Met Office,Yellow,afternoon,mostlyCloudy,-999,low,none,Oppressive,missing,FRANKLIN,day," 6,709",547,13753,,missing,£12569,8210,"11,482",6118,3626
+,SUNNY,midlands,autumn,Kelvin,bbc,NONE,morning,missing,w,low,snow,comfortable,moderate,ARWEN,-999,£6001," 3,314",17714,5792,16812,£17155,17910,10787,14143,missing
+01/06/2023,sleet,East,spring, celsius , bbc ,,evening,Partly Cloudy,e,HIGH,snow,COMFORTABLE,good,arwen,DAY,14997,18304,£13220,-999,19316,NA,"12,000",£9224,1359,990
+NA,RAINY,coastal,Autumn,Celsius,bbc,yellow,missing,NaN,SE,missing,HAIL,-999,moderate,arwen,Night,7482,6288,7648,6420,9878," 5,378"," 6,257",-999,£11504,18848
+27/11/2023,Sunny,coastal,AUTUMN,fahrenheit,missing,Amber,afternoon,NA,w, low ,snow,Comfortable,POOR,Corrie,day,£789," 4,780",£13868,"15,097",10202,490,£18389," 7,855",missing,10143
+2023-12-06,stormy,east,winter,kelvin,accuweather,red,afternoon,missing,missing,extreme,hail,oppressive,good,NaN, NIGHT ,14919,9666,7960,17886,18045,3896,13189,654,2009,
+14/04/2022,sunny,West, Winter ,NaN,weather.com,yellow,night,CLEAR,SE,veryHigh,sleet,humid,missing,barra,day,-999,£16319,NA,missing,£8937,£9736,8187,£11229,missing,12823
+23/09/2022,windy,MIDLANDS,winter,FAHRENHEIT,BBC,none,Afternoon,partly_cloudy,e,moderate,sleet,DRY,MODERATE,,Night,4227,-999,NaN,NaN,£18918,£4618,7059,8557,12417,12600
+14/12/2023,Stormy, South ,winter,Celsius,Noaa,RED,Afternoon,OVERCAST,S,moderate, sleet ,humid,-999,corrie,NA,9842,8655,£2063,16814,543,£16880,£9917,"11,831",£7121,13671
+2024-10-24,sleet,north,Summer,Kelvin,weather.com,yellow,afternoon,OVERCAST,Se,moderate,,dry,EXCELLENT,arwen,-999,1764,£5068,-999,15649,9603,£6365,£11501,,69,£12600
+12/09/2021,NA,coastal,SPRING,fahrenheit,missing,AMBER,missing,,E,NA,rain,dry,moderate,Arwen,day,£6778,NaN,missing,9346,missing,10534,missing,10539,NA," 2,150"
+15/04/2024,NaN,coastal,WINTER,kelvin,Weather.com,none,afternoon,overcast,ne,missing,,DRY,veryPoor,missing,day,"10,684",11528,18463,7721,9158,15490,18579,18757,"15,896",NaN
+16/12/2024,sleet,NORTH,NaN,celsius,MET OFFICE,YELLOW,MORNING,NA,w,extreme,NA,NaN,POOR,dudley,missing,£10275,18422,,£1770,19738,NaN,17640,123," 6,674",NA
+2022-10-12, windy ,WEST,SUMMER,KELVIN, bbc ,yellow,missing, Overcast ,missing,low,HAIL,comfortable,Moderate,franklin,day,6085,£10905,3442,13229,11696,7636,£16754,5555,£3360,10726
+"Jan 05, 2024",foggy,Coastal,Autumn,KELVIN,noaa,RED, morning ,partly_cloudy,Se,HIGH,RAIN,Dry,veryPoor,barra,day,13924,£74,£14909,1700,6828,"15,116",14489,13706,17978,£14339
+06/06/2022,windy,COASTAL,summer,kelvin,Met Office,red,Morning,mostlyCloudy,e,low, rain , DRY ,GOOD,eunice,Day,5284,NA,1191," 9,498",12500,12722,"15,241",12525,"15,827",£4261
+2023-12-10,SNOWY,west,autumn,,metOffice,amber,morning,OVERCAST,sw,very high,hail,Comfortable,VERY POOR,eunice,night,NaN," 8,692",7484,1483,1964,11797,17845,18431,13781,-999
+2024-08-10,WINDY,east,missing,fahrenheit, bbc ,yellow,Afternoon,OVERCAST,s,extreme,hail,dry,poor,NaN,day,11274,147,13516,826,13954,£16322,£15438,NA,,£11874
+missing,Stormy,WEST,summer,CELSIUS,BBC,NONE,night,partly cloudy,S,Moderate,sleet,humid,moderate,dudley,DAY,17113,15640,"14,739",NA,NaN,6554,5413,,"17,647",NaN
+29/02/2024,rainy,North,Autumn,kelvin,Noaa,AMBER,missing,MOSTLY CLOUDY,se,low,rain,HUMID,Excellent,CORRIE,day,9974,3822,14316,11698,NaN,8195,"17,641",5893,"18,301",14229
+2024-03-04,cloudy,north,Spring,celsius,bbc,amber,missing,mostlyCloudy,sw,veryHigh,sleet,dry,moderate,Barra,NaN,4275,19964,19633,1835,NA,8885,missing,878,£18075,"16,241"
+13/12/2021,FOGGY,Coastal,Spring,Kelvin,-999, RED ,Morning,clear,sw,low,NaN,dry,,FRANKLIN,day,8752,9691,£10401,15281," 1,611",7050,8150,9972,,NA
+2021-03-03,NA,West,autumn,fahrenheit,WEATHER.COM,NONE,afternoon,Clear,NA,LOW,rain,missing,Very Poor,eunice,day,"13,610",9886,-999,£10292,4108,359,3306,13742,£9544,8885
+2021-07-25,windy,midlands,autumn,Kelvin,met_office,RED,NIGHT,Mostly Cloudy, n ,extreme,rain, humid ,Good,FRANKLIN,day,£8577,18301,17650,8380,18889,9770,3193,missing,    51,14747
+17/03/2024,stormy, EAST ,autumn,KELVIN,metOffice,RED,evening,CLEAR,Ne,extreme,rain,dry,Poor,arwen,Night,£18910,12402,1927,18118,"13,508",    95,4228,18977,1007,9714
+19/10/2023,windy,NA,Winter,KELVIN,weather.com,amber,-999,mostly_cloudy,w,missing,,dry,Very Poor,Arwen,NIGHT,£4166,6227,18847,19553,2739,8836,7297,9979,14938," 7,227"
+2023-04-19,Sunny,NA,autumn,NA,weather.com,None,morning,Mostly Cloudy,nw,missing,RAIN,, excellent ,missing,night,£1550,12276,3907," 3,667",NaN,3760,205,7706,£4942,17447
+2021-06-16,SNOWY,WEST,summer,missing,NaN,amber, night ,mostlyCloudy,w,low,SNOW,dry,poor,arwen,Day,5949,"18,475",7312,16744,1597,,15599,6600,7350,£19249
+2022-05-18,Windy,INLAND,spring,NaN,noaa,AMBER,morning,overcast,missing, very_high ,SLEET,HUMID,good,FRANKLIN,day,15709,15970,NaN,9908,15084,"12,996",8645,"14,356",£16626,£787
+2024-10-12, SUNNY ,COASTAL,summer,Fahrenheit,bbc,yellow,EVENING,overcast,Se,low,hail,dry,Very Poor,arwen,day,14628,17001,4044,"10,112",8843,4251,   498,8712,15601," 5,935"
+2021-10-02,sunny,north,summer,celsius,Noaa, AMBER ,,missing,ne,high,sleet,Dry,GOOD,franklin,Night,9089,£15316,279,£3358,19075,"14,849",-999,19611,£11358,8437
+2023-07-20,windy,inland,WINTER,celsius,NOAA,amber,afternoon,overcast,e,low,Sleet,comfortable,good,Franklin,day," 6,233",£8392,17854,£11281,13980,7611,7223,17986,missing,1008
+2023-09-28,Foggy,INLAND, Spring ,fahrenheit,Met Office,,MORNING,mostly_cloudy,sw, Extreme ,HAIL,oppressive,Very Poor,dudley,Night," 7,166",19140,11011,1121,14021,7665,£13612,7714,15436,14531
+"Aug 11, 2024",FOGGY,INLAND,NA,kelvin,weather.com,none,morning,partly cloudy, ne , MODERATE ,hail,oppressive,moderate, barra ,NA,-999,NaN,12118,"19,166",10270,7918,10822,18412,-999,17828
+29/12/2023, SNOWY ,East,winter,fahrenheit,accuweather,yellow,night,partly_cloudy,NW,moderate,NaN,humid,MODERATE,eunice,,1972,4309,NA,5278,17839," 6,482",278,13980,"13,747",12449
+2021-04-05,sleet,midlands,summer,fahrenheit,metOffice,yellow,AFTERNOON,overcast,Sw,Moderate,hail,oppressive,POOR,Franklin,night,17061,NA,£14913,3170,5540,"17,527",£9847,NaN,17092,"10,490"
+NA,stormy,EAST,Summer,kelvin,Bbc,-999,morning,Clear,N, Extreme ,sleet,dry,MODERATE,BARRA,Night,6757,16625,"17,583",£11914,8126,8488," 4,778",-999,2327,16315
+04/12/2024,foggy,inland,summer,fahrenheit,met office,None,AFTERNOON,NA,E,low,snow,dry, poor ,Eunice,night,£5471,NaN,£15718,£6194,£13354,17056,"18,903",10569,£3777,13619
+2021-12-20,Foggy,west,summer,celsius,weather.com,RED,Evening,mostly cloudy,sw,high,SNOW,humid,moderate,franklin,DAY," 7,257",£4628,£17554,11073,16682,7265,4425,£10728,£16395,"14,955"
+30/05/2022,snowy,North,missing,celsius,NOAA,red, night ,-999,w,high,Hail,missing,excellent,Arwen,Day,£15757,£18626,2950,"13,844",7268,1963," 9,767","17,763","11,992",7346
+16/08/2024,FOGGY,inland,Spring,,MET OFFICE,red,night,clear,NA,low,-999, Dry ,NA,Barra,night,3378,£13604,14288,"18,100",3814,14810,16125,7173,,
+NA,Cloudy,EAST,Autumn,NaN,ACCUWEATHER,red,evening,Overcast,nw,extreme,hail,Dry,veryPoor,ARWEN,day," 2,106",£12787,15574,-999,-999,5836,£11538,£16690,19699,   114
+11/01/2021,Cloudy,, spring ,kelvin,NOAA,red,NA,overcast,SE,moderate,,Comfortable,NaN,-999,day,£5512,14539,NaN,7741,£19935,3199,4294,17188,9956," 2,139"
+16/06/2023,cloudy, north ,Spring,kelvin,NOAA,yellow,night,mostly_cloudy,nw,Extreme,Hail,HUMID,poor,corrie,NA,NA,3482,9473,13261,£190,,£9008,17312,7389,9604
+30/06/2021,sleet,east,autumn,celsius,met_office,NA,morning,partlyCloudy,,Very High,NaN,comfortable,VERY POOR,BARRA,Day,1551,£3662,£14586,130,8718,£1371,18022,14984,   297,missing
+11/08/2022,foggy,COASTAL,Spring,celsius,Met Office,,missing,overcast,nw,Very High,hail,comfortable,poor,franklin,NIGHT,167,3234,10366,9512,2194,15560,19906,13484,£8782,6071
+2024-09-25,SNOWY,east,,CELSIUS,MET OFFICE,YELLOW,afternoon,overcast,Se,very high,rain,humid,poor,eunice,Day,16261,6050,"16,486","12,867",16938,5029,9220,"18,802","12,829",
+,windy,South,winter,Celsius,NaN,missing,morning,MOSTLY CLOUDY,NaN,moderate,none,Dry,moderate,dudley,day," 7,113",2872,£14597,18056,£12462,"14,756",5045,"16,357","18,863",NaN
+"Oct 16, 2022", sleet ,Inland,Winter,kelvin,weather.com,none,Evening,partly_cloudy,SE,missing,rain,OPPRESSIVE, very poor ,NaN,NIGHT,12990,13820,£6713,6920,3944,5185,£2207,-999,1400,8302
+2021-09-05, FOGGY ,SOUTH,summer, fahrenheit ,met office,YELLOW,missing,OVERCAST, ne ,Extreme,Snow,Humid,excellent,Corrie,night,2369,16150,NaN,13620,£1667,£2790," 1,640",£4931,2814,NA
+2021-04-16,windy,south,summer,kelvin,noaa,RED,evening, Partly Cloudy ,w,low,sleet,dry,missing,NA,Night," 4,029",16287,9640," 9,239",18187,2492,£13223," 4,650",17560,455
+2023-04-10,windy,east,spring, CELSIUS ,noaa,Yellow,Morning,clear,sw,Extreme,None,humid,Poor,arwen,day,£7952," 2,551",£4565,"10,516"," 8,042",5167,11525,8832,2335,13592
+2023-01-30,FOGGY,WEST,winter,fahrenheit,NA,Red,NaN,overcast,Ne,moderate,snow,oppressive,poor,dudley,NaN,," 7,703",13141,£18532,10001,"14,585",£17792," 7,917",4502,£9587
+NA, sleet ,missing,spring,celsius,weather.com,none,EVENING,Overcast,missing,extreme,Rain,oppressive,GOOD,corrie,night,13191,14582,4381,869,11463,,£11316,NaN,2072,missing
+2021-02-12,RAINY,east,Winter,Kelvin,Accuweather,None,night,Partly Cloudy,W,-999,snow,comfortable,excellent,Barra, DAY ," 2,641",£17848,NA,7046,11189,7337,19469,£10111," 9,124",3233
+"Apr 08, 2021",foggy,Coastal,spring,NaN,accuweather,Red,AFTERNOON,partly_cloudy,NE,Very High,snow,HUMID,VERY POOR,,night,5474,NaN,-999,,383,1140,"15,247",18785,14527,5147
+28/06/2023,rainy, west ,Autumn,KELVIN,NaN,NONE, morning , mostlyCloudy ,SE,very_high,sleet,Dry,very_poor,DUDLEY,Night,5300,14908,15373,4569,19646," 7,017",2004,361,NaN,£5855
+10/01/2024,Foggy,north,AUTUMN,Kelvin,met_office,yellow,NaN, mostly_cloudy ,E,Very High,snow,oppressive,Poor,arwen, NIGHT ,15461,1201,6918,426,17667,17925,"11,522",313,£14859,£6052
+21/09/2022,missing,west,WINTER,kelvin, weather.com ,none,NaN,PARTLY CLOUDY,s,low,NONE,comfortable,moderate, franklin ,day,3235,£3566,1685,6635," 2,628",14734,3898,18632,18923,12792
+2024-01-20,foggy,south,Winter, fahrenheit ,Accuweather,none,night, Clear ,s,high,Sleet,COMFORTABLE,poor,eunice,Day,17246,£16632,"19,485",missing,14208,£15335,NaN,19977,15369,16177
+16/10/2022,WINDY,inland,Autumn,-999,noaa,, Night , mostly cloudy , e ,VERY HIGH,snow,Oppressive,excellent,Dudley,Night," 3,151","18,018"," 7,072",19303,£6905,15901,£3272,17065,600,1502
+2024-10-19,cloudy,inland,Winter,Celsius,weather.com,Yellow,night,mostlyCloudy, nw ,low,Snow,comfortable,Poor,eunice,night,£3951,14019,£15704,9983,£3699,19215,£1007,"17,749",£6805,   596
+17/04/2023,sleet,north,Spring,CELSIUS,weather.com,AMBER,night, Partly Cloudy ,NaN,veryHigh, NONE ,oppressive,Very Poor,eunice,day,10984,11532,10224,missing,£13589,,13914,,£8831,4146
+2021-07-06,RAINY,south,winter,celsius,bbc,NaN, afternoon ,Overcast,ne,HIGH,none,dry,-999,CORRIE,Night,6931,17252,NaN,14828,15839,"16,428",11374,-999,3179,4566
+2023-12-22,missing,east,winter,celsius,MET OFFICE,none,night,partly_cloudy, Nw ,Moderate,none,Humid,Excellent,franklin,NaN,NA," 3,517",8819,15591,," 8,113",-999,£11950,£6340," 3,524"
+25/02/2022,sunny,Inland,autumn,fahrenheit,weather.com,NaN,NaN,overcast,n,LOW,rain,HUMID,Excellent,ARWEN,NIGHT,3096,4422,11096,,£280,883,7355,3679,4859,10243
+11/10/2021,-999,Coastal,autumn,FAHRENHEIT, bbc ,red,Evening,Clear,S,extreme,rain, HUMID ,Poor,corrie,Night,£13664,11696,14896," 6,174",6645,£10522,£5495,£7029,140,£13043
+03/05/2021,RAINY,coastal, winter ,celsius, weather.com ,-999, AFTERNOON ,partly_cloudy,se, Moderate ,hail,dry,excellent,missing,NA,9555,15654,2827,2427,£2230," 1,578",£7758,5600,10213,
+NA,cloudy,NaN,spring,kelvin,accuweather, red ,evening,PARTLY CLOUDY,,Extreme,Hail,OPPRESSIVE, moderate ,barra,-999,12296,5230,-999,15163,"18,390",,missing,2936,3861,9032
+2021-07-15,sleet,EAST,summer,kelvin,accuweather,NaN,NA,mostly_cloudy,sw,moderate,NaN,dry,veryPoor,arwen,night,10495," 6,087",NA,11098,£3361,£11476,10256,missing,missing,£8268
+missing,stormy,coastal,summer,KELVIN,Weather.com,-999,NaN,PARTLY CLOUDY,nw,low,snow,Oppressive,missing,eunice,day," 1,500",10050,19224,£18701," 8,341",10805,£6708,8993,"17,992",17547
+"Jan 07, 2021",sunny,South, winter ,NaN,accuweather,Yellow,Night,clear, nw ,moderate,rain,oppressive,excellent,missing,Day,16309,"17,558",7376,10918,1741,19914,NA,5943,951,18356
+14/12/2023,missing,east, SPRING ,celsius,Bbc,RED,evening,missing,W,moderate,none,-999,,Eunice,day,"11,336",7048,"14,112",1069,£5867,4971,"11,238",£10227,£377,13006
+01/04/2021,sunny,inland,autumn,kelvin,WEATHER.COM,AMBER,morning,Clear,NW,Moderate,none,dry,Very Poor,franklin,NA,18660,£15766," 3,074",5937,-999,9394,2658,3702,17013," 2,087"
+2024-05-18,sunny,East,SUMMER,FAHRENHEIT,weather.com,amber,Evening,clear,E, High ,SLEET,dry,very poor,arwen,night,£12284,"14,946",17736,NaN,£1371,7895,"15,121",£9606," 6,835",575
+-999,CLOUDY,inland,spring,kelvin,Met Office,NONE,Morning,mostly cloudy,E,Low,sleet,HUMID,Moderate,Franklin,day," 5,808",8310,10914,"15,159",5776," 9,318",13311,"15,533",£9130,9291
+18/05/2021,CLOUDY,midlands,summer,FAHRENHEIT,NOAA,RED,MORNING,OVERCAST,NE,LOW,Snow,oppressive,Moderate,FRANKLIN,night,£12075,£19684,£7321,,13853,£14488,"16,954",NA," 3,545",11810
+"Feb 09, 2021",rainy,south,winter,NA,metOffice,Yellow,NIGHT,clear,se,moderate,sleet,Humid,good,corrie,day,8770,"13,419","13,645",£17800,19123,10324,"12,867",£364,,12475
+17/07/2024,Cloudy, east ,summer,Fahrenheit,Bbc,yellow,Evening,overcast,S,moderate,SNOW,missing,poor,Corrie, day ,-999,5357,£13085,17888,6219,15703,491,missing,£11577,£12063
+2024-02-27,RAINY,INLAND,Autumn,celsius,bbc, amber ,NIGHT,NA,n,veryHigh,hail,COMFORTABLE,NA, franklin ,Day,,15607,18419,13383,140,3868,18861,15475,13592,£2682
+02/11/2021,windy,west,Spring,FAHRENHEIT,accuweather,none,morning,mostlyCloudy,w,low, HAIL ,comfortable,Moderate,NaN,day,1377,13486,8153," 3,797","12,257",1156,-999,6062,6497,12330
+21/02/2023,sleet,missing,spring,NA,WEATHER.COM,red,morning,overcast,-999,MODERATE,rain,OPPRESSIVE,good,arwen,NIGHT,3824,£904,2807,2624,5846,£8915,14057,"17,055",15624,"13,775"
+2023-06-07, rainy ,MIDLANDS,spring,kelvin,,RED,evening,NaN,w,high,snow,oppressive,poor,NA,NA,15101,"10,695",£10655,9348,6758,8340,3830,16730,1940,
+05/02/2023,cloudy, south ,Winter,,bbc,NaN,afternoon,clear,-999,Very High,SNOW, Oppressive ,,CORRIE,DAY,2655,8277,8356,"15,762",,   380," 4,594",NA," 5,489",£18316
+"Sep 24, 2023",sleet,Midlands,autumn,celsius,noaa,RED,night,clear,sw,low,none,humid,VERY POOR,franklin, Day ,764,NA,NaN,11949,11746,"10,529",2209,"17,469",£8209,9601
+16/11/2024,,inland,SUMMER,-999,NaN,Amber,NaN,PARTLY CLOUDY,ne,very high,hail,comfortable,NaN,FRANKLIN,day,,,"16,111","17,341",2709,"15,166",1667,1167,1040,7216
+2024-02-16,windy,SOUTH,summer,NA,,amber,evening,OVERCAST,e,high,rain, Comfortable ,Good,barra,day,995,19228,£3933," 7,546"," 7,745",NA," 9,951",9005,4546,-999
+"Apr 11, 2023",Sunny,West,AUTUMN,FAHRENHEIT,Noaa,none,evening,Mostly Cloudy,e,High,Sleet,dry,Moderate,BARRA,day,19446,£6165,"19,698",19707,848,5655,NaN,-999,£17954,11414
+missing,windy,North,missing,CELSIUS,NaN,yellow,morning,CLEAR,se,moderate,,humid,-999,dudley,DAY,2809," 5,535"," 5,142",9777,4143,15807,£11927,"12,095",16769,£10706
+2021-08-20,SNOWY,-999,SPRING,celsius,Bbc,Amber,missing,Partly Cloudy,n,extreme,none, Dry ,good, eunice ,night," 4,200","12,583",8864,,£14973,10665,5524,£1690,£8939,missing
+2024-12-25,Snowy, coastal ,winter,CELSIUS,MET OFFICE, Yellow , afternoon ,overcast,w,-999, hail ,dry, Poor ,Dudley,night,11885,missing,£5445,15852," 6,196",17565,"16,029",16182,NaN,NA
+21/08/2022,snowy,east,spring,Celsius,Noaa,Amber,MORNING,overcast,n,LOW, sleet ,DRY, good ,arwen,night,£1666,-999,7362,-999,"19,863",14548,10420,-999,8883,4916
+2023-02-19, snowy ,INLAND,winter,Celsius,missing,red,night,Partly Cloudy,SE,high,-999,dry,,eunice,Day,12779,£11398,18351,18066,3592,NA,6994,-999,3400,17341
+2022-09-04,Windy,south,winter,Kelvin,Weather.com,yellow,AFTERNOON,Clear,nw,VERY HIGH,Hail,comfortable,moderate,BARRA,missing,11840,NaN,£13210,17063,NaN,missing," 5,198",10303,"11,390",4821
+"Mar 14, 2023",NaN,South,spring,kelvin,weather.com,Yellow,morning,Clear,nw,High,sleet,dry,moderate, barra ,DAY,7518,13047,439,8221,11928,9147,£887,11264,18343,£13135
+2021-06-04,Sunny,missing, spring ,NA, metOffice ,amber, morning ,-999,s,High,None,dry,excellent,,Night," 8,751",1139,17674,1618,£16190,16883,13345," 8,766",17214,£18816
+10/05/2024,Stormy,NORTH,SPRING,kelvin,missing,none,morning,overcast,E,moderate,Rain,HUMID,EXCELLENT,DUDLEY, night ,,12953,10949,19468,£17498,13044,£19035,-999,94,8190
+08/12/2021,sunny,COASTAL,SUMMER,celsius,NaN,none,Afternoon,PARTLY CLOUDY,nw,extreme,none,humid,EXCELLENT,eunice,night," 8,624",missing," 8,426",£17089,16624,£18244,12884,5371,2331,866
+07/05/2023, Sleet ,south,spring,celsius,Weather.com,yellow,MORNING,overcast, W ,missing,snow,dry,MODERATE,eunice,Night,7459,£19721,15330," 4,432",6710," 8,213","18,947",7911,£17440,4696
+2022-09-15,cloudy,south,summer,kelvin, accuweather ,amber,afternoon,mostlyCloudy,ne,Moderate,hail,oppressive,Excellent,arwen,Night,£16690,17782,4233,13694,12834,12271,NA,£9080,3546,13105
+05/12/2021,stormy, coastal ,summer, CELSIUS ,Accuweather,red,evening,mostlyCloudy,nw,Extreme,hail,dry,moderate,Corrie,Day,,11668,6270,10929,£9563,2011,6274,£4102,15625,517
+2021-01-17,sunny,east,spring, Celsius ,WEATHER.COM,RED, morning ,NA,nw, EXTREME ,SNOW,NaN,good,Franklin,DAY,"16,345",£14948,3780,"15,986"," 9,153",£14297,missing,8709,£6038,9167
+missing,NA,INLAND,Spring, Celsius ,Bbc,YELLOW,Afternoon,missing,w,missing,snow,COMFORTABLE,moderate,DUDLEY,DAY,"16,051",-999,14175,£14370,17803,"11,387",£13608,8363,18014,£11244
+2024-08-20,-999,south, Winter ,fahrenheit,ACCUWEATHER,red,night,missing,W,moderate,missing,humid,very_poor,dudley,day,missing,,-999,"18,072",£10201,£19609,11546,4119,6410,18680
+2024-07-01,stormy,COASTAL,SUMMER, Fahrenheit ,missing, yellow ,afternoon,NA,E,EXTREME,Rain, humid ,Very Poor,FRANKLIN,day," 9,436",£16096,19541,NaN,£11658,-999,"12,989",2857,NaN,10261
+19/02/2023,rainy,South,spring,Kelvin,NA, yellow ,afternoon,overcast,S,VERY HIGH,SLEET,humid,good,Corrie,day,12237,3033,15981,6721,11733,19987,11957,£8332,5636,4374
+18/01/2022,cloudy,MIDLANDS,summer,Fahrenheit,accuweather,RED, MORNING ,clear,S,moderate,HAIL, COMFORTABLE ,moderate,BARRA,-999,7460,11210,9591,14210,13802,14071,14104,-999,£2485,£8014
+2022-10-31,windy,coastal,-999,fahrenheit,accuweather, amber ,night,mostlyCloudy,NaN,Extreme,NA,HUMID, moderate ,franklin,NA,7998,missing,18523,1005,NaN,1863,missing,5043,18493,7955
+06/05/2021,missing,MIDLANDS,spring,kelvin,weather.com,red,Morning,NA,NE,high,SLEET,OPPRESSIVE,moderate,Corrie,NA,18211,-999,"13,920",11767,£16050,12699,NaN,missing,NaN,13005
+31/05/2022,NA, coastal ,winter, Celsius ,accuweather,NA,morning, clear ,missing,-999,sleet, comfortable ,missing,franklin,night,14052," 9,431",missing,337,2490,16353,19682,14801," 4,375",18077
+2021-09-24,CLOUDY,coastal,AUTUMN,fahrenheit,bbc,YELLOW,NaN,partly cloudy,s, moderate ,none,HUMID,Good,,day,,£5698,NA,19466,missing,13821,9480,missing,£13816,£3759
+07/04/2022,stormy,coastal,missing,FAHRENHEIT,ACCUWEATHER,,EVENING, mostlyCloudy ,nw,LOW,NONE,HUMID,Excellent,barra,night,17905,NaN,£5726,2115,8407,8651,NA,£8149,"19,863",£18292
+2022-11-28,cloudy,INLAND,winter,Fahrenheit,Weather.com,missing,evening,PARTLY CLOUDY,ne,moderate,none,DRY,Poor,corrie,night,7964,3401,19247,£6056,£2470," 9,369",18689,16526,12098,£4599
+2022-04-28,sunny,inland,winter, Celsius ,noaa,RED,NA,overcast,NW,HIGH,Hail,comfortable,Good,Dudley,NIGHT,£1811,11545,"17,619",-999,NaN,4526,1468,,18511,missing
+2021-12-12,STORMY,COASTAL,spring,celsius,noaa,red,MORNING,Partly Cloudy, n ,EXTREME,hail, comfortable ,excellent,NaN,Night,3406,4920,3705,missing,,"13,104","19,472",12377,missing,920
+2024-08-17,foggy,midlands,Summer,celsius,accuweather,Red,afternoon,mostly_cloudy,sw,High,-999,humid,moderate,Franklin,DAY,11513,£4626,"17,241",-999,"14,134",£15034,17811,£7540,£5625,4442
+06/02/2022,WINDY,south,WINTER,Celsius,noaa,amber,Evening,mostly_cloudy,s,veryHigh,SNOW, oppressive ,missing,NaN,NIGHT,17726,£12430,£1354,NaN,1585,4920,"18,855"," 8,266","18,234",£4107
+-999,snowy,West,summer,CELSIUS,ACCUWEATHER,red,Afternoon,clear,,very_high,hail,NA,EXCELLENT,EUNICE,DAY,18683,13509,16844,13500,2545,7400,2303,12028,224,"18,444"
+,SLEET,MIDLANDS,WINTER,Kelvin,bbc,,afternoon, CLEAR , w ,Very High,-999, OPPRESSIVE ,GOOD, CORRIE ,day,"12,838",4565,£114,missing,10334,2240,10706,£12208,452,12461
+04/09/2021,sleet, south ,Spring,Kelvin, Noaa ,none,EVENING,partly_cloudy,se, high ,none,OPPRESSIVE,-999,eunice,DAY,£3268,19630,17434,8835,14767,15693,6167,1612,5915,7924
+23/12/2024,Foggy,East,winter, CELSIUS , Bbc ,yellow, evening ,partly cloudy,W,extreme,none,Dry,MODERATE,corrie,day,5515,£957,18325,9910,£9192,177,£12004,4112,"19,434",13631
+2022-02-23,RAINY, inland ,AUTUMN,fahrenheit,met office,red,night,,Ne,low,none, comfortable ,VERY POOR,eunice,night,£11609,10681,9586,2417,£8072,,16766,16812,NaN,7869
+2024-10-24,Foggy,COASTAL,winter,KELVIN,ACCUWEATHER,,afternoon,partly cloudy,,low,HAIL,dry,MODERATE,EUNICE,NIGHT,£13112,8138,£15442,19643,-999,£13206,14798,7826,16804,11129
+03/03/2023,sleet,coastal,Summer,Fahrenheit,WEATHER.COM,NA,night,Clear,E, high ,none,humid,very poor,CORRIE,night,5259,£1114,"13,300",9958,6164,12269,14946,£893,1048,£19504
+29/10/2023,, NORTH ,summer,fahrenheit,accuweather,amber,NIGHT,missing,NW,,-999,COMFORTABLE,POOR,dudley,NA,7919,£9937,18949,8264,16604,-999,18883,12916,4926,NaN
+11/09/2024,WINDY,inland,SPRING,celsius,accuweather,NONE,missing,Clear,Nw,extreme,,humid,MODERATE,BARRA, night ,"11,089",£6037,14063,12728,"18,461",NaN,4289,9853,"16,677",16167
+2021-05-29,FOGGY,NORTH,winter,fahrenheit,accuweather,NONE,NIGHT,NA,sw, very_high ,sleet,NaN,moderate,missing,missing,7435,10965," 8,506","12,365",NaN,    62,-999,,NaN,19258
+16/03/2021,NaN,north,SUMMER,fahrenheit,ACCUWEATHER,yellow, night ,overcast,w,very high,hail,humid,excellent,ARWEN,night,," 1,509",£1788,1211,£8133,NaN,1625,-999,6505,11834
+2023-08-31,snowy,east,autumn,FAHRENHEIT,Weather.com,NaN,morning,partlyCloudy,S,high,SNOW,dry,very poor,dudley,day,454,10667,NA,2704,-999,£10691,£18170,NaN,"10,510",16551
+2024-10-23,stormy,EAST,Winter,fahrenheit,weather.com,amber,NIGHT,mostlyCloudy,e,MODERATE, snow ,dry,VERY POOR,corrie,day,9187,NaN,17544,303,£10784,12295," 8,675",16116," 1,368",3999
+2024-09-06,windy,coastal,SPRING,kelvin,WEATHER.COM,AMBER, afternoon ,NaN,N, Low ,NA,COMFORTABLE,excellent,EUNICE,night,16095,16967,NA," 9,655",11410,3849,6089,£12252,£4053,£7673
+29/06/2023,rainy,Coastal,Spring,kelvin,bbc,Amber,morning,-999,NE,moderate,snow,-999,good,arwen,NIGHT,,14562,9206,18863,15820,NA,5535,11095,9603,7759
+"Mar 26, 2022",foggy,Midlands,spring,celsius,Bbc,Yellow,-999,overcast,sw,NaN,rain,Dry,Very Poor,EUNICE,NaN,17552,12789,1689,13613,9286,£16490,19287,6812,16429,£6794
+18/12/2023,,-999,-999,kelvin,Met Office,yellow,Evening,overcast,e,low,missing,NaN,good,NA,NIGHT,13099,1303,1443,2994,643,,18036,NaN,£8249,11090
+21/06/2022,Sunny,inland,Autumn,celsius,Accuweather,none,night,overcast,SE,extreme,Hail,oppressive,EXCELLENT,Arwen,night,NaN,NaN,14906,£2159,7034,,6,£5677,£5389,4330
+NaN,Rainy,NaN,summer,-999,weather.com,Red,afternoon,OVERCAST,Ne,-999,NONE, oppressive ,,barra,DAY,499,5295,10275,12941,NaN,missing,11518,12622,18818,10337
+15/08/2023,Foggy,east,NA,celsius,accuweather,amber,Evening,Partly Cloudy,S,moderate, rain ,dry,good,Eunice, NIGHT ,10257,8824,10749," 4,443",6143," 9,286",7746,18145,"15,181",4511
+01/02/2021,windy,missing,summer,celsius,NOAA,RED,AFTERNOON, partlyCloudy , se ,moderate, Sleet ,comfortable,VERY POOR,NaN,night,£10925,12980,NA,19010,£10508,14825,£654,10196,£11666,2348
+2024-05-30,stormy,,autumn,Fahrenheit,-999,red,-999,mostly_cloudy,-999,high,RAIN,Comfortable,moderate,dudley,NIGHT,4657,£10832,3796,19023,£3823,8435,7741,15377,1577,10789
+2022-07-27,windy,Midlands,winter,kelvin,met office,AMBER,MORNING,NA,ne,very high,hail,NA,good,dudley,Day,£8906," 9,152",9810,7657,467,15595,£12293,6436,3151,6008
+2021-10-27,Sleet, inland ,-999,kelvin,bbc,missing,Night,OVERCAST,nw,high,NONE,dry,Good,dudley,night,"15,460",17984," 2,997","18,467"," 3,481",17679,missing,17008,10924,8965
+,-999,NaN,winter,Fahrenheit,weather.com,red,Evening,Overcast,E,LOW,sleet,dry,poor,eunice,day,-999,   293," 3,068",4511,7132,1433,6617,15775,13928,17102
+09/03/2022,cloudy,south,Autumn,kelvin,MET OFFICE,None,AFTERNOON,missing,ne,extreme,SLEET,HUMID,Good,NA,day,NA,16232,3128,-999,12985,£11381,NA,"10,859",13416,"13,077"
+2022-03-10,sleet,NORTH,spring,kelvin,bbc,RED,MORNING,overcast,NA,high,HAIL,dry,excellent,,NIGHT,8617,,1586," 5,714",£2327,15276,12639,£12071,19260,2131
+"Mar 06, 2022",STORMY,coastal,winter,NA,bbc,red,NA,mostly_cloudy,W,HIGH,none,COMFORTABLE,NaN,NA,day,missing,14103,"18,513",17172,15405,6871,NA,14429,2910,NA
+06/01/2021,SNOWY,,SPRING,fahrenheit,NaN,Yellow,,missing,n,moderate,NONE,comfortable,moderate,dudley,DAY,2031,7383,1757,£16615,,1838,3795,3930,-999,"10,160"
+26/09/2023,Stormy,north,AUTUMN,Kelvin,accuweather,red,night,partlyCloudy,NW,moderate,hail, humid ,Good,eunice,DAY,"18,420",   325,8893," 5,488",15307,7122,£7818,3485,£7310,676
+06/12/2022,Stormy,East,-999,missing,noaa,amber,AFTERNOON,mostly_cloudy,NW,extreme,rain,comfortable,-999,corrie,Night," 1,766",,"13,781",9125,4958,-999,12300,3261,7017,£9153
+2022-12-28,foggy,NORTH,Autumn, kelvin ,ACCUWEATHER,yellow,Evening,mostlyCloudy,Se,moderate,none,Humid,Good,barra,night,17464,"11,427",£2513,-999,missing,6398,-999,14750," 1,274",-999
+25/07/2024,-999,east,NA,celsius,Weather.com,yellow,evening,clear,w,NaN,Rain,humid,NaN,-999,missing,19105,£5206,£2254,"12,991",£11756," 6,794",£3704,6096,"11,959",19741
+"Aug 06, 2021",RAINY,midlands,summer,kelvin,missing,-999,evening,mostly cloudy,NW,high,None,comfortable,good,barra,Day," 3,879"," 9,398"," 7,289",15736,16419,£11416,14986,"10,806",2647,14943
+07/02/2024,sleet,west,winter,Kelvin,bbc,Red,afternoon, overcast ,e,very_high,Sleet,OPPRESSIVE,Good,EUNICE,night,6256,NA,NaN,521,10026,£14009,2015,11606,1615," 6,633"
+24/10/2024, rainy ,MIDLANDS,Spring,-999,, amber ,evening,Clear,w, Extreme ,snow,NaN, poor ,,-999,12013,11264,2642,19843,£14530,£13197,10399,16328,"14,539",£10196
+2021-07-07,,north,autumn, fahrenheit ,Weather.com,AMBER,AFTERNOON, Overcast ,S,moderate, none ,,Good,corrie,day,10946,12058,£11909,19657,£139,10232,14513,1085,15188,£1651
+24/02/2022,SUNNY,inland,winter,fahrenheit,NOAA,amber, afternoon ,OVERCAST,E,extreme,sleet,COMFORTABLE,GOOD,,DAY,3845,12144,NaN,£12036,-999,-999,£12803,£1137,-999,£10382
+2022-01-20,sunny,North,summer,kelvin,MET OFFICE,none,afternoon, OVERCAST ,E,extreme, Hail ,dry, very poor ,NaN,day,13139,3142,7798,2171,1073,11239,5455,£6192,2652,-999
+07/04/2022,Sleet,coastal,spring,Fahrenheit,met office,None,afternoon,NA,SW,very high,NA,Dry,Moderate,ARWEN,NA," 8,206",8414,9930,2514,,14038,7084,2286,,5331
+14/06/2024,RAINY,east,summer,celsius,NOAA,red,Morning,overcast, ne ,MODERATE,hail,COMFORTABLE, MODERATE ,barra,DAY,-999,7311,missing,"14,320",8424,7019,£3121,8457,1775,£13519
+"Aug 20, 2024",Sleet,EAST,WINTER,,accuweather,Red,Afternoon,OVERCAST,S,High,NA,dry,moderate, DUDLEY ,Night,NA,9972,"18,734",16274,16899,"14,662",£15256,8962,,£9181
+23/03/2024,NA,Coastal,,fahrenheit,accuweather,amber,evening,clear,N,veryHigh,none,Humid, Very Poor ,franklin,night,6805,18995,8532,5435,14559,missing,11485,6790,missing,9431
+03/07/2024,rainy,missing,Winter,celsius,bbc,Red,NA,Partly Cloudy,se,extreme,-999,Humid,NA,ARWEN,night,NaN,6961,£11334,818,,NaN,15908,," 1,867",10878
+NaN,CLOUDY,inland,SPRING,CELSIUS,weather.com,RED,morning,clear,W,NaN,missing,OPPRESSIVE,moderate,arwen,Day,7178,"10,603",8425,1554,£11186,£6009,1794," 1,179",8710,10597
+2021-08-20,Foggy,east,spring,kelvin,noaa,RED,evening,clear,nw,low,rain, humid ,good, franklin ,Night,16733,NaN,12492,9813,£4521,14348,13893,8016,£354,18545
+07/12/2021,windy,EAST,Spring,fahrenheit,Accuweather, Yellow ,night,mostlyCloudy,ne,EXTREME, Hail ,comfortable,Moderate, dudley ,-999,17675,19003," 2,365",2333,4982,13763,16585,19899,£8376,4166
+missing,sunny,MIDLANDS,Spring,kelvin,Noaa, AMBER ,evening,PARTLY CLOUDY,w,very_high,-999,comfortable,GOOD,arwen,night,6405,17264,3592,10317,,18695,1849,   289,9802,18932
+2022-03-22,Cloudy,South,summer,Fahrenheit,,yellow,night,,w,HIGH,missing,dry,excellent,DUDLEY,night,2346,15333,10207,3670,8940,18024,NaN,5731,"19,490",6351
+24/12/2023,Foggy,west,autumn, KELVIN ,MET OFFICE,missing,evening,Mostly Cloudy,nw,extreme,snow,dry,moderate,corrie,night,2116,1477,3343,1248,3710,"18,518",4757,1373,£14896,16554
+16/07/2022,SUNNY,midlands,SUMMER,kelvin,noaa,amber,afternoon,mostly_cloudy,E,high,hail,COMFORTABLE,EXCELLENT,barra,night,"12,714",16451,   462,9290,£9791,19972,£14404,9784,"18,572",2363
+07/08/2023,rainy,,spring,fahrenheit,Bbc,amber,Evening,PARTLY CLOUDY, Ne ,moderate,none,humid,very_poor,ARWEN,day,"12,187",NA,8884," 4,795",£11721,"19,921",4949,"18,166",8467,"13,358"
+2021-07-15,rainy, South ,Winter,KELVIN,accuweather,YELLOW,night,partlyCloudy,N,Extreme,Sleet,NaN,Poor,barra,day,1901,NA,13886,8633,14688,17189,6023,£4137,£16325,7914
+2022-05-17,missing,INLAND,summer,NaN,Bbc,NaN,evening,PARTLY CLOUDY,Se,Extreme,hail,missing, poor ,franklin, NIGHT ,15180,   677,3886,NA,378,1233,£16139,18522,18843,£13460
+2024-08-18,stormy,east,autumn,fahrenheit,met office,,evening,partly_cloudy,NE,missing,snow,oppressive,moderate,EUNICE,night,2990,16386,10219,"17,125",12269,7049,4615,," 5,132",19150
+2021-02-19,Stormy,west,Winter,fahrenheit,ACCUWEATHER,none,MORNING,Mostly Cloudy,s,very_high,SNOW,OPPRESSIVE,EXCELLENT,ARWEN,NIGHT,16662,4967,7597,"14,059",NA,17747," 7,431",£1771,missing,17010
+"Jul 01, 2021",Sunny,NA,Summer,missing,WEATHER.COM,red,Afternoon,Overcast,ne,VERY HIGH,hail,comfortable,POOR,EUNICE,night,£10971,missing,16513,5520,3040,NA,5231,£19324,5216,
+2024-05-08,Sleet,-999,spring,FAHRENHEIT,noaa,none,morning,partly cloudy,s,veryHigh,snow,oppressive,poor,barra,Night,3039,,7372,11480,NaN,£15938,1238,13453,8533,7393
+24/02/2021,Cloudy,WEST,spring,FAHRENHEIT,met_office,red, morning ,clear,E,high,Rain,humid,Very Poor,Franklin,day," 7,645",NaN,5998,3783,10313,16609,£12940,8297,3575,£8575
+2024-06-10, rainy ,north,winter,celsius,accuweather,YELLOW,afternoon,MOSTLY CLOUDY,w, MODERATE , SNOW ,COMFORTABLE,POOR, ARWEN ,day,NA,2558,4206,16434,£10373,£911,£15129,£9828,6908,19885
+2023-03-27,snowy,east,AUTUMN,celsius,bbc,red,morning,clear,E,low,snow,oppressive,Excellent,arwen,DAY,£11262,11163,-999,£8465,4906,£464,9029,16867,"12,201",5720
+25/05/2021,cloudy,midlands,summer,KELVIN,NOAA,yellow,morning,Overcast,ne,very_high,SNOW, dry ,excellent,,day,11330,14241,2572,10347,£6154," 2,041",,£5051,12081,18548
+missing,SUNNY,west,autumn, FAHRENHEIT ,Bbc,amber,morning,,E,missing,RAIN,OPPRESSIVE,GOOD,dudley,-999,£15303,845,16389,16499,15984,18621,£17986,10218,£12415," 2,571"
+01/05/2021,sunny,inland,summer,KELVIN,ACCUWEATHER,NaN,morning,partlyCloudy, SW ,low,missing,Comfortable,poor,corrie,day,1957,18883,16237,15365,17158,16897,8343,7439,2294,16787
+2021-03-07,missing,Inland,autumn,fahrenheit,weather.com,NONE,EVENING,overcast, Nw ,very_high,hail,humid,poor,barra,day,19593,5376,1764,12237,18040,12757,19765,15223,,3156
+2024-11-08,stormy,north,NaN,fahrenheit,weather.com,Red,MORNING,partly cloudy,,low,Sleet,comfortable, moderate ,FRANKLIN,day,-999,"17,438",14280,14108,,18095,-999,£12748,904,11068
+19/06/2024,CLOUDY,east,AUTUMN,Kelvin,noaa,none,Evening,overcast,W,very_high,none, OPPRESSIVE , Poor ,BARRA,night,19291,15163,9075,17332," 5,850",£11071,7014,9213,13742," 5,825"
+2021-03-19,foggy,,autumn,kelvin,ACCUWEATHER,AMBER,morning,OVERCAST,NE,High,-999,-999,MODERATE,franklin,day,£17367,£6542,missing,£14315,NA,10403,£15316,7545,"15,542",8584
+16/04/2022,sunny,west,SPRING,FAHRENHEIT,met_office,AMBER,night,mostly_cloudy,SW,HIGH,snow,humid,missing,EUNICE,,2500,7457,14512,,7490,11836,17919,7503,,"15,022"
+14/07/2023,foggy,WEST,summer,KELVIN,weather.com,Red,NaN,PARTLY CLOUDY,N,high,NA,NaN,moderate,NA,,£14562,,7759,NA,10014,NA,7288,6577,4233,£10434
+30/03/2023,foggy,east,Autumn,Kelvin,missing,Amber,afternoon,mostly_cloudy,W,Extreme,snow,Oppressive,poor,franklin,day,6005,4991,15422,16560,£6251,8623,£14912,2348,"17,851",missing
+03/09/2024,SLEET,north,SPRING,kelvin,bbc,RED,MORNING,clear,NE,low, Snow ,humid,POOR,franklin,day,-999," 9,225","11,500",£14244,£16623,5296,£5302,-999,-999,"14,225"
+"Jul 30, 2022",stormy,west,NA,kelvin,accuweather,yellow, afternoon ,partly cloudy,E,low,snow,oppressive,excellent,ARWEN,night,,14623,12279,13045,"12,150",4218,8516,2484,5806,19072
+"Oct 05, 2023",missing,EAST,winter,kelvin,NA,red,afternoon,CLEAR,se,Very High,rain,oppressive,NA,eunice,DAY,-999,15753,,13133,4894,1738,15619,   823,14012,14359
+21/09/2022,Windy,North,Summer,kelvin,Bbc,yellow,EVENING,NA, ne ,high,sleet,NaN,VERY POOR,BARRA,Day,4986,"15,564",£17785,   244,3727,3430,5704,£2349,3265,1437
+2021-08-16, Sleet ,coastal,spring,celsius,NA,amber,AFTERNOON,partly cloudy,NA,veryHigh,rain,DRY,MODERATE,BARRA,day,-999,7959,9575,5193,"17,525",17979,£7317,-999,2966,14202
+2021-05-14,windy,coastal,spring, kelvin ,Noaa,None,EVENING,mostlyCloudy,se,moderate, hail , COMFORTABLE ,veryPoor,franklin,NIGHT,£19580,13764,8161,4286,600,"18,501","19,616","13,993",16876,14662
+2022-09-05,SUNNY,north, Summer ,NA,Met Office,amber,evening,clear,SE,EXTREME,rain,-999,very poor,-999, night ,12685,NaN,£3547,"15,234",£5547,7862,"18,925",1450,1525,4067
+2021-02-09,Sleet,north,winter,celsius,weather.com,none, EVENING ,Overcast,NE,moderate,Sleet,HUMID,moderate,franklin,day,8307,12518,15946,16,£14750,9702,-999,NA,-999,2920
+15/02/2021,rainy,North,autumn, fahrenheit , Weather.com ,red,night,NaN,se,high,none,HUMID,,Barra,Night,19349,-999,6399,314,£8527,1105,1651,NA," 9,813",
+2022-05-07,sunny,coastal,NA,fahrenheit,weather.com,NONE,NaN,Mostly Cloudy,nw,,SLEET,oppressive,excellent,corrie,NIGHT,,8152,£13972,4297,3513,18364,"12,813",4498,£4170,17504
+2021-01-24,windy,west,NA,KELVIN,Bbc,AMBER,morning,overcast,s,extreme,none, dry , Excellent ,Eunice, day ,-999,5315,NA,5074,"19,174",missing,352,"11,603",£7476,£7021
+2021-04-09,snowy,west, spring ,celsius,Bbc,NONE,MORNING,overcast,,very_high,hail,dry,very_poor,Eunice,night,"18,058",12642,11065,1344,10346,£16754,4390,NaN,4668,£6341
+missing,RAINY, south ,SUMMER,FAHRENHEIT,WEATHER.COM,none,missing,mostlyCloudy, w ,HIGH,snow,DRY,veryPoor,NaN,day,£17729,-999,NaN,NA,15570,16976,£8545,17781,12213,17610
+31/10/2024, sunny ,MIDLANDS,,FAHRENHEIT,Met Office,amber,Evening,Mostly Cloudy,se,MODERATE,snow,dry,poor,dudley, night ,14157,7308,   771,£9839,£2247,4615,£5866,£17242,3233,8366
+14/09/2021,WINDY,NA, spring ,missing, accuweather ,amber,morning,OVERCAST,S,high,rain,Comfortable,Good,dudley,night,3432,"16,858",17903,£9417,-999,"14,318",2216,18476,18754,8132
+2022-01-31,Snowy,West, winter ,fahrenheit,NaN,amber,morning,partly cloudy,S,low,None,humid,excellent, FRANKLIN ,NIGHT,"10,760",£10757,11024,2274,"16,820",321," 4,131",£14224,NaN,"14,756"
+10/03/2022,NA,MIDLANDS,AUTUMN,Fahrenheit,accuweather,AMBER,afternoon,clear,N,veryHigh,rain,OPPRESSIVE,moderate,eunice,day,£5889,"18,345",9774,"15,237",8036,15081,NaN,7591,£19532,10904
+10/08/2024,Foggy,east,autumn,kelvin,Accuweather,YELLOW,afternoon,overcast,e, MODERATE ,rain,humid,poor,dudley,Day,460,1274,4530,"13,519","14,763",10831,6082,NaN,"13,766",£12139
+2021-04-06,FOGGY,West,SUMMER,CELSIUS,met_office,NONE,night,clear,sw,very high,Sleet,DRY,POOR,Eunice,night,12671,5920,NaN,£58,"13,595",8596,"19,622"," 6,661",6737,£12952
+2021-06-25,-999,MIDLANDS,Summer,kelvin,bbc,none, EVENING ,overcast,SW,Very High,snow,oppressive,veryPoor,missing,Day,1856," 7,085",975,18643,missing,NA,5320,5899,1940,10075
+27/01/2023,Stormy,NORTH,winter,FAHRENHEIT,weather.com, None ,morning,Clear,NE,extreme,NA,humid,good, Barra ,day,NA,15199,2876,£19183,£2666,4557," 2,025",4053,2083,12800
+"May 30, 2023",sunny,inland,,fahrenheit,MET OFFICE,,Afternoon,partly_cloudy,s,NaN,NA,dry,MODERATE,Barra,Day,,16027,6870,£12142,9540,£12363,NaN,"10,122",£4026,2862
+20/01/2023,sunny, midlands ,winter,CELSIUS,Weather.com,None,-999,clear,NA,high,snow,HUMID,moderate,eunice, Night ,,£8675,13191,£9220,3431,12098,9039,1246,6503," 9,424"
+2022-12-16, sleet ,Midlands,spring,Celsius,-999,none,EVENING,mostlyCloudy,w,missing,snow,humid,good,NA,day,17828,£6422,£772,2275,12840,£889,9220,£9163,16285,NA
+2022-07-22,Windy,COASTAL,AUTUMN,, bbc ,yellow,-999,clear,w,high,missing,comfortable,GOOD,FRANKLIN,night,8431,13622,"17,490"," 8,725",18081,£17002,£1342,-999,£9820,
+"Oct 01, 2024",Cloudy,MIDLANDS,WINTER,celsius,accuweather,yellow,Morning,NaN,s,Low,RAIN,HUMID,moderate,Arwen,day,NA,NA,4781,15221,18567,15747,3608,5306,"13,325",18714
+21/02/2024,snowy,north,summer,kelvin,ACCUWEATHER,None,MORNING, OVERCAST ,E,Low,RAIN,Humid,moderate,dudley, day ,,7329,"12,074","13,900",NA,£7229," 9,478",,£1552,8925
+NA,Sleet, inland ,SUMMER,FAHRENHEIT,accuweather,none,EVENING,overcast, se , EXTREME ,Rain,comfortable,excellent,DUDLEY,day," 6,423",7450,10860,3995," 3,548",8681,15919,£17184,6424,3298
+-999,cloudy,,Autumn,celsius,noaa,AMBER,EVENING,clear, Nw ,Very High,snow,-999, Very Poor ,NA,Day,5305,£2425,NaN,2341,,4669,13224,"10,598",19786,£19387
+2021-01-14,NaN,midlands,autumn, celsius , metOffice ,None,night, clear ,n,low,sleet,OPPRESSIVE, poor ,franklin,night,13567,3651,"14,502",,15582,9754,11173,449,NaN,4233
+2024-12-26,Stormy,coastal,-999,fahrenheit,Met Office,red,missing,overcast,W,moderate,Sleet,humid,MODERATE,arwen,Day,3368,1098,384,£16748,17888,3821,18045,14761,15470,NA
+2021-04-16,Sunny, west ,spring,,metOffice,none,evening,CLEAR,n,low,-999,comfortable,moderate,Dudley, day ," 2,474",919,NA,£17567,£884,-999,12770,£7581,9744,£232
+2023-09-10,missing,-999,missing,Fahrenheit,weather.com,none,afternoon,Overcast, sw ,VERY HIGH,-999, comfortable , veryPoor ,eunice,NIGHT,1766,10913,7797," 4,915",1462,"12,726",9857,11025,1401,16212
+21/03/2024,snowy,midlands,spring,Fahrenheit,NA,none,evening,overcast,SW,very high,NaN,comfortable,excellent,eunice,Night,19063,£63,17053,5584,£9115,16759,16169,13752,15597,2519
+2023-04-26,rainy,coastal,Winter,celsius,weather.com,amber,afternoon,-999,NaN,moderate,RAIN,,EXCELLENT,barra,day,4841,7750,,2761,1221,15453,3021,17812," 5,037",£14164
+2021-03-07,sleet,midlands,Winter,,metOffice,NaN,Afternoon,partly cloudy,SE,moderate,Sleet,COMFORTABLE,poor,corrie,night,4005,18092,10778,17074,15352,16932,4869,17905,missing,10352
+07/02/2024, Cloudy ,inland,Winter,KELVIN,ACCUWEATHER,Amber,,MOSTLY CLOUDY,W,low, rain ,HUMID,EXCELLENT,CORRIE,Day,"18,300",8446,4062," 4,818",185,10076,1301,13456,"16,318",
+22/11/2024,sleet,Inland,winter,celsius,WEATHER.COM,missing,Morning,mostly_cloudy,w,HIGH,hail,oppressive,good,CORRIE,day,13876,£12335,£16478,missing,13136,£3738,"12,669",18053,12728,2873
+2022-03-09,,WEST,autumn,celsius,accuweather, amber ,morning,overcast,Nw,moderate,Hail,oppressive,moderate,barra,day,5765,16761," 8,921",12950,11041,£4334,NaN,4011,17134,9765
+missing,snowy,west, winter ,fahrenheit,Accuweather,red,AFTERNOON,overcast, ne ,LOW,NA,Comfortable,VERY POOR,franklin, night ,-999,17879,8491,1674,9583,13740,8008,6228,406,4142
+01/01/2022,sleet,MIDLANDS,SPRING,fahrenheit,,none,night,Partly Cloudy,SW,NA,rain,oppressive,,CORRIE,NA,16068,598,11512,6116," 2,139",£6214,6491,NA,4006,-999
+29/01/2023,rainy,west,-999,celsius,noaa,Amber,afternoon,clear,nw,low,none,oppressive,good,Corrie,day,863,6708,£6545,missing,,£11323,6765,8567,7729,1206
+2022-05-13,SUNNY,midlands,NaN,kelvin,bbc,none,evening,Overcast,missing,low,-999,dry,excellent,corrie,day," 5,606",NA,-999,16941,16602,19991,NA,7879," 2,171",7005
+2024-01-30,Cloudy,Midlands,winter,KELVIN,weather.com,Red,evening,clear,E,low,hail,comfortable,good,Franklin,night,£3440,11962,£10103,"12,712",755," 1,294",5758,9533,11947,missing
+NaN, windy ,coastal,SPRING,KELVIN,met office,None,Evening, clear ,Nw,moderate,snow,comfortable,veryPoor,arwen, DAY ,5102,6401," 7,492",NA,"11,852","13,093",17675,"15,720",NA,NA
+2023-11-16,foggy,east,SUMMER,celsius,Bbc,Amber,MORNING,overcast,se,moderate,none,humid,poor,Dudley,day,19518,9057,8883,£8939,"12,682",18102,5178,-999,10155,2584
+"Feb 08, 2024",Sleet,west, SUMMER ,celsius,,Yellow,Afternoon,,ne,extreme,rain,humid,Poor,Franklin,Day,11961,"12,039","16,852"," 4,014",4058,missing,£4161,6294," 9,736",13020
+26/10/2024,cloudy,north,autumn,fahrenheit,WEATHER.COM,none,night,MOSTLY CLOUDY,NaN,moderate,Rain,humid,missing, arwen , day ,NaN,13396,4053,19872,15989,674,,9365," 3,281",9573
+21/07/2022,snowy,west,winter,kelvin,met_office,red,night,mostly_cloudy,NA,very high, RAIN ,OPPRESSIVE,excellent,arwen,DAY,£5304,3324,17836,missing,17331,12757,2095,   698,£6542,8485
+17/03/2023,missing,missing,spring,KELVIN,, AMBER ,Afternoon,clear,e,Moderate,snow,NaN,Poor,dudley,day,NaN,10753,18928,9024,5651,1873,956,19972,£5899,16034
+26/01/2023,foggy,west,summer,fahrenheit,NOAA,Amber,-999,mostly cloudy,se,very high,hail,comfortable,Moderate,Eunice,,-999,5033,"19,548",18624,£5253,,8610,-999,7423,1572
+NA,sleet,north,winter,NaN,Met Office, none ,NaN, partly cloudy ,Sw,very high,hail,comfortable,Very Poor, corrie ,night,10871,£16177,,£19889,13551,3254,"14,605",8284,,3997
+2021-11-01,stormy,coastal,Spring,celsius,weather.com,NA,-999,overcast, e ,EXTREME,Snow,oppressive,Excellent,barra,day,"15,095",3004,10544,£4964,£10321,£17068,18943,-999,10894,754
+2023-08-22,cloudy,west,Autumn,fahrenheit,accuweather,amber,evening,PARTLY CLOUDY,n,Extreme,hail,humid,veryPoor,Dudley,night,11434,10271,NA,3433,16745,NA," 5,755",13759,16075," 2,150"
+"Apr 06, 2024",snowy,east,winter,NA,BBC, amber , Morning ,partlyCloudy,NA,LOW,sleet,comfortable,missing,corrie,NIGHT,-999," 9,322",-999,4737,£9810,11273,12540,16284,3244,£11122
+2024-08-21,stormy,north,autumn,celsius,accuweather,amber,night,Overcast,missing,Moderate,Snow,dry,VERY POOR,EUNICE,day,   135,£11306,10735," 5,578",13445,12575," 5,275",18434,NA,18647
+2021-09-25,NA,NaN,winter,KELVIN,bbc,none,afternoon,overcast,se,Low,RAIN,comfortable,veryPoor,dudley,night,,3616,£17731,," 6,784",17487,£2563,16341,11104,11737
+2022-02-15,Sleet,north,NA,Celsius,Accuweather,Red,AFTERNOON,partly_cloudy,,moderate,SLEET,humid,moderate,Eunice,Day,10537,4239,missing,13651,6746,905,10659,15974,364,15961
+15/06/2024,windy,south,autumn,Fahrenheit,Bbc,amber,Morning,CLEAR,W,High,missing,dry,poor,dudley,Day,missing,16626,8766,15527,£11423,1302," 8,812",18151,2649,8421
+10/12/2021,SUNNY,east,winter,fahrenheit,BBC,None,Morning,MOSTLY CLOUDY,SE,Low,Snow,COMFORTABLE,Moderate, Eunice ,night,"13,482",15677,16082,"10,632",3296,6456,17059,,19375,13845
+08/08/2022,Sleet,INLAND,spring,Celsius,BBC,none,afternoon,overcast,NaN,VERY HIGH,SLEET,dry,GOOD,,missing,11902,1669,4692,-999,"12,471",£14218," 6,181",£5656,19353,NaN
+"Apr 28, 2024",sleet,inland,autumn,, accuweather ,none,evening,Mostly Cloudy,SE, moderate ,NONE,comfortable,MODERATE,BARRA, Day ,8899,£16003,16785,£1705,-999,£15841,16489,4386," 6,063",5809
+-999,SUNNY,NA,summer,Kelvin,NaN,Yellow,afternoon,Overcast, e ,low,snow,humid, moderate ,barra,NA,17945,NaN,18244,8351,3655,9007,15212,£16892," 8,615",18247
+09/04/2023,Stormy,north,autumn,-999,MET OFFICE,YELLOW,,PARTLY CLOUDY,Sw,moderate,rain,Comfortable,good,Corrie, night ,£7559,"12,710",NaN,2940,7883,"17,465",5815,£13498,"17,942",16008
+14/12/2023,snowy,COASTAL,spring,celsius,weather.com,yellow, morning ,clear,-999,Extreme,Rain,comfortable,moderate,franklin,night,,9029," 8,082",9726,1574,14477,19368,NaN,7130,£4604
+10/04/2021, stormy ,north,summer,Celsius,Accuweather,yellow,evening,Clear,nw,extreme,sleet,missing,veryPoor,NA,day,13152,NaN,"19,684",7360,8688,17389,9418,£12609,,12838
+18/02/2022,cloudy,,NaN,fahrenheit,MET OFFICE,yellow,Night,mostlyCloudy,NaN, veryHigh ,missing,comfortable,good,franklin,night,12347,missing," 6,916"," 7,785",missing,£8515," 5,916",10313,12567,missing
+2022-06-08,SLEET, east ,SUMMER,Celsius,accuweather,Yellow,Night,mostly_cloudy,sw, moderate ,rain,oppressive,moderate,arwen,day,£19648,18192,£4403,18456,5077,-999,NaN,18149,NaN,£8216
+05/02/2024,stormy,east, winter , fahrenheit ,accuweather,Yellow,Morning,PARTLY CLOUDY,-999,very_high,NA,,NA,Corrie,Day,£14019,17721," 5,184",6077,NaN,15849," 5,695",1472,12954,"11,902"
+2023-09-29,sleet,West,Summer,celsius,accuweather,amber,evening,partlyCloudy,Nw,low,HAIL,COMFORTABLE,moderate,eunice,day,3015,2823,8450,-999,"16,089",£15802,6352,-999,,11907
+21/08/2022,Foggy, coastal ,summer, celsius ,NA,RED,afternoon,Clear,E,high,rain,COMFORTABLE, Excellent ,Arwen,missing,15587,missing,8288,,£2717,4621,missing,"15,612",3640,4057
+10/03/2021,windy,North,autumn,Celsius,met_office,red,afternoon, PARTLY CLOUDY ,n,LOW,HAIL,oppressive,MODERATE,dudley,night,£9218,9600,13215,8846,£1081,2192,NaN,£4718,2632,£19997
+missing,SLEET,North,Autumn,Kelvin,metOffice,red,AFTERNOON,overcast,N,Low,hail,humid,moderate,Arwen,NA,£8021,NaN,5686,,£11023,9942,£15071,6383,£717,-999
+2022-08-18,,inland,AUTUMN,celsius,Accuweather,,night, Mostly Cloudy ,S,high,rain,humid,NA,dudley,DAY,£17148,"15,715",,12970,£12430,5056,2372,£13574,missing,5598
+,Cloudy,NaN,winter,Kelvin,met office,None,Morning,PARTLY CLOUDY,sw,veryHigh,none,humid,poor,FRANKLIN,NA,4489,£13236,10684,2227,2526,4682,18527,13799,8724,£12428
+"Mar 02, 2023",,west,winter,CELSIUS,ACCUWEATHER,red,evening,PARTLY CLOUDY,N,NaN,,Humid,moderate,corrie,day,18082,1213,7028,18485,"11,804",1847,£88,   159,18706,15884
+09/01/2023,WINDY,midlands,NA,kelvin,accuweather,YELLOW,Afternoon,mostly_cloudy,NA,NA,Sleet,OPPRESSIVE,VERY POOR,EUNICE,DAY,missing,-999,9140,4696,11106,,6188,£15602,NaN,3207
+2021-07-27,-999,coastal,autumn,fahrenheit,,red,evening,Clear,NW,Extreme,Sleet,dry,moderate,ARWEN,day,£12685,13933,18250,,19301,£11727,4872,NaN,NA,
+"May 12, 2022",Cloudy,MIDLANDS,summer,kelvin,accuweather, AMBER ,morning,partly cloudy,s,moderate, Hail ,-999,moderate,dudley,day,," 3,549"," 4,373",NaN,£2350,8455,449,"18,274",9357,16149
+2024-09-11, stormy ,inland,Spring,celsius,-999,red,Morning,mostly_cloudy,w, High , rain ,missing,MODERATE,NA,day,£13973,3535,2666,3039,18873,19637,£15977,£64,4332,7972
+2022-09-29,cloudy,Inland, spring ,FAHRENHEIT,NOAA, yellow ,evening, mostly_cloudy , s ,-999, SLEET ,-999,NA,arwen,day,15946,2343,NaN,6585,"17,949",6558,8710,2678,"10,559",16530
+29/03/2021,Snowy,south,spring,kelvin,Met Office,yellow,Evening,OVERCAST,s,NaN, none ,oppressive,POOR,Eunice,day,-999,19405,8320,,£7128,2553,£343,15443,£5318," 8,810"
+18/04/2022,cloudy,west,autumn,-999,Accuweather,none,,MOSTLY CLOUDY,ne, Moderate ,NaN, dry ,EXCELLENT,arwen,night,7687,19729,£13130,7057,17844,NaN,13504,£2818,£16468,
+09/04/2021,STORMY,midlands,NaN,NA,MET OFFICE,-999,EVENING,clear,ne,very_high,rain,humid,Good,barra,day,2275,18123,10539,1086,15596,£12486,£7890,£6827," 2,980",£9588
+2022-05-17,Sleet,Inland,NA,KELVIN,NaN,RED, night ,clear,w,VERY HIGH,hail,dry,moderate,franklin,day,19089,missing,4124," 2,903","19,275",,NaN,£18009,932,6036
+2022-11-07,Foggy,west, autumn ,FAHRENHEIT,bbc,Yellow,MORNING,MOSTLY CLOUDY,n,NA,none,oppressive,Excellent, barra , day ,15398,11039,12549,16292,£30,13815,240,18709,8354,NaN
+-999,foggy,east, SUMMER ,CELSIUS,bbc,none,night,partly_cloudy, n ,moderate, snow ,,NA,Eunice,Night,"17,766",12674,£6571,9646,£3230,7190,"15,883",4323,missing,18057
+2024-04-05,Cloudy,-999,winter,fahrenheit,NaN,NONE, evening ,OVERCAST,Sw,very high, Sleet ,Comfortable,moderate,barra,day,13612,"19,506",1949,18829,394,-999,£19424,9079,£1479,7013
+10/03/2021,Foggy,Coastal,NaN,missing, bbc ,RED,morning,clear,E,extreme,sleet,OPPRESSIVE,missing,franklin,day,18766,£7912,13520,missing,-999,15591,£5065,17497,18483,-999
+10/02/2024,-999,west,AUTUMN,celsius, Weather.com ,NONE,evening,overcast,,Very High, none ,humid,excellent,corrie,NA,9865,8872,£2639,£7202,13050,10743,833,1114,10154,9512
+19/04/2024,rainy, INLAND ,WINTER,fahrenheit,weather.com, amber ,morning,-999,W,Low,snow,dry,NA,eunice,night,16821,£7385,-999,-999,8850," 3,817",2213,£12455,"18,987","12,750"
+19/02/2021,missing,North,SUMMER,kelvin,weather.com,none,evening,mostly cloudy,e,low,none, Oppressive ,MODERATE,dudley,DAY,NA,11835,£4642,-999,18930,-999,-999,," 8,572",17355
+28/02/2022,sunny,north,NA,celsius,ACCUWEATHER,,-999,Clear,W,very_high,none,-999,POOR, ARWEN ,Day,11783,£14814,£14556,£17369,,14375," 8,501",11570,,6644
+2023-03-18,-999,inland,summer,celsius,bbc,YELLOW,morning,clear,w,moderate,NONE, oppressive ,VERY POOR,NA,night,£8788,missing,   639," 2,043",4123," 1,648",missing,£3326,missing,NaN
+26/09/2021,cloudy,midlands,spring,fahrenheit,Weather.com,red,afternoon,Partly Cloudy,S, Extreme , Rain ,comfortable,NaN,corrie,-999,11880,4247,2905,NaN,16465,4534,19618,£19642,£19293,-999
+2021-06-30,foggy,coastal,summer,FAHRENHEIT,noaa,None,morning,overcast,se,moderate,hail, HUMID ,poor,barra,Day,£5929,6972,18740,NA,£18978,NA,15146,-999,NA,
+2023-03-12,WINDY, East ,autumn,Kelvin,Met Office,Red,evening,Mostly Cloudy,Se,extreme,sleet, dry ,moderate,corrie,Day,," 3,160",£2163,4188,£3847,2908,3444,,472,£8353
+2022-06-08,sleet,inland,winter,Celsius,met office, Yellow ,afternoon,partly cloudy,w,very high,Sleet,Humid,Excellent,barra, Day ,78,17274,13701,£17750,17679,£18780,1499,£4360,8500,14017
+04/02/2022,FOGGY,East, autumn ,-999,bbc,None,evening,Mostly Cloudy,n,high,none,OPPRESSIVE,moderate,corrie,DAY,£15613,£6676,19992,15246,13133,9537,£4802,£15247,17005,11199
+2023-03-30,foggy,NaN,winter,NaN,noaa,amber,AFTERNOON,mostlyCloudy,NA, MODERATE , snow ,Oppressive,GOOD,-999, night ,8535,1580,£8174,4499,"18,651",£10283,12652," 9,448",,-999
+29/10/2021, sunny ,south,Summer, fahrenheit ,NOAA,None,night,MOSTLY CLOUDY,n, veryHigh ,none,COMFORTABLE,good,eunice,night,6544,403,£1763,missing,17624,506,2728,9081," 6,915",11781
+"Apr 27, 2023",sunny,Inland,winter,celsius,WEATHER.COM,red,AFTERNOON,CLEAR,NaN,extreme,HAIL,comfortable,Excellent,DUDLEY,night,6996,9676,3866,16779,NA," 9,613",4043,"19,949",,5810
+2024-03-31,rainy, inland ,AUTUMN,Kelvin,Noaa,,afternoon,overcast,W,Low,rain,dry,excellent,franklin,night,"14,408",10517,1061,5851,6544,7738,989," 6,533",19930,2799
+18/05/2021,sleet,east,winter,kelvin,Accuweather,none,,OVERCAST,NW,Low,snow,OPPRESSIVE,poor,franklin,-999,"18,995",£3251,13618,7223,"10,093",6385,7158,2217,NA,19192
+2023-08-02, snowy ,MIDLANDS,NaN,celsius,MET OFFICE,RED,afternoon,NaN,se,moderate, Snow ,NA, very_poor ,BARRA, DAY ,11989,8856,18401,12539,11553,6587,4261,2967,£7981," 5,800"
+21/05/2024,SUNNY,Midlands,autumn,kelvin,accuweather,Red,morning,overcast, sw ,LOW,rain,COMFORTABLE, excellent ,barra,night,NA,2144,,£14051,5291,12981,missing,£2701,-999," 1,870"
+10/11/2021,FOGGY,west,summer,fahrenheit,accuweather,yellow,,Clear,NaN,moderate,-999,Oppressive,veryPoor,barra,day,19278,NaN,11386,,845,5869,10189,£12882,17550,missing
+2023-03-08,FOGGY,midlands,AUTUMN,kelvin,accuweather,red,evening,clear,E,very_high,rain,Comfortable,moderate,dudley,day,NaN,5717,,17551,13197,NaN,5439,£9421,11142,18642
+19/03/2021,SLEET,east,summer,NA,Bbc,red,morning,mostly cloudy,sw,very_high,hail,comfortable,very poor,FRANKLIN,day,15849,12615," 5,248",missing,14526,£4345,£3973,5916,£1759,£6530
+05/04/2021,SLEET, east , Spring ,celsius,noaa,yellow,-999,NaN, NE ,low,sleet,comfortable,missing,Eunice,night,11826,6014,18792,3174,£13533,£17179,11834,14663,16677,8474
+2023-11-17,CLOUDY,East,spring,KELVIN,MET OFFICE, None ,NA,NaN,E,low,sleet,COMFORTABLE,veryPoor,EUNICE,NaN," 1,423",NA,£3100,"10,399",15089,9469," 8,391"," 3,880","18,150",12568
+19/10/2022,-999,midlands,spring,celsius,Accuweather,YELLOW, EVENING ,CLEAR,n,Moderate,Rain, DRY ,POOR,BARRA,Day,13101,389,9926,£18073,5420,11651,£6282,£357,16076,£12873
+22/03/2021,foggy,East,summer,,MET OFFICE,Amber, Morning ,overcast,S,high,hail,NaN,poor,Franklin,night,6226,3216,1377,19784,"17,607",-999,14048,7520,2375,£18578
+03/04/2021, Stormy ,Coastal,WINTER,fahrenheit,weather.com,red,morning,partlyCloudy, NE ,moderate,None,DRY,Excellent,arwen, day ,5920,8107,14821,£7066,18902,£2241,,missing,11400,733
+"Sep 30, 2024",Stormy,south,WINTER,NaN,NOAA,red,evening,mostly cloudy,e,VERY HIGH,none,oppressive,moderate,eunice,night,£9021,1712,-999," 2,811",-999,,£111,13403,£1156,-999
+2021-09-06, RAINY ,INLAND,winter,KELVIN,Noaa, none ,morning,Partly Cloudy,missing,extreme,rain,oppressive,good,arwen,Day,17800,,14184,2045,£13586,16560,£18036,2045,12688,11845
+-999,foggy,inland,WINTER,fahrenheit,accuweather,amber,evening,Mostly Cloudy,NW,veryHigh,rain,Humid,Moderate,franklin,DAY,1911,£17628,£8219,4231,£1304,19844,16089," 7,486",13908,2253
+2021-05-22,foggy,east,summer,fahrenheit,accuweather,,missing,overcast,N,high,SLEET,COMFORTABLE,poor,EUNICE,night,"12,100",19808,5595,£82,£6015,15845," 2,883","14,650"," 9,991",-999
+26/08/2023,SNOWY,east,-999,NA,metOffice,AMBER,evening,, w ,veryHigh,Hail,oppressive,VERY POOR,-999,night,£2200,2730,"13,763",16327,£2,£12702,£7931,£2516,4252,NA
+13/07/2021, cloudy ,north, autumn ,KELVIN,Noaa,yellow,afternoon,overcast,NA,low,Rain,Dry,Very Poor,franklin,missing,10374,16143,£9285,19600,£13092,"16,612",13609,£10755,"10,817",12277
+"Sep 20, 2021",foggy,east,Autumn,fahrenheit,Weather.com,yellow,EVENING,MOSTLY CLOUDY,sw,EXTREME,Snow,HUMID,Moderate,NA,NaN,8950,17938,,15301,-999,£8379,"15,844",13242,17127,"14,913"
+26/09/2021,foggy,west,Winter,fahrenheit,met_office,AMBER,afternoon,mostlyCloudy,sw,high,SNOW,dry,excellent,Corrie,Night,7981," 6,639",£11483,18023,"14,206",£16362,8356,13048,£1069,703
+2024-05-02,snowy,Coastal,winter,Celsius,MET OFFICE,red,MORNING,NaN,w,extreme,SLEET,comfortable,-999,franklin,night,3219,10235," 3,082",12778,£15166,16981,1439,13534,£16123,8056
+NaN,windy,East,NA,,BBC,red,EVENING,missing,n,Moderate,NONE,humid,moderate,corrie,Day,7602,12871,   912,missing,£19011,£1674,£3088,NA,11526,missing
+2022-09-13,windy,North, spring ,kelvin,weather.com,NA,NA,Overcast,s,very_high,SNOW,dry,,-999, day ,11740,7874,3615,NA,5589,-999,   445,9447,4431,£18835
+2023-06-22,-999,midlands,summer,CELSIUS,Accuweather,Yellow,NaN,clear,Nw,high, rain ,Dry,moderate,DUDLEY,day,15669,14534,13419,9543,9302,13789,,1124,"14,770","18,336"
+27/01/2021,foggy,Coastal, spring ,celsius,MET OFFICE,none,morning,overcast,-999,high,sleet,Oppressive,,arwen,Day," 8,052"," 9,794",10310,2236,10017,7099,missing,12398,£3013,9059
+10/11/2022,rainy,midlands,spring,NaN,ACCUWEATHER,Yellow,afternoon,clear,N,Very High,none,humid,moderate,eunice,NIGHT,5149,6134,£4223,1129,19118,1581,£8358,9350,9426,
+2022-08-10,Rainy,north,spring,celsius,missing,Amber, NIGHT ,mostlyCloudy,S,extreme,snow,-999,moderate,dudley,Night,12885,13791,£19555,12966,"13,919",558,£2725,£2901,,"14,600"
+2021-12-26,RAINY,South,autumn,fahrenheit,ACCUWEATHER,red,morning,Partly Cloudy,e,extreme,SNOW,NA,moderate,franklin,DAY,5548,4978,19931,13143,19985,£16294,14293,2061,19923,15146
+2021-04-30,FOGGY,-999,SUMMER,Celsius,bbc,YELLOW,EVENING,clear,e,Low,HAIL,HUMID,VERY POOR, arwen , Night ,13280,NaN,£10215,10682,6975,18744,£10592,10886,3761,3575
+"Mar 19, 2022",sleet,SOUTH,summer,NA,Accuweather,amber,Evening,MOSTLY CLOUDY, W ,low,none,humid,moderate,barra,day,£3640,8237,7319,£3400,"18,579",16677,"10,480",772,19305,7420
+04/07/2023,snowy,West,Winter,celsius,noaa, none ,Evening,overcast,n,Low,snow,Dry,moderate, corrie ,NaN,7087,£9857,323,4586,7798,14002,£3113,9983,"15,258",£10938
+"Jan 31, 2021", Rainy ,coastal,SPRING,Fahrenheit,MET OFFICE,red,afternoon,partly_cloudy,SW,high,SNOW,OPPRESSIVE,good,barra,day,16638," 8,332",£2697,13804,missing,3172,£14211,14643," 8,170",8517
+"Dec 03, 2021",rainy,coastal,SPRING,NaN,bbc,NaN,NA,partly cloudy, Ne ,Low,hail, humid ,excellent,barra,night,"18,509",1145,NA,-999,3080,11307,£9013,12027," 8,129",5145
+04/04/2024,Sleet,midlands,winter,kelvin,missing, none ,-999,mostly_cloudy,sw,NaN,hail,COMFORTABLE,very_poor,dudley,Day,12918,£9578,missing,5505,"19,163",£18583,£2955,10944,NA,"14,355"
+"Dec 23, 2024",Foggy,east,spring, KELVIN ,Bbc,missing,night,NA,W,moderate,snow,humid,GOOD,dudley,NaN,"12,799",3796,missing,£18527,£17503," 4,077"," 7,790",missing,£13073,£19554
+2021-11-14, Stormy ,MIDLANDS,SPRING,Fahrenheit,noaa,RED,morning,CLEAR,se,NA,rain,DRY,excellent,franklin,DAY,£11962,2047,7105,3147,15941,16701,£17931,£6836,13719,11350
+2024-05-31,snowy,midlands,autumn, fahrenheit ,noaa,amber,morning,clear,sw,very_high,NONE,Oppressive,missing,franklin,NA,,11556,3036,£8661,£2083," 3,370","10,669",missing,£18125,£916
+23/08/2023,Windy, midlands , WINTER ,fahrenheit,metOffice, none ,night,overcast,E,extreme,snow,dry,,arwen,Night,6241,missing,12186,7459,975,missing,6113,,"10,619","15,001"
+2023-01-09,windy,SOUTH,WINTER,Kelvin,weather.com,,morning,Clear,se,high,sleet,Oppressive,missing,Barra,,-999,"12,911",16302,NA,£4391,6968,NA,1868,10581,NaN
+24/08/2022,windy,INLAND,winter,Fahrenheit,met office,red,MORNING,partlyCloudy,n,very_high,snow,dry,-999,NaN, day ,3339,£2252,5079,14444,7634,£2814,14059,4859,,7067
+27/05/2022,sleet,inland,missing,kelvin,Noaa,red,Morning,OVERCAST,E, low ,rain,humid,Poor, DUDLEY ,Night,6380,18425,118,4258,£2895,"17,156",6465,2419,1465,4167
+NaN,foggy,West,Autumn,-999,bbc,red, night ,Overcast,W, very_high ,RAIN,comfortable,moderate,franklin,night,missing,NaN,NA,£5296,£126,14314,19267,£13444,"17,688",6318
+2021-07-09,foggy,inland,winter,celsius,accuweather,NA,evening,Mostly Cloudy,n,High,Sleet,humid,Moderate,arwen,day,-999,"14,470",14629,NA,   305,7407,13879,6021,7454,   994
+2024-01-18,cloudy,west,Summer,kelvin,met_office,none,morning,OVERCAST,s,NA,rain,Oppressive,poor,EUNICE,night,18132,12336,8005," 2,174","15,523",£4355,NaN,4029,£2308,12664
+2023-11-20,foggy,MIDLANDS,Spring,Kelvin,Met Office,NONE, NIGHT ,partlyCloudy,se,Moderate, hail ,comfortable,MODERATE,arwen,day,7906,17741,15818," 1,619",3856," 4,900",-999,"13,556",19774," 1,642"
+13/10/2023,cloudy,east,winter,Fahrenheit,bbc,Red, night ,clear,n,extreme,hail,comfortable, EXCELLENT ,NA,night,," 3,057",£691," 6,160",19892,12181," 3,082",8880,7189,£14823
+19/05/2024,windy,north,SUMMER,CELSIUS,noaa, None ,Evening,overcast,NE,High,NaN,comfortable,moderate,BARRA,Night,7316,16611,13668,6219,NA,2938,£18591,3116,15610,missing
+17/09/2021,cloudy,South,spring,CELSIUS,noaa,,evening,mostly_cloudy, N ,HIGH, sleet ,comfortable,poor,Eunice,DAY,267,NaN,19692,£826,1381,17453,-999,NA,12067,8852
+missing,rainy,inland,autumn,Celsius,Met Office,none,NIGHT,partlyCloudy, W ,High,None,HUMID,VERY POOR,Corrie,day,5728,13740,19823,6666,1146,10911,13313,£9744,NA,8687
+13/07/2023,snowy,north,Autumn,-999,weather.com,yellow, night ,OVERCAST,S,extreme,rain,dry,moderate,EUNICE,NA,7794,missing,19770,£11562,£17100,11467,-999,NaN,1102,13065
+23/04/2024,snowy,Midlands,NA,Fahrenheit,WEATHER.COM,red,missing,Clear, S ,Very High,hail,NaN,-999,dudley,NIGHT," 6,730",NA,"17,291",3653,97,768,"13,806",,12964,4385
+NaN, SLEET ,INLAND,autumn,fahrenheit,NA,red,night,Mostly Cloudy,NA,HIGH,sleet,comfortable,moderate,,night,"11,981",NaN,11252,9531," 1,958",£6383," 4,318",18209,19253,2913
+2022-05-31,Snowy,WEST,SPRING,NaN,ACCUWEATHER,none, EVENING ,partly_cloudy,Sw,missing,missing,NA, POOR ,barra,NIGHT,8152,408,10916,15240,5730,,missing," 9,468",NA,£9646
+27/11/2021,Sleet,inland,SPRING,NaN,Met Office,Red,morning,PARTLY CLOUDY,missing,very high,Rain,OPPRESSIVE,poor,arwen,night,10757,6011," 9,360",£3942,11099,17577,NaN,-999,-999,18464
+03/06/2023,Sunny,west,Winter,,Bbc,red,evening,missing,e,EXTREME,RAIN,comfortable,very_poor,corrie,NA," 4,920",17660,£10679,17941,missing,15109,13405,12285,13129,10417
+15/09/2022,snowy, MIDLANDS ,SPRING,Celsius,WEATHER.COM,amber,night,clear,W,Moderate,Hail,comfortable,moderate,barra,day,7991,"10,661","15,809","13,119",18748,19047,missing,13973,2371,13635
+24/09/2022,FOGGY,east,AUTUMN,Fahrenheit,accuweather,Yellow,missing,mostlyCloudy,E,VERY HIGH,missing,comfortable,excellent,FRANKLIN,night,£5100,NaN,16131,£16752,7609,17306,8167,-999,"12,027",missing
+2021-08-24,Foggy,midlands,NaN,Kelvin,weather.com,Yellow, morning ,Overcast,nw, high ,SNOW,Oppressive,,corrie,day,3576,18959,9026,235,£14107,4893,6843,18741,£249,18300
+2022-11-15,windy,West,autumn,Celsius,weather.com,amber,Evening,,-999,high,Snow,oppressive,moderate,franklin,night,NA,missing,5097,10434,6821,17816,13872,2067,13204,NaN
+13/05/2021,sleet,SOUTH,winter,fahrenheit,ACCUWEATHER,-999,morning,MOSTLY CLOUDY,sw,Low,sleet,Comfortable,good,Eunice,night,8795,"12,057",5426,2673,NaN,NaN,17324,15674,4245,5231
+02/01/2024,STORMY,North,winter,celsius,MET OFFICE,red,evening,overcast,w,low,NONE,comfortable,moderate,eunice,day,"13,914"," 7,179",£9789,11010,1158,15203,£3835,NaN,9543,£10276
+2022-12-30,sleet,SOUTH,autumn,celsius,metOffice,red,AFTERNOON,OVERCAST,E,veryHigh,rain,humid,MODERATE,franklin,night,2572,322,10815,"16,949",13735,5316,15482,missing,14693,5512
+29/04/2021,FOGGY,NORTH,autumn,kelvin,ACCUWEATHER,yellow,NIGHT,MOSTLY CLOUDY,e,extreme,sleet,comfortable,VERY POOR,corrie, day ,£14640,£16694,2170,2975,NaN,5701,14378,-999,"16,143",2591
+missing,Cloudy,south,-999,,accuweather,amber,evening, MOSTLY CLOUDY ,ne,low,HAIL,comfortable, good ,FRANKLIN, Night ,,NaN,£17700,"17,993",£19880,13123,£13663,£13774,10176,7114
+01/05/2024,WINDY,NORTH,winter,fahrenheit,accuweather,none,-999,,e,extreme,none,dry,moderate,corrie,Night,£8581,£12779,9006,missing,4194,£2614,£661,16662,"19,059",NA
+26/01/2021,sunny,north,WINTER,CELSIUS,BBC,None,NIGHT,missing,,HIGH,hail,Oppressive,,eunice,night,8315,16192,14010,4861,"10,066",12214,9601,1551,£7811,2972
+03/03/2022,sleet,MIDLANDS,Winter,Fahrenheit,met_office,Yellow,Afternoon,partlyCloudy,W,low,Sleet,DRY,moderate,FRANKLIN,night,missing,15104,missing,6985,5448,8999,£18243,,4755,-999
+"Jun 03, 2023",SUNNY,south,-999, Fahrenheit ,NA,NONE,NA,clear,e,low,Sleet,HUMID, moderate ,EUNICE,night,15420,£8141,5270,"15,981","17,210","14,827",4390,-999,19969," 7,319"
+23/08/2024,STORMY,south,Spring,kelvin,noaa,NaN,evening,partly_cloudy,W,high,snow,NA,good,eunice,NaN,missing,4174,4192,£17551,10023,£10777,7553,"16,780",5832,NA
+2023-06-27,stormy,Midlands,NA,kelvin,metOffice,yellow,morning,partlyCloudy,NaN,LOW,HAIL,comfortable,NA,franklin,night,157,missing,NA,11260,12742,18800,4934,£15690,565,7821
+2023-08-20,rainy,SOUTH,autumn,kelvin,Weather.com,none,morning,overcast,w,low,Rain,DRY,MODERATE,arwen,night,NA,"12,892","13,482",£3368,"11,009",13308," 2,640",£19888,"11,328",15507
+2021-10-20,cloudy,NA,missing,celsius,Noaa,amber,EVENING,overcast,se, EXTREME ,Rain,oppressive,very poor,-999,night,£13830,NaN,2421,"12,847",14853,,3729,8955,4769,missing
+06/10/2024,STORMY,north,SPRING,FAHRENHEIT,bbc,Red,night,missing,sw,MODERATE,HAIL,oppressive,Good,corrie,day,£6192,£16547,19164,,10055,14987,6362,13378,7066,missing
+31/10/2022,-999,Inland,winter,fahrenheit,-999, yellow ,missing,Clear,ne,missing,sleet, humid ,-999,eunice,NIGHT,6327,2171,£4064,"18,609",12786,3226,6382,£9822,NA,£2177
+2022-06-23,RAINY,south,SPRING,kelvin,noaa,none,Morning,MOSTLY CLOUDY,s,VERY HIGH,HAIL,dry,Very Poor,Arwen,Day,"13,401",1397,3182,1784,-999,19896,12303,,18401,£4616
+2023-05-10,NaN,south,Winter, fahrenheit ,NOAA,red,Night,partly_cloudy, n , moderate ,NONE,humid,Poor,DUDLEY,day,10006,3684,14441,10712,7330,5335,£14465," 7,241"," 9,002",£5276
+-999,stormy,south,autumn,celsius,accuweather,yellow,evening,CLEAR,SE,moderate,hail,COMFORTABLE,NA, dudley ,Night,9611,17909,-999,7459,£16155," 5,413",11333,17246,-999," 7,967"
+11/06/2023,CLOUDY,inland,winter,Fahrenheit,Met Office,Red,night,Partly Cloudy,se,Low,NONE,oppressive,EXCELLENT,corrie,day,13509,,5710,9787,4120,4037,"14,891",3386,7254,18082
+24/07/2022,-999,WEST,AUTUMN,celsius,accuweather,amber,MORNING,overcast,W,LOW,Hail,DRY,POOR,missing,day,135,12353,7008,£9442,14624,15864,14715,3918,NaN,£13886
+2024-12-10,windy,MIDLANDS,winter,Fahrenheit,Weather.com,missing,Evening,overcast,e,moderate,missing,oppressive,NA,dudley,NIGHT,738,"18,966",£9068,16706,£16466,2738,9898,1358,18127,missing
+20/12/2023,rainy, south ,,kelvin, Bbc ,none,evening,OVERCAST,SE,extreme,sleet,oppressive,NaN,CORRIE,Night,2748,13459,18830,£12933,16703,16038,11810,£2808," 5,154",
+20/09/2024,sunny,north,spring,Kelvin,MET OFFICE,-999,-999,MOSTLY CLOUDY,W,low,,Oppressive,excellent,arwen,day,"15,955",NA,NA,18025,-999,£11077,NA,18459,11154," 5,664"
+27/12/2024,stormy,NA,NaN,Kelvin,-999,Red,night,Overcast, S ,low,hail,humid,Excellent,Franklin,DAY,12010,11884,£9949,£17243,5114,-999,15231,2140,19541,8287
+NA,rainy,COASTAL,summer,Kelvin,met_office,Amber,night,clear,missing,very_high,sleet,DRY,excellent,eunice,NIGHT,missing,£12091,-999,missing,-999,£15354,3696,12700,4324,£17778
+2021-11-01,sleet,coastal,WINTER,fahrenheit,,yellow, afternoon , OVERCAST ,e,extreme,none,-999,EXCELLENT,Arwen,night,£10237,   584," 9,418",£14771,19117,186,"16,224","12,949",4727,
+2022-04-10,SUNNY,NaN, Summer ,FAHRENHEIT,BBC,yellow,Evening, Mostly Cloudy ,NA,Very High,RAIN,Oppressive,moderate,missing,day,NA,4405,12060,3705,7844,£14947,3551,£7559," 8,594",8027
+2024-06-17,rainy,MIDLANDS,autumn,fahrenheit,ACCUWEATHER,none,NIGHT,partlyCloudy,N,moderate,-999,dry,Moderate,franklin,NA,12059,"10,572",3057,"12,483",missing,£3839,10722,11700,6934,£16149
+2021-09-07,sleet,inland,spring,Fahrenheit,accuweather,AMBER,night,Partly Cloudy,sw,LOW,sleet,humid,excellent,Franklin,day,5755,"11,110",10620,£12794,16780,missing,"13,216",2963,£18120,6712
+07/06/2023,foggy, west ,SPRING,CELSIUS,noaa,red,night,partlyCloudy,se,EXTREME,snow,HUMID,NA,eunice,day,13929,3054,£3366,14132,missing,3521," 9,627",7464,10702,11889
+13/07/2021,sleet,MIDLANDS,winter,celsius,noaa,Red,Evening,missing,s, low ,SNOW,NA,veryPoor,DUDLEY,Day,NaN,£13237,9059,£14559,19833,NaN,13373,4083,14877,13815
+2022-06-22,NA,inland,summer,fahrenheit,missing,none,night,overcast,nw,Moderate,rain, humid ,good, franklin ,night,1384,£1847,18987,,£8821,£8899,,"10,421",£19745,3509
+15/05/2021,WINDY,missing,Winter,celsius,Accuweather,amber, morning ,overcast,w, Low ,hail,NaN,moderate,eunice,day,7998,14002,£8263,"19,796",missing,5725,-999," 3,848",158,
+"May 03, 2022",rainy,coastal,winter, Kelvin ,bbc,missing,morning,mostly cloudy,N,MODERATE, rain ,Oppressive,-999, Dudley ,night," 8,845",12532,,missing,16751,19630,£15529,NA,19704,6823
+21/02/2021,sleet,missing,WINTER,FAHRENHEIT,bbc,Yellow,night,Partly Cloudy,Nw,extreme,rain,oppressive, Very Poor ,-999,day,94,NaN,"13,445",5493," 3,018",3878,2008,19464,14357,1691
+2021-07-10,sleet,north,Winter,kelvin,accuweather,red,morning,PARTLY CLOUDY,s, moderate , sleet ,oppressive,poor,dudley,NIGHT,3189,"10,689",£12892,6058,5135,missing,5118,12039," 7,645",15397
+2021-06-21, rainy ,Midlands,AUTUMN,KELVIN,accuweather,yellow,night,overcast,n,extreme, RAIN , comfortable ,,ARWEN,DAY,3423,-999,15345,9413,£4325,missing,£4609,18649,6364," 2,814"
+2022-05-12,WINDY,North,AUTUMN,kelvin,missing,YELLOW,afternoon,Mostly Cloudy,E,-999,,HUMID,good,dudley,Day,NA,100,3603,NaN,£16212,4882,NaN,7564,£3970,11117
+30/11/2021,rainy,MIDLANDS,autumn,KELVIN,Noaa,YELLOW,evening,partly_cloudy,se,high,none,HUMID,excellent,NA,day,NA," 5,599",12448,10393,£17667,901,£14006,3714,"15,139",NaN
+2024-04-22,sunny,South,summer,fahrenheit,Accuweather,yellow,NA,mostly cloudy,missing,low,SNOW, comfortable ,EXCELLENT,franklin, day ,8134,5887,£19804,15639,£13986,NaN,13847,NaN,£19606,7994
+2024-11-29,sleet,north,autumn,kelvin,ACCUWEATHER,amber,EVENING,missing,NE,extreme,RAIN, humid ,very_poor,ARWEN,NIGHT,679,11853,,12730,2936,NaN,6359,£18629,NA,"18,858"
+2024-05-09,Windy,West,NaN,kelvin,met office,AMBER,night,CLEAR,se,Very High,rain,Dry,Very Poor,eunice,NaN,18888,-999,5669,6029,10791," 4,822",£8451,17679," 7,175",1752
+22/10/2024,Snowy,INLAND,summer,fahrenheit,noaa,yellow,,NA,se,moderate,Rain,Humid,EXCELLENT,Dudley,day,7540,   275,784,3410,£9550,11594,£15397,"18,654",4976," 2,475"
+03/05/2023,sleet,west,spring,kelvin,WEATHER.COM,Red,morning,OVERCAST,NE,extreme,,oppressive,Good,Dudley,night,"10,736","12,063",18492,-999,£3356,11824,17553,14849,NA,   450
+"Apr 10, 2022",sleet,missing,spring,KELVIN,met_office,yellow,MORNING,clear,missing,EXTREME,Sleet,NaN,POOR,franklin,day,144,-999,7896,£14810,9731,2320,£6892,14095,4161,5467
+2022-07-28,cloudy,north,SUMMER,celsius,ACCUWEATHER,Red,afternoon,overcast,N,High,NONE,humid,GOOD, franklin ,night,,2482,£7128,,£17213,£7196,£12785,"14,034",NaN,"18,997"
+2023-04-28, cloudy ,north,winter,celsius,WEATHER.COM,none,NA,Clear,W,HIGH,Sleet,Dry,Very Poor,barra,NIGHT,19402,missing,18620,-999,,NA,,9140,5400,14165
+2021-10-23,foggy, south ,NaN,fahrenheit,-999,red,afternoon,partlyCloudy,n, low ,rain,dry,moderate, arwen ,Day,51,£1595,8722,17685,£4588,10508,901,£3894,15545," 6,689"
+"Oct 24, 2022",,Midlands,spring,kelvin,Met Office,none,afternoon,clear,NA,LOW,rain,Oppressive,NaN,franklin,-999,5218,2711,9545,"14,712",7216,19942,18524,NA,19853,4709
+2021-05-11,stormy,west,,kelvin,metOffice, yellow ,NaN,clear,se,high,sleet,,MODERATE,arwen,day,285,7235,12241,7219,-999,8631,3823,2396,£1102,5053
+2021-03-24, SUNNY ,East,autumn,KELVIN, noaa ,none,night,NA,e,moderate,sleet,OPPRESSIVE,Poor,barra,Day," 2,366",3873,4419,£7650,11703,4581,6257,"12,833",18893,   518
+02/01/2024,FOGGY, south ,spring,Kelvin,noaa,Amber,afternoon,clear,se,high,snow,comfortable,GOOD,dudley,night,£8882,"10,556",7333,5568,7513,19569,12747," 7,843",7887,NA
+2021-01-05, snowy ,midlands,-999,-999,accuweather,yellow,Evening,clear,SE,high,none,dry, very_poor ,eunice,night," 5,197",-999,6532,9018,15914,"18,818",16578,-999,£2620,£1112
+2024-08-24,missing,east,autumn,Celsius,bbc,RED,morning,CLEAR,n,LOW, None ,Humid,good,dudley,NaN,3590,-999,"11,512",19540,NaN,162,19495,5984,9740,10608
+04/12/2021,RAINY,south,,Celsius,bbc,NONE,night,Overcast,w, veryHigh ,Hail,,GOOD,barra,day,15451,missing,,-999,NaN,-999,18444,-999,813,16814
+2024-02-17,foggy,South,Autumn,FAHRENHEIT,noaa, none ,evening,partlyCloudy,N,moderate,none,oppressive,good, dudley ,NA,11249," 3,405",7299,£8206," 6,499",-999,16829,18586," 4,784",10083
+04/05/2021,windy,inland,-999,KELVIN, NOAA ,amber,evening,clear,S,Low,rain,humid,excellent,arwen, Day ,9566,"13,955",£7126,"10,127",missing,17841,"14,291",£6285,£17765,9981
+NA,,South,SUMMER,CELSIUS,metOffice,Yellow,night,overcast,SW,HIGH,rain,dry,veryPoor,Franklin,night,14663,"15,005",,2171,5463,5562,19020,£13433,"19,085",564
+13/07/2021,Sunny,east,Winter,fahrenheit,met_office,amber,morning,PARTLY CLOUDY,E,EXTREME,HAIL,,Good,corrie,DAY,£1402,-999,£5355,10317,NA,£19999,6780,590,11027," 3,077"
+31/08/2023,-999, north ,summer,-999,met_office,none,, MOSTLY CLOUDY ,NA,HIGH,-999, humid ,very poor,eunice,day,12052,"10,653",2972,2601,£11723,£16836,1245,£16472,£6939,"11,753"
+19/11/2022,sleet,South,NA,NaN,-999,None, afternoon ,clear,se,low,hail,comfortable,VERY POOR,barra,NaN,11240,9549,14547," 6,146",4412,4728,15818," 8,386",8326,NaN
+2023-04-12,windy,South,Spring,celsius,Noaa,red,afternoon,mostlyCloudy,w,high,sleet,DRY,excellent,-999,NIGHT,-999,missing,£8219,-999," 6,772",1629,£11774,19483,18502,14116
+03/05/2022,Foggy,SOUTH,SPRING,celsius,NOAA,yellow,afternoon,CLEAR,nw,moderate,NONE,Comfortable,very_poor,corrie,DAY,16188,,9065,6901,6147," 5,559",£8815,"16,608",13755,£1673
+-999, cloudy ,missing,spring,KELVIN,noaa,amber,morning,clear,e,low,none,dry,moderate,dudley,Day,15889,15747,"14,009",13274,5026,8530,   753,220,£1006," 8,460"
+06/05/2021,Snowy,north,spring,fahrenheit,weather.com,amber,Morning,Overcast,E,extreme,sleet,HUMID,moderate, Eunice , day ,£7211,"10,443"," 4,508",£18437,NA,"13,119",3330,5236,9322,19719
+2023-02-25,rainy, midlands , summer ,celsius,noaa, RED , evening ,MOSTLY CLOUDY,s,low,sleet, oppressive ,very_poor,-999,Night,2276,8618,5524,3325,1522,NaN,NA,"10,988",18000,14131
+"Sep 15, 2021",Windy,east,autumn,fahrenheit,Accuweather,NaN, evening ,clear,n,Extreme, snow ,dry,poor,franklin,Night,£9379,8585,4437,15848,4077,missing,18870,17214,9844,17508
+03/12/2023,snowy,Coastal,spring,kelvin,noaa,yellow, AFTERNOON ,overcast,N,NA,hail,dry, Poor ,Barra,DAY,"14,962",18298,NaN,1385,17101,£8999,£16389,19247,missing,
+,sunny,west,summer,Kelvin,Weather.com,yellow,EVENING,partly cloudy,E,moderate, Rain ,comfortable,good,Dudley,night,649,3606,NA,   907,"15,844",4981,14583,£15315,NA," 5,994"
+18/02/2021,cloudy,MIDLANDS,autumn,Kelvin,MET OFFICE,amber,Afternoon,clear,sw,LOW,snow,oppressive,excellent,eunice,day,"14,447",,£13130,£839,£15664," 7,012",£9246,9495,,13320
+01/03/2023,SLEET,Midlands,SUMMER,FAHRENHEIT,weather.com,red,afternoon,overcast,sw,extreme,Rain,dry,Very Poor,corrie,day,£750,"15,116",3503,£14847,9101,NA,NaN,£7287,,1388
+"Feb 10, 2024",-999,SOUTH,summer,-999,ACCUWEATHER,red,MORNING,MOSTLY CLOUDY,Sw,extreme, snow ,dry,NA,barra,NIGHT,6076,17609,2665,3759,2337,11036,7785,,4948,7608
+2021-01-29,Foggy,missing,summer,KELVIN,accuweather,,NaN,OVERCAST,ne,EXTREME, Snow ,oppressive,Excellent,dudley,night,1628,£9693,,,16121," 7,140",1062,8098,£165,1129
+2021-08-04,stormy,east,winter,Fahrenheit,accuweather,yellow,night,NA,se,Low,hail,humid,good,barra,day,15105,19670,8884,"11,775",,"17,701",15894,,£16772,
+12/09/2021,SNOWY,NaN,summer,fahrenheit,NOAA,Red,EVENING,NA,Ne,EXTREME,-999,comfortable,Excellent, Barra ,day,18598,NA,"19,344",11263,NaN,11049,19083,,NA,12137
+25/12/2023, Rainy ,south,AUTUMN,CELSIUS,accuweather,yellow,afternoon,mostly_cloudy,w,very_high,rain,dry,excellent,arwen,NA,7713,8358,1405,NaN,9035,12482," 1,325",15688,£19168,2664
+"Aug 14, 2021",-999, north ,winter,kelvin,Bbc,none,Morning, overcast ,NE,,none,-999,POOR,barra,day," 4,772",1724,£6017,12539,12875," 9,000",NaN,1397,,£19806
+2024-02-05,windy,north,NaN,kelvin,Weather.com, amber ,evening,clear,ne,high,HAIL,OPPRESSIVE,poor,dudley,day,£16017,14062,12024,"18,096",9034,14932,4882,13091,,14338
+missing,FOGGY,east,Spring,Kelvin, met_office ,red,Night,MOSTLY CLOUDY,E,MODERATE,RAIN,comfortable,Excellent,eunice,DAY,5273,4105," 1,909",19757,£7283,NaN,12494,NaN,,14613
+2023-08-23,STORMY,EAST,autumn,fahrenheit,weather.com,yellow,EVENING,overcast,Nw,high,none,Comfortable,poor,ARWEN,,£13016,4150,18285,,14278,9324,NA,6607,"13,196",4306
+"Mar 07, 2021",-999,south,spring,,Accuweather,yellow,evening,partlyCloudy,e, very high ,RAIN, comfortable ,,BARRA,day,8256,8456,16164,3163,£2569,583,11885,4439,"16,071",7932
+16/06/2021,-999,east,winter,NaN,weather.com,missing,morning,CLEAR, w ,low, snow ,humid,very_poor,eunice,day,£11947,17317,3628,NaN,7682,7852,12489,NA,£7995,£2569
+2023-09-24,snowy,coastal, SPRING ,Celsius,accuweather,amber,night,-999,nw,extreme,none,Dry,good,,Night,£11273,2352,16885,1317,£8011,7095,494,£7934,£13214,19128
+20/03/2022,Stormy,EAST,autumn,kelvin,MET OFFICE,RED,NaN,partly_cloudy,ne,extreme,SLEET,DRY,Excellent,arwen,NIGHT," 3,089",NaN,156,NA,14535,£3422,5488,2499," 5,927"," 7,857"
+"Feb 26, 2023",stormy, south ,winter,celsius,weather.com,yellow,-999,partly_cloudy,SE, Low , Hail ,dry,Excellent,corrie,day,18924,7295,"19,657",missing,6764,missing,10960,£5997,19776,£3584
+2024-10-26,stormy,south, Summer ,KELVIN,met office,red,night,partly_cloudy,nw,missing,NONE,Dry,excellent,DUDLEY,Night,15415,8391,7249,NaN,10891,missing,12302,£5520,£19258,-999
+30/12/2022,stormy, east ,winter,celsius,bbc,amber,AFTERNOON,clear,-999,EXTREME,hail, dry ,moderate,Barra, NIGHT ,NA,NA,775,9874,£12939,6807,5387," 4,344",17370,2664
+NaN,Stormy,WEST,summer,-999, metOffice ,none,Morning,partly_cloudy,w,extreme,SLEET,Dry,excellent,franklin,day,"14,951",10197,,15965,NaN,2484,"18,471"," 5,546",18359,14778
+20/10/2023,rainy,EAST,summer,FAHRENHEIT,met office,none,EVENING,mostly_cloudy,e,,SLEET,Dry,poor,eunice,day,NaN,£11442,7672,17408,17356,6222,19138,15843,"12,571"," 8,693"
+NA,cloudy,North, autumn ,kelvin,Bbc,RED,NIGHT,overcast,S,MODERATE,Snow, humid ,Very Poor,franklin,Day,6309,16575,missing,5302," 4,849","10,589",missing,"12,968",£9321,8142
+02/05/2024,Stormy,north,summer,KELVIN,Weather.com, None ,evening,NA, e ,missing,rain,humid,POOR, Franklin ,-999,173,270," 7,601",£9254,18088,NaN,12087,19026,15794,4319
+17/01/2021,sleet,South,autumn,Kelvin,,RED,missing,overcast,SW,moderate,none,humid,Very Poor,FRANKLIN,NIGHT,£1705,£8513,,10494,"19,161","10,111",-999,8046,NA,6753
+-999,cloudy,Coastal,winter,celsius,metOffice,None,NIGHT,clear,NaN,Extreme,snow,comfortable,,CORRIE,day,17952,missing,15044,11920,13540,17629,missing," 8,440",1411,NA
+31/05/2022,windy,Midlands,winter,Fahrenheit,weather.com,yellow,evening,mostlyCloudy,w,veryHigh,missing,Oppressive,good,eunice,night,15473,2030,£19443,missing,12316,15123,7004,NaN," 2,076"," 8,704"
+2022-05-04,stormy,coastal,autumn,kelvin,weather.com,Yellow,morning,mostly cloudy,Sw,-999, none ,comfortable,poor, ARWEN , day ,12307,19492,"14,304",£1478,597,£3186,273,12294,6044,18141
+2024-12-05,windy,coastal,SUMMER,-999,-999,Amber,NA,CLEAR,E,EXTREME,SLEET,comfortable,EXCELLENT,CORRIE,NIGHT,8597," 9,778","12,271","16,562",9496,£11683,4895,11069,"15,396"," 1,530"
+03/10/2024,-999,NORTH,summer,celsius,weather.com,Amber,morning,mostly cloudy,s,low,sleet,missing,good,arwen,DAY,NA,14160,NA," 4,621",1374,15087,19508,£17356,7662,5347
+2024-02-02,SUNNY,coastal,SPRING,CELSIUS,accuweather,Red,Afternoon,-999,E,extreme,Snow,humid,Very Poor,missing,,5143,10043," 2,189"," 5,241",14816,17895,missing,6680,15231,10547
+"Jul 22, 2021",NA,coastal,spring,missing,bbc,yellow,afternoon,mostly cloudy,S,low,Rain,oppressive,excellent,FRANKLIN,night," 3,076",3319,7920,8555,"11,072",5146,16265,5180,£13363,15962
+2023-10-11,stormy,coastal,WINTER,FAHRENHEIT,missing,Red,MORNING,Mostly Cloudy,ne,Very High,rain, oppressive ,EXCELLENT,eunice,NaN,NaN,19986,£19939,771,missing,missing,2165,missing,3889,£15734
+"Mar 16, 2022",foggy,East,summer, fahrenheit ,bbc,amber,night, partly_cloudy ,ne,High,NONE,dry,-999,NA,night,14726,13813," 7,077",17312,18674,"17,856",14826,9635,6684,"11,542"
+"Mar 21, 2022",sleet,north,AUTUMN,kelvin,bbc,none,night,partly_cloudy,nw, LOW ,none,COMFORTABLE,moderate,arwen,DAY,1773,," 3,918",7166,missing,9161,£11137,13268,11031,missing
+12/04/2024,rainy,north,Spring,KELVIN,Weather.com,,morning, partly cloudy ,NaN,moderate,none,humid,poor,franklin,night,£670,13857,£13082,missing,14595,131,14299,-999,£17741,8608
+05/10/2022,foggy, south ,autumn,kelvin,Weather.com,Amber,night,overcast,s,NaN,snow,humid,veryPoor,CORRIE,night," 4,329","16,108",15423,19237,,£802,£14640,9040,6389,"13,222"
+09/11/2022,snowy,East,summer,missing,missing,AMBER,NIGHT,Overcast,W,Low,snow,NA,good,Franklin,Night,£2545,6811,11915," 2,300",4840,8661,19708,£9636,missing,574
+2021-08-17,stormy,inland, spring ,Celsius,met office,NaN,morning,partly_cloudy,E,Very High,snow,dry,MODERATE, barra ,night," 8,055",5976,13329,13947,"13,060",8789,10633,12630,"13,857",NaN
+07/05/2021,cloudy,Coastal,Winter,KELVIN, noaa ,none,morning,clear,sw,low,SNOW,HUMID,NaN,arwen,DAY,8109,NA,4797,7349,15597,990,3948,2774,5659,13986
+12/06/2023,sleet,missing,autumn,CELSIUS,weather.com,NONE,Night,OVERCAST,Nw,moderate,Hail,-999,MODERATE, dudley ,day,£14870,£2348," 6,665",NaN,16844,18275,17828,14023,£16660,2985
+2023-10-21,Windy,midlands,Summer,FAHRENHEIT,noaa, yellow ,Afternoon,clear,N,very_high,snow,Humid,very poor,Dudley,day,£18883,3682,-999,429,£18702,£391,19085,8568,19440,9746
+21/10/2021,rainy, east ,summer,celsius, accuweather ,Red,morning,OVERCAST,ne,-999,hail,-999,moderate,eunice,night,,£15878,"11,054",NA,5636,1541,missing,6619,2413,3312
+13/03/2021,rainy,Midlands,autumn,celsius,noaa,none,night,mostly_cloudy,s,high,SLEET,comfortable,moderate,dudley,Day,£8704,"15,208",£18083," 9,736",17867,15663,"16,403","18,934",NaN,19268
+"Jun 24, 2023",foggy,east,winter,Celsius,met_office,None, evening ,partlyCloudy,nw,moderate,hail,OPPRESSIVE,veryPoor,missing,night,12863,NaN,NA,£2569,£10882," 5,168"," 9,871",£3757,5473,19379
+2022-07-06,stormy,coastal,Winter,fahrenheit,bbc,RED,NA,-999,sw,Moderate,none,,GOOD,,day,11283,NA,-999,6237,13712,6424,436,£14565," 4,840",10605
+2024-05-08,Rainy,EAST,SPRING,celsius,accuweather,none,AFTERNOON,mostly_cloudy,E, veryHigh ,none,comfortable,poor, CORRIE ,day," 6,452",10412,17682,12508,NaN,,5610,10097,4852,NA
+03/07/2021,Sleet,,spring,Celsius,accuweather,yellow,morning,partly_cloudy,S,extreme,NONE,dry,good,barra,night,£2597,£14147,2430,£337,,NaN,6592,£65,£5529,12947
+2021-11-14,Foggy,NA,summer,celsius,metOffice,none, afternoon ,overcast,se, MODERATE ,HAIL,dry,good,Franklin,night,£16062,"13,747",3109,47,14256,5682,£7198,1338,15994,7781
+26/12/2023,NaN,midlands,spring,-999,noaa,NA,Night,Partly Cloudy,sw,,snow,comfortable,Moderate, dudley ,Day,5986,-999,18464,4241,2913,,10524,£2819,9874,15846
+2022-01-22,sleet,midlands,autumn,KELVIN,-999,red,Night, overcast ,s,very high,sleet,oppressive,very_poor,Barra,NIGHT,£8129,17556,7907,10880,16635,13989,12127," 5,673",12535,£5855
+2021-09-03,,north,summer,fahrenheit,bbc,red,Evening,overcast,se,MODERATE,snow,oppressive,good,corrie,night,"14,792",19997,5295,,6489,14634,16656," 7,787",NA," 7,126"
+"Sep 09, 2024",cloudy,coastal,-999,kelvin,noaa, amber ,AFTERNOON,overcast,SE,high,NaN,Dry,good,Eunice,night,3706,,NaN,missing,6537,2720,£5719,£6564,3270,6779
+"Feb 04, 2022",rainy,SOUTH,spring,kelvin,Accuweather,Amber,NaN,overcast,n,VERY HIGH, hail ,humid,good,missing,NIGHT,£3689,17404,£15547,7546,£733,17001,6046,18808,9718,£11150
+25/08/2024,rainy,midlands,,Kelvin,metOffice,amber,evening,overcast,W, EXTREME ,rain,DRY,poor,corrie,day,£5161,9724,17433,19873,£2943,£15575,"11,879",£3136,,10760
+10/06/2021,rainy,north, winter ,celsius,Noaa,yellow,AFTERNOON,Overcast,w,moderate,none,OPPRESSIVE,veryPoor,ARWEN,day,18342,-999,NaN,5042,£17272,8674,14453,17725,£19140,5809
+"Oct 28, 2023", Snowy ,west,SPRING,celsius,met_office,none,Afternoon,clear, nw ,VERY HIGH,Snow,HUMID,moderate,dudley,day,13126,11252,16685,6854,7482,£17556,£629,£14254,missing,£8327
+17/03/2021, Rainy ,North,SPRING,KELVIN,Bbc,amber,night,MOSTLY CLOUDY,SE,EXTREME,sleet,dry, EXCELLENT ,corrie,night,3880,"13,510",,£7623," 7,340",14845,-999,"10,029",NA,6286
+17/11/2021,Windy,coastal,AUTUMN,Kelvin, noaa , none ,morning,mostly cloudy,n,MODERATE,None,Humid,good,corrie,day,14222,7393," 2,863",1623,7541,19081,2366,10373,2658,11585
+-999,SLEET,north, spring ,fahrenheit,metOffice,Red,Afternoon,overcast,nw,EXTREME,SLEET,Oppressive,good,missing,NIGHT,4762,"10,044"," 6,345",NA,13855,£17638,17395,674,£7705,9817
+01/06/2023,NaN, South ,Autumn,Celsius,bbc,none,morning,overcast,ne, low ,rain,NaN,VERY POOR,ARWEN,NIGHT,-999,15006,missing," 2,213",   964,10674,3647,£19510,-999,19479
+2022-11-10,missing,east,autumn, kelvin ,ACCUWEATHER,yellow,afternoon, mostlyCloudy , nw ,low, NONE ,oppressive,poor,barra, NIGHT ,9700,7741,missing,1020,£18416,1958,£3473,NA,12498,£1978
+03/06/2024, foggy ,west,NaN,KELVIN,MET OFFICE, yellow ,NaN,partly_cloudy,ne,moderate,none,dry,very poor,eunice,night,"18,746"," 4,669",16628,9706,£8549,£19685,NaN,£11338,5952,£2638
+01/04/2021,rainy,midlands,spring,celsius,weather.com,amber,Afternoon,clear,Ne,Extreme,,comfortable,EXCELLENT,barra,night,"17,293",NA,£1255,6605,,-999,missing,missing,12050,14472
+2023-08-16,Sunny,south,NA,celsius,NOAA,YELLOW,afternoon,clear, w ,very high,none,oppressive,GOOD,franklin,night,13526,,299,10697,"13,918",178,£3135,18619," 3,156",9198
+14/10/2024,CLOUDY,inland,winter,NA,noaa, yellow ,evening,overcast,nw,Moderate,SLEET,NA,Poor,corrie,night,£12099,11297,11976,-999,18317,£1389,16435,10656,13018,   423
+2023-10-27,Rainy,INLAND,spring,fahrenheit,MET OFFICE,Red,afternoon,-999,SE,Low,Snow,oppressive,NaN, eunice ,day,6022,NA," 3,602",10318,3965,18808,11304,," 6,560",6347
+2023-02-18,WINDY,east,winter,Kelvin,,amber,evening,clear,NW,low,NONE,dry, GOOD ,franklin,day,£14234,"14,502",NA,£2904,11118,13937,4976,1511,2137,19845
+13/12/2021,sleet,north,spring,fahrenheit,ACCUWEATHER,RED,MORNING,,N,,none,humid, VERY POOR ,FRANKLIN,day,15077,"12,004",10990,13261,£1212,12606,£9859,16805,16734,NaN
+2022-09-12,stormy,WEST,Summer, kelvin ,MET OFFICE,none,missing,mostly cloudy,NA,extreme,none,NaN,missing,,day,missing,7921,9727,NA,-999,£11086,9814,£18577," 8,188",£11007
+11/11/2023,Windy,midlands,spring,Celsius,weather.com,amber,evening,mostly_cloudy,ne,Low,-999,humid,NA,corrie,day,11627,17223,NaN,-999,4411,"14,865",9764,12439,13378,13323
+29/12/2023,Rainy,EAST, summer ,celsius,accuweather,AMBER,-999,mostlyCloudy,w,,none,NA,veryPoor,arwen,day,19366,10369,-999,12278,4125,15408,£14559,19559,2523,"11,351"
+24/02/2023,foggy,,Autumn,Kelvin,Weather.com,none,night, Mostly Cloudy ,E,MODERATE,sleet,comfortable,NA,barra,Day,16267," 3,070",," 3,070",4792,-999,1120,-999,13097,12262
+2024-03-03,windy,coastal,,NA,metOffice,red,night,CLEAR,E,extreme,hail,comfortable,excellent,eunice,night,12637,3119,12363,"19,357",1406,£9070,12666,10079,12035,2313
+18/08/2023,,coastal,winter,-999,Accuweather,yellow,evening,CLEAR,w,Moderate,sleet,Oppressive,GOOD, arwen ,NIGHT," 5,561",£855,12416,2365,1387,15682,missing,3058,"15,307",£9269
+2021-11-29,Cloudy,coastal,spring,NaN, weather.com ,amber,Afternoon,overcast,Ne,moderate, snow ,Oppressive,moderate,arwen,night,15997,8805,,-999," 2,928",6132,17503,8147,8332,"16,986"
+16/09/2022,sleet,missing,winter,celsius,WEATHER.COM,red,Night,OVERCAST,nw,VERY HIGH,snow,-999,moderate,ARWEN,NIGHT,17507,," 4,696",3170,"11,133",5860,1162,£15831,4748,7945
+22/04/2021,Sleet,West,-999,fahrenheit,Met Office,yellow,evening,OVERCAST,SE,veryHigh,SLEET,humid,poor,eunice,night,3887,£4250,1931,"19,422",6872,£18348,NA,6643,13183,missing
+22/01/2021,sunny,coastal,-999,celsius,noaa,Red,Night,clear,W,extreme,none,OPPRESSIVE,VERY POOR,corrie,DAY,14800,£7731,3366,NA,62,3442,9901,6529," 5,307",£19656
+2022-08-05,snowy,midlands,winter, FAHRENHEIT ,noaa, none ,evening,OVERCAST,se,high,sleet,HUMID,good,eunice,day," 5,054",11583,£10268,265,3072,-999,12521,6962,1261,NaN
+2021-12-05,,NA,spring,Kelvin,, Yellow ,night,partlyCloudy,W,MODERATE,none,COMFORTABLE,moderate,eunice,night,,13766,13759,,1329,£13097,16082,NaN,-999,£19772
+19/07/2023,cloudy,Inland,AUTUMN,fahrenheit,BBC, AMBER ,afternoon,MOSTLY CLOUDY,Se,VERY HIGH,None,oppressive, VERY POOR ,NA,night,NA,missing,£4620,5997,NA,4449,£15320,"14,041",762,3465
+16/10/2023,foggy,south,Summer,celsius,missing, None ,missing,partlyCloudy,NE,very_high,None,humid,POOR,eunice,NIGHT,"13,125",16688,15364,NaN,-999," 4,445",5410," 4,511",14981,NaN
+2021-02-02,cloudy,NA,WINTER, fahrenheit ,met office,red,night,CLEAR,SE,moderate,NONE,Humid,Moderate,corrie,DAY,NA,17267,368,11908,18474,   821," 5,199",12190,"19,072",7248
+02/09/2022,sleet,midlands,AUTUMN,,weather.com,-999,NIGHT,mostly cloudy,se,veryHigh,hail,COMFORTABLE,NA,barra,night," 8,122",9466,14122,£3192,NA,,NaN,13791,15491,19226
+12/08/2022,sunny,south,SUMMER,, BBC ,NaN,evening,PARTLY CLOUDY, NE ,High,none,NaN,EXCELLENT,EUNICE,night,£12333,19167,£17365,£12433,6382,-999,NA," 8,976"," 1,096",17182
+2024-09-08,windy, Midlands ,spring,KELVIN,Bbc,none,EVENING,overcast,W,high,NaN, oppressive , Good ,Corrie,day,"10,176",£4081,15159,10595,-999,17435,NA,17532,18781,2423
+23/03/2023,stormy,, summer ,kelvin,bbc,yellow,Evening,partlyCloudy,sw,missing,none,humid,EXCELLENT,Arwen,NIGHT,2361,missing,3137,NA,"19,708"," 9,019",19888,£18241,£15597,13746
+01/05/2023, STORMY ,midlands,winter,Kelvin,Noaa,,NIGHT,Mostly Cloudy,ne,EXTREME,none,OPPRESSIVE,VERY POOR, DUDLEY ,night,£16701,18891,11612,8730,17664,8756,4536,719,£7218," 1,370"
+2022-01-30,rainy,coastal,NaN, celsius ,Bbc,none,Afternoon,overcast,Nw,extreme, rain ,Oppressive,VERY POOR,-999,night,NaN,376,14348," 1,450",NA,NaN,19246,1729,-999,-999
+2023-08-01,-999,NORTH,Summer,NaN,noaa,none,afternoon,clear,NW,low,sleet,comfortable,Moderate,DUDLEY,day,,2101,10467,2771,10406," 6,234",,11100,£9240,2357
+07/04/2024,snowy,north,autumn,Fahrenheit,NOAA,yellow,morning,Clear,sw,veryHigh,sleet, comfortable ,very_poor,eunice,Day,941," 2,787",,NaN,£3208,15476,NA,8452,18467,11893
+25/11/2022,cloudy, West ,SPRING,Fahrenheit,NOAA,red,afternoon,OVERCAST,NW,extreme,-999,missing,excellent,Franklin,NIGHT,1372,17727,-999,£2366,£5871,missing,"14,366",NaN,"10,134",15230
+29/04/2023,FOGGY,coastal,autumn,KELVIN,met office,NONE,evening,overcast,e,low,hail,dry,excellent,NA,day,13463," 5,300",£18266,7320,£7720,7964,£3114,15931,,£3041
+2021-07-19,foggy,coastal,winter,kelvin, noaa ,Red,morning,Mostly Cloudy,e,extreme, snow ,oppressive,good,dudley,night,6207,13942,12516,16599,18066,-999,£16257,5579,9075," 6,818"
+28/05/2022,snowy,INLAND,winter,Kelvin,Noaa,YELLOW,,mostly cloudy,n,EXTREME,Snow,NaN,missing,franklin,-999,£6996,NA,£10015,13314,13964,8345,18725,£15824,17107,7610
+30/09/2023,Stormy,EAST,missing,kelvin,accuweather,yellow,NIGHT,OVERCAST,NW,Very High,hail,dry, moderate ,Franklin,night,19759,17485,15349,11445,missing,8097,£10337,10639,982,
+26/04/2023,sleet,missing,winter,kelvin,bbc,red,afternoon,missing,Nw,veryHigh,HAIL,NA,VERY POOR,barra,night," 9,234",4481,"11,216"," 5,121",17614,£14375,19578,"11,323",10931,18980
+05/10/2021,windy,WEST,Autumn,KELVIN,Met Office,yellow,afternoon, mostly_cloudy ,W,MODERATE,rain,comfortable,poor,dudley,day,£19146,£11934,£6507,19275,£5371,9632,9548,£360,19279,13298
+"Oct 06, 2022",snowy,coastal,spring,fahrenheit,Accuweather,None,evening,OVERCAST, S ,moderate,rain,Humid,Poor,corrie, night ,"14,725",5175,5473,3307,12320,15879,"18,685",NA,-999,494
+2024-02-03,sleet,south,SPRING,celsius,Bbc,Red,afternoon,MOSTLY CLOUDY,N,NA,Snow,comfortable,Poor,ARWEN,night,10141,£3049,7777,14209,NaN," 9,402",12407,£17280,£15957,16543
+07/11/2021,snowy,NORTH,AUTUMN,celsius,bbc,red,NA,partly cloudy,se,moderate,none,missing, poor ,EUNICE,day,missing,19067,9767,5325,NaN," 5,449",11604,17478,"18,879",£3908
+25/03/2024, WINDY ,coastal,WINTER,celsius,-999,RED,Afternoon,NaN,Nw,moderate,hail,dry,-999,arwen,day,NA,NA,2377,£4916,17060,19323,£7762,11318,18011,NA
+2021-03-04,stormy,south,-999,-999,ACCUWEATHER,Yellow,morning,CLEAR,nw,high,rain,,MODERATE,dudley,night,17746,-999,-999,£1058,16626,7366,6060,14712,"13,719",5172
+04/10/2024,rainy,SOUTH,SUMMER,fahrenheit,Bbc,amber,NA,overcast,sw,extreme,Snow,humid,good,dudley,day,3056,17651,£4745,13107,15739,   724,£10517,7873,11986,£11509
+2022-11-09, SUNNY ,west,spring,Fahrenheit,Bbc,amber,night, MOSTLY CLOUDY ,N,low,snow,DRY,excellent,Dudley,day,£1213,19988,£7165,"16,961",2373,12480,18659,,£7882,17639
+13/01/2021,sunny,inland,winter,Fahrenheit,ACCUWEATHER,, night ,overcast,s,low,rain,DRY,GOOD,Franklin,DAY,56,1272,878,13920,11623,12424,-999,9144,4778,-999
+31/01/2021,missing,Inland,AUTUMN,fahrenheit,noaa,None,evening,PARTLY CLOUDY,ne,high,snow,humid,Good, franklin ,day,8989,£14018,17490,£12291,4132,£10135,8105,missing,£11595," 1,256"
+03/01/2024,Sunny, coastal ,summer,kelvin,NA,Red,evening,overcast,ne,high,Snow, dry ,,barra,day,7401,8305,7684,16889,2006,-999,6523,£9203,5537,2703
+2021-12-06,snowy,SOUTH,winter,celsius,Met Office,NA, Afternoon ,-999,NA,Extreme, NONE ,Comfortable,excellent,NA,night,"16,876",£10188,3424,7767,12074,NaN,,missing,5986,"14,789"
+"Mar 11, 2023",sunny,west,winter,fahrenheit,Weather.com,-999,NaN, Clear ,,moderate,None,humid,Good,arwen,night,17704,-999,6854,8896,£8564,16813,,£13264,2146,1253
+2022-12-28,SUNNY,south,Spring, kelvin ,Weather.com,NA, night ,clear,NW,MODERATE,sleet,comfortable,Excellent,eunice,night," 2,513",missing,18928," 5,796",940,4272,£3673,17444," 6,348","13,251"
+31/01/2021,windy,,Winter, kelvin ,Bbc,amber,NaN,partly cloudy,N, Low , hail ,Dry,moderate,Barra,," 2,440","11,794",2995,£11662,10989,£13655,£1550,3761,£5352,£8333
+06/08/2024,windy,west,spring,fahrenheit,bbc,none,afternoon,MOSTLY CLOUDY,Se,,snow,oppressive, good ,Corrie,Day,4365,NA,17568,6059,8420,16463,353,19658," 7,939",8130
+"Sep 05, 2021",Snowy,east,NA,fahrenheit,ACCUWEATHER,-999,evening,clear,W,NA,Snow,comfortable,NA,eunice,Day,16765,"17,474",7750,£18085,£1121,16611,7324,£16056,7878,3195
+2023-07-06,stormy,INLAND,spring,fahrenheit,accuweather,none,NaN,partly_cloudy,Nw,NaN,NONE,Humid,GOOD,eunice, Day ,2504,8471,1937," 7,144",2598,14236,19578,£18276,8898,10354
+28/06/2021,cloudy,west,missing,kelvin,NA,NONE,NIGHT,Overcast,nw,High,rain,oppressive, good ,corrie,night,12721,17821,10405,18397,12186,17390,£11783,14877,13130,NA
+-999,sleet,EAST,Autumn,celsius,weather.com,None,AFTERNOON,-999,nw,very_high,RAIN,Comfortable,Poor,,Day,   150,14732,£10163," 5,251",10677,11107," 7,111",NA,£672,11602
+20/01/2024,NA,west,winter,celsius,bbc,red,Night,MOSTLY CLOUDY,n,HIGH,hail,oppressive,excellent, franklin ,night,17096,"10,611",15872,13634,9641,3385,14845,£8928," 6,734",3925
+2021-12-29,missing,west,Autumn,fahrenheit,bbc,None,afternoon,Overcast, n ,very_high,-999,dry,good,BARRA,,7127," 3,702",6377,£12731,15841,10373,13618,15413,6667,7604
+"Oct 16, 2022",snowy,,summer,fahrenheit,Weather.com,amber,AFTERNOON,CLEAR,ne,Low, HAIL ,comfortable,very poor,dudley,day," 7,665",12776,7058,NaN," 1,238",£17005,£19662,17630,NA,
+"Feb 19, 2023",Foggy, south , Spring ,celsius,Met Office, YELLOW ,,partly cloudy,E,high,none,oppressive,VERY POOR,Corrie,night,£17344," 1,955",2467,12687,3977,15875," 7,099",16650,16922,11794
+,NaN,south, autumn , fahrenheit ,metOffice,Amber,EVENING,mostlyCloudy,NE, HIGH , HAIL ,Comfortable,moderate,barra,night,19666,7202,"14,668","19,144",NaN,-999,17448,NaN,10394,11823
+"Feb 07, 2022",rainy,-999,Winter, fahrenheit ,,None,AFTERNOON,partly_cloudy,,HIGH,SNOW,HUMID,GOOD,eunice,Night,3872,"14,106",10753," 8,966",676," 9,417",19974,5238,15040,10167
+2021-02-10,windy,midlands,Autumn,NaN,accuweather,amber,AFTERNOON,NaN,s,moderate,None,oppressive,Poor,missing,night,£8632,£2465,14126,5835,8448,14479,NA,"13,755",15974,"11,501"
+2024-01-18,missing,south,SUMMER,fahrenheit,weather.com,RED,night,NA,S,moderate,hail,DRY,Poor,eunice,night,9693,NaN,9495,2715,£13001,£17031,,2374,2484," 6,966"
+2023-07-25,foggy,west,Winter,kelvin,weather.com,YELLOW, evening ,Clear,w,Moderate,rain, comfortable ,good,dudley,day,£15778,£13394,£7614,4999,£17271,5313,17331,£3364," 6,987","10,757"
+2023-10-14,rainy,North, Autumn ,kelvin,bbc,NONE,evening,Clear,e,low, HAIL ,OPPRESSIVE,very poor,eunice,NaN,18016,7898,3611,£6885,12081,19811,£13173,1972,10555," 4,403"
+2021-01-09,Sleet,MIDLANDS,autumn,celsius, WEATHER.COM ,amber,night,clear,Se,High,rain,humid,good,Dudley,NaN,2260,4101,17953,NA,6044,£8489,3209,£14511,4135,
+"Feb 05, 2023",Windy,East,Spring,fahrenheit,Weather.com,none,missing,PARTLY CLOUDY,NA,high,rain,Dry,good,Arwen, NIGHT ,missing,984," 7,764","15,675",-999,15068,£18249,"11,216",£8194,£9970
+04/06/2023,,south,SPRING, CELSIUS ,Weather.com,red,afternoon,Clear,Ne,high,Rain,HUMID,excellent,DUDLEY,missing,8189,"13,350"," 2,049",12024,5491,NA,18617,3149,NA,
+10/02/2021,SNOWY,west,winter,CELSIUS,metOffice,none,afternoon,,sw, moderate ,-999,Humid,POOR,dudley,NIGHT,6879,£17140,19122,8261,9876," 7,257",16282,8149,4817,£10998
+2024-06-21,NaN,NORTH, summer ,celsius,Noaa,amber,afternoon, overcast ,SE,LOW,hail,comfortable,EXCELLENT,corrie,missing,missing,"15,508",9345,6612,14178,,1539,18895,"16,954",12196
+08/05/2024,NaN,NORTH,summer,celsius,noaa,amber,afternoon,clear,Se,veryHigh,sleet,humid,Excellent, EUNICE ,Night,£11003,-999,£18862,"15,468",   930,2953,10838,58,2653,£8078
+"Oct 18, 2023",sunny,-999,summer,kelvin,BBC,red,Evening,CLEAR,e,very high,rain, dry ,NA,arwen,day,NaN," 8,143",£11256,13645,16557,3458,1427,7199,£13404,missing
+2023-11-12,foggy,midlands,winter,kelvin, accuweather ,yellow,Afternoon,overcast,n,EXTREME,snow,humid,POOR,EUNICE,DAY," 8,855",13179,11312," 2,638",11935,15382,11520,10616,16452,13954
+2023-03-05,windy,inland,NA,KELVIN,Met Office,missing,morning,clear,s,high,snow,humid,MODERATE,barra,night,"14,910",8154,NA,NaN,NA,NA,NA,4321,16295,NaN
+2022-11-28,-999,west,,kelvin,met_office,Yellow,Night,Mostly Cloudy,w,very high,none,OPPRESSIVE,very poor,Dudley,night,3113,1768," 4,088",16645,,7846,398,11386,13320,£12675
+"Sep 02, 2024", sunny ,missing,autumn,-999,met office,amber,Night,, Ne , extreme ,Snow,HUMID,Moderate, barra ,night,8039,11699,5616,£18174,2530,18167,14287,£16190,£9987,NaN
+01/05/2024,snowy, east ,winter,missing,weather.com,none,night,missing,ne,extreme,RAIN,-999,Very Poor,barra,missing,19613,"16,966",NaN,5914,7618,14793,NaN,missing,12313,£4278
+2021-02-16,Cloudy,Midlands,autumn,kelvin,Bbc,YELLOW,morning,Mostly Cloudy,SW,very high,missing,oppressive,NA,Dudley,night,5328,18458,13372,£6165,"12,085",-999,£11554,£13538,,19470
+2021-10-22,Sunny,north,SUMMER,NaN,Bbc,Red,EVENING,clear,N,moderate,rain,oppressive,POOR,EUNICE,night,1625,14878,10687,8635,"16,782",15710,19787,15839,6423,missing
+2021-02-07,windy,midlands,AUTUMN,Celsius,accuweather,amber,afternoon,NA,sw,high,HAIL,oppressive,MODERATE, barra ,NIGHT,£7201,"15,629",605,£13172,"14,239",£18026,£164,£7831,NaN,
+18/07/2022,cloudy, north ,autumn,kelvin,accuweather,None, morning , Clear ,s,High,NONE,dry,VERY POOR,-999,day,12873,£2455,13208,6173,£2183,18492,18206,£11094,15955,17645
+NA,cloudy,west,autumn,Celsius,NA,yellow,evening,partlyCloudy,Sw,high,hail,HUMID, POOR ,Corrie,DAY,12044,12048,,11852,18004,,12808,14569,15472,£14172
+,,west,autumn,CELSIUS,WEATHER.COM,YELLOW,NA,NaN, W ,extreme,SNOW,HUMID,poor,eunice,Day," 5,031",15005,NA,"15,617",8620,NA,16043,17571,"10,042",NaN
+04/10/2023,windy,EAST,SPRING,celsius,,YELLOW,morning,mostly cloudy,SE,moderate,none,comfortable,Very Poor,dudley,day," 4,300",10648,3880,12169,11215,1866,missing,5101,NA,17162
+"Aug 31, 2024",sleet,coastal,autumn,Celsius,met_office,,afternoon,NA,sw,high,SNOW,comfortable,Moderate,arwen,missing,358,NaN,-999,7481,10453,£15211," 2,237",18518,4733," 9,806"
+15/03/2024, Foggy ,midlands,winter,-999,noaa,yellow,Evening,clear,N,low,RAIN, comfortable ,missing,ARWEN,day,8162,4205,12910,1381,16942,16133,6758,14693,8542,£15077
+17/10/2024,snowy,east,SUMMER,CELSIUS,WEATHER.COM,YELLOW,Night,,NA,Extreme,hail, humid ,very_poor,DUDLEY,NIGHT,12562,£16434,"18,457"," 8,900",£19545,3485,1042,missing,"11,209",£17908
+10/07/2021,rainy,WEST,summer,NaN,Met Office,red,morning,OVERCAST,sw,low,,COMFORTABLE,moderate,Eunice,Day,-999,14144,4768,1006,12596,3360,10956,6227,"16,147",7261
+21/01/2022,snowy,inland,AUTUMN,kelvin,accuweather,AMBER,missing,partly cloudy,Nw,extreme,NONE,oppressive,POOR,franklin,DAY,5832,5577,NA,"10,003",£9136,17247," 9,640",£7628," 8,664","19,292"
+23/12/2024, sleet ,EAST,winter,Kelvin,Accuweather,NA,night,Mostly Cloudy,S,Moderate,none,dry,EXCELLENT,barra, day ,5143," 3,507",19708,3546,missing,£8871," 9,704","10,210",5410,"11,750"
+13/10/2023,stormy,SOUTH,WINTER,Celsius,met office,amber,EVENING,CLEAR,ne,NA,Sleet, oppressive ,very_poor, Barra ,day,£9607,£19190,-999,7807,18220,15821,8111,10907,missing,4929
+"Aug 21, 2021",sunny,west,SUMMER, kelvin ,Weather.com,amber,Afternoon,MOSTLY CLOUDY,sw,LOW,none,dry,missing,,DAY,11601,11409,8502,14445,"12,744",NA,3903,"19,734"," 3,393","13,155"
+-999,stormy,east,winter,celsius,WEATHER.COM,Yellow,morning,,w,veryHigh,sleet,COMFORTABLE,veryPoor,barra,-999,3226,10784,missing,13953,11644,17455,2164," 9,166",£12285,£14206
+15/09/2023,rainy,MIDLANDS,spring,NaN,bbc,NONE,afternoon, overcast ,W,low,snow,Dry,good,corrie, day ,6624,"11,265",3184,11617,4591,£14655,19595,12966,8023,18204
+2021-02-01,CLOUDY,MIDLANDS,Autumn,celsius,metOffice,red,EVENING,Overcast,s,very_high, snow ,oppressive,good,dudley,NIGHT,16012,-999,1640,,1008," 7,825"," 7,137",17281,"18,720",-999
+2022-08-18,Windy,midlands,autumn,Kelvin,Met Office, red ,NaN,MOSTLY CLOUDY,se,high,Rain,humid,poor,-999,DAY,17204,£12509,£2846,18564,," 3,845",£5394,£19705,15892,missing
+NaN,NaN,midlands,Autumn,Celsius,NaN,yellow,evening,partlyCloudy,nw,Moderate,NA,,missing,Arwen,DAY,14148,16269,£2322," 9,824",12698,6067,4701,1952,11116," 3,239"
+2021-07-03,sleet,North,autumn,kelvin,NA,amber,Night,overcast, nw ,moderate,rain,dry,,Franklin,night," 3,241",1462,NaN,9519,11602," 5,007",11512,2538," 1,330"," 4,943"
+2023-12-23,foggy,coastal,winter,celsius,bbc,yellow,morning, Mostly Cloudy ,Sw,,hail,oppressive,GOOD,FRANKLIN,night,NaN,,317,12722,13731,NA,5793,£8674,-999,NaN
+11/10/2024,snowy,COASTAL,AUTUMN,kelvin,noaa,amber,Night,PARTLY CLOUDY,nw,High,NaN,comfortable,-999,Barra,night,13977,11745,£272,4997,5182,1559,£7390,"12,684",19782,14280
+23/04/2023,sleet,inland,Winter,celsius,met_office, Red ,afternoon,partly cloudy,e,missing,SLEET,humid,moderate,corrie,night,£2873,£3206,£825,3174,,5243,17357,£2472,18286,15166
+2023-10-12,windy,south,Summer,Fahrenheit, Met Office ,red,NIGHT,OVERCAST,-999,extreme,none,humid,missing,FRANKLIN,,15786,11611,3033,"10,476",2066,3941,866,£15098,NaN,3899
+"Jul 09, 2024",cloudy,East,winter,kelvin,Bbc,red,morning,partly cloudy,s, LOW ,sleet,Dry,VERY POOR,arwen,night,missing,13107,"19,200",1995,17424,8119,8058,,19156,17665
+03/01/2024,Foggy,Inland,Autumn,celsius,weather.com,red,evening,partlyCloudy,n,low,snow,humid,very_poor,eunice,night,15963,18615,£19292,"13,834",12310,3050," 2,319",,£5552,14346
+2021-01-06,snowy,,missing,Fahrenheit,bbc,Red,night,overcast,E,moderate,SNOW,dry,excellent,dudley,day,16197,6622,644,"19,353",£13168,6223,£16950,"10,182",£2095,2063
+29/03/2022, Rainy ,,missing,KELVIN,Bbc,NONE,morning,NA,S,extreme,none,NA,missing,corrie,day,£7528,13439," 1,460",6447,19094,£17828,£15712,NaN,15641,£11634
+07/02/2023,foggy,midlands, spring ,kelvin,Noaa,NONE,Morning,clear,S, High ,SNOW,Humid,Moderate,Arwen,day,£10542,£17365,£15003,11629,£574,1674,14690,150,19715,8633
+2024-08-28,stormy,COASTAL,Autumn,celsius,met_office,red,evening,mostly_cloudy,se, extreme , rain ,OPPRESSIVE,Good,Franklin,day,-999,£2414,£15416,£5445,13706,£18770,1500,-999,"11,776",2114
+2024-11-15,rainy,coastal,spring,celsius,NA,none, NIGHT ,Clear,SW, VERY HIGH , RAIN ,oppressive,poor,arwen,day,NaN,6323,7880,7266,6821,£10561,NaN,19594,NA,-999
+"Dec 17, 2022",-999, West ,winter,CELSIUS,WEATHER.COM,red,night,partlyCloudy,w,extreme,None,,excellent,missing, Night ,6360,12176,,7902,6645,£2093,11441,12387,"15,881",7628
+2023-05-25,foggy,COASTAL,winter,kelvin,noaa,RED,MORNING, PARTLY CLOUDY ,w,NA,rain,NaN,excellent,FRANKLIN,Day,£12436,"13,309",14406,8222,11527,18045,16153,19268,£6821," 1,370"
+19/09/2022,rainy, midlands ,NaN,kelvin,accuweather,,evening,,NW,Very High,hail,oppressive,NA,missing,night,£16508,12485,11235,1424,2354,17722,9610,12079,2786,2522
+25/07/2024,sleet,INLAND,AUTUMN,celsius,Bbc,yellow,NIGHT,mostlyCloudy,s,High,rain,comfortable,excellent,eunice,Night,£9906,NaN,6276,16335,11681,15787,4790,11722,9149,£1590
+NaN,cloudy,coastal,SUMMER,fahrenheit,accuweather,,evening,clear,NaN,extreme,Hail,comfortable,Moderate,barra,day,£447,NA,17605,missing,13925,12899,17043,167,£3836,5826
+03/06/2024,SNOWY,south,summer,kelvin,NaN,AMBER,NIGHT,OVERCAST,sw,NaN,none,oppressive,NA,Franklin,DAY,"15,388",4122,£1593,£9804,£16703,8781,NA,,£9282," 3,754"
+2022-10-02,snowy,MIDLANDS,spring,FAHRENHEIT,bbc,Yellow,afternoon,missing,e,moderate,None, oppressive , veryPoor ,corrie,day,7236,missing,17544,6589,£1664,NaN,8164,,11903,16455
+23/12/2023,sleet,,Summer, celsius ,-999,-999,NIGHT,clear,e,low,SNOW,Humid, POOR ,Arwen,day,14594,£14333," 7,468",17536,£9184,19921,18305,,5104,£5396
+27/03/2024,RAINY,midlands,winter,NaN,MET OFFICE,yellow,morning, clear ,-999,high,sleet,Humid, Poor ,barra,day,8334," 7,925",NA,19281,917,£5591," 2,143",missing,571,6467
+,windy,,summer,-999,bbc, yellow ,-999,-999,Sw,extreme,NONE,humid,MODERATE, Arwen , Day ,149,£14759,NA," 6,697",£14119,NA,8868,7059,£19013," 7,933"
+16/08/2023,foggy,south,autumn,Fahrenheit,NOAA,Yellow, EVENING ,OVERCAST, NW ,MODERATE,rain,comfortable,MODERATE,arwen,night,-999,9089,19397,12743," 5,979",13398,"13,041",11324,12593,11786
+2022-12-06,STORMY,north,summer,,bbc,None,morning,overcast,missing,low,hail,missing,excellent,Arwen, night ,NaN,11770,18809,17023,3210,3993,10614,missing," 9,449",£1474
+25/07/2023,NA,Coastal,spring,,met_office,YELLOW,afternoon,,e,high,Hail,dry,excellent,barra,day,1517,£14344,£3504,11373,4099,£18821,£5044,19395,£5951,9863
+"Sep 08, 2024",Windy,west,WINTER,kelvin,met office, RED ,morning,clear,s,LOW,HAIL,Oppressive,poor,dudley,DAY,10288,18040,£13070,£17396,14487,7644,,13915,5436,10608
+26/02/2024,Snowy,east,SPRING,-999,ACCUWEATHER,red,Evening,overcast,ne,HIGH,HAIL,oppressive,Very Poor,franklin,day,NA,,12831,1084,NaN,NA,4670,7287,55,3884
+"Mar 14, 2023",NaN,WEST,SPRING, celsius ,accuweather,red,Afternoon,NaN,Sw,very_high,snow,dry, good ,barra,night,10720,4095," 6,570",4941,,13894,6188,15958,233,271
+04/08/2022,sleet,midlands,WINTER,fahrenheit,BBC,yellow,afternoon,mostly_cloudy,N,very_high,HAIL,OPPRESSIVE,excellent,EUNICE,Day,17216,2340,missing,9341,10758,6772,"17,147",NA,12025,3241
+2021-02-28,sleet,east,winter,kelvin,Met Office,RED,Evening,-999,w,low,Rain, humid ,Excellent, arwen ,day,19759,6514,14433,£18822,4887,,14156,16071,7193,18111
+2022-11-12,rainy,north,spring,celsius,bbc,NONE,Night,, ne ,extreme,snow,oppressive, Very Poor ,ARWEN,,"14,250",£3087,missing,7627,NaN,£669,"16,600",1260,2040,11468
+23/07/2022,windy,East,spring,CELSIUS,bbc,NA, night ,partlyCloudy,sw,,NA,comfortable,poor,arwen,day,£14515," 7,540",NA,873,£12138,4952," 4,272",2060,16829,19514
+31/07/2022,SNOWY,Inland,Summer,fahrenheit,weather.com,amber,afternoon,clear,w,Very High, rain ,OPPRESSIVE,very poor,CORRIE,night,1604,9378,19143,"13,383",   965,£18877,11301,NaN,NaN,17591
+15/03/2021,Rainy, midlands ,winter,celsius,bbc,amber,missing,PARTLY CLOUDY,nw, extreme ,rain, COMFORTABLE ,GOOD,-999,day,-999,13072,"17,262",14269,13935,14240," 9,326",NaN,£11973,14507
+04/03/2022,windy,inland,winter,,bbc,missing,evening,overcast, nw ,EXTREME,missing,dry,excellent,NA,night," 1,565",£16331,"11,201",£7657,£14742,11566,17952,missing,£16966,£19617
+19/09/2022,NA,south, summer ,celsius,WEATHER.COM, yellow ,Afternoon,CLEAR,NE,high,NONE,humid, Excellent ,barra,night," 2,909",£15505,16150,6981,£4708,missing,NaN,5560,9094,£1270
+2021-03-16,sleet, inland ,autumn,Kelvin,ACCUWEATHER, red ,afternoon,overcast,s,HIGH,snow,OPPRESSIVE,moderate,Barra,day," 1,993",864,14085,2765,15612,4753," 4,236",6660," 8,539",18298
+missing,rainy,inland,autumn,kelvin,-999, none ,AFTERNOON,overcast,n,high,NaN,NA,good,arwen,night,13732,54,6422,NaN,18619,571," 8,187","17,472",-999,16715
+2024-11-30,snowy,-999,SPRING,celsius,ACCUWEATHER,NONE,missing,mostly cloudy,NaN,extreme,none,NaN,EXCELLENT,,Night,17095,9825,NA,missing,4372,16396,"11,077",7645,12723,4757
+18/04/2023,CLOUDY,inland,spring,kelvin,WEATHER.COM, None ,evening,mostlyCloudy,s,low,none,comfortable,good,NA,day,£17282," 1,809",7223,11775,19251,2697,13721,169,£18163,
+2021-12-31, Sleet ,East,spring,celsius,bbc,,night,-999,S,low,,humid,excellent, CORRIE ,night,NaN,"11,441",17362,17712,5388,8954,9141,£10256,19894,"16,799"
+NaN,sunny,south,autumn,NA,Noaa, Red ,morning,mostly cloudy,n,low,missing,comfortable,poor,franklin,Night,£6973,11889,3198,£9950,£15204,19034,-999,£4872,1714,"15,590"
+"Dec 21, 2024",rainy,COASTAL,SPRING,Fahrenheit,bbc,red,morning,-999,w,MODERATE,hail,humid,excellent,arwen,day,,15649,11717,17504,15235,18851,9031,5034,10803,£16082
+2022-03-25,CLOUDY,SOUTH,spring,fahrenheit,weather.com,YELLOW,Night,overcast,,Moderate,,comfortable,-999,dudley,DAY,3249,£1694,2819,NA,3542," 2,908",6014,13774,1288,   851
+27/01/2024,sleet,NaN, winter ,kelvin,Met Office,amber,morning,CLEAR,sw,extreme,HAIL,dry, poor ,arwen,night,4427,1350,NaN," 9,867",-999," 5,703",-999,£6943,1280,8632
+14/02/2023,snowy,-999,missing,celsius,NOAA,amber,afternoon,mostlyCloudy,SW,extreme,RAIN,NA,good,Corrie,day,12109,18707," 4,653",missing,17798,18851,-999,-999,18255,2833
+14/09/2024,windy,north,SPRING,fahrenheit,ACCUWEATHER,yellow,night,mostly cloudy,nw,Very High,-999,dry,good,NaN,day,17952,£5497,475,£9517,13170,2591," 8,907",missing,15413,£3591
+05/08/2022,sleet,WEST,summer,Fahrenheit,metOffice,missing,afternoon,Mostly Cloudy,NW,moderate,SNOW,comfortable,-999, franklin ,missing,"11,651",NaN," 5,212",£19294,12279,,2616," 7,718",£19950,£12987
+2022-10-08, Snowy ,east,SUMMER,KELVIN,accuweather,RED,NaN,MOSTLY CLOUDY,n,low, Rain ,HUMID,veryPoor,eunice,day,£7956,13020,16459,18313,6562,£17344,-999,5652,8130,7783
+2024-09-17,foggy,west,AUTUMN,Celsius, noaa ,None,NIGHT,overcast,Se,very high,-999,HUMID,Poor,Dudley,Day,NA,15801,3418,10150,£5355,NaN,-999,NA,16798,   289
+2024-10-26,snowy,east,autumn,-999,MET OFFICE,amber,evening,Mostly Cloudy,Ne,very_high,,oppressive,MODERATE,arwen,night," 4,537",,6859,NaN,,"18,017",6460,11533,,10920
+13/10/2022,SNOWY,NORTH,AUTUMN,kelvin,Met Office,red,afternoon,OVERCAST,e,extreme,rain, DRY ,moderate,,night,2905,16574,13031,10586,18763,£7642,8406,9079,1304,£755
+20/01/2021,sunny,south,AUTUMN,fahrenheit,bbc,NONE,afternoon,Clear,E,high,none,COMFORTABLE,good,,NA,9723,13000,£4855,12062,NA,623,£88,2065,13018,NaN
+2023-07-03,foggy,Inland,autumn,CELSIUS, met_office ,NA,night,overcast,SE, low ,snow,oppressive,good,arwen,day,missing,NA,8379,9669,6792,2929,16118,,-999,£1018
+NaN,-999,SOUTH,autumn, fahrenheit ,weather.com,amber,evening,mostly_cloudy,Se, MODERATE ,SNOW,-999,Moderate,franklin,Night,17728,12322,£11852,"11,364",18709,5648,299,7033,19311,"16,062"
+24/09/2022,,midlands,Spring, fahrenheit ,Weather.com,YELLOW,evening,clear, ne ,,Rain,oppressive,Excellent,franklin,night,6040,11238,13500,2556,-999,14156,14619,13762,15858,missing
+2022-09-15,sunny,west,Spring,Celsius,met office,red,NIGHT,clear,se,extreme,RAIN,humid,VERY POOR,Barra,night,17523,12645,16671,£13443,4056,£3145,3436,-999,11785,19952
+2024-04-05,rainy,North,winter, FAHRENHEIT ,accuweather,NONE,MORNING,Overcast,n,extreme,sleet,Dry,moderate,dudley,-999,£14106,£13558,NaN,missing,3497,12110,,18238,16352," 4,649"
+20/08/2021,rainy,WEST,SUMMER,fahrenheit,noaa,red,afternoon, partly_cloudy ,nw,extreme,HAIL,HUMID,very_poor,Corrie,night,£1280,£8403,4326,18493,10585,12478,   198,19468,13545,NA
+08/07/2022,SNOWY,Inland,NaN,fahrenheit,met office,none,NIGHT,MOSTLY CLOUDY,ne,NaN,Rain,humid,EXCELLENT,Franklin,day,£11750,£13192,NaN," 1,871",,14005,13333,£17244,992,18127
+07/08/2022,foggy,south,summer,CELSIUS,accuweather,yellow,AFTERNOON,clear,W,extreme,NONE,oppressive,good,barra,day,NA,9238,369,missing,9556,10123,17519,6320,NA,£7081
+07/08/2024,rainy,Midlands,SPRING,celsius,accuweather,RED,missing,Overcast,se,high,Hail,NA,excellent,corrie,NIGHT,£2816," 9,124","18,537",13322,5309,4232,11185,missing,8316,6630
+13/07/2023,windy,west,winter,CELSIUS,accuweather,amber,Night,partly cloudy,SW,high,None,oppressive,EXCELLENT,Barra,Night,9110," 3,238",,117,   682,3813,6666,-999,NA,3679
+04/02/2024, cloudy ,north,SUMMER,Kelvin,met_office,none,NA,CLEAR,,,missing,DRY,excellent,corrie,NIGHT,17564,5117,"17,149",8290,,£1313,9890,16124,," 7,670"
+2021-09-10,FOGGY,west,spring,kelvin, weather.com ,RED,Night,PARTLY CLOUDY,ne,low,,oppressive,,Eunice,-999,17735,"11,384",11517,5110,£12377," 7,333",10754,8563,£16822,8746
+30/08/2024,foggy, Inland ,AUTUMN,kelvin,Noaa,none,-999,Clear,Se,low,Sleet,HUMID,moderate,barra,day,NaN,-999,14490,"17,943",18184,8270,16063,14279,"19,337",172
+2023-05-16,stormy,midlands,summer,CELSIUS,weather.com,missing,AFTERNOON,MOSTLY CLOUDY,e,extreme,sleet,Dry,-999,eunice,day,18806,5555,7514,15106,5913,2241,missing,6004,17380,NaN
+2021-12-20,foggy,south,winter,celsius,Bbc,amber, MORNING ,Overcast,N,EXTREME,sleet,HUMID, excellent ,Dudley,Day,£11286,-999,37,£19113,5760,3117,2331,-999,£19267,-999
+2024-09-27,RAINY,missing,Summer,fahrenheit,Accuweather,RED,afternoon,overcast,se,moderate,rain,Humid,Poor,corrie,night,NaN,£1557,missing,16814,-999," 4,298",12985," 7,405",13111,4590
+07/04/2023,stormy,NaN,winter,CELSIUS,metOffice,NONE,morning,partlyCloudy,NE,-999,snow,HUMID,excellent,Corrie,NIGHT,11995,5026,11331,503,£16685," 3,104",174,14967,"18,304","14,014"
+2023-01-06,STORMY,SOUTH,spring,celsius,Noaa,YELLOW,morning,partly_cloudy,se,Low,sleet,NaN,good,franklin,Day,£2728,18394,13112,£7176,£14591,14464,8957,18938,8572,1639
+2023-06-20,stormy,east,spring,kelvin,accuweather,NONE,EVENING, partly_cloudy ,ne,extreme,none,comfortable,excellent,Eunice,Day," 6,005",4054,,4461,£19273,8425,11242,8663,453,10355
+2023-03-23,Cloudy,west,autumn,fahrenheit,Bbc,,NaN,PARTLY CLOUDY,nw,Extreme,none,NaN,Poor, FRANKLIN ,day,19888,15638,"16,997",£3687,5034,"11,617",£9370,15316,11475,1172
+29/11/2022,sleet,Inland,Winter,Kelvin, accuweather ,NaN,,partlyCloudy,w,very_high,Sleet,HUMID,poor,barra,Day,12973,5876,£4489,"19,392",5814,"18,542","16,393",£11891,16681,3754
+29/05/2022, snowy ,Inland,winter,celsius,met office,red,night,clear, se ,High,snow,NA,poor,Eunice,night,393,1722,£8971,17399,missing," 2,103",5912,857,12711,£12243
+2023-11-23,Windy, coastal ,Autumn,CELSIUS,metOffice,NaN,NA,partly_cloudy,NW,moderate, snow , comfortable ,NA, Arwen ,night,8160,NA,8490,12321,10151,5347,18696,7252,15525,10843
+25/04/2024,Foggy,west,spring,fahrenheit,bbc,NA,morning,mostlyCloudy,e,,sleet, oppressive ,Moderate,arwen,day,NA,272,£19067,,NaN,11007,"18,025",NaN,3393,13707
+09/10/2022,snowy,INLAND,missing,CELSIUS,BBC,RED,,Clear,sw,extreme, hail ,dry,MODERATE,Barra,DAY,"10,557","16,555",13519,£8575,1095,"14,012","11,533",18021,4417," 9,370"
+16/04/2022,Rainy,EAST,AUTUMN,FAHRENHEIT,Accuweather,RED, night ,partly_cloudy,, extreme ,rain,comfortable,NA,arwen,night,-999,NaN,£17489,18973," 2,322"," 9,223",8568,£12207,2246,£9803
+16/11/2023,SUNNY,south,autumn,kelvin,accuweather,AMBER,Evening,CLEAR,NW,Low,rain,oppressive,missing,Eunice,Day,5433,NaN,19239,4541,3829,1852," 1,789",160,8887,missing
+18/02/2023,foggy,midlands,spring,CELSIUS,Accuweather, Amber ,afternoon,overcast,nw,moderate,Hail,Dry,very poor,Corrie,Day,19005,2109,7447,"14,835"," 7,379",£1996,3044,17338,NaN,9072
+10/02/2024,Snowy,North,SUMMER,Celsius,accuweather,NA,Morning,partlyCloudy,NA,NA,Hail, HUMID ,Moderate,DUDLEY,day,2267,2469,2647,18113," 8,174",19866,8361,"19,375",£8842,£17703
+2024-03-25,Stormy,WEST,Spring,celsius,Noaa,red,morning,overcast,S,moderate,NA,Humid,NA,Arwen,day,12124,5060,12978,NaN,502,5885,1478,-999," 1,347",£14423
+15/07/2024,Foggy,North,NaN,KELVIN,Noaa,NA,NA,clear,e,High,None,oppressive,very_poor,corrie,Night,13179,1996,,8889,"14,533",18309,NA,NA,10232,NaN
+,CLOUDY,west,winter,KELVIN,weather.com,-999,afternoon,Partly Cloudy,-999,extreme,sleet,missing,Good,Corrie,night,3438,£304,-999,13502,£14053,£3713,10999,£5622,12464,"16,813"
+07/09/2022,sleet, west ,Spring,KELVIN,accuweather,Amber,NA,CLEAR,s,moderate,Rain,Oppressive,very_poor,arwen,Day,14328,£12626," 3,784",missing,£9707,2427,13554,1601,"12,375","13,037"
+2021-04-18,rainy,west,Summer,celsius,met_office,none,evening,mostly cloudy,NE, High ,hail,Dry,NaN,eunice,day,16234,17222,11381,£5353,7199,£13553,,12927," 5,492"," 7,695"
+14/08/2024,windy,WEST, autumn ,kelvin,missing,AMBER,night,NA,NA,high,Hail,dry,Moderate,EUNICE,night,14312,7838,7079,18225,,4637,1926,£19571," 7,966",£4166
+2023-05-24,NaN,SOUTH,winter,-999,NA,RED,, Partly Cloudy ,se,MODERATE, None ,comfortable,very poor,NA, Night ,NaN,£1356,11827,NaN,£13565,missing," 1,293",17039,6411,£6825
+08/05/2023,missing,south,NA,kelvin,bbc,Red,afternoon,PARTLY CLOUDY,NE,moderate,NONE,COMFORTABLE,excellent,dudley,Day,2259,429,13712,£4827,£19652,6294,7591,"12,762",3364,17157
+16/03/2021,windy,south,Summer,FAHRENHEIT,ACCUWEATHER,NA,night,overcast,Nw, VERY HIGH ,SLEET,humid,Good,Arwen,-999,5062,7395,12893,10798," 2,906",13064,£16826,£15260,"15,456","16,699"
+2022-01-28,CLOUDY,coastal,spring,celsius,WEATHER.COM,NA,night,OVERCAST,n, Moderate ,SLEET,comfortable,VERY POOR,Eunice,NaN,3770,14052,9486,5402,NA,6206,2518,15329,missing,-999
+NaN,Windy,east,Winter,,metOffice,amber,afternoon, Mostly Cloudy ,W,MODERATE,snow,OPPRESSIVE,excellent,barra,DAY,£873,£6807,3400,19589,missing,3699,17492,13164,-999,"10,743"
+05/09/2022,rainy,Coastal,winter,kelvin,MET OFFICE,NaN, evening ,NaN,NW,extreme,sleet,Comfortable,excellent,FRANKLIN,night,£16804,,£17811,missing,£6730,13829,3217,missing,4574,8968
+30/09/2024,cloudy,Midlands,summer,-999,NaN,AMBER,afternoon,mostly cloudy,e,NaN,snow,OPPRESSIVE,Moderate,corrie, DAY ," 2,018",7656,NA,15030,missing,£7553,19138,6615,4248,12887
+2023-12-06,missing,EAST,summer,Kelvin,met_office,none,-999,partly_cloudy,NaN,Extreme,Rain,humid,POOR,DUDLEY,day,"15,561",17561,17683,47,£10832,9717,missing,9739,"14,436","17,566"
+NA,windy,,Autumn,celsius,bbc,amber,night,OVERCAST,nw,Low,NONE, DRY ,poor,eunice,DAY,15274,4896,NA,14494,"13,646",6570,14412,NaN,12817,NaN
+11/04/2022,NaN, SOUTH ,,kelvin,BBC,Yellow,afternoon,NA,nw,HIGH,rain,dry,Moderate,CORRIE,night,"13,477","18,418",13833,1641,2451,£18497,770,£13388,"12,794",18151
+,SUNNY,,Winter,kelvin,bbc,None,evening,OVERCAST,SE,-999,none,DRY,POOR,eunice,night,724,4927,NA,£7451,16743," 7,322",466,7236,4441,
+2023-09-25,rainy, north ,autumn,celsius,met_office,YELLOW,Evening, partlyCloudy , W ,Very High,hail,oppressive,GOOD,franklin,night," 5,017",,12450,"14,948",10205,14439,9726,missing,5989,17218
+2024-03-02, CLOUDY ,NORTH,NaN,NaN,Met Office,none, night ,overcast,NW,moderate,NA,humid,Good,Eunice,NIGHT,£8924,"14,837",£5580,17113,"13,981",92,3355,674," 3,644",18797
+"Nov 27, 2021", stormy ,SOUTH,autumn,kelvin,bbc,AMBER,Evening,-999,NE,, hail ,dry,-999,dudley,day,missing,£5027,2688,15985,NA," 9,469",5695,16641,£15576,NA
+07/04/2024,Sleet, west ,spring,,bbc, amber ,evening,partly cloudy,nw,low,rain,DRY,MODERATE,Franklin,night,2767,£15403,18235,£1908,4358,-999,-999,"15,668"," 6,381",16081
+11/07/2021,SNOWY,south,Summer,celsius,NaN,RED,NIGHT,mostly_cloudy,Nw,MODERATE,snow,dry,excellent,EUNICE,,£2391,17324,11496,-999,15768,-999,"19,040","15,513",9682,19083
+08/12/2024,Snowy,west,summer,celsius,Weather.com,none,morning,MOSTLY CLOUDY,NA,-999,hail,comfortable,POOR, arwen ,day,"15,785",£3582," 2,834",£17716," 1,044",15567,£8483,9858,4892,57
+, snowy ,missing,NaN,kelvin, weather.com ,yellow,morning,overcast,SE,EXTREME,snow,,moderate,Eunice, NIGHT ,-999,£16173,NaN,450,1735,£1125,18898,19085,15722,7055
+03/01/2024,Rainy,NA,autumn,fahrenheit,MET OFFICE, amber ,night,MOSTLY CLOUDY,ne,high,-999,comfortable,VERY POOR,eunice,NIGHT,6906,12712," 7,377",10961,"13,483",,NaN,£5091,£13711,17661
+08/02/2022,sleet,,autumn,fahrenheit,bbc,amber,morning,partly_cloudy,s,VERY HIGH,Snow, comfortable ,moderate,NA,day,"18,400",1944,10421,13225,£5111,15186,4674,£17477,missing,2368
+2023-10-20,, east ,summer, kelvin ,Bbc,yellow,afternoon,partly_cloudy,W,EXTREME, rain ,Dry,poor,corrie,Day,19119,19020,11058," 4,566",£15776,13390,£15890,7122,11249,14277
+04/06/2023,cloudy,South,SUMMER,fahrenheit,metOffice,none,evening,clear,s, moderate ,sleet,dry,Good,franklin,night,17826,17004,6174,16345,£11118,3913,£16171,4241,7676,"12,677"
+17/11/2024,sunny,east,spring,celsius,WEATHER.COM,RED,night,partly_cloudy,se,very_high,none,OPPRESSIVE,Good,EUNICE,night," 2,192",£2079,1639,-999,16034,," 5,113",missing,"14,883",NA
+06/02/2023, stormy ,coastal,Winter,celsius,accuweather,yellow,morning,overcast,missing,VERY HIGH,SLEET,humid, poor , barra ,Night,358,15583,"14,628",18716,£7237,7140,£1566,"16,864",NA,3132
+"Jun 04, 2023",CLOUDY,North,summer,Fahrenheit,metOffice,YELLOW,afternoon,PARTLY CLOUDY, se ,NaN,SNOW,oppressive,missing,franklin,DAY," 5,714","12,924",-999,£8651,17263,"14,890",19138,8072,"13,605"," 3,064"
+2022-03-01,STORMY,inland,,kelvin,Bbc,yellow,night,mostly_cloudy,S,very high, rain ,dry, very poor ,dudley,night,£17659,"13,927",-999,10040,9743,666,NaN,7461,19606,NA
+2024-02-23,sunny,Midlands,Summer,Kelvin,NaN,AMBER,morning,PARTLY CLOUDY,N,missing,,dry,moderate,eunice,Day,3770,3824,,8931,263," 8,956",NaN,15903,18348,3386
+"Aug 09, 2024", rainy ,NaN,WINTER, kelvin ,met office,red,afternoon,overcast,N,extreme,sleet,NA, excellent , franklin , NIGHT ,10841,,714,14273," 9,238",£4213,"19,907",964,7135,"12,042"
+2022-03-06,SUNNY,inland,summer,KELVIN,met office,none,Night,Partly Cloudy,SW,high,NONE,humid,EXCELLENT,dudley,,8025,5872,7735,13909,10571,£1503," 3,762",£15488,7053,
+15/05/2024,NaN,coastal,SUMMER,kelvin,missing,none,NA,clear,w,high,none,oppressive,Excellent,NaN,DAY,18499,£5195,£9910,11962,12160,   488,-999,-999,4416,938
+30/06/2023,snowy,inland,Winter,kelvin,accuweather,amber,Afternoon,partlyCloudy,e,moderate,sleet,COMFORTABLE, good ,EUNICE,night," 2,363",£11111,13245,£8823,738," 1,242","13,284",17869,£2732,2647
+2021-10-16,NA,coastal,summer,NA,accuweather,none,night,clear,NE,veryHigh,rain,OPPRESSIVE,Excellent,missing,day,5290,missing,NaN,411,19659,18362,5690,15779,2231,10457
+24/02/2023,SUNNY,West, Autumn , celsius ,weather.com,Red,morning,overcast,n,veryHigh,sleet,comfortable,poor,barra,night,£15466,4330,NaN,8392,£14291,16615,3860,18067,£257,16855
+13/05/2022,sunny,midlands,SUMMER,CELSIUS,bbc,,NaN,Clear,E,moderate,Snow,comfortable,moderate,arwen, night ,18780,18627,8916,"14,466",19422,13348,9421,16760,NA,£3796
+,Sunny,inland,autumn,kelvin,met_office,NONE,Night,OVERCAST,e,moderate,rain,comfortable,Very Poor,Eunice,DAY,,18659,missing,16166,£6948,11178,19056," 6,984",11760,-999
+2021-09-08,FOGGY,north,missing,kelvin,MET OFFICE,red,afternoon,clear, E ,Very High,hail,dry,NA,eunice, day ,19533,16156,NaN,11468,15352,10470,"10,468",865,10404,2384
+2021-04-21,foggy,north,SUMMER,kelvin,noaa,none,night,clear,e,veryHigh,none,dry,poor,Franklin,day,£825,£19983,17,4984,7724,14133,"10,989"," 6,555",2745,18662
+11/03/2023,windy,NA,summer,kelvin,Bbc, red ,afternoon,OVERCAST,W,EXTREME, NONE ,Dry,Good,arwen,NIGHT," 4,276",missing,5298,4916,£7846,6928,NaN,3302,£12951,2033
+2024-11-09,NA,south, winter ,-999,,none,Morning,clear,sw,LOW, NONE ,Humid,excellent, barra ,Night,£19602,8354,19101,missing,,13068,"14,919",13078,-999,12593
+"May 28, 2022",Sleet,EAST,SPRING,fahrenheit,ACCUWEATHER,red,night,clear,w,MODERATE,hail,Humid,Good,eunice,day,4174,-999,19171," 7,029",7443,£2787,1506,15419,11851,£6428
+2024-02-28,Sunny,Coastal,AUTUMN,Kelvin,accuweather,Yellow,morning,,s,Moderate,NONE,Humid,very_poor,Arwen,DAY,"14,013",6730,£13007,-999,9002,3508,-999,19212,5630,15488
+2024-08-13,Snowy,coastal,autumn,FAHRENHEIT,missing,Yellow,night,PARTLY CLOUDY,se,Moderate,none,Oppressive,MODERATE,Franklin,Night,,6347,£12543,£17072," 3,446",15234,"14,235",£15022,£13046,2813
+05/01/2023,windy,midlands,summer,celsius,NaN,amber,evening,overcast, W ,EXTREME,snow,,missing, barra , NIGHT ,£10121,5728,£9476,14120,NaN,"17,020",,"16,898",missing,NaN
+2021-03-04,Sleet,East,missing,celsius,weather.com,NONE,evening,OVERCAST,NE,NA,rain,oppressive,poor,NaN,Day,"18,018"," 5,577",3465,5610,8890,£19818,13197,15625,19045,18911
+NaN,sunny,,Autumn,NaN,Met Office,yellow,Night,partlyCloudy,NaN,high,SNOW,HUMID,good,dudley,Night,"12,268",£19804,1529,10147,9807,"11,916","13,986",5706,£17893,12575
+22/04/2023,rainy,East,SUMMER,kelvin,weather.com,yellow,morning,mostlyCloudy,nw,extreme, rain ,comfortable,NA,corrie,day,£7964,,6514,4165,£1301,£6763," 2,433",-999,17370,NaN
+18/07/2021,snowy,SOUTH,spring,,,none,night, PARTLY CLOUDY ,e,extreme, snow ,comfortable,-999,Arwen,DAY,13105,10576,19853,£1620,20,9515,10572,17418,19259,"17,557"
+2023-08-29,-999,coastal, Summer ,,NA,red,morning,clear,se,VERY HIGH,-999,Comfortable,poor,EUNICE,-999,,£18074,10784,2344,6714,11164,19915,14874,173,5969
+missing,NA,NA,winter,KELVIN,accuweather,,NA,,SW,Very High,Hail,NaN,MODERATE,NA,DAY,16689,12882,12296,4289," 4,602",100,16939,6519,NA,4115
+2022-08-06,Sleet,North,missing,kelvin,noaa,red,night,overcast,e,high,none,dry,VERY POOR,Barra,day,1227,15144,£15564,NaN,2451,10950,19876,,13563,10074
+17/07/2022,foggy,North,summer,celsius,Met Office,amber,morning,missing,E,extreme,Rain,missing,GOOD,Corrie,day,£14470,6434,18255,15221,1700,14610,5715,-999,8313," 9,244"
+2023-04-25,rainy,inland,autumn,Kelvin, met_office ,red, Afternoon ,mostlyCloudy,N,extreme,Hail,dry,moderate,Franklin,night,3621,15046,15413,NA," 6,097",13858,missing,NA,6621,15558
+12/03/2021,CLOUDY,north,summer,Kelvin, bbc ,RED, morning ,NA,n,extreme, hail ,Dry,VERY POOR,barra,day,3817,15397,13941,19265,13859,NaN," 1,721",NaN,12171,£17346
+NA,sleet,west,winter,fahrenheit,bbc,red,evening,Mostly Cloudy,se,Moderate,none,comfortable,very_poor,arwen,day,2310,9616,9522,6316," 5,832","15,389",NA,18233," 1,473",£2908
+2023-09-14,sleet,Midlands,NaN,FAHRENHEIT,weather.com,NaN,afternoon,overcast,W,NA, NONE ,humid,POOR,-999,NIGHT,£2626,15530,NA,missing,17355,6083,15510,7113,10911,11070
+"Jan 01, 2022",sleet,-999,missing, Fahrenheit ,met office,amber,NaN,Overcast,NA,Moderate,hail,oppressive,excellent, CORRIE ,Day," 9,524",missing,17787," 8,086","18,288",3094,12324,15683,17561,2565
+,snowy,SOUTH,AUTUMN,celsius,Bbc,none,afternoon,PARTLY CLOUDY,s,extreme,missing,COMFORTABLE,very poor,barra,NIGHT,6864,5365,,£9826,5540,12163,2905,18379,4288,£10845
+19/06/2022,rainy,north,autumn,celsius,NOAA,none,Afternoon,MOSTLY CLOUDY,E,HIGH,snow,oppressive,very_poor,,night,"11,032",£10092,"13,953",7582," 9,682",£510,1189,1134,"10,558","12,845"
+"Jul 16, 2021",foggy,east,autumn,FAHRENHEIT,weather.com,-999,NaN,mostly_cloudy,n,Very High,Hail,humid,excellent,missing,night,3475,,17898,6029,missing,£8601,1290,19148,10053,1497
+2024-11-23,Stormy,MIDLANDS,summer,NA,accuweather,amber,missing,PARTLY CLOUDY,missing,moderate,hail,humid,POOR,arwen,day,£8991,3603,8618,3522,£7862,"18,256",13852,13964,1181,17604
+2024-01-04,cloudy,NA,Summer,kelvin,NOAA,RED,evening,Partly Cloudy,nw,Extreme,rain,HUMID,NA, franklin ,NIGHT,£15222,£4148,9523," 7,569",10986,7484,694,6420,£17508,16574
+,Sunny,INLAND,summer,celsius,bbc,red,Evening,MOSTLY CLOUDY,w,HIGH,-999,-999,-999,Dudley,Day,7940,8179,2317,4304,19571,15748,£19060,3371,4968,12133
+2024-02-26,-999,coastal,spring,Celsius,MET OFFICE,none,MORNING,PARTLY CLOUDY,s,low,missing,dry,Very Poor,eunice,day,10601,8972,4779,NA,12265,17755,8398,16741,10681," 4,269"
+-999,rainy,West,NA,kelvin,met_office,amber,MORNING,partlyCloudy,s, extreme ,none,dry,moderate,dudley,night,11849,," 1,292",£7678,18679,NaN,10985,£18757,4719,1234
+2022-09-17,Snowy,coastal,SUMMER,Kelvin,bbc,Amber, afternoon ,clear,nw,Extreme,Snow,HUMID,very poor,NaN,day,2202,£5015,£8757,£7574,14205,-999,2838," 8,872",5600,18387
+2022-11-12,windy,south,summer,Fahrenheit,Accuweather,yellow,NaN,overcast, W ,LOW,RAIN, Humid ,good,eunice,night,5774,16696,2767,£5596,4319,8161,-999,15929,11380," 9,379"
+"Apr 11, 2021",foggy,west,spring,FAHRENHEIT,met_office,amber,evening,partly_cloudy,e,low,hail,humid,excellent,Arwen,NIGHT,9315,NA," 3,420",12282,7897,19493,14826,6230,7072,£391
+27/11/2023,sunny,Midlands,summer,Fahrenheit, ACCUWEATHER ,yellow,NA,partly_cloudy,ne,NaN,Hail,Humid,excellent, arwen ,NIGHT,3806,19820,£12082,19246,£18518,10799,£10741,10396,£13582,£13053
+22/09/2021,snowy,-999,summer,kelvin,met_office,amber,evening,OVERCAST,s,Low,sleet,OPPRESSIVE,Very Poor,eunice,missing," 3,677"," 6,839",7932,9658,missing,11606,10806,8567,16396,9708
+2021-11-01,SLEET,south,-999,fahrenheit,weather.com,amber,evening,NaN,n,NA,NaN,NaN,good,dudley,night,15505,missing,2321,"12,877",,1121,missing,-999,3165,
+,stormy,coastal,winter,FAHRENHEIT,noaa,Yellow,night,overcast,se,LOW,snow,Comfortable,moderate, ARWEN ,Day,2821,£12341,9517,14758,4798,£8410," 2,328",£10819,17789,8057
+04/12/2024,rainy,east,autumn,celsius,bbc,-999,evening,Overcast,Nw,MODERATE,sleet,oppressive,missing,EUNICE,day,16866,,missing,-999,£15539,"16,607",NA,6477,2679,17650
+08/05/2022, SLEET , coastal ,summer,fahrenheit,Bbc,amber,night,-999,SE,High,sleet, oppressive , poor ,DUDLEY,Night,9499,10179,6658,1507,£12184,2089,18277,16637,£3837,"16,793"
+2021-10-26, rainy ,NaN,,celsius,NOAA,red, Morning ,Partly Cloudy,Ne,Very High,Snow,comfortable,poor,Dudley,Night,8358,1462,8470,missing,16075,16099,12372,10522,7448,4466
+-999,NA,COASTAL,winter,fahrenheit,,NONE,morning,PARTLY CLOUDY,S,moderate,rain,humid,GOOD,eunice, day ,3843,15334,15370,-999,£2347,"18,662",4542,,9141,£3224
+29/12/2023,Foggy,NaN,Winter,CELSIUS,accuweather,NaN,evening,overcast,n,very_high,NONE,Dry,poor,eunice,night,missing,17850,8352,14900,£11921,12871,4880,£12993,6936,7105
+11/03/2021,foggy,east,spring,Fahrenheit,accuweather,RED,AFTERNOON,PARTLY CLOUDY,,moderate,hail,dry,very_poor, CORRIE ,day,£19182,16278,8912,"19,770",missing,16916,12376,2154,"16,666",6092
+08/11/2023,cloudy,west, summer ,kelvin,ACCUWEATHER,missing,afternoon,clear,-999,veryHigh,NONE,Humid,excellent,dudley,DAY,missing,19762,£17121,£2419,£14671,NA," 3,034",18817,"13,172",9141
+05/08/2023,windy,north, AUTUMN ,celsius,BBC,NONE,Morning,partlyCloudy,nw,Very High,hail,missing,GOOD,franklin,DAY,missing,5080,5963,8383,1458," 3,898",12495,-999,18842,£10321
+29/04/2024,windy,east,winter,FAHRENHEIT,,YELLOW, night ,mostly cloudy,s,EXTREME,None,oppressive,poor,corrie,day,£16923," 8,901",£19634,£10783,£4158,8449,1778,5969,18422,15195
+08/06/2022,sunny,north,Spring,fahrenheit,ACCUWEATHER,amber,Morning, partlyCloudy ,e,NA,NONE,COMFORTABLE,Good,ARWEN,NaN,1542,£18604,£6520,1709,2820,1695,17281,14102,7970,1430
+2021-11-27,rainy,coastal,spring,celsius,accuweather,yellow,Afternoon,partly cloudy,nw,HIGH,sleet,comfortable,MODERATE,FRANKLIN,day,1594,£17455,,£13825,12545,5736,£9913,missing,-999,5239
+24/06/2023,stormy,east,SUMMER,Celsius,,-999,NA,PARTLY CLOUDY,missing,VERY HIGH,None,COMFORTABLE,EXCELLENT, eunice ,NaN,8046,16315,"10,451",10348,"17,863",£15673,14848,12569,6177,11581
+"Jun 29, 2022",STORMY,east,autumn,celsius,NaN, Amber ,AFTERNOON,overcast,se,-999,SLEET,Dry,excellent,Dudley,missing,"18,483",6913,£18805,18186,£2063,£17524,"18,578"," 6,755",£2516,9285
+"Jun 21, 2022",Rainy, inland , winter ,celsius,Accuweather,yellow,morning,mostly cloudy,missing,low,none,humid,-999,barra,night,£15993,19785,"14,097",4858,9729,9568,12102,3130,15595,£15289
+04/11/2022,snowy,south,WINTER,FAHRENHEIT,Bbc,-999,Evening,clear,Nw,High,hail,Humid,Very Poor,DUDLEY,-999,"11,799",6492,£12688,17253," 4,923",3050,1879,£12673,13837,£17155
+20/05/2024,Rainy,south,NA,KELVIN,met office,none, afternoon ,PARTLY CLOUDY,s,veryHigh,hail,dry,POOR,franklin,Night,£15538,£15486,10981,"14,404","17,059",297,5899,18542,"12,627",   720
+"Aug 02, 2021",snowy,West,Spring,kelvin,Bbc,AMBER,night, overcast ,se,very_high,sleet,NaN,veryPoor,corrie,night,-999,6008,13919,694,3444,7976,14848,2960,£13787,-999
+2023-11-26,rainy,NA,summer,CELSIUS,NOAA,,night,overcast,Se,low, snow ,comfortable,NaN,franklin,night,4454,£53,£13192,19606,5682," 5,019",13839,£11236,"15,353","19,777"
+11/06/2021,Stormy, west ,autumn,,bbc,amber,NaN,partly cloudy,n,High,SNOW,humid,VERY POOR,NaN,NIGHT,235,16263," 4,429",4041,2728,4281,NA," 6,425",123," 4,351"
+2023-09-08,sleet,INLAND,autumn, fahrenheit ,bbc,red,Morning,-999,s,moderate,Snow,Humid,MODERATE,DUDLEY,DAY,6776,,16235,£463,"11,205",236,18296,,,19953
+2022-01-10,FOGGY,south,winter,KELVIN,accuweather,red,night,clear,e,high,None,dry,,Corrie,NA,12079,"18,590",£10911,5150,13088,5505,"10,226"," 5,653",2623,NaN
+2021-12-26,Stormy, south ,summer,celsius,noaa,none,NA,NaN,sw,low,rain,DRY,NA,corrie,Day,11999,19486,2361,2985,£4679,NaN,   995,13038,7777,18300
+2023-05-14,rainy,south, autumn ,FAHRENHEIT,accuweather,amber,evening,Partly Cloudy,e,Extreme,RAIN,humid,EXCELLENT,,DAY," 7,241",5963,17078,14968,£760,15312,11185,15818,2376,£10033
+16/05/2023,Rainy,inland,winter,celsius,Accuweather,amber,Night,NaN,n,-999,Snow,oppressive,very_poor,corrie,NIGHT,3028,   232,£6366,4759,2719,9457," 2,405",£17067,"16,907",9383
+26/08/2023,RAINY, coastal ,SUMMER,fahrenheit,Weather.com,yellow,night,clear,SE,high,none,Oppressive,VERY POOR,barra,Night,19474,18757,£4926,19250,15228,missing,"17,996","14,458",-999,3853
+15/06/2023,-999, west ,missing, Kelvin ,-999,red,evening,mostly_cloudy,ne,VERY HIGH,Sleet,oppressive,Moderate,dudley,NA,£16928,2910,£6142,NA,9693,,£2707,£16332,2298,£18107
+09/02/2021,windy,EAST,SPRING,celsius,bbc,none,NIGHT,clear,sw, high ,hail,humid,moderate,eunice,night,10515,NA,818,£12569,13807,1327,14891,6652,11209,£9896
+, windy ,inland,autumn,FAHRENHEIT,weather.com,NaN,morning,Partly Cloudy,E,high,None,Oppressive,NaN,corrie,night,4475,6840,19282,£5956,NA,£4464,£7063,-999,9437,4260
+NaN,Sleet,SOUTH,winter,FAHRENHEIT,bbc,AMBER,night,clear, Ne ,moderate,none,Oppressive,excellent,Dudley,DAY,4023,8902,1667,£433,9334,12651,3826,17362,2562," 8,948"
+26/01/2023,sunny,missing, spring ,fahrenheit,Met Office,Red,EVENING, partly_cloudy ,Sw,high,snow, Humid ,very_poor, EUNICE ,,,3200,"15,055",5866,15030,£1189,6041,£14405,7909,18537
+20/08/2024,windy,inland,spring,fahrenheit,Weather.com,none,Night,partly_cloudy,,HIGH,snow,Comfortable,excellent,missing,Day,-999," 5,371",£7421,12509," 6,920",11642,missing,NaN," 4,123",12317
+20/08/2021,Snowy,east, Spring ,kelvin,noaa,yellow,morning, clear ,ne, very_high ,sleet,humid,poor,Dudley,day,£18715,£933,12800,£18817,missing,£11548,£12925,£9780,5272,£8259
+NaN,NaN,east,autumn,kelvin,accuweather,,EVENING,overcast,nw,missing,snow,NA,Poor,dudley,night,£12663,7524,£8217,9954,5559,14187,-999,15046,"17,912",14430
+14/09/2024,Windy, midlands ,spring,Celsius,noaa,missing,evening,partlyCloudy, NE ,low,-999,Humid,veryPoor,Dudley,night,"14,659",NA,"15,547",£2075,17578,£198,,£3987,£770,17889
+02/02/2021,Rainy,NORTH,Winter,Fahrenheit,BBC,RED,EVENING,MOSTLY CLOUDY,sw,high,Hail,Oppressive,POOR,Barra,DAY,£7769,£7240,£7865,£19977,"15,887","12,420",missing,"19,336",missing,
+06/08/2024, stormy ,NaN, summer ,kelvin,-999,amber,NIGHT,Clear,SE,extreme,Hail,dry,poor,BARRA,day,19832,989,"11,845",£4679,1836,NaN,18886,NA,19440,18580
+09/12/2024,,missing,-999,FAHRENHEIT,bbc,yellow,missing,mostly cloudy,nw,high,hail,,-999,corrie,night,11048,-999," 3,544",7406,"19,618",£2392,   163,£6443,£12796,14638
+NaN,Snowy, west ,Autumn,KELVIN,bbc,amber,night,clear,ne,veryHigh,Hail,oppressive,NA,Franklin, NIGHT ,11809,"10,677",£15760,£9390,5979,£18086,16496,12611,10064,11389
+"Oct 22, 2021",STORMY,inland,spring,fahrenheit,noaa,red,NA,,e,veryHigh,-999,oppressive,GOOD,missing,day,6170,,6133,"16,493",£13999,-999,£9836,,13768,£7205
+11/08/2022,sunny,inland,summer, FAHRENHEIT ,bbc,NaN,morning,clear,N,VERY HIGH,Hail,HUMID,moderate,eunice,day,11387,294,£15614,NaN,16405,485,17968,£1256," 1,628",1730
+2023-04-29,,coastal, autumn ,kelvin,Met Office,red,Evening,clear,s, very high ,none,dry,poor,eunice,night,6373,"15,761",£5965,NaN,£387," 9,206",8444,1496,£4759,£1557
+"Nov 08, 2022",RAINY,INLAND,Summer,kelvin,met office,-999,NaN, overcast ,W,extreme,Sleet,humid,VERY POOR,barra,day,9191,9966," 9,375",14748,NaN,£11274,missing," 5,273",missing,missing
+19/09/2021,stormy,midlands,autumn,celsius,accuweather,NONE,night,NA, e ,moderate,rain,missing,Poor,,Day,9852,"17,494",17604,"18,415",9592,NaN,6886,19109,7809,1638
+2022-04-18,SUNNY,west,,kelvin,accuweather,yellow,night,Clear,SE,Low,rain,oppressive,MODERATE,eunice,day,£7906,NA," 4,196",12543,295,17867,16543,1591,1187,12243
+2021-11-04,stormy,Inland, autumn ,Kelvin,accuweather,red,missing,missing,s,Very High,HAIL,oppressive,excellent,-999,night,"14,551",12893,"18,995",2705,18758,17510,NA,,£15156," 1,458"
+02/11/2024,cloudy,coastal,autumn,kelvin,noaa,NONE,afternoon,clear,n,moderate, snow ,DRY,Very Poor, arwen ,Night,15695,£3109,£6159,-999,5503,missing,£3059,6986,1551,3545
+2021-12-04,snowy,SOUTH,WINTER,fahrenheit,accuweather,Red,EVENING, CLEAR ,n,high, snow ,dry,Excellent,,,4752,1355,19929,£12245,4629,15387,1661,14806,"11,245",14838
+2024-09-19,snowy,West,Winter,fahrenheit,bbc,Red,Afternoon,partly_cloudy,se,very_high,hail,comfortable,excellent,arwen,day,6725,NaN,8284,£1376,"11,402",7816,13721,7532,£8434,£6304
+27/12/2024,sleet,west,Winter,fahrenheit,met_office,NONE,night,clear,SE,LOW, hail ,NaN,poor,arwen,DAY,14381,4260,4030,15164,"18,054"," 6,571",9024,8850,"19,158",8199
+22/03/2021,stormy,Coastal,missing,fahrenheit,MET OFFICE,Amber,Night,Mostly Cloudy,-999, moderate ,Rain,Oppressive,poor,BARRA,DAY,1228," 2,573",£15705,£18656,17052,missing,"15,486",12800,6125,£15273
+2021-06-14,Sleet, east ,Spring,celsius,met_office,missing,night,partlyCloudy,, Very High ,Snow,humid,very poor,dudley, Day ,£5463,5128," 5,748",11204,19909,-999,£2782,13087,NA,17696
+2023-05-05,rainy,coastal, AUTUMN ,fahrenheit,weather.com,none,afternoon,OVERCAST,nw,HIGH,Sleet,oppressive,MODERATE,Corrie,night,," 2,945",9352,£5967,£6580,9749,£4679,18912,NaN,-999
+2022-08-20,RAINY,-999,,Celsius,,RED,missing,partly_cloudy,,,rain,comfortable,-999,barra,night,"15,475",6681,15677,6556,1252,18483,missing,"17,685",19592,"11,931"
+2022-02-12,windy,-999, SUMMER ,celsius,bbc,YELLOW,NaN,clear,s,extreme, hail ,NaN,POOR,barra,Night,6617,11344,6338,2604,NA,12126,11591,1637,18688,"12,038"
+06/06/2021, windy ,east,SUMMER,CELSIUS,bbc,NaN,Afternoon, clear ,NaN,EXTREME,SLEET,humid,poor,eunice,night,NaN," 8,836",-999,17163,£16155,NaN,11310,19891,2242,3773
+missing,snowy,inland,Autumn,celsius,Noaa,red,night,mostlyCloudy,E,high,missing,comfortable, Very Poor ,corrie,night,3875,£14970,£10861,17436,12227,,"15,921",19143,£129,13870
+2021-07-07,windy,midlands,spring,fahrenheit,Noaa,amber,Morning,mostly_cloudy,N,moderate,hail,humid,very_poor,eunice,night,£8669,"19,248",4024,2122,NA,£18311,£4627,3310,6009,14283
+24/03/2023,sleet, west ,spring,Fahrenheit,BBC,amber,-999,OVERCAST,NW,extreme,HAIL,COMFORTABLE,moderate,DUDLEY,day,11300," 5,763",9416,"14,432",9883,10107,18415,5029,7740," 6,002"
+NaN,missing,midlands,AUTUMN,kelvin,,Yellow,evening,CLEAR,N,low,HAIL,HUMID,excellent,franklin,night," 2,704",13447,£8316,,£8778,   189," 9,690",17773,"16,719",-999
+29/04/2022,sleet,west,SPRING,CELSIUS,metOffice,RED,afternoon,overcast,Nw,VERY HIGH,Snow,comfortable,EXCELLENT,Corrie,night," 7,118",6913,3211,,"12,655",12782,,NA,"17,469"," 3,528"
+08/02/2023,sunny,south,autumn,CELSIUS,metOffice,Yellow,Night,mostly cloudy,n,low,none,comfortable,poor, franklin ,night,10881," 2,172",3692,9668,£3694,11790,"13,528",5041,9379,"14,449"
+04/09/2024,STORMY,MIDLANDS,SPRING,celsius,missing,yellow,Night,CLEAR,n, HIGH ,none,oppressive,very_poor,dudley,NaN,missing,,NaN,7818,NaN,£14251,   608,11465,missing,NA
+12/09/2023,Snowy,south,spring,missing,bbc,yellow,afternoon,Clear,s,EXTREME,hail, humid ,,corrie,NIGHT,-999,£13917,   927,16876,,£15462,£82,4209,£67,7454
+15/02/2021,,Inland,autumn,,WEATHER.COM,red,morning,Clear,w,MODERATE,rain,oppressive,very poor,,day,4690,18887,"15,626",£9814,"17,935","12,798",18707,18282,19810,"19,797"
+10/08/2022,snowy,midlands, summer , KELVIN ,Bbc, AMBER ,morning,clear,ne,Extreme,,dry,poor,arwen,,16632,2169,5317," 3,028",,11698,"13,090",£18292,£19058,13135
+26/11/2022,windy,West,summer,Kelvin, noaa ,red,Night,Partly Cloudy,n, very high ,None,comfortable,moderate,Barra,Day,1862,1339,NA,£9331,13860,,NaN,£16583,13352,10135
+04/10/2022,NaN,inland, summer ,kelvin,MET OFFICE,red,AFTERNOON,partly cloudy,se,moderate,hail,dry,excellent,arwen,NA,NA,NaN,3912,8089,missing,8672," 4,254",£4336,11654,£10099
+16/12/2022,-999,West,AUTUMN,Fahrenheit,Noaa,Red,afternoon,mostlyCloudy,W,Very High,None,Humid,good,ARWEN,day,,NaN,5368,13133,15106,12070,14921,NA,19860,729
+2022-03-15, SUNNY ,Coastal,SUMMER,-999,metOffice,yellow,NIGHT,partlyCloudy,e,extreme,snow,COMFORTABLE,good,arwen,night,11660,19379,17822,£931,18648," 6,875","19,772",11416,14931,10930
+2022-03-24,-999,coastal,winter,NA,Noaa,red,evening,,N,high,none,HUMID,poor, corrie ,day,4377," 6,607",14962,1908,6486,16297,1223," 3,140",15856,13523
+NaN, stormy ,Inland,Summer,fahrenheit,met_office, none ,night,clear,w,veryHigh,rain,DRY,MODERATE,Dudley,Day,17880,£5733,5384,   989,12791,10459,£9186,2430,missing,"15,363"
+2021-10-16,SUNNY,NaN,spring,-999,bbc,NA,afternoon,NaN,n,-999,missing,humid,poor,arwen,night,£2600,14784," 6,818",£14320,"15,595",4022,9260,NaN,8260,9840
+12/01/2023,Sunny, East , Summer ,NaN,NOAA,yellow,night,missing,nw,HIGH,,NA,very poor,Corrie,day,10844," 6,122",19492,13845,"10,177",4408," 4,550",1485,£14267,
+2023-06-22,cloudy, east , SPRING ,Fahrenheit,Noaa,NA,NaN,mostly cloudy,Nw,low,none,humid,excellent,eunice,night,NA," 2,998"," 3,334",3541,16639," 7,349",,NaN,£6337,18666
+2023-05-14,snowy,NA,summer,celsius,Noaa,amber,AFTERNOON,Clear,s,very high,rain, OPPRESSIVE ,NaN,arwen,Night,10340,15540,£10076,£5717,£16198,"12,177",1183,£5230,,£762
+2021-03-25,windy,coastal,NA,Fahrenheit,weather.com,Amber,afternoon,Clear,sw,high,sleet,Comfortable,moderate,franklin,DAY,16943,6510,2212,15836,2019,19494,"12,618",1040,13064,19429
+07/03/2023,RAINY,,Autumn,fahrenheit,WEATHER.COM,Red,missing,clear,se,low,hail,dry,excellent,franklin,NaN,2885,9528,19665,8115,6416,£16042,17863,15682,646,14683
+07/10/2024,sleet,Inland,autumn,KELVIN,bbc,YELLOW,EVENING,missing,S,low,Sleet,comfortable,Poor,missing,night,14631,NaN,"14,309",5624,£9733,2531,6960,4738,1573,11877
+10/04/2024,CLOUDY,East,winter,KELVIN,BBC,None,AFTERNOON,CLEAR,sw, veryHigh ,Snow,Dry, poor ,NaN,NA,missing,3926,missing," 4,068",19363,2003,10715,14761,1305,19132
+missing, Snowy ,midlands,Spring, fahrenheit ,metOffice,red,afternoon,Overcast,Sw,very high,sleet,humid,Moderate,dudley,Day," 1,889",   517,12627,£18034,18295,4931,7372,16144,11667,86
+"Dec 07, 2023",foggy,east,WINTER,Kelvin,noaa,Yellow,afternoon,CLEAR, sw ,high,NONE,DRY,Good,eunice,-999,£4465,£2911,7954," 1,426",19054,5226,4864,£1915,£7916,19420
+15/12/2022,foggy, midlands ,AUTUMN,KELVIN,NA,Yellow, NIGHT ,Partly Cloudy,w,extreme,, OPPRESSIVE ,good,eunice,day,5029,NaN,NaN,"15,477",15337,14799,9500,,£6793,
+02/02/2023,Rainy,missing,,Fahrenheit,MET OFFICE,none,EVENING,PARTLY CLOUDY,ne,,NA,dry,NA,arwen,Day,17300,£3422,15994,-999,13198,   228,£19195,NaN,6964,4007
+27/03/2022,cloudy,Inland,SUMMER,kelvin,Weather.com,yellow,evening,CLEAR,E, low ,none, comfortable ,very_poor,-999,DAY,14573,16593,88,18320,NA,160,"17,885",14184,15791,"14,270"
+,SNOWY,North,autumn,NaN,weather.com,none,Morning,mostly cloudy,Se,-999,Rain,humid,moderate,franklin, day ,2401,£13839,"19,396",11216,18215,6682,8493,"15,797",6430,£19414
+-999,stormy,midlands,autumn,celsius,ACCUWEATHER,amber,afternoon,mostly_cloudy,n,High,Rain,Humid,MODERATE,Arwen,day,16888,16032,2717," 5,688",4772,16947,16974,9728,£12041,13570
+19/02/2022,SNOWY,West,NA,Fahrenheit,bbc,red,morning,mostly cloudy,E,Moderate,sleet,dry,poor,barra,day,17982,missing,8602,19025,10536,"10,632",13591,14518,1293,5509
+"Nov 10, 2021",Rainy,west,Spring,Celsius,ACCUWEATHER,none, evening ,clear,SE,extreme,hail,Dry,excellent,EUNICE,day,£7833,16546,,9846,£3575,£11965,£13709," 2,071",11895,18222
+2024-12-08,sunny,NA,winter,fahrenheit,weather.com,Yellow, Night , MOSTLY CLOUDY ,SE,extreme,SNOW,oppressive,very poor,EUNICE,Day,missing,5446,5678,£18835," 9,001","16,412",18853,,18581,4338
+2023-08-06,-999,North,summer,,weather.com,NA,EVENING,clear,Se,very high,none,humid,good,DUDLEY,day,NA,NaN,12232,2465,5327,17820,,,-999,19183
+2024-06-03,Sleet,-999,summer,FAHRENHEIT,noaa,none,NIGHT,OVERCAST,nw,VERY HIGH,hail,COMFORTABLE,-999,franklin,day,missing,14559,18506,10194,£19240,7518,6546,2994,5560,"18,468"
+"Dec 17, 2022",snowy,midlands,NA,NaN,noaa,NA,NIGHT,clear,w,veryHigh,NA,dry, moderate ,Arwen,NIGHT,8350,18739,16850,443,5091," 4,891"," 7,030",1487,2631,7845
+2024-02-10,cloudy,East,,Fahrenheit,noaa,amber,afternoon,clear,w,very_high,rain,comfortable,very poor,arwen,DAY,15058,£16284,,£11193,18646,"15,011",10401,2081,4935,16124
+"Sep 06, 2024",sunny,South,Summer,kelvin,accuweather,red,morning,mostly_cloudy,ne,HIGH,hail,humid,moderate,franklin,night,6015,-999,17136,£7929,582,missing,6123,9446,£9315,7408
+"Mar 16, 2024",cloudy,north,autumn,Fahrenheit,Met Office,-999,night,NaN,N,moderate,rain,Oppressive,MODERATE,-999,night,NA,£14825,10200,£9715,2154,10904,14967,NaN,6744,4573
+2022-11-04,SUNNY,COASTAL,spring,fahrenheit,bbc,red,Afternoon,clear, se ,very high,sleet,oppressive,Good,Franklin,night,11594,16384,11371,£15698,1008,147,15680,£8007,£14490,18025
+2024-01-25,FOGGY,north,SPRING,fahrenheit,NOAA,yellow,MORNING,mostly cloudy,Nw,high,Rain,HUMID,NaN,Eunice, NIGHT ,3836,18997,£18982,£14308,7371,£222,2,11584,3184,£512
+02/11/2022,snowy,coastal,Winter, KELVIN ,metOffice,red,EVENING,mostlyCloudy, nw ,low,Hail,comfortable,very_poor,NA,missing,18659,"18,060"," 6,941",14076,12109,£18067,NA,15368,£10815,17938
+18/11/2022,,SOUTH,autumn,-999, noaa ,Red,Evening,Partly Cloudy,missing,high,rain,NA,excellent,ARWEN,NIGHT,14885,14650,18805,11483,NaN,,£17244,"10,872","14,690",10758
+06/09/2021,sunny,west, Spring ,kelvin,Weather.com,NONE,Afternoon,Partly Cloudy,E,Moderate,RAIN,oppressive,good,DUDLEY,night,£10236,14955,"17,114","12,282",NaN,£7703,19815,17983,7946,7003
+15/11/2021,windy,midlands,autumn,kelvin,noaa, None ,Night,PARTLY CLOUDY,nw,moderate,sleet,comfortable,moderate, BARRA ,night,9139,£558,13309,19368,5123," 6,113",£7655,8929,NA,4993
+2021-01-07,sunny,north,Autumn,celsius,WEATHER.COM,red,AFTERNOON,Partly Cloudy,W,very high,HAIL,comfortable,GOOD,NA,,13083,"10,823",137," 2,792",6612,13772,18909,16152,£14427,10342
+2024-04-04,Snowy,south,autumn,fahrenheit,ACCUWEATHER,none,NIGHT,NA,ne,,NONE,humid,veryPoor,Dudley,Day,16227,5188,3586,NaN," 9,542",17769,18625,18792,"16,092"," 9,778"
+2023-04-14,,coastal, spring ,Fahrenheit,WEATHER.COM,-999,evening,overcast,s,very high,sleet,Humid,good,corrie,DAY,missing,7344,8500,12684,2136,£18515,19276,16414,3172,-999
+30/06/2024,windy,midlands,autumn,kelvin,Weather.com,yellow,night,MOSTLY CLOUDY,ne,, Rain ,oppressive, moderate ,corrie,,missing,7928,,3314,2142,£11244,5820,533,18849,8549
+NaN,,Coastal,WINTER,celsius, Met Office ,amber,night,Partly Cloudy,se,low, rain ,humid,veryPoor,FRANKLIN,DAY,14145,210,4819,4319,5698,"19,747",11180,11484,11696,13816
+,sleet,North,autumn,kelvin,metOffice,RED,Morning,Partly Cloudy,N,moderate,hail,Comfortable,good,arwen,DAY,3324,14142,13822,12927,missing,   168,£1278,NA,15464,£16368
+26/06/2022,snowy,north,WINTER,fahrenheit,accuweather,NONE,NIGHT,Overcast,NW,EXTREME,Rain,COMFORTABLE,excellent,barra,day,19805,missing,2801,"19,860",   136,-999,15039,8886,£18892,17780
+2021-10-04,FOGGY, south ,winter,celsius,MET OFFICE,AMBER,night,missing,s,low,NONE,HUMID,good,barra, DAY ,10543,£5383,5050,53,8502," 8,316",£2670,4383," 2,417",   502
+2022-03-04,Stormy,north,winter,KELVIN,accuweather,red,EVENING,partly cloudy,S,Moderate,sleet,humid, Moderate ,corrie,day,10913,2774,4376,16484,10042,"14,778"," 2,739",NA,15417,6160
+06/01/2024,foggy,South,Winter,,accuweather,none,evening,MOSTLY CLOUDY,w,-999,SLEET,comfortable,EXCELLENT,dudley,night,£12728,5943,-999,11507,£8118," 7,220",3249,£3868,11040,15478
+2022-05-19,SNOWY,NORTH,spring,fahrenheit,WEATHER.COM,none,EVENING,Clear,E,extreme,hail,dry,poor,NaN,day,19193,NaN,£3165,7835,9340,£3569,2684,missing,7965,£6478
+08/03/2024,Rainy,coastal,autumn,NA,NOAA,yellow,NIGHT,Partly Cloudy,n,high,none,-999, moderate ,NA, day ,"17,932",1103," 3,782",5719,NaN," 2,997",£10508,missing,13899,£14184
+2023-09-25,stormy,coastal,Autumn,celsius,Met Office, yellow ,AFTERNOON,Overcast,se,,Hail, humid ,excellent,dudley,day,12121,13391,," 6,806",10900,,"17,692",14827,NA,£14598
+2022-04-06,Cloudy,midlands,winter,fahrenheit,accuweather,NONE,afternoon,clear,-999,extreme,RAIN,humid,-999, Franklin ,DAY,£9917,NaN,£19079,19908," 5,140",£4232,1175,1649,19452,£4990
+13/11/2023,snowy,NaN,winter,FAHRENHEIT,Met Office,YELLOW,EVENING,partly_cloudy,se,high,SLEET,Humid,GOOD,DUDLEY,NaN," 8,890","12,229",NaN,16473,-999,16011,missing,7907,4990,11023
+2022-11-25,rainy,Midlands,autumn, fahrenheit ,BBC,yellow,afternoon,partly cloudy,missing,-999,,oppressive,MODERATE,NA,NIGHT,9462,19340," 6,296",2432,3065,"14,630",NaN,"16,263",missing,£11175
+"Jul 13, 2024",rainy,WEST,Autumn,kelvin, noaa ,none,Evening,mostly cloudy,w,moderate, hail ,oppressive,GOOD,barra,night,£3721,10459,£10622,£8227,£19517,5842,16597,3831,914,£19662
+missing,stormy, north ,summer,KELVIN,weather.com,red,afternoon,clear,N,Extreme, snow ,comfortable,excellent,Eunice,-999,£7070,5948,£12886,5770,NA,12912,1778,16674,2085,£12736
+2023-06-08,snowy,inland,summer,Fahrenheit,metOffice,missing,evening,OVERCAST,s, HIGH ,NA,dry,excellent,arwen,NIGHT,16195,NA,£19938,6613,-999,16113,9515,6063,1960,2565
+08/03/2021,CLOUDY,north,summer,kelvin,met_office,none,Afternoon,mostly cloudy,nw,EXTREME,none,oppressive,NaN,barra,night,£713,8516,2324,14087,"11,847",5729,-999,7146,11370,NaN
+22/02/2022,windy,NaN,winter,kelvin,Weather.com,Amber,NA,clear,SW,HIGH,none,comfortable,Moderate,dudley,NaN,5967,£7945,£3396,2614," 1,670",810,£16791," 9,301",3925,12482
+25/02/2021,sleet,Coastal,Summer,Celsius,Noaa,None,night,NA,,extreme,Rain,NaN,MODERATE,barra,NIGHT,"10,350",7393,£10897,13771,8554,£8819,£11953,£6570,5227,12342
+20/06/2021,sleet,south,winter,CELSIUS,Weather.com,YELLOW,morning,overcast,w,MODERATE,sleet,-999,Excellent,BARRA,NA,NaN,11669,10616,13220,NA,missing," 3,607",9009,9041,25
+06/09/2023,cloudy,East,spring,KELVIN,Weather.com,red,evening,mostly cloudy,n,LOW,NA,comfortable,moderate,franklin,day,NA,,1605,11271,£10384,£16767,"18,394",£16180,missing,496
+2023-03-21,cloudy, Midlands ,summer, kelvin ,weather.com,YELLOW,morning,Mostly Cloudy,sw,very_high, hail ,missing,Poor,corrie,night,   342,NA,11048,NA,3490,7477,7575,15511,12157,"16,956"
+2023-11-30,Windy,inland,Winter,kelvin,weather.com,Red,MORNING,NA,w,,None,Dry,NA,barra,Day,£13140,14347,7387," 6,216",,14800,£19565,£11930,5097,£14516
+2021-10-11,windy,INLAND,WINTER,FAHRENHEIT,NA,yellow,NaN,-999, N ,Low,none,oppressive,moderate,FRANKLIN,night,,"10,607",£12455," 9,833",10102,14083,,1682,19638,1430
+"Nov 17, 2022",stormy,inland, autumn ,FAHRENHEIT,Weather.com,red,morning,overcast, nw ,Very High,NONE,,moderate,DUDLEY,NIGHT,16882,£11629,£10140,£4865,16295,£15095,£10964,2367,"12,630",15820
+11/09/2024,cloudy,missing,spring,NaN,Met Office,-999,AFTERNOON,Mostly Cloudy,-999,extreme,sleet,COMFORTABLE,NaN,franklin,day,3265,missing,14518,18756,£10177,8216,16274,2221,17691," 3,721"
+NA,Sleet,north,winter,Celsius,ACCUWEATHER,Amber,Afternoon,overcast,NA,EXTREME,RAIN,humid,excellent,eunice,missing,14469,£14400,£11080,1013,"10,826",6441,19496,16575,4766,£8631
+-999,missing,,NA,kelvin,bbc, none ,evening,partlyCloudy,SE,,-999, OPPRESSIVE ,EXCELLENT, Dudley ,night,14018,15686,5380,"19,655",935,£1629,13180,6038,408,768
+24/10/2023,windy,,spring,fahrenheit,Noaa,none,Evening,Partly Cloudy,w,high,missing,,Poor,barra,Night,15188,7908,1759,19222,12687,NaN," 1,928",NA,-999,17392
+2021-06-20,stormy,south,-999,celsius,bbc,YELLOW,morning,mostly_cloudy,ne,Extreme,none,comfortable,excellent,Eunice, night ,-999,"19,376",14762,7694,12387,"17,208",   936,   219,"15,645",   801
+2023-02-08,CLOUDY,east,NA,Kelvin,metOffice, NONE ,morning,NaN,sw,missing,sleet,Oppressive,EXCELLENT,franklin, NIGHT ," 3,347",5146,,£13169,8599,18853,missing,9953,6311,17871
+09/08/2024,sunny,COASTAL,missing,FAHRENHEIT,accuweather,red,night,clear, n ,EXTREME,None,DRY,excellent,Eunice,day,7150,£9794,£13019,£19251,7460,   866,2602,£16571,16920,7485
+10/12/2023,SUNNY,east,Autumn,,Met Office, none ,night,Overcast,NaN,moderate,none,Oppressive,GOOD,dudley,,11124,10732,13836,11348,8018,19985,£2849,£3514,£5814,2246
+2024-01-20,rainy,coastal,spring,-999,-999,amber,NA,mostlyCloudy,E, Very High ,HAIL,COMFORTABLE,-999,BARRA,NIGHT,5236,889," 9,457",   281,"13,996",£14400,£17258,8996,NA,6217
+23/10/2023,SLEET,Coastal,summer,CELSIUS,missing, RED ,Afternoon,NA,,missing,Snow,COMFORTABLE,Good,arwen,day,14418,NA,£18205,16050,8683,10671,19765,14968,1024,8097
+2022-01-21,sleet,South,winter,CELSIUS,bbc,none,evening,OVERCAST,w,Moderate,RAIN,Comfortable,veryPoor,missing, day ,£19078,7879,missing,18640,£4265,NA,NaN,£2563,-999,£18410
+"Sep 08, 2023",Snowy,north,summer,kelvin,weather.com,red,night,OVERCAST,ne,extreme,hail,dry,good, barra ,NIGHT,£14240,missing,3827,£7254,12457,NA,£13555,"13,966",£17940,"18,054"
+22/08/2021,CLOUDY,east,Spring,kelvin,bbc,red,MORNING,overcast,missing,-999,hail,oppressive,NaN,DUDLEY, night ,-999,NaN,£2864," 9,195",13598,11975,6012,NA,2783,5083
+23/11/2021,missing,East,AUTUMN,Celsius,bbc,Red,NaN,clear,SW,veryHigh,missing,comfortable,NA,arwen,day,NA,584,9596,"17,127",19655,"16,564",,3623,5105,13118
+2023-07-05,sleet,south,summer,Fahrenheit,met office,none,Evening,clear,ne,high,none,dry, VERY POOR ,franklin,DAY," 4,175",£15524," 2,755",2916,"12,608",NaN,6456," 4,524",17294,-999
+24/12/2023,NaN,west,winter,celsius,MET OFFICE,NaN,Morning, partly cloudy ,n,moderate,snow,OPPRESSIVE,POOR,Dudley,day,9612,19514,£17009,19268,15476,15051,missing,7450,"14,328",£14701
+29/07/2023, cloudy ,MIDLANDS,spring,fahrenheit,,red,Morning,MOSTLY CLOUDY,W,moderate,None,dry,excellent,Dudley,Day,£926,5408,£11027,NaN,£3326,"12,671"," 9,830",4396,"17,692",£12364
+19/04/2022,windy,Midlands,WINTER,fahrenheit,accuweather,None,MORNING,mostly_cloudy,w,very high,NONE,OPPRESSIVE,good,eunice,Night,20000,6419,£5438,16331,"16,410",11316,£17404,£8186,,17878
+20/10/2023,sunny,Midlands,summer,celsius,NA,yellow,,missing,-999,extreme,NA,COMFORTABLE,moderate,Arwen,Day," 8,105"," 5,525",5618,"10,516",£18009,"17,666",2899,14751,,2866
+2021-01-30, stormy ,midlands,Winter,fahrenheit,bbc, yellow , Evening ,PARTLY CLOUDY,E,Extreme, Snow ,dry,very_poor,Arwen,day,12911,14093,2784,5390,13581,£16198,5799,missing,6197,9112
+"Feb 21, 2021", Cloudy ,MIDLANDS,NaN, KELVIN ,Bbc,RED,MORNING,mostly cloudy,S,very high,snow, COMFORTABLE ,Poor,franklin,night,17214,18716,7631,10954,NA,12375,NA,7414,3762,6477
+2024-05-24,rainy,west,summer,CELSIUS,NA,RED,evening,clear,NW,high,rain,Comfortable,good,Franklin,day,11326,19885,£17015,"11,261","19,623",12979,"12,935",2787,£15337,missing
+2022-06-27,SUNNY,east,,FAHRENHEIT,noaa,red,EVENING,overcast,n, Low ,HAIL,comfortable,veryPoor,dudley,night,£2529,2881,7660,NaN,5768,NaN,10894,17466,NaN,£16229
+-999,sunny,West,Winter,kelvin,met_office,RED,afternoon,-999,w,VERY HIGH,RAIN,NA,Excellent, Eunice ,Night,£5357,7012,13542,4132,3411,3508,3450,NaN,18239,missing
+16/03/2021,sunny,midlands,SPRING,celsius,missing,yellow,AFTERNOON,mostly cloudy,nw,moderate,none,dry,POOR,-999,NIGHT,10757,10776,4221," 5,138","10,252",10317,£943,12104,17250,
+03/05/2021,sleet,inland, SUMMER ,Fahrenheit,noaa,none,Morning,overcast,n,extreme,Rain,comfortable,very_poor,EUNICE,DAY,£16282,9437,19334,6274,2768,£1724,£15124,18135,£1692,17631
+,sleet,NORTH,winter,fahrenheit,weather.com,YELLOW,afternoon,Clear,s,moderate,HAIL,Oppressive, POOR , arwen ,Day," 8,180",missing,£18160,missing,£7343,8710," 6,826",12310,19193,5457
+18/02/2022, foggy ,north,autumn,Kelvin,Met Office,NONE,NaN,overcast,, high ,hail, comfortable ,NA,eunice,-999,"10,970"," 6,937",£4191,3960,£13570,13957,4453,£10422,6307,£4406
+"Feb 16, 2024",RAINY,south,summer,kelvin,BBC,NaN,missing,partlyCloudy, W ,high,Sleet,-999,Very Poor, barra ,missing,10543,11923,8648,NaN,£18765,15998,£2983,5694,NaN,£10483
+missing,Stormy,EAST,AUTUMN,Fahrenheit,Noaa,NaN,AFTERNOON,CLEAR,S,-999,hail,comfortable,,franklin,missing,missing,"19,945",12299,£3088,£14095,10082,6647,£14064,"11,244",11882
+2021-07-19,Foggy, north ,summer,celsius,MET OFFICE,YELLOW,Afternoon,clear,sw,LOW,sleet,dry,VERY POOR,franklin,night,£2559,8581,"15,014",NaN,12184,14129,10861,£5364,16336,£8922
+18/12/2021,stormy,coastal,-999,fahrenheit,bbc,NA,afternoon,Clear,NaN,LOW,HAIL,comfortable,missing,dudley,day,4380," 3,897",£17776,7823,£8203,NA,£18364,missing,£7035,8852
+2021-06-09,cloudy,COASTAL,winter,celsius, met_office ,none,-999,overcast, Sw ,extreme,SLEET,oppressive,good,Barra,night,2027,£8716," 8,303",3038,,138,3091,£17808,13864,2898
+27/01/2023,sunny,INLAND,spring,celsius,bbc,RED,missing,clear,missing,high,NaN,-999,good,Eunice,night,2685," 6,499",9560,2053,5792,NA,,£5826,missing,15422
+2023-06-06,foggy,NaN,spring,CELSIUS,weather.com,amber,morning,MOSTLY CLOUDY,se,low,SNOW,dry,excellent,CORRIE,day,12109,16866,missing,£15833,19441,13596,8409,6599,,2439
+05/07/2023,stormy,coastal,summer,Fahrenheit,Accuweather,Red,night,overcast,e,Low,HAIL,dry,good,Franklin,Day,NaN," 5,295","15,916",398,17547,9265,15679," 2,519",17449," 9,066"
+missing,SUNNY,east,WINTER,celsius,MET OFFICE, red ,Morning,overcast,-999,high,hail, humid ,poor,NaN,day,3590," 5,878",7564," 1,120",19576," 6,221",£8146,18075,17870,£17900
+2021-12-25, Cloudy ,West,spring,NA,ACCUWEATHER,red,evening,CLEAR,Ne,high,snow,DRY,very poor, Corrie ,day,£9861,16322,missing,2194," 9,154",3977,NA,£118,13522,954
+2021-06-07,windy,east, winter ,NaN,ACCUWEATHER,none,,Partly Cloudy, ne ,MODERATE,Rain,humid,missing,missing,NIGHT,missing,11728,£18687,8591,1706,NA,6401,£19628,£2129,7205
+10/05/2023,WINDY,East,winter,KELVIN,metOffice,red,AFTERNOON,partlyCloudy,w, moderate ,none,Humid,excellent,corrie,Day,7805,8089,5286,1654,£14956,18022,NA,10532,4095,"10,715"
+11/08/2022,cloudy,east,Winter,Fahrenheit,WEATHER.COM,none, NIGHT , mostlyCloudy ,se,high,snow,dry,veryPoor,arwen,day,,7049,£18930,12257,missing,19516,3875,6361,£9368," 1,297"
+2022-10-17,SNOWY,Coastal,winter,kelvin,bbc,Amber,Morning,mostlyCloudy,Sw, High ,none,oppressive,EXCELLENT,,NIGHT,19915," 8,253",213,"10,951",-999,NA,£16497,2963,"13,110","12,422"
+"Jan 03, 2021",SNOWY,coastal,AUTUMN,CELSIUS,WEATHER.COM, NONE ,afternoon,Partly Cloudy,sw,moderate,Hail,Humid,veryPoor,NaN,NaN,15413,14200,NaN," 8,402",,"18,704",19280,NaN,"12,744",NA
+2021-08-31,Windy,inland,autumn,kelvin,weather.com,Amber,morning,Overcast,missing, Low ,SLEET,dry,good,arwen,missing,missing,missing,NA,12355,5436," 7,468"," 6,777",15695,17802,9491
+"Feb 11, 2022",WINDY,missing, Winter ,fahrenheit,bbc,missing,evening,OVERCAST,nw,extreme, rain ,dry,VERY POOR,corrie,night,NaN,16743,£713,18257,9150,£3422,£9819,NaN,19849,£9445
+16/12/2021,NA,NaN,winter,fahrenheit, noaa ,NONE,-999,overcast,NE,moderate,none,dry,-999,Barra,," 6,618",£1683," 4,782",£8632,16416,9052,2147,NA,16411,"17,516"
+23/01/2023,rainy,coastal,WINTER,Celsius,bbc,yellow,night,overcast,se,Moderate,sleet,HUMID,MODERATE,barra,,£1480,£7955,8398,£5068,1849," 3,071","19,910",5751,"11,736",16504
+06/11/2023,sunny,MIDLANDS,NaN,celsius,WEATHER.COM,none,evening,CLEAR,W,Low,none,-999, good ,EUNICE,day,£16944,£17898,7227,4227,"17,419",4284,6393,19042,8581," 2,490"
+2022-07-21,Snowy,INLAND,NA,Kelvin,noaa, none ,night,Overcast,nw,very_high,Hail,humid,Moderate,eunice,day,10245," 4,067",NaN,18552,NA,12477,18281,£14002,missing,-999
+2022-02-23,windy,midlands,autumn,Kelvin,Weather.com,yellow,NA,mostlyCloudy,missing,extreme,snow,oppressive,Moderate,ARWEN,day,16604,13971,4681,12698,-999,11396," 4,572",2231,"18,072"," 9,027"
+17/03/2023,foggy, south ,Summer,Fahrenheit,weather.com,NONE,Evening,missing,missing,extreme,-999,humid,veryPoor,franklin,-999,7801,missing,575,15976,2921,6625,"11,456",NA,938,8605
+23/02/2021,rainy,North,missing,kelvin,Weather.com,AMBER,evening,partly_cloudy,ne,extreme,NONE,humid,good,barra,NA,10552,4023,£10168,NaN," 1,359",NaN,19690,missing,18855,19645
+08/09/2023,Snowy,Inland, winter ,-999,noaa,amber,Evening,overcast,nw,veryHigh, Hail ,comfortable,very_poor,corrie,day,3907,9300,29,-999,£18967,£18262,   185,,13198,14295
+08/11/2023,FOGGY,WEST,autumn,Fahrenheit,WEATHER.COM,none, afternoon ,clear,Sw,high,hail,humid,MODERATE,CORRIE,Day,NaN,£4360,6513,4013,£15206,NaN,NaN,£5861,906," 2,596"
+2022-07-31,foggy,midlands,missing,kelvin,met office,NA,morning,PARTLY CLOUDY,N,LOW,sleet,humid,poor,ARWEN,day,6378,"15,457",19551,2685,£1474,NaN,£6157,4548,£11592,10656
+28/01/2021,foggy,EAST,NaN,FAHRENHEIT, bbc ,yellow,missing,MOSTLY CLOUDY,S,low,snow,dry,very poor,EUNICE,missing,"16,272","19,518",19433,£16734,7894,NA,18789,"10,460",10763,NaN
+03/06/2022, stormy ,south,WINTER, CELSIUS ,Weather.com,Amber,Night,-999,n,low,,OPPRESSIVE,EXCELLENT,dudley,Day,£17936," 4,449",2453,842,18442,6622,missing,3,,£2411
+28/11/2022, cloudy ,-999,AUTUMN,celsius,metOffice,YELLOW,morning,clear,,missing,Snow,comfortable,poor,ARWEN,night," 6,503",7322,"10,978",NaN,1481,missing,"11,887",£13020,,missing
+07/06/2023,sleet,EAST,summer,celsius, Accuweather ,missing,morning,partlyCloudy, sw ,missing,-999,humid, Poor ,dudley,Day,"14,371",£1012,£19211,4917,£17602,12071,£13379,18557,NA,13686
+2021-03-17,stormy, west ,NA, FAHRENHEIT , met office , RED ,afternoon,Partly Cloudy,missing,LOW, RAIN ,missing,missing,dudley,Day,11185,£16863,11642,1659,5900,16072,-999,3061,8109,1712
+"Sep 17, 2023",Sunny,coastal,autumn,Fahrenheit,met office,None,morning,PARTLY CLOUDY, NW ,very_high,sleet,comfortable,Excellent, dudley ,day,NA,NA," 3,154",NaN,6650,£11806,19974,14275,6795,11987
+15/01/2024,Sleet,west,Autumn,,BBC,NONE,night,mostlyCloudy,N,moderate,SNOW,comfortable,excellent,eunice, night ,1063,68,13700,£15714,6593,13279,"12,931"," 9,329",11221,10309
+2024-09-03,RAINY,south,autumn,Kelvin, met_office ,amber,-999,overcast,Se,very_high, none ,oppressive,poor,NA,NIGHT,£8467,NaN,missing,5234,"15,185",6675,738,8328,£862,4691
+NaN,SNOWY,east,autumn,celsius,bbc,yellow,night,partlyCloudy,Se,high,none,missing,GOOD,arwen,Day,16971,£644,8092,"12,287",1960,missing,£5449,14751," 2,953",17832
+2021-09-15,NaN,South,autumn,kelvin,weather.com,amber,,overcast,S,-999,Rain,Comfortable, Excellent ,Dudley,NIGHT,19258,7894,£7754,4812,3310,,7718," 7,343",16509,NaN
+"Jun 19, 2022",RAINY,West,-999,kelvin,Met Office,missing,AFTERNOON,overcast,e,Low,HAIL,DRY,moderate,Franklin,day,-999,-999,15647,-999,NA,,£1511,8107,7132,15104
+2022-04-23,STORMY,midlands,spring,kelvin,weather.com,amber,afternoon,NA,n,low,Hail,comfortable,GOOD,FRANKLIN,day,NaN,15598,2168,7511,£7050,9532,£10146,8956,18474,£6641
+-999,Snowy,Coastal,,kelvin,Noaa,,night,PARTLY CLOUDY,NA,veryHigh,Hail,missing, GOOD ,barra,Night,£13998,1388,"11,387",2897,NaN,11534,£3428,15024,16196,7366
+23/05/2021,sleet,south,SPRING,KELVIN,weather.com,amber,EVENING,clear, E , very_high ,none,DRY,missing,EUNICE,day," 4,182",6832,"10,447",12537,14822," 3,022",13978,12551,£12633,16850
+14/03/2023,snowy,South,Spring,kelvin,met office,YELLOW,,MOSTLY CLOUDY,W,low,snow,humid,veryPoor,arwen,-999,3530,13807,5870,NA,NA,1144,17045,18329,£18883,15067
+2021-02-12,sunny,midlands,WINTER, Celsius ,bbc,Red,morning,MOSTLY CLOUDY,SW,NaN,Hail,missing,moderate,BARRA,Day,£3736,683,-999,4568,   328," 6,146",13078,2684,19152,£17417
+09/01/2022,sleet,south,SPRING,KELVIN,WEATHER.COM,Amber, evening ,MOSTLY CLOUDY,sw,-999,sleet,humid, Poor ,eunice,NA,17252,11808,7568,£18790,15666,15162,1007,"17,101",7275,6828
+2024-04-13,foggy, SOUTH ,-999,Celsius,Met Office,Amber, Evening ,overcast,s,very high,None,oppressive,NaN,EUNICE,,-999,3463,14779,1912,"10,506",18902,12804,12495,   360,16961
+2021-05-07,missing,south, spring ,fahrenheit,noaa,yellow,night,PARTLY CLOUDY,NE,missing,SLEET,Comfortable,good, ARWEN ,,9937,1648,18596,,15244,440,£1203,"19,042",17547,£5245
+missing,-999,-999,summer,celsius,accuweather,Amber,evening,Overcast,sw,high,snow,oppressive,EXCELLENT,dudley,Night,7617,   598,-999,,missing,9742,£12990,4280,,3785
+17/12/2023,sleet,west,winter, KELVIN ,accuweather,Red,evening,-999,nw, MODERATE ,sleet,NA,MODERATE,Arwen,Day,missing,7403,-999,8982,missing,15901,NaN,£383,£2449,£7711
+"Jan 15, 2023",foggy,Midlands,winter,,ACCUWEATHER,none,missing,overcast,,extreme,NA,oppressive, MODERATE ,dudley,NIGHT,£145,£12121,£5374,"18,042",5756,£11814,11298,15302," 8,281",9722
+2024-11-26,foggy,COASTAL,summer,fahrenheit,bbc,Amber,Morning, mostly_cloudy ,e,low,HAIL,DRY,EXCELLENT,ARWEN,NA," 9,477"," 6,582",£19995,8729,NaN,12852,10748,935,,19870
+2024-10-01,sleet,midlands,winter,fahrenheit,Bbc,amber,night,Mostly Cloudy, s ,NA,-999,HUMID,good,barra,day,6531,missing,19651,£16036,£13799,127,,£12802,"12,780",NA
+29/03/2021,NA,Inland,winter,celsius,accuweather,Amber,Afternoon,Clear,SW,moderate,rain,oppressive, veryPoor ,barra,day,12711,1141,10174,"10,925","16,105",2239,17238,17882,missing,£13289
+05/07/2022,rainy,east,Spring,celsius,,missing,afternoon,overcast,se,extreme,snow, oppressive ,VERY POOR,dudley,night,£10376,13772,£6452,7250,7833,7927,£19749,18140,14272," 9,117"
+2022-06-09,sunny,,autumn,kelvin,noaa,none,morning,partly_cloudy,SW,low,snow,NaN,good,eunice,NA,3771,17366,15141,"12,852",£8213,18205,"14,127",£417,£14414,missing
+2022-07-04,Cloudy, midlands ,Spring,kelvin,accuweather,red,NIGHT, CLEAR ,s,low,rain,OPPRESSIVE, excellent ,EUNICE,NA,£18929,12092," 6,027",14560,7776,,7654,£16455,8433,NaN
+2023-01-21,foggy,north,autumn,fahrenheit, WEATHER.COM ,NONE,night,NA,s,low, none ,Humid,Excellent,,day,"13,637"," 5,797",NA,"10,589",missing,15595,16560,9003,£2789,11638
+2022-07-07,sleet,-999,winter,Fahrenheit,weather.com,amber,NA,Partly Cloudy,S,,sleet,OPPRESSIVE,NA,DUDLEY,day,14753,"19,420",14192,122,11150,19440,7438,9628,NA," 6,855"
+24/07/2022, Rainy ,south,winter,celsius,Weather.com,Yellow, evening ,Mostly Cloudy,Sw,high,missing,Oppressive,poor,Barra, NIGHT ,16339,4687,3311,"10,983",8736,10460,8447,5888,10454,5115
+2023-07-27,stormy,north,Winter,kelvin,noaa,red,Morning,mostly_cloudy,S,extreme,rain,HUMID,Excellent,Eunice,day," 1,737",£16262,19846," 9,620",3218,£469," 9,753","19,752",11664,7152
+05/04/2022,sunny,north,summer,kelvin,WEATHER.COM,red,night, mostly_cloudy ,SW,LOW,RAIN,Dry,good,eunice, day ,£7850,7635,9775,missing,£5568,£9215,19223,697,12016,£10462
+28/08/2022,FOGGY,-999,AUTUMN,Fahrenheit,NaN,none,MORNING,Clear,sw,High,none,humid,very poor, FRANKLIN ,missing,8301,9840," 6,657",11641,12016,£3108,6955,12850,5236,"11,446"
+2022-12-17,,south,summer,Fahrenheit,noaa,yellow,morning,mostly_cloudy,SE,High,sleet,COMFORTABLE,poor, arwen ,night,13796,,9054,£5001,,7155," 9,268",8233,"18,215",16238
+2023-11-18,foggy,inland,AUTUMN,kelvin,noaa,none,,Clear,e,Low,none,NaN,GOOD,barra,NIGHT,2226,"12,984",£17851,9809,3086,"10,236",2789,8415,16183,NaN
+2022-10-30,Sleet,EAST,autumn,CELSIUS,weather.com,amber,night,clear, se ,,NONE,comfortable,GOOD,Barra, DAY ,4601,missing,NA,NA,1846,10776,19100,£14214,14224,492
+24/01/2024, stormy ,COASTAL,Summer,Celsius,Accuweather,none,AFTERNOON,mostly cloudy,N,high,sleet,Comfortable,moderate,barra,night,8249," 9,372",16009,"16,674",8488,19756,missing,NaN,16422,5606
+missing,Foggy, South ,spring,Fahrenheit,accuweather,none,,Clear,NA,Moderate,hail,oppressive,poor,Dudley,night,19986,£13171,1131," 4,498",£17414,15529,9972,14960,10463," 1,324"
+20/02/2021,sunny,inland,autumn,NaN,noaa,Red, Morning ,,Sw,extreme, none ,dry, EXCELLENT ,EUNICE,day,407,11430,£11085,11651,190,17197,15002,16084,NaN,NA
+,snowy,East,NaN,celsius,noaa,NA,Evening,Mostly Cloudy,w,LOW,-999,oppressive,POOR,corrie,night,6130,£11130,missing,6724,1239,£5763,£19404,16879," 5,398"," 7,108"
+"Oct 24, 2023",snowy,EAST,summer,kelvin,weather.com,missing,NIGHT,CLEAR,NA,HIGH, snow ,dry,,dudley,night,15566,14808,£423,,6885,3410,13206,16513,2726,10578
+2024-07-28,Cloudy,inland,winter,,weather.com,red,afternoon,mostly_cloudy,NaN,moderate,sleet,humid,good, corrie ,day,7216,14284," 1,993",16737,-999,18198,£1776,£11804,17950,10349
+"Sep 06, 2022",SNOWY,south,spring,Kelvin,accuweather,yellow,NIGHT,Mostly Cloudy,e,Extreme,hail,HUMID,veryPoor,dudley,Day,missing,14903,£16802,"15,886",3873,9946,"12,114",1878,13716,
+11/08/2021,Windy,midlands,WINTER,KELVIN,weather.com,Amber,morning,mostly cloudy,sw,low,SNOW,NA,Excellent,,NIGHT,NaN,10095,19389,5037,12295,11768,£13815,2604,16188,"15,635"
+07/04/2022,,inland,missing,fahrenheit, noaa ,YELLOW,Afternoon, OVERCAST ,N,NaN,-999,HUMID,poor,EUNICE,night,1991,11318,"18,072",14214,2502,,3254,12017,£5036,£9092
+2021-07-11,Snowy,INLAND,NA,kelvin,accuweather,NaN,NA, clear ,se,High,none, Dry ,NA,NA,day,£1590,14455,£18257,,4816,12929,2105,1293,£6804,1011
+2022-12-10,,SOUTH,winter,Celsius,weather.com,NaN,Afternoon,mostlyCloudy, se , very high ,rain,OPPRESSIVE,moderate,Franklin,DAY,£1017,missing,8438,11661,12384,19232,2979,,£331,5664
+22/03/2023, sleet ,Inland,autumn, celsius , noaa , red ,Afternoon,Clear, Sw ,high,hail,humid,EXCELLENT,Arwen,NA,5435,missing,2848,4544,NaN,£16021,£19224,703,17388,3670
+27/08/2024,stormy,NORTH,winter,celsius,Met Office,amber,Night, overcast ,w,,rain,Comfortable,moderate,Corrie,night,missing,12543," 7,981",£6521,"18,665",£9143,10112,8416,10200,£17748
+2023-05-08,snowy,NaN,winter,kelvin,bbc,Amber, morning ,overcast,missing,moderate,snow,comfortable,GOOD, CORRIE ,NIGHT,17,13620,,1747,£18786,"18,305",4734,,£8030,16069
+"Dec 17, 2024",snowy, Inland ,AUTUMN,Celsius,bbc,amber,night,Clear,missing,low,hail,dry,NA,eunice,night,-999,£16132,"11,576",18100,," 1,237",£4246,NA,£17251,NA
+2023-03-28,stormy,inland,spring,celsius,NOAA,red,NIGHT,clear,-999,extreme,rain,dry,MODERATE,EUNICE,night,missing,17472,7964,5982,15358,£9233,£2426,18499,19963,£17022
+07/09/2021,rainy,south,AUTUMN,Kelvin,ACCUWEATHER,Yellow,Morning, MOSTLY CLOUDY ,ne,Extreme,NaN,comfortable,moderate,Barra,Day,16462,,17509,10915,NaN,£14128,13071,13760,13054,19801
+2023-10-12,SNOWY,EAST,summer,FAHRENHEIT,weather.com,yellow,evening,partly_cloudy,missing,veryHigh,rain,Oppressive,very_poor,eunice,night,£9477,1844,£1983,£6725," 5,660",£5205,819,15815,NA,9024
+30/12/2022,WINDY,west,autumn,missing,metOffice,Red,morning,OVERCAST,Ne,very high,none,COMFORTABLE,Good,missing,night,£11698," 4,880","13,484",15812,15306,£4663,"12,599",2005," 1,017",£9554
+09/11/2022,snowy,south,autumn,FAHRENHEIT,weather.com,AMBER,night,Partly Cloudy,s,LOW,none,HUMID, Moderate ,dudley,Night,12682,-999,£7940,12759,£12112,"19,284",NA,NA,6065,£5009
+2024-12-10,snowy,east,,fahrenheit,NA,Amber,AFTERNOON,overcast,NW,Extreme,hail, comfortable ,excellent,barra,Night,4558,£12121,6963,14216,3816,£15185,-999,6974,,17268
+2022-10-20,, south ,SPRING,fahrenheit,accuweather,red,night,overcast,n,Extreme,NONE,COMFORTABLE,poor,DUDLEY,day,19756,8270,19627,"14,903",13747,-999,8441,1974,£6891,"17,092"
+,Sleet,INLAND,NaN,kelvin,metOffice,yellow,afternoon,overcast,Sw,low,snow,Dry,good,franklin,day,10580,17651,16070,3270,"19,813",NA,16159,£6943,18451,18268
+NaN,missing,north,spring,FAHRENHEIT,weather.com,amber,night,clear,se,High,HAIL,comfortable,moderate,dudley,day,18483," 6,587",9634,4566,18363,2414,£14844,14539,8312,£16025
+2024-11-03,STORMY,midlands,spring,NA, NOAA ,amber,afternoon,PARTLY CLOUDY,sw,Moderate, Sleet ,oppressive,,barra,night,10859,19348,19677,"12,308",£6363,"12,929",£7804,,9239,10296
+19/12/2024,Cloudy,COASTAL,spring,celsius,noaa,red,NA,overcast,sw, Extreme ,sleet,Humid,excellent,corrie,NIGHT,11910," 2,287",£13903,12203,"17,042",15173,NaN," 2,592",£1935,15746
+2022-10-27,WINDY,NORTH,winter,CELSIUS,MET OFFICE,-999,night,partly cloudy,NaN,moderate,sleet,COMFORTABLE,NA,Dudley, night ,£8808,10322,617,£6405," 5,072","19,128","12,047",NaN,10675,17254
+2023-10-27, sleet ,NORTH,spring,FAHRENHEIT,weather.com,missing,evening,overcast,Se,low,Sleet,Dry,poor,Eunice,DAY,3893," 7,940",missing,"15,501",14493,1739,missing," 1,553",7007,13326
+11/06/2022,snowy,MIDLANDS,WINTER,KELVIN,weather.com,amber,afternoon, PARTLY CLOUDY ,N,extreme,None,Oppressive, poor ,barra, Day ,£10788,"19,812",3750,   904,£13323,9293,13950,-999,missing,10927
+23/05/2024,Cloudy,midlands,summer,kelvin,MET OFFICE,Yellow,NIGHT,partlyCloudy,missing,HIGH,sleet,COMFORTABLE,moderate,eunice,day,6990,£17756," 7,808",5538,"17,683",11928,"18,301",missing,£13228,7571

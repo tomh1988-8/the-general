@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The repository, environment, data contracts and checks needed to maintain The General.">
+  <title>Developer manual | The General</title>
+  <link rel="stylesheet" href="docs.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">G</span><span>The General<span class="brand-sub">Documentation</span></span></a>
+    <nav aria-label="Guides"><a href="index.html">User guide</a>
+<a href="statistics.html">Statistics guide</a>
+<a href="developer.html" aria-current="page">Developer manual</a></nav>
+  </div>
+</header>
+<div class="layout">
+<aside class="contents">
+  <p class="eyebrow">In this guide</p>
+  <nav aria-label="On this page"><ol><li><a href="#orientation">Understand the repository</a></li>
+<li><a href="#setup">Restore a development environment</a></li>
+<li><a href="#run">Run the app and tests</a></li>
+<li><a href="#data-flow">Follow the data and reactive state</a></li>
+<li><a href="#changes">Make a reviewable change</a></li>
+<li><a href="#testing">Evaluate suggestions, calculations and exports</a></li>
+<li><a href="#dependencies">Manage dependencies and CI</a></li>
+<li><a href="#repository">Independent repository</a></li>
+<li><a href="#diagnostics">Diagnose and share a failure</a></li>
+<li><a href="#release">Prepare a release or deployment</a></li>
+<li><a href="#maintain-docs">Maintain these guides</a></li></ol></nav>
+  <p class="contents-note">Works offline.<br>Use Ctrl+F or Cmd+F to find a topic.</p>
+</aside>
+<main id="main" tabindex="-1">
+  <div class="page-heading">
+    <p class="eyebrow">Guide 03 / 03</p>
+    <h1>Developer manual</h1>
+    <p class="subtitle">Make changes with evidence.</p>
+    <p class="intro">The repository, environment, data contracts and checks needed to maintain The General.</p>
+    <p class="version">Reviewed 23 September 2026 · Column review board &amp; readable R exports</p>
+  </div>
+  <section id="orientation">
+<h2>Understand the repository</h2>
+<p>The General is an R package containing a Shiny application. The current package version is <code>0.0.0.9000</code>. Run development commands from the repository root: the entry point and some example-data paths depend on that working directory.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Where to make a change"><table><caption>Where to make a change</caption><thead><tr><th scope="col">Responsibility</th><th scope="col">Source</th><th scope="col">Contract to preserve</th></tr></thead><tbody>
+<tr><td>Launch and initialisation</td><td><code>app.R</code>, <code>R/thegeneral.R</code>, <code>R/app_init.R</code></td><td>Load the package, initialise logging/assets and start the app.</td></tr>
+<tr><td>Page shell and navigation</td><td><code>R/app_ui.R</code>, <code>R/app_server.R</code>, <code>R/fn_ui.R</code>, <code>R/mod_keynav.R</code></td><td>Stable module IDs and tab names; keyboard navigation must respect active inputs.</td></tr>
+<tr><td>Upload, column review and filtering</td><td><code>R/mod_global_filter.R</code>, <code>R/data_user_mapping.R</code>, <code>R/fn_prefix_helper.R</code></td><td>Suggestions remain editable; only confirmation applies a mapping.</td></tr>
+<tr><td>Validation and capabilities</td><td><code>R/data_validate.R</code>, <code>R/data_capabilities.R</code></td><td>Structured validation results and reasons, not just a pass/fail flag.</td></tr>
+<tr><td>Analysis and plotting</td><td><code>R/fn_prefix_data.R</code>, <code>R/fn_prefix_plot.R</code>, individual <code>R/mod_*.R</code> files</td><td>Data helpers calculate; plot helpers draw; modules connect them to reactive inputs.</td></tr>
+<tr><td>Dashboard and exports</td><td><code>R/mod_dashboard_pin.R</code>, <code>R/fn_my_dashboard.R</code>, <code>R/mod_my_dashboard.R</code>, <code>R/mod_r_scripts.R</code></td><td>A pin is a recipe; export uses current mapped/filtered data.</td></tr>
+<tr><td>Tests and synthetic examples</td><td><code>tests/testthat/</code></td><td>Test observable behaviour and independent numeric expectations.</td></tr>
+<tr><td>Assets and these guides</td><td><code>inst/app/www/</code>, especially <code>docs/</code></td><td>Local, offline assets with relative documentation links.</td></tr>
+<tr><td>Environment and CI</td><td><code>DESCRIPTION</code>, <code>renv.lock</code>, <code>renv/settings.json</code>, <code>.github/workflows/r-tests.yml</code></td><td>Declared dependencies, reproducible package versions and an actual remote CI result.</td></tr>
+</tbody></table></div>
+<p>The common data helpers are the reference implementation for current behaviour. Export templates reproduce their calculations, including existing quirks. A test proving agreement does not establish statistical suitability; use the <a href="statistics.html">statistics guide</a> when deciding whether a rule should change.</p>
+</section>
+
+<section id="setup">
+<h2>Restore a development environment</h2>
+<p>The current lockfile records <strong>R 4.5.2, renv 1.1.4 and 128 packages</strong>. Use that R version for parity with the verified environment. The broader <code>R (&gt;= 4.1)</code> declaration is not a claim that every dependency combination has been tested.</p>
+<ol>
+<li>Clone the repository and open its root as the working directory. On Windows, install the matching R version and the corresponding Rtools if a dependency must build from source.</li>
+<li>Allow the project <code>.Rprofile</code> to source <code>renv/activate.R</code>. In an R session started at the root, restore the lockfile:</li>
+</ol>
+<pre><code>renv::restore(prompt = FALSE)
+renv::status()
+getRversion()
+utils::packageVersion("testthat")</code></pre>
+<p>The restored testthat version is 3.2.3. Tests require <code>local_mocked_bindings()</code>; an older globally installed testthat is not an adequate substitute for the project library. A first restore needs access to the package sources and may compile packages.</p>
+<p>If startup is blocked before you can restore, start R without startup files, then explicitly activate this project:</p>
+<pre><code>Rscript --vanilla -e 'source("renv/activate.R"); renv::restore(prompt = FALSE)'</code></pre>
+<p>In Git Bash, <code>Rscript</code> may not be on PATH. Replace that command name with the quoted absolute path to the matching <code>Rscript.exe</code>, for example <code>"C:/Program Files/R/R-4.5.2/bin/Rscript.exe"</code> for a system-wide installation. The username and install directory differ on other machines. Quote paths containing spaces.</p>
+<p>For Windows path or file-lock problems, stop running app/test processes and use a short working clone outside a synchronised folder, such as <code>C:/src/thegeneral</code>. Keep reports and temporary scripts under the repository's ignored <code>tmp/</code>. Configure temporary directories before starting R if a failing native tool needs a shorter path.</p>
+<p class="source">Reference: <a href="https://pkgs.rstudio.com/renv/reference/restore.html">renv restore()</a>. Restoring installs the recorded environment; it is distinct from changing the lockfile to match whatever happens to be installed.</p>
+</section>
+
+<section id="run">
+<h2>Run the app and tests</h2>
+<p>From an R session at the repository root, put development logs under tmp and start the app:</p>
+<pre><code>dir.create("tmp", showWarnings = FALSE)
+options(the_general.log_file = "tmp/app.log")
+shiny::runApp(".", launch.browser = TRUE)</code></pre>
+<p>The root <code>app.R</code> calls <code>pkgload::load_all(".", export_all = FALSE)</code> and then <code>the_general_app()</code>. Stop the app before replacing source files; restart after applying a patch.</p>
+<p>For the same test entry point used by CI, run:</p>
+<pre><code>dir.create("tmp", showWarnings = FALSE)
+options(the_general.log_file = "tmp/test.log")
+testthat::test_local(stop_on_failure = TRUE)</code></pre>
+<p>For a focused change, <code>testthat::test_local(filter = "r-scripts", stop_on_failure = TRUE)</code> runs the exporter test file. Run the full suite before integration when shared behaviour or dependencies change. A browser walkthrough is still needed for interaction changes; passing helper tests does not demonstrate that a modal is usable.</p>
+<p>Home's <strong>Documentation</strong> button opens these guides in a new tab while the app session stays open. The button uses the existing <code>www</code> resource mapping and the relative URL <code>www/docs/index.html</code>. You can also open <code>inst/app/www/docs/index.html</code> directly without starting R.</p>
+<p class="source">References: <a href="https://testthat.r-lib.org/reference/test_package.html">testthat package testing</a> and <a href="https://rstudio.github.io/shiny/reference/testServer.html">Shiny testServer()</a>.</p>
+</section>
+
+<section id="data-flow">
+<h2>Follow the data and reactive state</h2>
+<ol class="steps">
+<li><strong>Read the CSV as text.</strong> This preserves codes and avoids premature conversion. Suggestions inspect the uploaded values; the reviewed mapping determines conversion.</li>
+<li><strong>Convert confirmed roles.</strong> Create prefixed columns, normalise missing values, parse measurements/dates and derive time fields. Keep the distinction between missing, zero and excluded values.</li>
+<li><strong>Validate the mapped dataset.</strong> The ingestion result carries <code>raw_metadata</code>, <code>column_profile</code>, <code>standardized_data</code>, <code>transformation_report</code>, <code>validation</code>, <code>capabilities</code>, <code>schema_review</code> and <code>status</code>. The current user-mapped path can have an empty column_profile.</li>
+<li><strong>Expose shared session state.</strong> <code>rv$unfiltered</code> holds the full mapped data. <code>rv$data</code> holds the current Home population. Each Apply starts from unfiltered data, not the previous subset.</li>
+<li><strong>Calculate per view.</strong> The module selects inputs and calls a data helper, then a plot helper or table renderer. View-specific exclusions happen here.</li>
+<li><strong>Pin a recipe and recalculate exports.</strong> Session pins contain graph type, parameters, title, date and ID, not a frozen copy of rows. Dashboard dispatch and R-script generation must agree about the meaning of those parameters.</li>
+</ol>
+<p>Use namespaced UI IDs and <code>shiny::moduleServer()</code> for module changes. Keep calculations independent of a live Shiny session where practical; this makes edge cases testable with small data frames. Do not copy a new calculation into several reactive observers.</p>
+<p>Capability flags describe support and reasons but are not consistently used to gate every selector. Several analysis selectors still use <code>Cat_</code>/<code>Num_</code> prefixes. Validation currently accepts a numeric summary field with at least one finite value and an eligible grouping field with a distinct/non-missing ratio below 0.95. Those are structural checks, not a complete quality assessment.</p>
+</section>
+
+<section id="changes">
+<h2>Make a reviewable change</h2>
+<ol>
+<li><strong>Define the behaviour first.</strong> Record the user action, expected result, relevant population and one concrete example. For a statistic, define its denominator, missing-value treatment, zero/negative rules and rounding.</li>
+<li><strong>Inspect the current source and tests.</strong> Reproduce the issue with the smallest representative input. Check the helper, UI, dashboard and export paths before choosing where to change it.</li>
+<li><strong>Change the responsible layer.</strong> Keep statistical computation in helpers and interaction in modules. For exported code, favour readable tidyverse steps and comments explaining the method and population.</li>
+<li><strong>Verify the risk introduced.</strong> Use hand-calculated expectations as well as agreement with existing helpers. Exercise a real browser interaction when it changes the UI.</li>
+<li><strong>Update the relevant guide and example.</strong> A changed calculation needs updated descriptions and evaluated results. Do not leave an old validation date attached to newly generated outputs.</li>
+<li><strong>Review the diff and integrate.</strong> Include why the change is needed, what the user will see, validation evidence and any remaining limitation in the PR.</li>
+</ol>
+<p>Create feature branches from <code>main</code> and open pull requests back to <code>main</code>. Keep environment changes separate from feature changes unless the feature requires them.</p>
+<p>Do not silently “fix” an existing calculation while formatting exports or writing documentation. For example, changing final-level bars to latest-observed bars, removing substring exclusions, or changing a legacy Surplus rule changes results and needs explicit examples and review.</p>
+<p>For changes to exported package functions, keep source documentation and <code>NAMESPACE</code> in sync. Use the project's agreed roxygen tooling if regeneration is required; roxygen2 is not part of the current restored package set, so do not assume it is available.</p>
+</section>
+
+<section id="testing">
+<h2>Evaluate suggestions, calculations and exports</h2>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Tests that answer different questions"><table><caption>Tests that answer different questions</caption><thead><tr><th scope="col">Layer</th><th scope="col">Useful coverage</th><th scope="col">What it establishes</th></tr></thead><tbody>
+<tr><td>Mapping and cleaning</td><td>Leading zeros; Boolean labels; currency and percent strings; UK/EU separators; ambiguous dates; empty columns; user overrides.</td><td>The agreed conversion and role-selection behaviour on named cases.</td></tr>
+<tr><td>Statistics helpers</td><td>Hand-computed counts, denominators, means and trims; zeros, negatives and missingness; absent final periods; small groups.</td><td>Numeric correctness against a stated specification.</td></tr>
+<tr><td>Shiny modules</td><td>Reactive transitions, confirmed versus draft mapping, cancel/reopen/reset, filter changes, pin removal.</td><td>State changes under controlled inputs; combine with a browser check for usability.</td></tr>
+<tr><td>Standalone R export</td><td>Parse and execute each script in a fresh R process with its bundled CSVs; compare analysis data; require nonempty PNG/CSV outputs.</td><td>The scripts run outside Shiny and reproduce the specified calculations.</td></tr>
+<tr><td>Browser and accessibility</td><td>Keyboard focus, labels, narrow layouts, modal actions, downloads and navigation.</td><td>The visible workflow works for the tested interactions and environment.</td></tr>
+</tbody></table></div>
+<p>The 23 September 2026 Windows exporter run passed <strong>48 tests and 328 assertions</strong> with no test warnings or errors. Nine standalone scripts executed successfully and matched their dashboard analysis data. The <a href="index.html#examples">bundled examples</a> retain that evidence. They are synthetic and are not user data.</p>
+<p>The exporter tests live in <code>tests/testthat/test-r-scripts.R</code>, with fixtures in <code>helper-r-script-fixtures.R</code>. They include independent checks such as a mean of 226 versus a trimmed mean of 36, plus code labels, escaping, sampling and legacy paths. Preserve both execution checks and independent numeric expectations; comparing two copies of the same mistake is insufficient.</p>
+<p>For wider column-suggestion evaluation, use datasets from distinct domains and formats, agreed role labels and a held-out set that is not used while tuning heuristics. Measure correct suggestions by role, false numeric/date suggestions, missing-column suggestions and the number of user corrections. Include ambiguous cases where more than one role is reasonable. The successful messy-books example is a regression fixture; broader generalisation has not yet been evaluated.</p>
+<p>Tests should not depend on access to production datasets, external accounts or a running app. Use synthetic fixtures, local temporary directories and explicit package libraries for child R processes. Fix a random seed when repeatability matters, and document any intentional difference from the live sample.</p>
+</section>
+
+<section id="dependencies">
+<h2>Manage dependencies and CI</h2>
+<p>The project uses renv with an explicit snapshot and dependency fields <code>Imports</code>, <code>Depends</code> and <code>LinkingTo</code>. <code>Suggests</code> is not included in those snapshot fields. Test dependencies therefore need deliberate handling: a successful test run and an “out-of-sync” message can coexist.</p>
+<p>When a dependency really changes, update its declaration, install the intended version, inspect <code>renv::status()</code>, and review the lockfile diff. Keep testthat and its supporting test packages restored. Do not use an unreviewed snapshot merely to silence a status message; it can change the recorded dependency set.</p>
+<p>The lockfile also pins openxlsx 4.2.8 to a GitHub commit. Preserve its recorded <code>RemoteSha</code> when reproducing the environment. Matching a displayed version alone does not verify a GitHub-sourced package.</p>
+<p>The current <code>r-tests.yml</code> runs on <strong>pull requests, pushes to main, and manual dispatches</strong>, on Ubuntu 24.04. It installs native build prerequisites, selects R from renv, restores the library, checks the locked R/package versions and GitHub SHAs, then runs <code>testthat::test_local(stop_on_failure = TRUE)</code>. A local commit does not start CI; pushing to <code>main</code> does, including a pull-request merge.</p>
+<p>Version comparison uses R version objects rather than raw strings: strings such as <code>4.6.0-1</code> and <code>4.6.0.1</code> can denote equivalent versions. Environment failures name the affected package and write <code>tmp/cip/package_versions.csv</code> inside the CI workspace. There is currently no artifact-upload step for that file.</p>
+<p>The local Windows report is not evidence that Ubuntu GitHub CI passed. Inspect the actual PR run before merging under a CI requirement. This repository has no mirroring workflow.</p>
+<p class="source">References: <a href="https://pkgs.rstudio.com/renv/reference/status.html">renv status()</a> and <a href="https://pkgs.rstudio.com/renv/articles/lockfile.html">renv lockfiles</a>.</p>
+</section>
+
+<section id="repository">
+<h2>Independent repository</h2>
+<p>The source is <a href="https://github.com/tomh1988-8/the-general">tomh1988-8/the-general</a>. This repository starts with a fresh history and is developed independently. There is no automatic mirroring or deployment workflow.</p>
+<p>Keep work on feature branches, review changes in pull requests targeting <code>main</code>, and inspect the R CI result for the exact commit being merged. Repository access is controlled through GitHub settings.</p>
+<p>Use a GitHub noreply address for commit attribution if you do not want a contact email in Git history. Keep local credentials and Posit Connect deployment records untracked. Temporary reports belong in the ignored <code>tmp/</code> directory.</p>
+</section>
+
+<section id="diagnostics">
+<h2>Diagnose and share a failure</h2>
+<p>Start with the failing operation and its exact error, then check the environment and relevant data contract. Capture <code>sessionInfo()</code>, the chosen R executable, <code>renv::status()</code> and the mapped column names/types. Keep this material in <code>tmp/</code>. The app's log file can be redirected with <code>options(the_general.log_file = "tmp/app.log")</code> before startup.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Common development failures"><table><caption>Common development failures</caption><thead><tr><th scope="col">Symptom</th><th scope="col">Likely next check</th></tr></thead><tbody>
+<tr><td>Rscript not found</td><td>Use the full quoted path to the installed Rscript.exe; check its version before restoring.</td></tr>
+<tr><td>Missing namespace or local_mocked_bindings()</td><td>Confirm project activation and restore renv.lock; check that the process is using the project library.</td></tr>
+<tr><td>Version check fails</td><td>Read the named mismatch; compare version objects and the pinned GitHub SHA. Do not edit the lockfile to conceal a failed restore.</td></tr>
+<tr><td>Long-path, permission or file-in-use error</td><td>Stop app/test processes, inspect the exact path and try a short clone outside OneDrive before changing source code.</td></tr>
+<tr><td>Export differs from its pin</td><td>Check whether the dataset/filter changed since pinning, the view's eligibility rule, and scatter sampling before changing a formula.</td></tr>
+<tr><td>New selector is empty or disabled</td><td>Inspect confirmed role prefixes, validation/capability results, and reactive update order.</td></tr>
+</tbody></table></div>
+<p>The agreed patch workflow uses a Python ZIP saved in <code>tmp/</code>, executed without manual extraction using <code>uv run --no-project python tmp/&lt;patch&gt;.zip</code>. A runner checks compatibility, applies only its declared files and writes requested diagnostics to <code>tmp/share_back.zip</code>. Uploading that ZIP is a separate user action. Re-running a runner after editing its feedback file refreshes the report.</p>
+<p>Review diagnostic contents before sharing: logs can contain local paths and column names, and dashboard R exports can contain the full mapped population for line comparisons. Use a small synthetic reproducer for a data-specific defect. Do not commit throwaway reports, credentials or private datasets, and do not replace the repository's README with a patch instruction file.</p>
+</section>
+
+<section id="release">
+<h2>Prepare a release or deployment</h2>
+<p>For a release, restore the intended environment, run the relevant tests and full suite, review the actual CI result and smoke-test the core workflow: upload, column correction, filter, a table, each changed graph, pin, preview and downloads. Check documentation links and keyboard/narrow-screen behaviour when UI or assets change.</p>
+<p>A package build/check adds coverage that the current CI test command does not provide. If distributing an installed package, verify that example data and assets are included and reachable: the current build ignore excludes the root <code>data/</code> directory, while development uses files from it. Running successfully from a clone does not prove an installed build is self-contained.</p>
+<p>The existing Dockerfile starts from <code>rocker/r-ver:4.4.2</code>, which differs from the current R 4.5.2 lockfile. Treat it as an outstanding deployment mismatch to resolve and test before use. The application entry point has no configured authentication boundary; hosting and access controls must be chosen for the deployment's audience and data.</p>
+<p>Document the deployed revision, environment and recovery procedure. Keep data transformations and user-visible statistical changes clear in release notes so an analyst can explain why results changed.</p>
+<p class="source">Engineering references: <a href="https://r-pkgs.org/whole-game.html">R Packages: development workflow</a> and <a href="https://r-pkgs.org/testing-design.html">test design</a>. The repository-specific gaps above are observations, not checks already completed.</p>
+</section>
+
+<section id="maintain-docs">
+<h2>Maintain these guides</h2>
+<p>The canonical sources are three editable HTML files and a shared stylesheet under <code>inst/app/www/docs/</code>. There is no documentation build dependency. Keep headings and fragment IDs stable when linking between guides, give tables captions and header cells, and include meaningful alt text for figures. Local assets make the guides usable without a network connection; external references are optional reading.</p>
+<p>The supplied documentation runner validates local links, fragments, duplicate IDs and required asset structure. It is not a complete accessibility audit or a statistical test suite. Open the pages at desktop and phone widths after a layout change, and use print preview if changing the print stylesheet.</p>
+<p>When replacing the worked example, regenerate all nine standalone outputs, compare them with the current dashboard helpers, inspect the figures and update the recorded date and results together. Keep example data synthetic. Maintain the existing repo README independently; this documentation patch does not edit it.</p>
+</section>
+
+  <footer class="page-footer"><p>Continue reading: <a href="index.html">User guide</a> · <a href="statistics.html">Statistics guide</a></p><p>The General · Documentation snapshot, September 2026</p></footer>
+</main>
+</div>
+</body>
+</html>

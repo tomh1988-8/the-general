@@ -1,0 +1,53 @@
+Package: thegeneral
+Title: The General
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tom", "Hunter", , "188674674+tomh1988-8@users.noreply.github.com",
+           role = c("aut", "cre"))
+Description: A shiny app where you can drop in your own data and
+    interrogate through a flexible research tool.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends:
+    R (>= 4.1)
+Imports:
+    shiny (>= 1.7.0),
+    pkgload,
+    shinydashboard,
+    bs4Dash,
+    ggplot2,
+    shinybusy,
+    shinyWidgets,
+    shinyjs,
+    htmltools,
+    htmlwidgets,
+    fresh,
+    logger,
+    uuid,
+    glue,
+    stringr,
+    magrittr,
+    DT,
+    plotly,
+    dplyr (>= 1.0.0),
+    tidyr (>= 1.1.0),
+    tibble,
+    purrr,
+    rlang (>= 0.4.0),
+    readr,
+    lubridate,
+    zoo (>= 1.8.0),
+    janitor,
+    cli,
+    vctrs,
+    jsonlite,
+    openxlsx,
+    cowplot,
+    shinymanager
+Suggests:
+    testthat (>= 3.0.0),
+    withr
+ByteCompile: true
+Config/testthat/edition: 3

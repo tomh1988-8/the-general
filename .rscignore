@@ -1,0 +1,5 @@
+data-raw/*
+.RData
+.Rhistory
+.Rproj.user
+log_file.log

@@ -1,0 +1,1001 @@
+date,Genre,RATING,language,Format,franchise?, PRODUCTION STUDIO , release season , budget band ,distribution?,SEQUEL,Award Noms, filmingLocation , CINEMATOGRAPHY ,Lead Actor, soundMix , runtimeMin ,box office $m,metascore,userscore,screens, opening $m ,marketing_$m,CGI SHOTS,IMDB VOTES, oscarWins 
+2024-10-21,horror,pg,mandarin,IMAX,spin-off,-999,autumn,$10-50m,limited, YES ,8+, Australia ,DIGITAL,NEWCOMER,atmos,10807,19007,£15503,4113,£4416,15884,missing,"12,322",5424,14738
+02/04/2023,drama,r,spanish,NaN,franchise,Disney,-999,>$150M,LIMITED,no,8+,canada,Imax 70mm,b-list,dts,   256,14086,NA,15793,8662,£4652,£4646,584,£1352," 7,447"
+24/09/2022,ANIMATION,R,english,STREAMING,-999,Paramount,winter,missing,STREAMING,Yes,NA,uk,digital,a-List,Dts,-999,-999,16875,11840,£16084,£11163,12332,NaN,£8622,14318
+2022-01-23,action,G,SPANISH,streaming, standalone ,universal,winter,$10-50m,limited,No,1-3,Uk,DIGITAL,b-List,atmos,£17246,18538,297,£15777,£6371,"13,521","11,905",7014,17938,NA
+NA,DOCUMENTARY,15,hindi,2d,Reboot,Universal,winter,<$10m,limited,yes,1-3,australia,IMAX 70MM, b-List ,-999," 2,303",15324,10144,14722,857,19344,19612," 5,691",£5546,NA
+14/03/2022,Comedy,R,french,IMAX,spin-off,warner,Autumn,$10-50M,limited,,0,Nz,Digital,b-list,atmos,6381,£16125,177,"12,219",11997,,"19,393",,12909,1260
+2024-07-13,ACTION,12a,missing,, Standalone ,PARAMOUNT, autumn ,$50-150m,NaN,yes,0,Canada,imax_70mm,b-list,Atmos,9117,5816,£11452,NA,"13,306",NaN,14687," 6,648","14,653",9241
+2024-01-15,missing,15,english,STREAMING,spin-off,DISNEY,SPRING,$50-150m,direct-to-dvd,NO,8+,us,digital,a-list,ATMOS,,10604,16609,14349,-999," 3,962",£1063,£18956," 3,316",1527
+2024-09-17,Comedy,12a,SPANISH, 2d ,standalone,paramount,summer,>$150m,direct-to-dvd,yes,8+, nz ,imax70mm,Newcomer,atmos,4742,"13,817",NaN,18196,6688," 3,140",6439,18235,"14,975",14977
+02/04/2022,DRAMA,15,,STREAMING,spin-off,paramount,spring,NaN,direct-to-dvd,yes,8+, uk ,,a-list,NA,9951,7560,5903,9925,619,£2549,£5177,14572,16665,19570
+19/05/2023,Comedy,NA,SPANISH,-999,NaN,sony,spring,-999,cinema,no,8+,UK,Imax 70mm,NaN, dolby ,19511,NA,15567,4500," 9,934",8348,14263,£3738,14923,"18,719"
+07/12/2022,Documentary,-999, spanish ,3d,Spin-Off,Warner,autumn,missing,limited,yes,1-3, uk ,digital,newcomer,missing,NaN,605,£9462,6577,£6740,£12105,NaN,£8109,NA,7637
+11/03/2023,-999,-999,Hindi,Imax,franchise,SONY,NaN,>$150m,Streaming,NO,0,canada,imax 70mm,NA,,£4373,16262,19316,13846,NA,11438,"13,792",£11854,9170," 4,451"
+"Nov 06, 2022",Animation,pg,mandarin,missing,FRANCHISE,sony,NaN,>$150m,Limited,No,4-7,uk,digital,newcomer,atmos,2853,17058,13415,"17,872",19658,£9743,10386,£12600,missing,3783
+NaN,, r , spanish ,streaming,missing,paramount,SPRING,<$10m,cinema,YES,8+,australia,imax70mm,a-list,dolby,"13,414",8654,13395,NA,13572,NA,£2565,11893,-999,"11,340"
+22/02/2023,comedy,G,French,2d, Standalone ,Paramount,summer,>$150m,streaming,yes,4-7,nz,film, B-List ,atmos,£4004," 4,640",£11494,11024," 4,829",14931,5285,16573,11987,8059
+13/01/2022,HORROR, pg ,spanish,-999,STANDALONE,universal,-999,$50-150m,streaming,Yes,,us,imax_70mm,a-list,DOLBY,2141,7482,7660,6088,7894,9590,"10,875",£8951,2301,8857
+30/10/2023,action,NA,french,2d,franchise,WARNER,NA,$10-50m,cinema,yes,8+,nz,film,b-list,dts,,2190,-999,11193,£8170,8231,4998," 6,239",18693,missing
+2023-11-26,documentary,g,french,imax,REBOOT,warner,winter,$10-50m,NA,no,0,canada,NA,b-list,Atmos,14658,15974,754,£11286,10511,13157,12155,£9817,missing,7716
+08/03/2022,Horror,-999,spanish,NaN, Franchise ,sony,winter,>$150m,,yes,8+,australia,FILM,a-List,atmos,NaN,12877,NA,£10001,,"13,063",£6086,13903,11194,8087
+06/12/2021,NA, 12a ,spanish,IMAX,reboot,Universal,summer,>$150m,missing,no,4-7,missing,NaN,newcomer,dolby,4055,£4766,9252,9148,8591,£4110,46,   744,£12835,£12260
+2021-12-23,action,R,SPANISH,3d,Spin-Off,universal,winter,<$10m,direct-to-dvd,yes,8+,AUSTRALIA,imax_70mm,b-list,-999,"10,808",4451,1084,6137,£935,10939,16509,NA,17743,15542
+29/10/2024,ANIMATION,pg,Hindi,imax, franchise ,paramount,autumn, <$10m ,-999,YES,1-3,australia,imax 70mm,NaN,dolby,3711,16985,17921,8908,14011,5754,NaN,16478,£2504,990
+16/02/2021,drama,12a,mandarin,3D,reboot,warner, WINTER ,>$150m,NA,,4-7,Uk,digital,NA,Dts," 8,299",3988,18294,4595,16956,18011,13668,missing,£7996,9176
+2024-09-04,Animation,12a,ENGLISH,streaming,spin-Off,PARAMOUNT,missing,$10-50m,cinema,NO,,Us,film,b-List,atmos,£13021,12655,17566,NaN,17486,9064,10052,17689,1831,10971
+15/05/2021,NA,R,mandarin,imax,Standalone,-999,spring,>$150m,STREAMING,no,missing, canada ,FILM,a-List,dts,16234,,18984,19682,   486,2750,18452,13221,13633,8585
+24/04/2023,DRAMA,r,spanish,NaN,spin-Off,sony, summer ,$10-50m,STREAMING,No,4-7,nz,film,a-List,Dts,6639,-999,£4597,988,NA," 4,698",NaN,NaN,11279,19421
+31/10/2022,missing,18,Spanish,-999,SPIN-OFF,-999, winter ,-999,limited,Yes,8+,nz,DIGITAL,a-list,dts,2206,£5019,8425,12725," 6,057",10191,13080,9190,10218,£19620
+17/07/2021,DRAMA,18,spanish,imax,NA,Universal,summer,>$150M,STREAMING,NO,1-3, australia ,Digital,b-list,dts,£2906,NaN,"14,349",2573," 7,905",17919,19638,3513,4425,18463
+NA,,G,Mandarin,3d,franchise,disney,spring,missing,LIMITED,yes,0,US,Imax 70mm,b-List,Atmos,8163,18242,10028,4088,£17197,1494,£5042,£9605,"19,722",4581
+"Feb 23, 2023",comedy,15,english,2d,Reboot,warner,NaN,$50-150m,limited,no,0,Canada,film,, dolby ,£14588,"15,064","13,580",15049,11870,19166,14944,4603,£16963,£1604
+2024-03-01,Horror,R,,streaming,standalone,Sony,spring,$10-50m,direct-to-dvd,No,1-3,nz,digital,b-List,dolby,16565,6135,11650,NA,4580,13022,3869,8586,3026,5949
+18/07/2024,animation, g ,NA,streaming,standalone,Warner,spring,$50-150M,LIMITED,No,0,nz,NaN,NEWCOMER,ATMOS,2801,-999,10469,£16443,19435,£886,11458,£15239,missing," 2,418"
+20/08/2022,comedy,Pg,french,STREAMING,spin-Off,universal,autumn,<$10m,cinema,NaN,-999,canada,imax 70mm,NA,dolby," 2,341",£13563,£8149,1608,£8769,19078,7571,1194,7038,2793
+"Nov 14, 2021",action, 18 ,French,3d,Standalone,Sony,AUTUMN,>$150m,NaN, YES ,8+,NZ,Imax 70mm,B-LIST,dts,2749,1810,,"15,670",16529,8021,4419,13863," 9,198",15779
+08/03/2024,ACTION, R ,spanish,NA,reboot,warner,spring,$10-50m,streaming,YES,1-3,nz, Imax 70mm ,b-list,atmos,17655,3304,15235,2594,£12475,14173,"15,864",3094,NaN,NA
+2022-07-25,comedy,g,NaN,3d,spin-Off,warner,autumn,$50-150m,direct-to-dvd,no,8+,uk,DIGITAL,a-list,ATMOS,15727,7851,6775,4133,15224,"19,786"," 9,318",£3785,15988,12838
+2024-02-10,documentary,pg,english,2d,STANDALONE,warner,AUTUMN,<$10m,Cinema, no ,1-3,us,IMAX 70MM,b-list,DOLBY,,£10685,12733,16854,NA,2465,18127,£4772,15726,8023
+21/12/2023,HORROR,NaN,french,streaming,reboot,Universal,summer,<$10m,Cinema,No, 8+ ,CANADA,Digital,NEWCOMER,atmos,7839,-999,,18676,4307,4479,11585,17741,"18,648",£4726
+03/07/2022,missing,NA,Spanish,3D,FRANCHISE,NA,NA,>$150m,NaN,no,4-7,US,Digital,newcomer, Dts ,10196,16980,£9912,missing,£8797,8389,," 8,028",1288,11648
+30/03/2022,animation,15,Mandarin,streaming,franchise,warner,Winter, <$10M ,Direct-To-Dvd,-999,8+,us,IMAX 70MM,Newcomer,dts,£12451,"17,769",25,3804,£17884,12322,16084,3409,10054,£4340
+missing, Documentary ,12A,FRENCH,IMAX,-999,sony, autumn ,$50-150M,Limited,,1-3, Australia ,digital,Newcomer,dts,"14,080",15611,19711,9380,16850,NaN,9044,£16466," 5,087",19890
+2022-11-13,Action,pg,english,2d,STANDALONE,universal,autumn,$50-150M,Limited, yes ,0,us,DIGITAL,B-List,Dolby,6347,17884,6269,6277,NA,5625,"19,088"," 6,339",7124," 4,550"
+03/09/2024,animation,-999,spanish,streaming,SPIN-OFF,Universal, spring ,>$150m,direct-To-Dvd,yes,1-3,AUSTRALIA,imax70mm,a-list,dolby,NA,-999,17116,16115,6051,14952,14123,£7459,11008,NaN
+2022-11-13,comedy,r,French,3d,reboot,Universal,spring,$50-150m,streaming,missing,4-7,nz,digital,a-list,Dts,-999,"17,178",1596,10067,,5624," 4,130"," 9,963",8721,"16,824"
+"Aug 06, 2021", Drama ,g,NaN,streaming,spin-off,disney,SUMMER,>$150M,Direct-To-Dvd,YES,-999, canada ,film,b-list,atmos,-999,16755,3429,£2392,£2507,15630,5547," 5,889","12,153",18890
+2023-08-16,Horror,18,english,3d,reboot, universal ,,NaN, direct-To-Dvd ,No,8+,canada,Film,NEWCOMER, Dolby ,10200,8408,-999," 2,986",-999,£10199,"16,101",NA,15111,11030
+2021-07-08, animation ,15,english,IMAX,SPIN-OFF,Sony,summer,>$150M,CINEMA,yes,1-3,UK,film,b-list,Dts," 8,047",£13966,14361,97,15879,18771,2998,11824," 3,947",£9540
+22/07/2022,animation,pg,SPANISH,,spin-off,disney,summer,>$150m,Streaming,YES,0,us,film,NEWCOMER,NaN,565,10396,"17,347","13,660",10212,12617,£6157,13110,£2401,
+2022-12-11,comedy, r ,french,imax,Reboot,universal,,$50-150m, Cinema ,yes,1-3,Uk,, newcomer ,Dts,£13878,7678,"19,860",£14906,£18942,NaN,"15,923",6652,5638,18901
+28/10/2023,Action,12a,french, 2d , Franchise , disney ,spring,<$10m,cinema,Yes,,-999,Film, Newcomer ,dolby,missing,missing,"11,160",,£6647,£13893,132,16315,10995,17014
+28/04/2024,animation,R,mandarin,2d,missing,warner,summer,>$150m,limited,no,0,canada,IMAX 70MM,a-list,DOLBY,11332,£18136,17579,19335,"19,691"," 8,471",2724,NaN,92,"19,178"
+,comedy,15, SPANISH , 3d ,SPIN-OFF,Disney,winter,$10-50M,streaming,No,0,uk,film,newcomer,dolby,missing,9288,NaN,"11,656",18527,NA,12241,£1971,8380,missing
+2021-03-18,horror,-999,french, 3D ,franchise,universal,spring, >$150M , direct-to-dvd ,Yes,8+,missing,digital,a-list,dolby,11833,-999,2504,9403,5583,missing,10907,£14699,13022,
+02/09/2022,Documentary,g,NaN,2d,STANDALONE,sony,Autumn,>$150m,streaming,-999,NaN,canada,imax 70mm,newcomer,DTS,NaN,16229,"16,443",7543,6150,£4724,NA,£16628," 4,675",15122
+2023-04-16,Horror,12a,,streaming,franchise,universal,autumn,<$10m,DIRECT-TO-DVD,no,4-7,Nz,DIGITAL,a-list,ATMOS,10161,£19234,"10,347",£12884,11026,19798," 5,618",1836,11925,"10,537"
+06/05/2024,Horror,r, MANDARIN ,3d,missing,WARNER,autumn,>$150m, LIMITED ,no,8+, nz ,digital,A-LIST,NaN,5464,9445,19108,15181,£3278,NaN,11194," 1,388",14933,10346
+2022-11-06,animation, r ,French,IMAX,franchise,sony,autumn,<$10m,limited,no,1-3,Australia,digital,newcomer,dts,£14994,4454,17615," 8,579",2232,10634,£18357,,£12868,16312
+2021-02-14,horror,18,mandarin,streaming,standalone,Paramount,spring,-999,Limited,yes,1-3,uk,film,NEWCOMER,atmos,"11,235",19881,13337,6434,3912,"14,657",6449,6592,1778,10136
+2023-03-22,documentary,pg,Spanish, Imax ,missing,paramount,NA,$50-150m,streaming,yes,0,us,film,missing,Dts,"12,452",£88,19513,£16573,£17691,12720,,5461,10464,£4137
+2022-04-12,drama,r,english,imax,franchise,disney,Autumn,>$150m,CINEMA,Yes,8+,missing,film,B-LIST,dolby,£12106,11920,13458,6701,NA,NA,8343,32,NaN,£5304
+10/10/2022,action,12A,ENGLISH,imax,spin-off,disney,NA,NaN,-999,no,1-3,us,film,NaN,dts,12321,NA,18075,11553,14444,"11,246",-999,15686,16380,9653
+2023-05-25,drama,18,mandarin,2d,STANDALONE,sony,autumn,<$10m,Cinema,YES,4-7,NaN,FILM,B-List,dts,14759,18653,5803,17982,3817,12100,,-999,10891,14465
+22/10/2024,-999,pg,French,Imax,Spin-Off,warner,AUTUMN,$10-50M,LIMITED,no,4-7,AUSTRALIA,imax70mm,a-List,Dts,£7333,NaN,£12623,1318,8537,£14062,17414,NA,13641,19740
+2021-12-05,drama,18, English ,2d,Franchise,DISNEY,-999,-999,Streaming, no ,1-3,nz,imax 70mm,NaN,dolby,2474,£13009,7161,19932,NaN," 8,150",13074,   804,17554,11360
+05/08/2024,COMEDY,r,french,streaming,standalone,Universal,Winter, $50-150m ,limited,no,1-3,uk,film,B-LIST,atmos,£11075,£4431,NA,,25,£4425,£5460,1047,9927,10262
+08/11/2022,,R,MANDARIN,Streaming,,warner,winter,$10-50M,NA,no,4-7,UK,digital,newcomer,ATMOS,NaN,18316,44,11209,5782,missing,6401,3882,1150,19472
+29/07/2024,ANIMATION,R,French, 3d , reboot ,-999,Spring,$10-50m,LIMITED,NO,0,Us,FILM,a-list,NA,12378,"12,503",13724,£11750,4383,5826,"11,695",£1784," 6,505",£16008
+19/03/2023,ACTION,15,mandarin,imax,FRANCHISE,disney,winter,<$10M,LIMITED,yes,8+,Nz,-999,a-list,dts,12581,3787,£18917,"11,998",,1334,4684,17638,£4121,12472
+09/12/2022,documentary,18,spanish,2d,spin-off,universal,autumn, $50-150m ,limited,no,4-7,us,film,missing,DTS,NaN,NA,8865,missing,,£6043,£1980,-999,£6254,10844
+29/02/2024,Action, 18 ,english,streaming,franchise,NaN,summer,$10-50M,CINEMA,YES,4-7,Canada,FILM,a-list,DTS,10068,1097,£19169,16113,4811," 1,879",930,12105,13880,14655
+2023-04-19, documentary ,pg,english,2D,franchise,disney,winter,<$10m,DIRECT-TO-DVD,YES,1-3,US,,b-List,Dolby,£4355,13210,NA,£7183,-999,"14,576",£19083,17516,missing,16655
+15/09/2021,horror,pg,,NA,FRANCHISE, warner ,winter,<$10m,cinema,no, 8+ , australia ,imax_70mm,B-List, atmos ,12744,1386,9189,£17400,5780,1009,17116,13970,194,£2021
+2023-03-07,Horror,15,MANDARIN,3d,franchise,sony, spring ,>$150m,limited, YES ,0,CANADA,IMAX 70MM, newcomer ,,8252,13678," 2,486",missing,£14316,£1669,1044,13236,13773,£8379
+02/08/2023,comedy,pg,NaN,streaming,spin-Off,paramount,spring,$50-150m,streaming,yes,8+,canada, imax_70mm ,,ATMOS," 6,098",19593,12278,£648,£3524,-999," 9,238",15976,2980,"14,760"
+13/08/2023,Comedy,15,NA,imax,franchise,warner,WINTER,<$10m,direct-to-dvd, yes ,1-3,australia,DIGITAL,Newcomer,Dolby,   157,16501,3827," 3,263",16272,11230,4801,£16970,"18,436",1280
+"Apr 01, 2023",Documentary,18,english,streaming,missing,sony,winter,NaN,limited,YES,4-7,uk,imax70mm,a-List,dts,£15539,missing,5062,9252,£5328,£13420,11939,£3880,£3847,2141
+13/12/2023, horror ,15,NA,missing,REBOOT,universal,,>$150m,cinema,yes,4-7,canada,FILM,a-list,Dolby,7649,missing,,9096,NaN,£18260,£4530,missing,6319," 9,448"
+16/01/2024,Action,pg, SPANISH , 2d ,NaN,disney,autumn,$10-50m,LIMITED,Yes,8+,NZ,Film,NEWCOMER,dolby,19469,£2299,-999,8141,£13850,15240,"11,667",£8343,£18633,£11044
+23/04/2022,COMEDY,pg,NA,-999,reboot,paramount,-999,<$10m,direct-to-dvd,YES,missing,NaN, digital ,b-List,dts,9128,6004,missing,19854,7207,missing,9496,1961,5188," 6,386"
+"Sep 05, 2021",Horror,15,ENGLISH, imax ,REBOOT,Warner,summer,>$150M,Direct-To-Dvd,no,8+,AUSTRALIA,NA,a-list,dolby,2532,5991,18221,£16909,NaN,12360,£12501,17703,-999,10915
+12/01/2021,COMEDY,r,missing,imax,standalone,universal,WINTER,missing,cinema,yes,0,Us,imax 70mm,,atmos,£14967,4070,18001,£18929," 6,540",9228,18063,£19819,2992,missing
+2023-10-17,animation,18,English,2d,reboot,Warner,autumn,>$150m,missing,yes,0,missing,imax_70mm,B-LIST,Atmos,"18,091",£2186,£18002,2307,2980,13334,353,"13,312",17486,1814
+,ACTION,G,HINDI,3D, Standalone ,WARNER,autumn, >$150m ,Direct-To-Dvd,NO,NA,australia,Film,a-list,ATMOS,16067,2830,6405,13419," 3,906",14457,7838,4935,19884,18760
+2021-08-07,DRAMA,,MANDARIN,3d,franchise,Universal,spring,NaN,streaming,YES,0,australia,NaN,Newcomer,dolby," 9,403"," 8,556",NA,18848,8705,NaN,11595,£19909,5528,12703
+NaN,drama,18,hindi,3D,standalone, UNIVERSAL ,-999,$50-150m,limited,yes, 1-3 ,missing,imax70mm,A-List,Atmos,6775,-999,4783,9331,"18,217",4421,£6077,9552,£14361,6767
+2023-01-16,Horror, g ,French,-999,reboot,Warner, Summer ,$10-50m,direct-to-dvd,YES,NA, australia ,digital,B-LIST,Dts,NaN,19457,3410,12983,5362,"10,927",,missing,12738,17164
+2021-09-20,Comedy,12a,English,Imax,franchise,disney,AUTUMN,>$150m,cinema,No,1-3,NA,imax 70mm,B-List,ATMOS,"15,910",NA,16728,£13938,," 7,613",3592,15353,4659,"10,750"
+2021-07-23,Comedy,r,MANDARIN,2d,franchise,universal,spring,$10-50m,missing,yes,4-7,nz,NA,a-List,DTS,-999,19189,£17150,1564,4944,£8386,18933,11134,,£2082
+2022-05-03,Drama,-999,spanish,2d,NaN,warner,Autumn,$50-150M,direct-To-Dvd,no,8+,nz,IMAX 70MM,a-list,,NaN,£6302,13326,6285,£17328,£3639,missing,8767,5842,"16,997"
+07/01/2022,Documentary, 15 ,SPANISH,2d,standalone,Universal,Winter,$50-150m,streaming,yes,0,US,digital,a-list,dolby," 7,311",4593,6920,9158,£16504,11416,missing,NA,£5890,10840
+30/10/2022,Action,15,SPANISH, imax ,Standalone,warner,winter,<$10m,Direct-To-Dvd,-999,1-3,canada,digital,newcomer,Dts,missing,12355,18992," 4,802",14317," 7,609",missing,2835,£11748,-999
+31/12/2021,ACTION,18, spanish ,streaming,Reboot,sony,WINTER,$10-50m,direct-to-dvd,No,0,us,Imax 70mm,NA,Dts," 8,651",-999,480,854,1374,1574,18880,7421,"18,516",£9697
+NA,COMEDY,pg,hindi,STREAMING,spin-Off,Sony,spring,>$150m,direct-To-Dvd,YES,4-7,australia,FILM,newcomer,dolby,5494,11767,£4670,"12,846",£17327," 2,610",761,£2119,," 7,973"
+01/08/2023,NA,G, english ,IMAX,standalone,Warner,spring,<$10m,Direct-To-Dvd,no,missing,Nz,imax_70mm,newcomer,dolby,19516,5430,11957,"12,534",19253,1722,NaN,16965,£1782,6590
+14/05/2021,Drama,PG,english,imax,spin-off,SONY, summer ,>$150M,limited,no,0,Australia,digital,newcomer,dts,£3295,£2365,10413,13200,7408,£19107,"16,360",4099,£3240,7749
+2024-09-19,action, G , hindi ,STREAMING,spin-off,Sony,WINTER,$10-50m,streaming,Yes,4-7,UK,digital, B-LIST ,Dolby,782,11379,19879,,£17452,11030,,£8080,16090,3778
+13/02/2023,comedy,18,HINDI,streaming,franchise,disney,NA,>$150M,LIMITED,yes,8+,canada, imax_70mm ,b-List,atmos," 3,757",14396,12426,12799,NaN,-999,11030,16768,£9059,12767
+2023-02-21,Drama,G,french,imax,-999,universal,summer, $50-150m ,LIMITED,no,4-7,US, digital ,a-list,dts,"18,168",2961,529,8506,13409,10182,£8983,," 1,012",10200
+31/01/2023,drama,18,SPANISH,2D,SPIN-OFF,disney,Autumn,$10-50m, Limited ,NO,0,us,digital,Newcomer,dolby,589,"18,953",1288,383,NA,£2725,NaN,,£13988,10266
+2021-08-29, COMEDY ,r,mandarin,-999,REBOOT, DISNEY ,NaN,$10-50M,STREAMING,-999,1-3,uk,IMAX 70MM,-999,atmos,-999,£13521,15059,8440,8510,11661,NaN,13344,£16914,5071
+25/08/2021,documentary,15,,2d,reboot,disney,spring,>$150m,Streaming,YES,,Nz,film,B-List,dts,NA,£13889,£4916,"16,142",19145,,15108,7802,10035,missing
+2022-10-10,missing,18, mandarin ,3d, spin-off , Disney ,spring,<$10m,DIRECT-TO-DVD,,missing,AUSTRALIA,imax70mm,a-list,dts,17253,251,£16649,£3388,£16063,19276,18453,15980,£10684," 7,430"
+20/05/2021,COMEDY,pg, French ,3d,reboot,NA, autumn ,>$150m,limited,no,0,Canada,imax70mm,NEWCOMER,dolby,9683,NA,,12413,£17976,,17377,£17966,NA,6961
+2023-03-16,DOCUMENTARY,15,Hindi,2d,FRANCHISE,PARAMOUNT,spring,$50-150m,-999,NO,4-7,canada,NaN,A-List,Atmos,£11980,19998,3577," 2,158",11855,,18678,17268,"12,017",£15653
+2024-12-04,action,pg,Spanish,imax, Franchise ,universal,,$50-150m, Cinema ,yes,8+,australia,digital,missing,NA,11051,6678,5876,"10,777",7231,574,18621,£16304,£14434," 4,141"
+"May 30, 2021",ANIMATION,12a,missing,missing,REBOOT,UNIVERSAL,Autumn,NA,direct-To-Dvd,yes,0,canada,-999,-999,atmos,£3374,NA,12623,"15,116"," 5,935","19,363",1032,14752,13278,9586
+"Oct 21, 2021", drama ,pg,spanish,2d,standalone,universal,autumn,$50-150m,cinema,missing,1-3,uk,film,a-list,dolby,6030,   793,-999,NaN,£16297,16308,2838,£60,,-999
+-999,Action,18,french,2d,Franchise,DISNEY,autumn,>$150m,DIRECT-TO-DVD,No,1-3,us,imax 70mm,b-List,Dts,5375,19432,5046,13286,8672,19890,678,missing,18892,2220
+03/10/2021,-999,15,mandarin, streaming ,SPIN-OFF,UNIVERSAL, SUMMER ,$10-50m,NaN,No,1-3, canada ,imax70mm,Newcomer,DOLBY,"17,192",4885,,10188,NaN,2800," 6,683",6338,15748,8217
+"Jun 04, 2024",Documentary,NA,French,STREAMING,spin-off,warner,Autumn, $50-150m ,,Yes,1-3,missing,IMAX 70MM,b-list,NaN,7846,18603,7868,10784,2493,£2986,"12,888",9766,6246,14388
+2024-09-09, animation ,15,ENGLISH,IMAX,franchise,missing,NA,<$10m,NA, no ,1-3,canada,film,newcomer,dts,12546,13667,13362,19234,10259,NaN,6540,6904,"18,644",-999
+2022-11-03,animation,,HINDI,2d,Franchise,Warner,spring,missing,direct-to-dvd,Yes,0,AUSTRALIA, digital ,-999,dts,£1370,NA,6990,NA,1753,16617,9707,14610,6014,missing
+19/04/2021,NaN,15,-999,streaming,Standalone,Universal,NA,$10-50m,limited,Yes,1-3,us,Film,B-LIST,dts,missing,4929," 3,936",16285,£1466,missing,14882,£8939,1158,11799
+13/12/2021,horror,g,english,2d,spin-off,WARNER,SUMMER,$10-50m,streaming,Yes,1-3,US,Imax 70mm,A-LIST,dts,15581,NA,11023,5472,9387," 3,205",16357," 8,367",10345,NA
+09/12/2022,documentary,r,english,imax,Franchise,Sony,autumn,<$10m,LIMITED,No,0,us,missing, A-LIST ,Atmos,12713,17069,10663,£9206,NA,£1859,,£18602,9105,6117
+30/06/2022, Drama ,15, spanish ,imax,REBOOT,warner,SPRING,<$10m,cinema,no,4-7,Uk,imax_70mm,b-list,dts,11871,8137,14513,4978,14843,8361,4348,8385,4983,1467
+"Jan 22, 2022",drama,12a,missing,3d,reboot,universal,autumn,$10-50m,LIMITED,No,4-7,Australia,film,B-List,-999,7011,15154," 5,492",4961,16882,2659,NA,12125,"10,682",-999
+16/04/2022,horror,r,Mandarin,imax,Standalone,warner,winter,$10-50m,cinema,no,8+,us,NA,NaN,ATMOS,6467,1461,"11,524",9348,"13,288",10751,£19535,-999,3835,"11,775"
+13/04/2022,Comedy, 15 ,English,NaN,spin-Off, Universal ,AUTUMN,$10-50m, direct-to-dvd ,yes,8+,uk,imax_70mm,newcomer,atmos,£7597,£18015,"14,543",17580,13800,8592,16473,NA,missing,£8030
+2024-03-25,drama,pg,spanish,Streaming,spin-off,DISNEY,summer,$10-50m,Streaming,yes,8+,nz, film ,newcomer,atmos," 8,068",6346,£19443,12303,2613,11213,£6190,2209," 3,010",4107
+17/03/2021,action,R,FRENCH,streaming,Standalone,SONY,NaN,$10-50m,limited,,NA,NaN,imax70mm,a-list,NaN,776,18615,£14147,13321,2816,NaN,14628,19956,£1099,740
+15/07/2021,DOCUMENTARY,18,spanish,STREAMING,Reboot,warner,winter,$50-150m,missing,No,4-7,-999,digital,newcomer,dts,5521,8361,missing," 5,994",NA,19851,NaN,missing,2822,6338
+05/05/2021,ANIMATION,pg,NaN,3D,reboot,sony,summer,>$150m,Limited,NO, 8+ ,nz, imax_70mm ,NaN, dolby ,13910,"15,698",1560,£13458,£4327,NaN," 2,657",NA,,17988
+19/01/2021,comedy,12A,spanish,imax,reboot,sony,spring,$50-150m,streaming,,8+,NA,NA,,Dolby,"11,356",£1016,16914,13555,-999,1058,17310,9520," 1,699",13055
+2021-12-21,DRAMA,Pg,mandarin, 2d ,Spin-Off,Sony, SUMMER ,$10-50m,direct-to-dvd,yes,missing,australia, IMAX 70MM ,a-list,Dolby,"13,549",1818,18367,19538,£6390,8507,11248,7548,4166,8271
+"Aug 18, 2021",horror,PG,hindi,STREAMING,NaN,Sony,autumn,>$150m,Limited,no,8+, canada ,imax70mm,b-list,dts,NA,"15,705",18869,1503,£8254,NaN,1722,18539,12297,3642
+22/05/2021,Horror,NaN,Mandarin,3d,franchise,sony,SUMMER,NaN,Streaming, Yes ,0,nz,Film,a-list,dolby,£12714," 2,078",£15774,£799,"13,827",£11315,NA,5457,£19330,5238
+06/04/2021,action,g,MANDARIN,imax,franchise,universal,spring,-999,Streaming,NaN,1-3, us ,imax_70mm,newcomer,-999,3418,8482,10078,10619,£8840,6357,3953,£4519,7361,missing
+06/11/2021,animation,18,english,3d,reboot,warner,spring,>$150m,limited,yes,8+,australia,,missing,DTS,13116,£11318,,1875,,18223,2837,,-999,11949
+"Mar 16, 2022",horror,r,NA,imax,REBOOT,universal,spring,<$10M,Cinema,NO,0,NZ, imax_70mm ,-999,atmos,£19702,£5999,5902," 1,441","17,843",14426,-999,14530,£13110,18844
+17/08/2022,,15,MANDARIN,imax,reboot,warner,AUTUMN,>$150m,direct-to-dvd,yes,0, Nz ,digital,b-List,dts,19302,NA,16486,10341,"11,229",£14604,"17,111",£18283,6686,12625
+28/04/2022,missing,12a,SPANISH,-999,spin-Off, WARNER ,winter,$50-150m,DIRECT-TO-DVD,No,missing,australia,digital,A-List, ATMOS ,5084,13909,15641,14882,13070,18452,,14556,-999,17911
+17/01/2022,documentary,r,spanish,3d,reboot,Paramount,autumn,$50-150m,direct-to-dvd,yes, 4-7 ,Nz,NA,b-list,dolby,£11145,8998,13592,£3337,12368,NaN,18606,,9501,11463
+"Dec 18, 2024",HORROR,18,MANDARIN,NaN,franchise,DISNEY,NaN,<$10m,Limited,No,0,NA,-999,A-LIST,dts,10807,NaN,£14523,14619,£8227,11946,5425,NaN,17889,
+03/04/2021, DOCUMENTARY ,18,Hindi,3D, FRANCHISE ,Paramount, summer ,<$10M,LIMITED,no,8+, us ,digital,B-List,atmos,5916,18442,19971,16062,missing,5317,"13,903"," 6,874",11922,"16,069"
+2023-03-21,comedy,NaN, Spanish ,streaming,spin-off,UNIVERSAL,SUMMER,missing,streaming,YES,1-3,nz,FILM,newcomer, dolby ,18343,£3306,6781,-999,8864,5793,missing,19800,16998,11862
+2023-01-31,Documentary,12A,-999,2d,spin-Off,warner,WINTER,$50-150m,direct-to-dvd,no,4-7,us,digital,a-List,dts,£3888,11026,8784,9103,7426,4385,2810,,15106,8208
+03/12/2024,documentary,g, Hindi ,NA,FRANCHISE,paramount,SUMMER,<$10m,Streaming,no,0,us,digital, B-List ,atmos,13942,£19879,NA,£8675,4430,-999,14490," 3,452",16802,£12514
+2022-12-23, action ,PG,Hindi, Streaming ,missing,universal,spring,$50-150m, direct-to-dvd , yes ,1-3,NaN,Film,a-List,DTS,16893,3255,£16762,11134,-999,"15,094",5838,18897,"16,265",
+24/10/2022,ANIMATION,NaN, spanish , streaming ,Reboot,sony,winter,missing,limited,yes, 0 ,NZ, FILM ,newcomer,DTS,8292,15572,£6428," 8,514",12362,18056,5813,8812,11971,15477
+19/09/2022,drama,NA,hindi,3d,spin-off,disney,summer,$10-50m,limited,Yes,8+,Australia,NaN,a-List,dts,2254,"13,553",£15487,£8691,17831,NA," 7,511",19589,-999,£7609
+2023-07-30,drama,r,,imax,REBOOT,Disney,summer,$10-50m,streaming,no, 8+ ,NA,digital,a-list,Dts,3122,"18,681",9797,"10,807",-999,7858,"19,596",9529,£13380,£17336
+30/03/2021,Documentary,G,french,imax,spin-off, Disney ,missing,NA,NA,no,1-3,uk,imax 70mm,newcomer,Dts,19365,NaN,10969,8933,11301,,£5875,17800,12711,5237
+NA,horror,r,,missing,franchise,Sony,Summer,$10-50m,limited,no,0,us,DIGITAL,B-List,ATMOS,£9380,1507,3773,£2701,missing,NaN,2921,14219," 2,971",9260
+22/09/2021,horror,missing,HINDI,Imax,spin-off,UNIVERSAL,Autumn,$10-50m,streaming,NO,0,-999,Film,newcomer,dolby,8733,"10,660",missing," 7,737",7641,   600,14737,13739,NA,-999
+15/05/2024,animation,pg,English,Streaming,spin-off,DISNEY,spring, <$10m ,streaming,Yes, 4-7 ,us,film,missing,dts,372,11094,7012,6157,5986,7541,-999,18785,15027,"12,722"
+2024-03-20,action,12A, Mandarin ,3d,NaN,paramount,Spring,,direct-to-dvd,no,0,NA,Film,b-list,DTS,6318,£10071,8592,12708,"17,826"," 3,784",NA,£6773,16739,1903
+"Nov 22, 2022",animation,18,french,2d,reboot,-999,autumn,>$150m, limited ,-999,0,uk,imax 70mm,b-List, Atmos ,,10380,,NaN,6156," 3,296",£14735,11369,8936,missing
+05/07/2024,Documentary, 18 ,french,IMAX,standalone,disney,winter,$50-150m,STREAMING,no,missing,us,imax 70mm,newcomer,missing,£3580,3144,17135,227,£18505,15310,18574,15031,6975," 3,140"
+06/03/2024,action,18,SPANISH,3D,franchise,disney,Summer,-999,direct-to-dvd,Yes,NaN,us,Film,a-list,DOLBY,9503,5236,14491," 1,777",11151,NA,"15,341",NA,missing,13011
+22/08/2023,COMEDY,r,FRENCH,NA,standalone,Sony,Autumn,<$10m,cinema,no,8+,canada,imax70mm,b-list,dts,592,6064,17405,,8388," 8,016",£11038,£17718,14290,£19823
+20/04/2022,documentary,12a,french,2D,Franchise,universal,winter,>$150M,,no,8+, us ,Imax 70mm,a-list,Dolby,17954,5831,17289,11078," 3,535",17346,16176,19572,NA,£543
+2024-03-25,horror,R,English,2d,Reboot,-999,NA,$50-150M,LIMITED,NO,1-3,australia,Digital,newcomer,dolby,NaN,8127,8380,18211,£11022,7059,17331,13302,11166,15825
+2022-04-20,documentary,15,hindi,Streaming,reboot,UNIVERSAL,winter,-999,direct-to-dvd,-999,8+,US,imax_70mm,B-LIST,ATMOS,682,10850,3592,16047,-999,17998,4335,8020,-999,
+2022-05-19,comedy,18,Mandarin,imax, standalone ,Universal,missing,>$150M, direct-to-dvd ,YES,0,Nz,imax70mm,b-list,Dts,9188,£1729,16030,14686,18535,13831,16922,£13896,"11,768",935
+"May 28, 2023",animation,12a,english,NaN,reboot,paramount,summer,-999,STREAMING,NO,4-7,Uk,film,newcomer,atmos,4166,8556,18078,"16,392",17139,-999,361,17001,853,8148
+05/04/2021,animation, r ,french,streaming,reboot,Paramount,Autumn,$50-150m,limited,YES,0,NA,film,a-list, dolby ,5216,14804,missing,£4629,8803,13885,£12214,£6487,10652,
+2021-08-08,comedy,g,FRENCH,2d,franchise,missing,summer,$10-50m,streaming,NO,8+,canada,Film,NEWCOMER,dolby,13706,missing,£17410,£6847,16019,NA,14726,12928,6178,missing
+09/03/2022,animation,missing,Mandarin,3d, Reboot ,warner,summer,$50-150m,cinema,no,1-3,Nz,film,b-list,atmos,£14978,610,434,1764,18526,7177,12082,"13,651",15485,£8555
+12/06/2021,horror, g ,french,Streaming,franchise,warner, spring , $10-50M ,CINEMA,,8+,nz,IMAX 70MM,b-list,Atmos,£14374,£12734,8056," 9,714",9800,10504,£12365," 6,307",NA,11983
+,Horror,g,hindi,imax,Standalone,PARAMOUNT,SUMMER,<$10m,limited,Yes,-999,CANADA,imax70mm,newcomer, DTS ,10283,17466,missing,   114,8556,£9682,11493,15784,NA," 6,257"
+2024-08-12,NA,-999,spanish,missing,reboot,sony,Autumn,missing,cinema,No,1-3,NaN,digital,B-List,dolby,3520,£819,12674,£18095," 3,572",£8843,6433," 5,534","16,500"," 3,586"
+16/02/2024,Animation,15,ENGLISH,Streaming,FRANCHISE,Universal,Spring,$10-50m,cinema,No,4-7,AUSTRALIA,Film,a-list,Dolby,9159,£1471,17880,NaN,6115,3844,13703,12785,11586,8362
+03/03/2023,action,18, french ,NA,Franchise,missing,autumn,<$10m,LIMITED,yes,4-7,us,NA,,dolby,13204,16891," 3,217",18925,16348,16792,£4372,7986,NA,10193
+2023-10-29,comedy,12a,hindi,imax,reboot,Sony,summer,$50-150m, Streaming , No ,0,Us,Film,newcomer,atmos,17974,£2671,10377,320,12412,15910,NA,17104,missing,10358
+2023-02-10,documentary, G ,hindi,2d,franchise,Paramount, autumn ,$50-150M,cinema, no ,0,NZ, film ,b-List,atmos,£10843,17189,"10,174",£15593," 9,163",-999,18911,£10279,11702," 1,435"
+2023-02-15,action,18,,3D,franchise,sony,WINTER,NA,direct-to-dvd,No,4-7,Nz,Digital,,dolby,£14321,6102,17413,NaN,£9511,17276,£8455,5711,4248," 7,480"
+07/09/2021,Documentary,15,,3d,SPIN-OFF,universal,Spring,<$10m,Cinema,yes, 4-7 , US ,FILM,newcomer,dts,2285,5399,missing,11449,NA,9504,8240,NaN,12601,£6309
+11/05/2022, drama ,r,Hindi, Streaming ,franchise,disney,AUTUMN,<$10m,Direct-To-Dvd,YES,NA,us,IMAX 70MM,a-list, dolby ,14252,13574,£11284,£8904,£696,8688,"13,609",6706,1220,4624
+2021-03-05,comedy,g,HINDI,Streaming,Standalone,paramount,winter,<$10m,streaming,no,8+,uk,digital,NA, Atmos ,11530,-999,"12,964",7743," 8,864",10816,10178,£12691,10002,19295
+2024-10-27,HORROR,12A,english,3d,SPIN-OFF,sony,spring,$10-50m,direct-to-dvd,YES,8+,Nz, imax 70mm ,B-LIST,atmos,8785,17710,14444,10502," 4,874",8474,19319,7664,£905,
+2023-10-12,action,12a,english,STREAMING,spin-off,universal,winter,$10-50m,-999,no,0, australia ,Digital,b-list,Atmos,19768,14794,NaN,-999,12467,1708,15295,4870,£3221,16540
+NA,documentary,-999,hindi,imax,standalone,warner,SPRING,<$10m,LIMITED,no,4-7,Nz,film,A-List,dts,£13952,15034,17413,19698,14060,13489,2805,£6184,"11,449","16,238"
+20/01/2021, Action ,r, spanish ,2d,Franchise,universal,SPRING,missing,cinema,,4-7,nz,imax_70mm,b-list, DOLBY ,17699,7936,£1402,3216,14290,£7062,,NaN,"12,354"," 9,584"
+07/12/2023,NA,missing,Spanish,2d,-999,sony,autumn,$50-150M, streaming ,,1-3,canada,digital,a-list,atmos,2831,,9351,6871,£77,missing,4972,15528,-999,115
+30/11/2022,comedy,g,ENGLISH,2D,franchise,warner,summer,>$150m,Streaming,yes,8+,australia,imax_70mm,a-list,NaN,6768,£15329,-999,13051,15364,13728,£1068,15461,12452,15680
+2023-05-24,ANIMATION,12a,hindi,streaming,-999,sony,Winter,<$10m,cinema,no,0,US,-999,b-list,dts,4048,£15939,missing,15443,8218,14489,NaN,12520,15918,"16,756"
+07/01/2023,ACTION,NA,spanish,streaming,reboot,NaN,summer,>$150m,STREAMING,yes,1-3, us ,film,, Dts ,£13240,7039,7090,"12,805",,9628,4934,"10,040",10343,7614
+30/10/2024,animation,12a,MANDARIN,3d,Spin-Off,warner,Summer,$10-50m,Streaming,yes,4-7,nz,imax_70mm,newcomer,atmos,3779,10582,16583,7880,14555,18992,"13,962","14,997",£5323,18914
+NA,Action,r, English ,-999,reboot,WARNER,Summer,,Direct-To-Dvd,yes,8+,,FILM,a-list,DOLBY,£379,7158,3553,1777,£1489,14002,-999,£13026,17469,£17852
+26/08/2021,comedy,g,SPANISH,imax,franchise,PARAMOUNT,winter,$50-150M,missing, Yes ,NaN,canada,Digital,B-List,dolby,19003,£220,19018,missing,"13,291",15528,8882,17898,£5897,12668
+2021-05-09,Horror,12a,HINDI,3d,Spin-Off,WARNER,SUMMER,$10-50m,limited,Yes,4-7,NA,digital,B-LIST,atmos,1728,14273,£11661,NA,13897," 1,145",3003,6076,3918,£13244
+2023-12-25,,-999,HINDI,NA,reboot,universal,SUMMER,$50-150m,direct-to-dvd,missing,NaN,Us,imax_70mm,b-list,ATMOS,14528,12115,15098,13343,   210,3349,NaN,8181,4320,13231
+30/08/2021,animation,12a,mandarin,3d,franchise,warner,WINTER,$10-50m,streaming, Yes ,1-3,US,NA,a-List,dts,1296,NaN,16850,"12,564",4477,12928,10534,£345,"17,517"," 6,537"
+2021-01-26,comedy,missing,hindi,3D,reboot,,NA,<$10m,CINEMA,NO,missing,canada,film,NEWCOMER,atmos,£1117,12752,11830,"12,216",16945,11071,15344,14582,11631,8430
+2023-04-16,comedy,12a,Spanish,missing, Standalone ,paramount, SPRING , $10-50M ,cinema,Yes,1-3,NaN,imax70mm,A-List,DTS,12963," 6,244",,7607,1251,,£12053,5910,18740,15890
+"May 12, 2021",ANIMATION,PG,spanish,2d,standalone,universal,SPRING,$50-150m,Direct-To-Dvd,NO,missing,uk,IMAX 70MM,a-list,dts,-999," 6,524",15216,NA,£1253,5280,,NA," 5,227","15,018"
+NaN,COMEDY, 15 ,,3d,standalone,NA,Winter,$50-150m,direct-to-dvd,no,8+,australia,Digital,newcomer,dolby,-999,-999,16981,13336,£16066,9426,14408,17830,missing,19575
+2024-07-19,ANIMATION,15,english,imax,reboot,paramount,-999,>$150m,DIRECT-TO-DVD, NO ,1-3,NZ,imax 70mm,b-list,Dolby,£472,,14896,NA,19393,6348,6517,"11,768",17797,6073
+13/06/2024,action,12A,spanish,imax,Spin-Off,sony,WINTER,$10-50M,direct-to-dvd,NO,4-7,canada,Digital,a-list,dolby,16136,5587,14202,8955,missing,16133,15010,£19458,£19343,1586
+2023-07-26,Animation,12a,hindi,3d,reboot,DISNEY,Summer,missing,streaming, No ,8+,CANADA,digital,a-List,Atmos,19075,NaN,3877,£1240,15242,£16847,-999,"13,818",4882,6047
+2024-06-04,,r,-999,streaming,Franchise,,winter,>$150m,STREAMING,no,4-7,Uk,Film,newcomer,dts,,2257," 2,170",16761,11591,14967,"13,587",5735,NaN,"19,696"
+04/07/2022,missing,G,Spanish,3d,-999,UNIVERSAL,spring,<$10m,missing,no,4-7,NZ,imax_70mm,a-List,atmos,£16150,6998,3233,8627,£2571,1094,"13,657",£13993,2246,missing
+NaN,horror,G,hindi,3d,reboot,disney,Summer,>$150m,direct-to-dvd,no,0,australia,missing,B-LIST,NaN,£7986,7544,missing,£11254,12972,"14,931",missing,18502,17407," 9,137"
+07/08/2021,action,g,Hindi,STREAMING,,warner,Summer, <$10m ,Limited,Yes,4-7,canada,DIGITAL,a-list,atmos,13411,£13137,£18334,"14,017",7819,£35,18539,8724,644,14379
+"Dec 02, 2024",Animation,18,spanish,-999,standalone,Warner,AUTUMN,NA,-999,YES,4-7,uk,digital,a-list,Dolby,NA,11501,19225,£6959,10799,15508," 9,965",14623,-999,£1858
+09/09/2022,,15,spanish,-999,Standalone,NA, spring ,>$150m,Direct-To-Dvd, NO ,8+, nz ,,b-list,atmos,10578,14982,£13262,NaN,15496,£12841," 9,526",9391,£4813,£15034
+"Mar 29, 2022",NA,r,FRENCH,2d,standalone,warner,NA, <$10m ,direct-to-dvd,no,0,NZ,IMAX 70MM,newcomer,dts,11425,£8182,£5025,7431,NaN,missing,4901,£10477,15236,6412
+08/07/2024,comedy,pg,Hindi,imax,reboot,UNIVERSAL,spring,$10-50m,cinema,YES,8+,us,imax 70mm,newcomer,dolby,17750,18607,NaN,£2741,7767,3322,19055,10073,"12,756",12289
+2023-03-30,Comedy,R, FRENCH ,3d,franchise,disney,autumn,$10-50m,cinema,No,8+,,Imax 70mm,a-list,DTS,£17858," 7,713",11684,missing," 8,797",£14062,19137,£10656,NA,£1588
+"Mar 03, 2024",comedy, 15 ,FRENCH,imax,NA,disney,autumn,$10-50m,cinema, No ,0,UK,Digital,b-list,Dolby,10730,1027,7304,17012,"11,235",9325,15759,missing,9440,882
+05/10/2023, drama , R ,spanish,2d,FRANCHISE,paramount,winter,>$150m,Limited,yes,4-7,CANADA,imax_70mm,b-List, dolby ,19777,£18606,19118,12084,2953,£12083,11663,"18,769",14255,18392
+22/11/2021, Comedy ,15,ENGLISH,3d,FRANCHISE,sony,-999,$50-150m,direct-to-dvd,No,0,NA,Digital,b-list,atmos,NA,13917,3694,3082,£1028,£1541," 5,929",1652,"13,722",2827
+03/11/2024,documentary,missing,mandarin,2d,reboot,Disney,spring,<$10M,Limited,yes,4-7,Uk,DIGITAL,a-List,NaN,6517,12222,1219,"17,799",18949,17881,18182,17665,"10,598"," 8,553"
+30/07/2023,drama,g,Hindi,2d,missing,disney, Winter ,$10-50m,limited,NO,NaN,nz, FILM ,,Dts,10778,3662," 9,893",£3741,"13,360",7292,17662,10311,8572,   541
+20/06/2024,comedy,pg,hindi,3d,Spin-Off,Universal,Winter,$10-50m,missing,No,8+,nz,film,b-List,Atmos,17315,376,8689,4011,"12,707",9900,19303,"19,448",£112,NaN
+02/03/2021,DOCUMENTARY,r,english,streaming,FRANCHISE,Sony, summer ,$10-50m,,no, 4-7 ,nz,digital,a-List,dts,12664,13835,2482,1638,3022,1900,NA,NA,14898," 9,948"
+"Feb 22, 2024",action,r,SPANISH,2d,missing, sony ,Autumn,>$150m,direct-To-Dvd,Yes,0,uk,imax70mm,NEWCOMER,Dts,"15,795",13450,-999," 5,146",NA,16998,," 5,582",£5936,
+2024-12-25, documentary ,18,English,3D,STANDALONE,warner,summer,$50-150m,Direct-To-Dvd,YES,4-7,Canada,DIGITAL,B-List, dts ,-999," 2,710",12928,"15,237",519," 1,752",15413,£10750,£13987,18193
+10/03/2022,documentary,15, ENGLISH ,2d,STANDALONE,NaN, SPRING ,>$150m,,no,8+,Nz,IMAX 70MM,a-list, dolby ,6671," 4,421",missing,12427,NA,3121,4476,,£2706,£2741
+"Sep 22, 2022",action,12A, english ,NA,NaN,-999,autumn,>$150m,Cinema,no,1-3,australia,,b-list,-999,19257,missing,"18,442",7509,£8898,17378,4381,5139," 3,694",13285
+07/11/2022,documentary,12a,SPANISH,-999,standalone,sony,-999,>$150m,LIMITED,NO,NaN,australia,digital,newcomer,dolby,1899,,11610,"14,802",7578,16758,£16289,"11,775",£19408,9125
+12/02/2021,documentary,R,hindi,2d,STANDALONE,DISNEY, autumn , $50-150m ,STREAMING,missing,0,NaN,imax_70mm,newcomer,atmos,"11,821",16823,8138,"16,988","10,036",5078,9927,NA,17007,"17,941"
+16/11/2021,comedy,pg,english,2D,Reboot,PARAMOUNT, winter ,<$10m,cinema,yes,4-7, australia ,FILM,NEWCOMER,DTS,missing,NaN,"13,287",8616,12760,18566,missing,12352,11427,£16603
+"May 04, 2024",DOCUMENTARY,12a, hindi ,3d,reboot,sony,spring,missing,DIRECT-TO-DVD,,8+, uk ,,NEWCOMER,ATMOS,12025,15298,missing,NA,8667,"10,339",19990,14009,13920,
+12/09/2024,DOCUMENTARY,18,hindi,3d,REBOOT,Sony,SPRING,$50-150M, Streaming ,yes,0,nz,digital,b-list,atmos,248,2852,14601,"16,840",13137,"18,231",495,"12,250",,3041
+22/12/2023,COMEDY,15,ENGLISH,NaN,reboot,warner,autumn,$10-50m,cinema,No,,AUSTRALIA,FILM,newcomer,dts,51,18988,£16648,9402,11333," 3,587",£5823,missing,15952,NaN
+,comedy,12a,french,3d,standalone, disney ,autumn,$10-50m,streaming,NA,8+,uk,film,, atmos ,"18,750"," 1,706",£1383,missing,missing,10834,NA,10926,-999,£17234
+20/04/2024,animation,-999,hindi, imax ,reboot,sony,winter,missing,Streaming,NO,4-7,CANADA,Film,b-list,dolby,4089," 9,687",66,"14,316",7304,17946,6537,3527,772,6085
+2022-02-28,action,12a,english,streaming,SPIN-OFF,paramount,,<$10m, streaming ,no,1-3,missing,digital, a-list ,dts,17472,9234,18644,£12612,missing,19441,2346,,"15,485",7157
+2024-01-30,ANIMATION,15,SPANISH,streaming,FRANCHISE,DISNEY,NA, <$10m ,direct-To-Dvd,No,8+,uk,imax 70mm,A-LIST,dolby,   207,£19111,,£9457,18829,12067,14964,missing,£10575,2458
+28/11/2023,comedy,18,NA,streaming,SPIN-OFF, universal ,summer,$10-50m,Streaming,,1-3,us,IMAX 70MM,b-List,,,"14,459",10303," 8,249",14637,£3041,1375,15691,18670,7193
+22/04/2023,ANIMATION,NaN,MANDARIN, IMAX ,franchise,missing,Winter,NaN, direct-to-dvd ,no,4-7, australia ,digital,b-list,Atmos,3512,"16,923",7125," 3,560",146,7328,14452," 2,051",£3596,NA
+2021-12-29,Animation,r,french,3d,Spin-Off,Universal,Winter,$50-150m,DIRECT-TO-DVD,NaN,4-7,australia,NaN,a-list,DTS,"19,863",19890,4184,£5540,9516,10312," 7,175","18,598",19872," 6,369"
+22/11/2022,documentary,12a,French,2d,spin-off,warner,AUTUMN,$50-150m,LIMITED,no,4-7,australia,film,A-LIST,dts,16108,19321,5687,14103,8804,16592,   979,13351,3357,2179
+02/09/2023, COMEDY ,NaN,french,2d,Reboot,Warner,summer,$50-150m, streaming ,,8+,US,NaN,newcomer,atmos,12062,10386,8722,3032,5726,£3028,missing,2280," 7,325",2316
+,horror,pg,Spanish,2d,standalone,Warner,summer,>$150M,missing,-999,4-7,Uk, imax_70mm ,Newcomer,DTS,11949,12528,"12,592",9570,NA,5083,,16276,14633,£6903
+04/12/2022,COMEDY,r, mandarin ,STREAMING, spin-off ,Sony,autumn, $50-150m ,Streaming,No, 0 ,nz,imax_70mm,b-List,atmos," 4,871",2574,14354,4349,"14,018",,"16,440",12247,1044,
+2024-01-07,ANIMATION,R,english,3d,spin-off,paramount,winter, $50-150m ,streaming,YES,8+,Us,Film,b-List,NA,"15,567",missing,3553,£17894,14377,13302,£5683,£7963,NA,NaN
+,action,15,ENGLISH,3d,Franchise,missing,autumn,NA,CINEMA,yes,8+,Nz,Film,b-List,dts,11964,"15,609",,9162,1605,16205," 5,785",971,317,7703
+"Apr 01, 2021",drama,12A,English,, spin-off ,NaN,autumn,NaN,LIMITED,Yes,8+,canada,film,b-List,Atmos,,£18261,£14908," 4,776",£5403,12521,NaN,"14,820",£17494,
+16/11/2023,comedy,g,ENGLISH,2d,reboot,Warner,spring,-999,NaN,yes,1-3,-999,,a-list,atmos,11029,14808,8840,13869,19054,,6535,19982,£18624,£999
+14/12/2022,horror,R,French, imax ,spin-Off,SONY,NA,<$10m,streaming,Yes, 4-7 ,us,Film,b-list,-999,9850,-999,3856,£9534,3504," 7,304","14,119",   738,,missing
+,comedy,g,mandarin,2d,standalone,PARAMOUNT,summer,$50-150m,Limited,no,NaN,canada,-999, B-List ,atmos,£556,3958,5049,missing,7579,7613,2764,NaN,13821,£8313
+2022-05-26,action,pg,hindi,streaming,franchise,universal,winter,$50-150m, Limited , NO ,1-3,AUSTRALIA,film,NEWCOMER,Dts,9100,4248,16738,2925,11617,10743,7976,£13436,17596,£16682
+2021-02-05,drama,15,Hindi,3d,Standalone,warner,Autumn,NA,STREAMING, YES ,8+,canada,-999,b-List,DOLBY,18826," 7,112",£13332,4409,NA,348,5688,NA,£16338,4858
+2023-06-23,-999,12a,french,STREAMING,reboot,universal,SUMMER, $10-50M ,cinema,no,8+,NZ,imax70mm,newcomer,dolby,8120,"18,495",8194,1747,869,missing,2307,17384,,12290
+04/01/2024,Action,g,hindi,2d,STANDALONE,SONY,Winter,>$150m,cinema,yes,0,NZ,FILM,newcomer,Dts,15592,£8003,missing,NaN,NaN,13972,,19779,10686," 9,356"
+2024-07-28,action,Pg,spanish,2d,reboot,Disney,summer,$10-50m,streaming,Yes,4-7,australia,digital,, ATMOS ,£19074,10521,3699,£7318,10059,13680," 3,830",13112,1849,£8360
+2024-10-11,horror, r ,mandarin,2d, franchise ,NA,winter,>$150m,Limited,No,1-3,australia,digital,b-list,DOLBY,£6487,£6284,,1644,"18,395",9581,1579,-999,12437,1258
+2021-07-19,comedy,pg,english,3d,Spin-Off,Paramount,spring,$10-50m,,Yes,8+,us,NA,B-List, atmos ,missing,NaN,19452,"16,367",16043,£18675,3738,£8122,£10027,9532
+27/10/2021,action,pg,English,3d,NaN,missing,spring,-999,direct-to-dvd,no, 8+ ,australia,digital,b-list,atmos,£14493,18239,366,£3671,£7321,12449,£12241,8814,-999,£3174
+2024-01-26,drama,g,SPANISH,imax,franchise,paramount,spring,<$10m,Limited,NaN,0,uk,imax70mm,newcomer,ATMOS,NaN," 2,820",9088," 4,090",16125,£2713,18100,9193,16431,863
+18/09/2022,Horror,Pg,mandarin,STREAMING,spin-Off,universal,spring,<$10M,-999,YES, 4-7 ,australia, Digital ,missing,Dolby,13841,8920,9489,"19,139",5089,NaN," 2,042","16,900",,7416
+2021-02-07,documentary,,Hindi,Imax,standalone,universal,winter,>$150M,streaming,no,1-3,uk,imax 70mm,a-list,DTS,£6544,NA,9610,19362,£494,19411,2168,£19230,12897,949
+01/04/2024,horror,,French,3d,REBOOT,universal,summer,$10-50m,limited,yes,0,Uk,IMAX 70MM,newcomer,NaN,£741,7082,"18,643",£18737,"14,067",,1897,17271," 2,153",£5204
+-999,comedy,,English, Imax , standalone ,Disney,Autumn,$10-50m,NA,no,8+,Nz,Digital,b-list,ATMOS,17194,5422,14876,1636,£55,NaN,7643,4034,£16172,"17,354"
+15/01/2022,documentary,18,MANDARIN,imax,reboot,sony,Autumn,>$150M,Cinema,no,8+,Nz,IMAX 70MM,NaN,atmos,13308," 3,785",2370,7745,8499,17554," 4,775",9539,5079,missing
+NaN,NaN,18,hindi,imax,reboot,sony,summer,$50-150M,Cinema,yes,8+,NaN,imax_70mm,B-List,Dts,1975,£11950,£5557,£8207,6951,11723,£19165,17967,5700,4623
+"Jul 06, 2024",documentary,18,french,3d,franchise,warner,Spring,<$10m,LIMITED, no ,4-7,US,DIGITAL,a-List,-999,6451,19419,missing,"19,737",12543,5709,missing,9791,"19,613",£7370
+08/03/2021,ANIMATION,NA,ENGLISH,streaming,,UNIVERSAL,autumn,$10-50M,direct-to-dvd,no,1-3,,DIGITAL,NaN, dts ,£1190,,19034,4068,4231,NaN,12592,12107,11757,7079
+"Jan 19, 2021",horror, pg ,mandarin,missing, Franchise ,SONY,-999,<$10m,Limited,YES,-999,Australia,DIGITAL,a-list,NaN,£6552,"11,234",NaN,-999,10001,7551,-999," 1,632",£1910,£11068
+2021-06-17,drama,NA,Hindi,2d, reboot ,missing,Winter,-999, DIRECT-TO-DVD ,no,8+,Us,IMAX 70MM,A-LIST,atmos,8903,£12064,   255,"10,103","10,419",1199,-999,"10,029"," 8,054",NA
+13/02/2024,ACTION,18,french, streaming ,reboot,-999,summer,<$10m,-999,yes,NaN,us, IMAX 70MM , newcomer ,dts,13935,£14819,£6784,4377,3714,16804,216,£17889,2176," 1,716"
+2022-10-22,ANIMATION,,mandarin,imax,spin-off,sony,summer,>$150m,limited,yes,4-7,nz,Digital, newcomer ,atmos,13470,"19,664",14354," 7,270",6831,3036,358,3451,9710,18908
+2021-08-27,animation,pg,english,3d,missing,warner,Spring,,direct-to-dvd,no,8+,nz,Digital,a-list,atmos,1987,15824,1155,940,9515,1236,5118,11978,£7819,7094
+2023-05-21,animation,G,mandarin,2d,standalone,Warner,winter,<$10m, cinema ,Yes,NA,uk,digital,A-List,DOLBY,£5961,"11,547",5189,13889,"10,444",4432,10439,"11,156","10,816",7886
+2024-04-22,animation,15,french, 3d , franchise ,sony, winter , >$150m ,NA,yes,8+, Us ,film,newcomer,dts,£885,"11,702",3815,"15,094",12978,9602,,NA,18329,8202
+21/02/2023,,12a,french,2d,Franchise,sony,NA,$50-150m,cinema,NO,0,australia,imax 70mm,NA,dolby,,£4850,14537,£18128,19503," 8,107",15413," 7,645","17,447","11,911"
+"Dec 15, 2024",ANIMATION,G,,3D,REBOOT,-999,spring,$50-150m,limited,Yes,1-3,US,digital,b-list,atmos,£18449,£8726,16759,18156,£18783,16709,5068,-999,missing,
+05/12/2024,HORROR,,English, imax ,reboot,sony,summer,>$150m,-999,NO,0,AUSTRALIA,FILM,newcomer,Dts,£9333,"11,760",4093,,17185,£9329,"11,950",NaN,12727,3385
+"Jul 09, 2023",drama,G,NaN,-999,REBOOT,disney,WINTER,-999,limited,yes,0,Uk,Film,NA,Atmos,7411,NaN,7849,£14382,5652,12554,NA,6841,9489,11612
+2022-04-13,comedy,NaN,mandarin,2d,Standalone,disney,winter,<$10m,direct-to-dvd,NO,NA,UK,Imax 70mm,b-list,dts," 9,619",1082,1556,13725,,"16,382",10465,NaN,16775,3218
+03/10/2022,action,G,spanish,2d,Reboot,Paramount,summer,$10-50m,direct-To-Dvd,missing,4-7,uk,missing,NaN,atmos,-999,NaN,missing,14250,£5013,1344,£3248,7268,-999,11777
+"Apr 08, 2022", horror ,Pg,french,2d,Spin-Off,missing,SPRING,$10-50m, cinema ,Yes, 4-7 ,nz,IMAX 70MM,-999,Dts,8368,6086,3433,£9687,5250,,11173,9851,16179,18181
+27/07/2023,COMEDY,18,spanish,2D,missing,PARAMOUNT,autumn,$50-150m,limited,no,1-3,Canada,missing,Newcomer,atmos,7122,5616,16304,6901,15859,53,NA,£3512,£18373,17459
+28/06/2021,documentary, 12a ,spanish,2D,SPIN-OFF,universal,autumn,<$10M,direct-To-Dvd,yes,4-7,australia,digital,b-list,dolby,£12886,"11,191",£3785,2963,£13199,2189,11536,NaN,3071,7766
+2022-02-04,Comedy,R,hindi,NaN,FRANCHISE,DISNEY,Winter,$50-150m,missing, no ,0,australia,film,a-list,Dolby,15296,8696,12780,10682,6798,£7284,"14,870",19570,-999,£12886
+2021-08-29,animation,15,missing,missing,missing,Disney,AUTUMN,<$10M,Streaming,yes,4-7,nz,Imax 70mm,newcomer,-999,£6238,17027," 1,568",NaN,2125,missing,4590,9820,13558,"18,691"
+2024-04-04,comedy,G,FRENCH,2d,SPIN-OFF,universal,NaN,>$150m,LIMITED,NO,missing,CANADA,digital,newcomer,dts,NaN,3177,£6801,"14,639",14644,14375,missing,13213,11582,11266
+17/01/2022,comedy,pg,hindi,STREAMING,franchise,,SUMMER,>$150m,Limited,yes,4-7,uk,film,newcomer,NA,   927,£19631,£7903,6144,"11,533",-999,9756," 9,808",9490,£5135
+16/05/2024,horror,18,MANDARIN,2D, standalone ,disney, Autumn ,$10-50m,missing,yes,8+,canada,digital,b-List,atmos,11000,3810,"10,197",£15693,-999,6590,12291,14227,-999,4151
+05/02/2024,ACTION,missing,French,Streaming,FRANCHISE,Universal,,$50-150m,limited,YES,8+,CANADA,imax70mm,newcomer, atmos ,8239,4163,15760,"14,845",10290,9120,10577,7711,£14801,NaN
+2023-12-16,documentary,Pg, english ,NA,Spin-Off,Sony,winter,$50-150m,NaN,no,8+,Uk,,a-list,dts,7188,-999,1925,19047,4016,7136,5799,NaN,11576,8219
+2021-08-16,drama,12A,Hindi,STREAMING,-999,PARAMOUNT,Summer,$10-50m,streaming,yes,8+,-999,imax 70mm,newcomer,dts,14784,17521,786,-999,10424,3791,£9050,"11,604",£6527,6929
+22/08/2024,NA,missing,SPANISH,imax,reboot,Paramount,spring,>$150m,NA, no ,1-3,australia,film, b-list ,atmos,12424,5976,missing,7850,14027,"13,984",11581,NaN,£2773,-999
+28/12/2022,NA,-999,english,3d,standalone,Sony,SUMMER,$10-50m,NA,yes,0,Us,film,Newcomer,dolby,3082,,7512,14725,£16075,£7311,1036,-999,5012," 4,056"
+"Jan 12, 2021",DRAMA,NaN,Spanish,imax, spin-off ,Paramount,summer,>$150m,LIMITED,no,0,australia,digital,a-list,Dolby,4419,£13626,18394,,9365,3985,16269,3689,"18,404",17391
+2023-09-04,DRAMA,15,english,2d,spin-off,disney, summer ,$50-150M, CINEMA ,YES, 1-3 ,uk,film,b-list,atmos,,9099,15745,£18154,19376,8985,15148,2898,missing,£18561
+11/03/2024,comedy, G ,english,IMAX,standalone,PARAMOUNT,AUTUMN, >$150m ,STREAMING,yes,4-7,missing,FILM,B-LIST,dolby,"10,285",£8596,£1161,,1054,£450,£10816,NaN,"16,508",missing
+2022-06-12,action, 12a ,french,Imax,franchise,Universal,spring,>$150m,streaming,Yes,0,canada,Digital,newcomer,dolby,£5649,308,17687,£12010,4224,18445,"13,712",missing,5691,£13217
+2021-06-12,comedy,r,mandarin,streaming,standalone,disney,WINTER,$10-50m,DIRECT-TO-DVD,missing,1-3,NZ,film,B-List,DTS,1159,12610,2007,12894,£8982,744,13700,16756," 5,061",8612
+05/02/2021,COMEDY,g,FRENCH,streaming,reboot,paramount,summer,>$150M,,Yes,1-3,,DIGITAL,NaN,NaN,-999,16967,missing,16731,1549,8189,14330,18261,   625,"13,651"
+NA,ACTION,g,spanish, 2d ,NA,universal, autumn ,>$150m, cinema ,yes,8+,Us,Film,Newcomer,dts,6886,1232,19113,5881,14892,15688,£9070,7141,"15,719"," 8,530"
+2022-12-31,Horror,12a,HINDI,Imax,spin-off,paramount,Spring,<$10M,STREAMING,no,8+,nz, imax70mm ,a-List,atmos,1872,NA,3762,3207,3983,18727,"12,781",4830,10297,NaN
+-999,missing,R,Hindi,3d,NA,paramount,SUMMER,$10-50m, streaming ,No,-999,canada,imax 70mm,a-list,DOLBY,£8909,4386,,£13773,missing,"14,682","17,527",,6686,missing
+2021-07-17,Documentary,12a,Hindi,streaming,FRANCHISE,Universal,winter,>$150M,DIRECT-TO-DVD,no,1-3,NA,film,newcomer,DTS,£15066,8425,8487,712,£10767,NA,13702,19455,7446,£3679
+30/06/2024,documentary,NA,hindi,STREAMING,standalone,disney,WINTER,$50-150m,cinema,no,1-3,australia,imax70mm, b-list , dts ,£9369,15220,14098,16552,8629,missing,537,15358,missing,£7391
+2021-07-19,ACTION,G,French,IMAX,Spin-Off, Warner ,NA,$50-150m, limited ,no,NA,UK,IMAX 70MM, A-List ,dolby,missing,6032,10224,13294,4264,£5602,£12884,£4230,missing,£4352
+03/03/2024,animation,G,ENGLISH,streaming,REBOOT,disney,summer,$10-50m,DIRECT-TO-DVD,NO,4-7,-999,film,b-list,dolby,8083,6997," 2,543",1350,14910,13164,1699,4364,538,15992
+2024-12-17,horror,G,hindi,imax, SPIN-OFF ,,summer,>$150m,cinema,yes,,us,FILM,missing,atmos,14170,£1784,£5870,3391,14000,£68,10895,14061,12704,£19690
+07/06/2022,,15, Spanish ,Streaming,STANDALONE,disney,NA,>$150m,direct-To-Dvd,no,4-7,australia,digital,B-LIST,DTS,NA,   900,"18,736",4155,17297,5689,1911,missing," 4,394"," 1,446"
+03/10/2022,drama,g,ENGLISH,2d,reboot,Warner,NaN,>$150m,cinema,no,4-7,uk,imax 70mm,b-List,atmos,-999,£13200,3876,18295,£9989,"18,162",578,NA,," 9,389"
+2023-11-24,drama,12a, mandarin ,imax,standalone,warner,winter,NaN,direct-to-dvd,yes,4-7,australia,FILM,A-List,DTS,£14578,14769,13651,11559,7320,missing,2794,6335,13560,2810
+13/02/2024,ACTION,15,FRENCH,2d,reboot,WARNER,autumn,<$10m,streaming,YES,1-3,Us,film,b-List,dolby,NA,"14,927"," 8,251",£10853,5197,7333,£16936,,3094,£16795
+"Nov 08, 2021",NA,pg,Spanish,streaming,franchise,Disney,Spring,$50-150m,Cinema,no,0,australia,imax 70mm,A-LIST,dolby,4361,£5359,10705,"12,397",£13005,2221,11884,£3642,-999,1026
+"Dec 27, 2023", animation ,NaN,english,2d,spin-Off,DISNEY,summer,missing,LIMITED,yes,4-7,CANADA, film ,NaN,Dolby,12492,3471,2943,5824,1221,1866," 1,500",7798,£19378,8626
+2024-06-19,DOCUMENTARY, r ,Spanish,2d, REBOOT ,Paramount,-999,<$10m,, no ,8+,AUSTRALIA,IMAX 70MM,NaN,NA,6816,12521," 6,379",11965,"14,907",£11366,£1445," 1,170",1092,14388
+2024-12-09,animation, PG ,hindi,NaN,reboot,sony,autumn,>$150m,Direct-To-Dvd,No,0,canada, Digital ,A-List,missing,2307,"16,711",5977,NaN,18067," 1,954",missing," 5,208",19331,11971
+2022-04-13,ANIMATION, 18 ,french,missing,franchise,Warner,winter,$50-150m, streaming ,NA,1-3,us,imax 70mm,NA,atmos,£7554,11515,10602,14912,16378," 7,373",18626,15514," 2,564",16161
+28/06/2024,drama,15,English,Imax,Franchise,UNIVERSAL, summer ,<$10m,-999,Yes,4-7,NZ, DIGITAL ,newcomer,dolby,   916,£13044,17459,£4419,£4270,2557,£4647,1302,£18487,£5645
+01/09/2023,COMEDY,, spanish , 2d ,missing,universal,AUTUMN,>$150m,LIMITED,NA,-999,australia,digital,Newcomer,DOLBY,£4116,18511,7148," 6,646"," 1,970",2310,£7216,4404,8675,5179
+-999,DRAMA,g,NA,NA,REBOOT,Warner,missing,$10-50m,cinema,no,NaN, us ,digital,newcomer,dts,984,,"19,320",12925,£11364,NA,missing,17855,£16260,13458
+25/01/2024,drama,pg,english,streaming,reboot,Paramount,SPRING,$10-50m,Limited,Yes,0,us,Imax 70mm,newcomer, dolby ,"17,927",NA,£340,NaN,4808,5607,13172,"11,855",£5897,£7698
+"Nov 11, 2021",documentary,15,FRENCH,3d,, sony ,autumn,$50-150m,STREAMING,yes,8+,us,film,NA,Dolby,£13246,15188,14443,£14512,6395,18102,19513,12621,7556,-999
+NaN,DOCUMENTARY,15,SPANISH,2D,franchise,Paramount,autumn,<$10M,limited,no,0,canada,imax70mm,newcomer,dolby,£7601,£10689,4422,   979,£1208,missing,missing,11841,£720,12674
+"Sep 03, 2022",COMEDY,15,ENGLISH,3d,,NaN,Winter,>$150M,NaN,NO,8+, US , film ,A-List,NA," 4,184",14015,6200," 4,290","19,640"," 5,671",£1876,16166,9256,5624
+31/10/2024,comedy,g,english, IMAX ,REBOOT,Sony,summer,NA,streaming,Yes,8+,-999,DIGITAL,B-List,dolby,16116,-999,899,3323,3540,19206,14206,15467,4406,
+"Sep 01, 2021",Comedy,12a,MANDARIN,3d,SPIN-OFF,Disney,winter,$50-150m,Cinema,no,1-3,australia, imax70mm ,a-List,atmos,£14474,£6313,£3411,"18,549",£10399," 6,734",18474,11621,missing,307
+,action,18,French,2D,franchise,DISNEY,winter, $50-150m ,cinema,Yes,1-3,us,Imax 70mm,B-LIST,atmos,NA,17754,965,"14,571"," 5,425",missing,6550,£18785,1546,11771
+2022-02-11,Drama,18,spanish,streaming,reboot,paramount,AUTUMN,$10-50m,CINEMA,no,-999,Canada,FILM,B-List,atmos,1094,£8256,19140,5150,17841,482,4297,15679," 2,702",NaN
+2021-08-31,ACTION,12a,hindi,2d,spin-Off,universal,spring,$10-50m, Streaming ,yes,8+, Us ,IMAX 70MM,newcomer,DOLBY,£2180,NA,18402,11568,,15725," 5,935",10369,-999,£8443
+04/07/2023,drama, R ,FRENCH, 3D ,SPIN-OFF, Disney ,,$50-150m,direct-To-Dvd,Yes,8+,australia,Digital,newcomer,atmos,4551,8842," 9,810",4724,4631,12759,6763,missing,£11923,224
+2023-04-07,horror, R ,French,2d,FRANCHISE,Sony,winter,$10-50M,streaming,no,1-3,,imax 70mm,NA,atmos,missing,2611,3100,£12651,15972,£16626,£15093,NaN,£15272,3657
+05/11/2021,DRAMA,G,english,3d,reboot, universal , autumn ,$10-50m,missing,Yes,8+,nz,film,b-list,DOLBY,7963,4219,missing,1116,1522,£6701,10845,2550," 3,668",11367
+2024-07-13,documentary,missing,hindi,3d,FRANCHISE,paramount,spring,$50-150m,CINEMA,yes,1-3,US,Digital,B-List,dts,11310,,£6835," 2,874",5380,"18,087",   549,15606,8664,3452
+25/05/2023,-999,12a,English,NaN,reboot,NaN,autumn,$50-150M,STREAMING,No,8+, Australia ,film,newcomer,,11957,£14894,12276,4324,775,4801,9397,3321,"13,319",-999
+-999,NaN,15,spanish,2d, standalone ,DISNEY,autumn,-999, Direct-To-Dvd ,,0, nz ,,Newcomer,-999,7942,11799,11891," 4,065",10470,-999,10220,5267,1149,4654
+14/04/2023,Animation,g,English,IMAX,REBOOT,paramount,Summer,missing,direct-to-dvd,yes,,nz,imax_70mm,a-list,DTS,"18,325",12922,7524,8707,14442,"13,383",NaN,"11,424",£7412,£1682
+2021-08-12,documentary,R,english, 3d ,STANDALONE,Warner,winter,$10-50m,DIRECT-TO-DVD,no,0,CANADA, film ,NaN,dts,,13855,12288,NaN,"17,465",NaN,17032,"11,974","16,220",NaN
+07/05/2021,action, 15 ,English,3d,spin-off,disney,Winter,$10-50m,NaN,no,0,us, imax70mm ,NEWCOMER,atmos,£10190,3339,17833,£2039,3409,16660,NaN," 4,631",£16209,1189
+11/04/2021,-999,-999,english,NA,SPIN-OFF,disney,autumn,missing,Direct-To-Dvd,no,8+,nz,film,NEWCOMER, Dolby ,£13471,18698,£6320,"17,795",,£7578,13087,NA,2205,NA
+20/05/2021,missing,g,Hindi,Streaming,franchise,SONY,autumn,$10-50m,CINEMA,Yes, 4-7 ,australia,digital,Newcomer,dolby,"19,946",9843,NA,8355,10147,£18617,6366,11374,"11,583",£8640
+13/07/2024,action,18, english ,2D,reboot,universal,Summer,$10-50m,Limited,no,4-7,-999,IMAX 70MM,A-List,Atmos,NaN,NA,421,5652,"18,437","17,366",13492,18349,"10,028",16748
+14/01/2022,NaN,18,HINDI, 2d ,Spin-Off,UNIVERSAL,autumn,$10-50m,Cinema,,1-3,Canada, DIGITAL ,a-List, DTS ,-999,16629,"19,390",    11,5299,5294,2166,5942,"17,614",19369
+15/03/2021,horror,12a,mandarin,3d,SPIN-OFF,warner,Summer,missing,cinema,No,0,canada,digital,a-list,atmos," 8,714","15,715",9326,£3695,19226,,"10,491",8699,missing,
+2021-12-29,animation,12a,english,3d,reboot, warner ,Autumn,$10-50m,direct-To-Dvd,Yes,missing,canada,IMAX 70MM,a-list,dts,NA,3477,8015,NA,8161,19058,£18436,14440,16293,-999
+2021-08-04,ANIMATION,g,English,Imax,Standalone,missing,SPRING,NaN,CINEMA,yes,1-3,missing, digital ,b-List,ATMOS,,"17,687",11452,15480,10498," 4,162",3385,7540,"11,455",£11992
+2024-02-07,horror,NaN,NaN,3d,,Paramount, summer ,$50-150m,LIMITED,no,0,CANADA,imax_70mm,B-LIST,dolby,8090,14568,8034,missing,£11552,6109,6335,144," 4,183",£6636
+2023-02-12,Drama,g,english,Imax, Franchise ,Sony,winter,>$150m,limited,yes,8+,uk,DIGITAL,NEWCOMER,Atmos,2577,"14,150",112," 6,090",£1783,8975," 4,273",18928,4012," 8,964"
+2024-07-22,drama,r,NA,streaming,Standalone,sony,summer,missing,limited,no,1-3,australia,,NEWCOMER,ATMOS,16879,16039,NaN,847,"15,612",19358,£11013,8553,"17,639",17005
+23/09/2023,DOCUMENTARY,PG,Hindi,streaming,missing,Universal,WINTER, <$10m ,DIRECT-TO-DVD,YES,4-7,NA,film,B-LIST,dts,2762,4251,7723,£19676,14458,9976,"13,848",2528,£7547,-999
+2023-12-20,Drama,18,mandarin,2d,spin-Off,disney,winter,<$10m,NA, NO ,1-3,Nz,imax 70mm,newcomer,DTS,13571,10499,1030,7458,"15,470",£4062,£4738,15250,15859,£17676
+03/06/2022,Animation,Pg, SPANISH ,streaming,reboot,warner,Summer,$50-150M,Streaming,, 8+ ,Nz,Digital,B-List,NA,£6810,19747,£19666,"18,106",£17369,NaN,NA," 4,000",1462,
+2021-08-20,,-999,ENGLISH,2d,spin-off,Disney,autumn,>$150m,missing,yes,0,australia, Film , b-list ,atmos,"14,118",NA,£14965,3923,£15532,8428," 6,888",18607,17147," 1,142"
+NaN,DOCUMENTARY,15,French,Imax,Franchise,disney,WINTER,>$150M,cinema,Yes,0,NZ, film ,NEWCOMER,Atmos,1164,10468,589,2937,4816,8902,14614,£13708,12580,"12,376"
+23/11/2022,animation,12a,ENGLISH,streaming,franchise,DISNEY,AUTUMN,>$150M,Direct-To-Dvd,YES,8+,canada,digital,b-list,atmos,£160,NaN,NA,16384,11065,19239,13368,-999,7113,"16,015"
+03/02/2023,Action,R,, Streaming ,standalone,sony, summer ,>$150M,cinema,NA,0,Uk,imax70mm, newcomer ,ATMOS,£19235,1791,18410,7790,£12212,12770,1458,missing,1592,"16,069"
+2024-03-03,drama,r,hindi,Streaming,spin-Off,PARAMOUNT,AUTUMN,<$10m, direct-To-Dvd , No ,8+,us,imax_70mm, newcomer ,ATMOS,8327,,£8598,NA,13447,8773,7366,,18529,8490
+2024-07-11,Animation, PG ,MANDARIN,NA,spin-off,Paramount,winter,$50-150M,cinema,NO,8+,uk,digital,NEWCOMER,ATMOS,NA,2104,5712,"15,639",6364,1376," 1,645",£7378,12465,961
+,documentary,g,FRENCH,2d,FRANCHISE,SONY, spring ,-999,LIMITED,yes,4-7,australia,imax70mm,newcomer,atmos,"18,268",£9624," 8,356",18965,£12204,missing,17082,12264,16893,8299
+2022-02-18,drama,12a,french,NA,franchise,warner,summer,<$10m,limited,no,8+,AUSTRALIA,DIGITAL,missing,ATMOS,3732,-999,5480,£15612," 7,843","14,743",16824,1485,£496,8337
+"Feb 20, 2024",DRAMA,12a, french ,streaming,Reboot,missing,Summer,<$10m,Cinema,yes,0,australia,Film,B-List,missing,18627,9910,"16,490",17981,£2679,missing," 4,853",1944,5455," 5,947"
+14/04/2023,animation,R,Spanish,imax,Spin-Off,WARNER,autumn,$10-50m,CINEMA,yes,1-3,,film,a-list,dolby,-999,2383,2345," 9,046",NaN,"16,136",6795,"16,863",12460,£11309
+2023-08-24,Action,-999,MANDARIN,2d,SPIN-OFF,Disney, spring ,$10-50m,LIMITED,no,4-7,US, digital ,newcomer,atmos,15336,3325,5049,£19716,13948,15589,5096,10518,£17715,1920
+2021-08-12,drama,g,HINDI,2d,STANDALONE,warner,autumn,<$10M,streaming,no,1-3,-999,imax_70mm,A-LIST,dolby,£12984," 3,892",   177,18210,12564,6519," 7,591",,"19,523",NA
+"Dec 12, 2024", documentary ,15,-999,streaming,standalone,Sony,Summer,<$10m, limited ,no,4-7,uk,digital,B-LIST,ATMOS,10541,"18,112",18760,6308,£2130,10638,17764,16794,42,
+2024-03-20,Drama,pg, mandarin ,3D,standalone,sony,spring,NA, limited ,yes,0, canada , digital ,newcomer,Dts,"10,106",2102,9083,£1393,missing,2484,690,5053,-999,-999
+19/08/2021,action,15,Mandarin,Streaming,reboot,warner,winter,$10-50m,NA,yes, 4-7 , nz ,film,Newcomer,dolby,14623,£15850,4414,"17,888",1836,12547,16482,5408,£18917,781
+12/08/2024,drama,r,English,streaming,missing,SONY,Autumn,<$10M,Direct-To-Dvd,no, 4-7 ,us,DIGITAL,newcomer,-999,14052,-999,7414,5425,18762,5704,16651,£4211,13868,10077
+11/06/2021,documentary,18,English,3d,STANDALONE, universal ,spring,$10-50m,streaming,missing,8+,-999,DIGITAL,b-list,missing,£7737,2659,10080,2484,9858,"17,773",1817,8645,NaN,
+2023-03-04,action,g,english,missing,STANDALONE,-999, spring ,$50-150m,-999,,-999,NZ,film,NaN,Atmos,14350,   639,19290,"13,038",19432,18193,£19795,11574,8032,missing
+missing,DRAMA,12A,english,imax,FRANCHISE,missing,Winter,<$10m,,no,0,uk,FILM,Newcomer,NaN,13103,,15932,15020,6885,£1296," 3,745",10129," 3,016",14490
+missing,documentary,pg,missing,2d,standalone,WARNER, spring ,NaN,cinema,NO,1-3,australia,digital,a-list,atmos,11628,486,13407,£17867,1584,11248,1597,1046,19344,17504
+29/12/2023,ACTION,15,hindi,missing,franchise,Disney,winter,$10-50M, limited ,no,0,NA,Imax 70mm,Newcomer,dts,6593,1628,6467,"12,312",1899,10119,11329," 8,677",£3408,"16,650"
+"Nov 20, 2023",animation,15,NA, 3d ,spin-Off,Paramount,winter, $50-150m ,cinema,YES,4-7,us,FILM,a-list,atmos,8159,8309,17303,12509,2068,missing,2406,10155,£7958,"10,308"
+2022-10-26,comedy,g,french,imax,franchise,warner,summer,<$10m,,NO,,australia,imax70mm,a-list,dts,7586,£19708,," 5,970","16,474",13244,3790,"19,228",NaN,"12,826"
+"Jul 20, 2024",Documentary,18,spanish,IMAX,FRANCHISE,disney,autumn, $10-50m ,Streaming,yes,8+,australia,Imax 70mm,newcomer,ATMOS,NaN,missing,14913,10739,6686,"18,036",9597,£10257,-999,18845
+06/11/2021,drama,18,spanish,2d,reboot,Warner,summer,$10-50m,-999,no,0,uk,FILM,newcomer,NaN,15104,15843,4869,£9229,£14805,missing,5912,2530,1050,"10,564"
+20/05/2022,drama,G,hindi,streaming,standalone,paramount,winter,>$150m,limited,no, 8+ ,UK,imax70mm,missing,Dolby,£14818,£1259,11921,£6492,-999,10616,missing," 4,080",missing," 1,034"
+"Nov 12, 2021",ACTION,R,MANDARIN,imax,spin-off,universal,spring,>$150M,DIRECT-TO-DVD,yes,0,australia,imax_70mm,newcomer,Dolby,16773,missing,"19,279",17917,8309,5199,6060,"13,040",NaN," 8,085"
+-999,horror,12a,,3d,reboot,Warner,NA,$10-50m,Streaming,-999, 8+ ,us, Film ,NaN,dolby,8179,8764,"12,553",11930,£7652,8653,NA,10241,NaN,9824
+2024-08-03,comedy,r,hindi,NA,spin-off,Paramount,spring,<$10m,limited,yes,-999,canada,digital,a-list,dolby,8488,8619,7901,NA,6600,,"10,524","15,802",16832,   921
+03/10/2023,Documentary,NA,Mandarin,2d,spin-Off,sony,AUTUMN,$10-50m,cinema,yes,4-7,uk,Imax 70mm,newcomer,NA,2175,-999,16242,13463,,£8487,16729,"11,840",NaN,£15056
+2021-09-02,action,R,,NA,spin-Off,Warner,Winter,>$150M,Limited,yes,8+,uk,Film,a-List,Atmos,17899,14094," 3,540",1405,£17366,9863," 7,808",missing,£13601,12844
+"Oct 29, 2021",Action,12a,SPANISH,imax,REBOOT,Warner,summer,$10-50M,limited,no,1-3, Canada ,Film,a-list,DOLBY,"16,299",10856,   299," 3,056",13733,£19033," 9,412",,14572,"11,351"
+2021-06-16,Horror,18,Hindi,,reboot,disney,spring,>$150m, STREAMING ,no,8+,US,Digital,newcomer,dolby," 1,140",9713," 5,637"," 3,531",8764,£15040,,13888,NA," 4,137"
+03/10/2023,Horror,G,hindi,2d,franchise,sony,summer,<$10M,limited,YES,4-7,nz,Digital,A-List,atmos,missing,6234,missing,missing,"17,654",17766,NA,£7732,£19204,16812
+11/10/2024, COMEDY ,G,NaN,2d,franchise,Universal,spring,<$10m,cinema,-999,0,Canada,Film,, dts ,1078,3485,missing,1950,£9766,6709," 7,952"," 6,651",17921,"11,515"
+"Jan 16, 2023",Drama,g, hindi , 2d ,franchise,paramount,summer,$50-150M,cinema,yes,4-7,uk,film,missing,NA,11691,15640,12793,6857,5462,,,17305,3876,18955
+24/06/2023,DRAMA,18,french,imax,spin-off,universal,autumn, >$150m ,streaming,yes,4-7,Us,imax_70mm,b-list,DTS,,990,missing,"12,618",1519," 7,052",NA,£13088,13477,£16235
+2024-07-28,horror,18,mandarin,2d,standalone,DISNEY,autumn,<$10m,limited,no,4-7,nz,film,newcomer,missing,14682,"13,121",5983,217,3131,8027,8456,14589,£8419,615
+2023-11-11,ANIMATION,12a,MANDARIN,Imax,Franchise,Paramount,winter,$50-150m,cinema, yes ,8+,,imax 70mm,-999,atmos,7647,2305,"10,092",-999,£17964," 2,917",£6058,,18613,£6773
+30/04/2023,ACTION,12a,mandarin,3d, Spin-Off , sony ,autumn,missing,streaming,yes,0,canada, digital ,b-list, DTS ,14905,-999,-999,£17829,"12,558","18,253","16,925",12914,NaN,NA
+2021-02-26,action,Pg,mandarin,missing,franchise,disney,spring,>$150m,NaN,NO,0,uk,DIGITAL,b-list,-999,NA,£18113,18672,16465,missing,18804,,18049,17065,£16229
+02/01/2023,drama,15,spanish,Imax,Spin-Off,Warner,autumn,$10-50m, streaming ,missing, 0 ,canada,imax 70mm,a-list,dolby,11342,8497,-999,NaN,2800,12618," 3,842",8702,499,15363
+2021-02-04,,g,SPANISH,imax,reboot,warner,Summer,>$150m,limited,yes,8+,Uk,film,B-LIST,Atmos,14664,8942,10825,13630,NaN,14391,-999,£6253,£13759,17146
+02/02/2023,Documentary,15,hindi,3d,Franchise,warner,spring,,Streaming,Yes,1-3,uk,film, newcomer ,atmos," 3,704"," 4,950",6222,722,7463,3758,16402,£8222,17363,missing
+09/12/2021,action,15,Spanish,streaming,,PARAMOUNT,SPRING,$50-150m,LIMITED,missing,1-3,uk,imax70mm,B-LIST,ATMOS,"15,139"," 4,883",NA,8543,6650,£17554,19019,missing,NA,15564
+2024-03-11,NaN,12a,spanish,IMAX,NaN,universal,SPRING,<$10m,missing,missing,8+,CANADA,Film,a-list,dts,9991,missing,3972,11193,,-999,   865," 8,881",£14829,£19193
+10/06/2021,drama,Pg, english ,3d,REBOOT,paramount,SPRING,<$10M,CINEMA,Yes,8+,uk, IMAX 70MM ,B-LIST,DTS,1753,7625,830,6443,12608,NaN,NA,£18926,9825," 7,152"
+2023-01-01,missing,r,French,3D,Spin-Off,warner,spring,$10-50m,direct-To-Dvd,yes,NA,AUSTRALIA,imax 70mm,A-LIST,atmos,£4754,-999,11106,669,15824,-999,4585," 4,541",£4365,"13,272"
+29/06/2024,animation,18,NaN,imax,Franchise,NA,Autumn,>$150m, cinema ,-999,8+,nz,DIGITAL,a-List,DTS,"17,747",12914,9046,19849,,£9320,£2873,11764,£16425," 1,018"
+22/12/2023,animation,12a,FRENCH,streaming,standalone,disney,summer,$50-150m, limited ,NO,0,australia,-999,b-List,NaN,missing,£11871,7254,£12943,£13476,7486,NA,5555,14870,14638
+2023-07-21,comedy,pg,spanish,3d,spin-off,Sony,WINTER,$50-150M,missing,No,1-3,AUSTRALIA,film,b-list, dolby ,8783," 6,777",NA,"19,707","12,589",19463,,17398,£924,2863
+16/04/2021,horror,missing,NA,3D,franchise,UNIVERSAL,,NaN,Limited,yes,8+,AUSTRALIA,film,b-list,atmos,"11,777",11548,6224,missing,2686,9905,10062,14967,NA,11152
+08/05/2024,documentary,r,,streaming, spin-off ,paramount,winter,$10-50m,cinema,yes,8+,Uk,imax70mm, b-list ,dolby,7814,13334,129,£6362,17745,2666,1536,15285,6444,
+28/07/2023,horror,pg,English,2d,FRANCHISE,Warner,autumn,$10-50m,direct-to-dvd,no,1-3,-999, Digital ,b-list, dts ,8296,18590,14455,4639,7681,11105,10468,7041,£14383," 4,438"
+2024-01-01,Comedy,12A,French,3d,reboot,warner,autumn,NA,Direct-To-Dvd,no,1-3,uk,digital,B-LIST,dolby,£11569,,5609,£16344,9716,£18522,8974," 9,834",1085,
+2022-03-16,drama,missing,NaN,Streaming,franchise,Sony,-999, >$150m ,Cinema,yes,1-3, NZ ,Imax 70mm,Newcomer,atmos,16566,1307,£18775,4380,19666,15799,£5658,16634,£2655,"15,920"
+14/02/2024,Animation,R,Spanish,IMAX,FRANCHISE,paramount,autumn,$50-150m,-999,,4-7,nz,DIGITAL, Newcomer ,Dolby,£14357,£18757,missing,4526,-999,11138,NaN,2555,1379," 2,820"
+missing,horror,12A,FRENCH,Imax,Franchise,NaN,summer,>$150m,cinema,yes,1-3,uk,film,a-List,DTS,5818,18397," 8,853",4400,5500,£5393,10848,14330,   229,"19,371"
+31/03/2021,Animation,pg,english,3d,Franchise,paramount,autumn,>$150m,cinema,no,4-7, australia ,imax_70mm,B-List,atmos,16085,3773,7654,£8764,£2270,2440,4182,£9523,NaN,
+2023-04-15,HORROR,g,SPANISH,Streaming,Standalone,Universal,Summer,$10-50M,STREAMING,no,1-3,canada,film,newcomer,atmos,11481," 8,786",£17604,13583,5452,4934,NA,£81,15694,£12403
+25/09/2023,animation,15,HINDI,imax,reboot,disney,spring,$50-150m,Limited,no,0,Uk,Film,a-list,ATMOS,14051,,4218,4459,5070,4831,£6492,14473,£12061,£6277
+2023-03-29,horror,15, english ,2d,reboot,sony,Autumn,NA,cinema,No,8+,canada,digital,b-List,dolby,2615,"13,554",17171,7415,"13,271",£3634,"17,155",£3823,missing," 8,892"
+29/04/2022,action,pg,french,NA,Standalone,NA,Summer,$10-50M,direct-to-dvd,Yes,4-7,NZ,IMAX 70MM,A-LIST,Dolby,£11212,1069,10869,175,,10579,-999,"14,088",£13769,11082
+2021-08-09, ACTION ,G,mandarin,imax,spin-off,PARAMOUNT,spring,<$10m,Direct-To-Dvd,-999,0,nz,digital,b-list,Atmos,17797,-999,-999,2336,13507,-999,,2488,11649," 9,786"
+2024-09-14,Comedy,18,spanish,3d,STANDALONE,missing,summer,$10-50m, cinema ,YES,0,canada,imax 70mm,A-LIST,-999,7895,10116,3150,1431,6017," 2,241",604,10364,£10970,15685
+missing,action,g,french,NA,REBOOT,SONY,Spring,<$10m,direct-to-dvd,Yes,4-7,Nz,digital,newcomer,Dolby,7073,missing,5038,£14001,missing,15329,£10080,16532,missing,10368
+2023-01-06,NA,pg,mandarin,2d,,UNIVERSAL,summer,<$10M,Cinema,no,1-3,Uk,digital,newcomer,dolby,9168,17179,17032,9558," 4,504","18,705",£8308,7456,£12774," 8,925"
+2022-01-01,action,g, Spanish ,imax,franchise,sony,,$50-150m,,Yes,1-3,uk,FILM,newcomer,dolby,4354,6292,£10807," 6,353",3244,8182,5161,4800,1547,18855
+04/07/2023,action,15,hindi,imax,franchise,warner,Autumn,$10-50M,cinema, no ,,canada,film,A-List,atmos,-999,"16,241",-999,£16282,missing," 8,953",14549,NaN,8674,13983
+08/08/2024,horror,18,mandarin,3D,NA,paramount,WINTER, <$10M ,Cinema,Yes,8+,uk,digital,A-LIST,ATMOS,12178,17068,14210,17154,14747," 9,984",£6357,15075,£15549,16639
+"Apr 25, 2021",animation,12a,HINDI,streaming,reboot,Universal,spring,NA,direct-to-dvd,yes,8+,missing,IMAX 70MM,A-LIST,ATMOS,16135,"16,772",13623,11590,13407,10425,13468,"11,193",£8579,4970
+2021-07-10,-999, 15 ,hindi,3D,spin-Off,disney,winter,>$150M,Direct-To-Dvd,no,-999,australia,film,B-List,Dolby,2144," 6,959",6468,6488,2382,NA,13610,16634,"17,682",£6683
+14/03/2024,ANIMATION,R,english,2d,standalone,NaN,missing,$10-50m,direct-to-dvd,no,4-7,uk,imax_70mm,a-list,dts,7192,-999,12982,£5800,£217,£5953," 5,247",£6799,   314,4555
+08/03/2023,HORROR,NaN,hindi,3d,reboot, Universal ,autumn,<$10m,NA,YES,4-7,Uk,DIGITAL,B-LIST,,missing,£8171,5295,5249,8355,-999,£6599,9206,13602,10581
+29/04/2021,documentary,18,english, 3d ,SPIN-OFF,UNIVERSAL,autumn,$50-150m,Streaming,yes,4-7,AUSTRALIA,FILM,A-List,DTS,1321,£13015,£15885,£11857," 1,542",7519,NA,missing,6710,£13860
+15/06/2024,ANIMATION,15,MANDARIN,Imax,Spin-Off,-999,WINTER,$50-150m,direct-To-Dvd,yes,0,us,digital,newcomer,atmos,2789,NA,13456,19447,14608,NaN,£9839,£7452,"16,785","10,281"
+"Dec 07, 2021",comedy,15,Hindi, 2d ,Spin-Off, UNIVERSAL ,AUTUMN,$50-150m,missing,YES,0,Us,Film,Newcomer,dolby,13152,9052,8933,16956," 9,805",5696,7823,10520,8581,4155
+14/12/2024,NaN,15,spanish,3D,SPIN-OFF,Disney,Winter,<$10m,STREAMING,yes,missing,Canada,film,NEWCOMER,dts,388,£11187,,7688," 5,046",15012,9309,10179,7864,£7976
+2021-08-25,DRAMA,,NaN,2d,reboot,NaN,SPRING,$10-50m,LIMITED,Yes,NA,NZ,Digital,missing,ATMOS,£11737,16113,9585,12784,19866,3523,missing,missing,12048,19330
+missing,Action,R,hindi,3d,spin-off,DISNEY,spring,>$150m,streaming,NaN,1-3,-999,IMAX 70MM,-999,DOLBY,"18,623",11475,"12,329",16242," 2,841",6832,£1580,13577,19132,"15,262"
+,-999,missing,english,2d,reboot,sony,winter,$50-150m,,Yes,1-3,us,DIGITAL,NaN, dts ,10227,444,18430,3059,7460,17421,10875,19849,8510,missing
+2021-01-14,missing,15,spanish,2d,-999,universal, winter ,,Limited,yes,4-7,NZ,digital,newcomer,atmos,£8309,-999,£8918,16225,13800,16020,6684," 2,325",missing,£12424
+missing,horror,12a,Mandarin,-999,missing,warner,winter,NA,limited,yes,8+,uk,FILM,B-LIST,DOLBY,£3877,5964,14628,£2551,18762,-999,1743,6016,-999,12504
+12/12/2022,NA,g,english,STREAMING, standalone ,Warner,spring,$50-150m,cinema,no,NA,uk,digital,NaN,Dolby,19540,11323,"19,251","19,078",4640,£2358,£5376,£18326,15521,14757
+2023-07-22,drama,r,english,3D,reboot,warner,autumn,>$150m,Direct-To-Dvd,NA,1-3,uk,,a-list,dolby,17083,94,11211,19925,£11735,£10763,NA,,1414,12860
+2023-01-18,ACTION,g,Hindi,3d,franchise,WARNER,autumn,<$10m,direct-To-Dvd,NO,missing,canada, digital ,newcomer,dolby,16256,£14671,17869,5832,,10359,1684,,13385,9474
+23/08/2024,comedy,NA,spanish,STREAMING,missing,universal,spring,<$10M,cinema,yes,8+,uk,,A-LIST,NA,3003,NA,12658,missing,NaN,£1163,16310,£626,14721,£6718
+2024-10-30,horror,pg,hindi,3d,reboot,sony,spring,>$150m,limited,NA,4-7,uk,imax_70mm,B-LIST,atmos,18378,10227,£7667,,14766,£13441,18713,13591,8874,18231
+2024-07-25,Documentary,pg,missing, 3d ,reboot,warner,SPRING,$50-150m,cinema,yes,4-7,US,film,a-List,dolby,NaN,17210,£17560,17214,19282,11863,NA," 6,815",19154,7018
+2022-05-27,ANIMATION,15,french,streaming,standalone,WARNER,Spring,>$150m,limited,no, 8+ ,australia,digital,NEWCOMER, DOLBY ,15354,£2668,£5409,2461,£4695,-999,15887,"18,038",9633,18152
+NA,action,pg,FRENCH,2D,reboot,sony,spring,$50-150m,limited,No,4-7,-999,Imax 70mm,a-list,Dts,4955,2245,17066,1856," 8,915",1762,1233,6032,13875,14085
+01/10/2021,animation,r,spanish,NaN,standalone, sony ,autumn,$10-50m, streaming ,yes,1-3,CANADA,IMAX 70MM,NaN,missing,-999,266,NaN,9128," 5,135",,8695,11347,2793,4816
+15/02/2022,DRAMA,12A,spanish,NA,Franchise,paramount,Autumn,$50-150m,cinema,NaN,1-3,us,imax 70mm,A-LIST, atmos ,17232,£2291,£8089,4257,7152,15167,18875,19417,15779," 9,260"
+2024-10-08,Drama, 18 ,spanish,IMAX,reboot,warner,autumn, >$150m ,Cinema,no, 0 ,NA,digital,B-List,dolby,£17814,17920,"17,379",4916,£6493,£14043,12965,11587,,£7408
+07/09/2022,animation,r,spanish,imax,franchise,Warner,winter,$10-50m,NA,no,4-7, uk ,film,b-List,dts,12263,missing,5981,8978," 8,896",13095,6106,£18238,£14446,-999
+2023-05-19,-999,r,mandarin,2D,Standalone,sony,summer,,limited,yes,4-7,australia,imax_70mm,-999,dts,5882,11124,8786,£19612,11102,2101,13936,14011,"16,329",10384
+-999,animation,15,hindi,NA,franchise,disney,,$50-150m,streaming,no, 0 ,NZ,digital, B-LIST ,dolby,13082,13974,4454,£13868," 7,909"," 4,705",6582,-999,18797,19361
+NaN,action,15,MANDARIN, Streaming ,Spin-Off,missing,Spring,$10-50M,CINEMA,no,1-3,CANADA,digital,a-list,atmos,14424," 3,820",6587," 7,306",£18631,£14752,2891,"13,861",19153," 5,984"
+2023-12-11,drama, 15 ,french, Streaming ,Standalone,paramount,Spring,>$150m,cinema,-999,0,NaN,film,Newcomer,dts,"10,778",3588,£7423,NA,19146,,806,12102,11333,10459
+17/07/2022,Action,r,mandarin,missing, reboot ,SONY,summer,$50-150m,Direct-To-Dvd,YES,1-3, uk ,Film,,DOLBY,12602,£7472,£10843,missing,18363,13443,7706,10794,missing,"15,127"
+05/01/2021,drama,-999,mandarin,streaming,Spin-Off,paramount,missing,$50-150m,Direct-To-Dvd,no,8+,nz,digital,b-list,dolby,"11,671",19879,£18484,2470,12158,19546," 2,654",,£19918,8352
+13/11/2024,comedy,15,english,2d,franchise, paramount ,spring,-999,streaming,NO,8+,uk,digital,NEWCOMER,NaN,missing,4879,15101,10654,4745,1116,"19,721",£13101,8668," 7,617"
+10/07/2023,Drama,18,english,IMAX,standalone,Disney,winter,$50-150m,cinema,yes,1-3,nz,film,Newcomer, dolby ,missing,17957,15733,"15,290",£9991,"10,926",19391,NaN,4219,12425
+2021-11-03,Comedy,R,missing,STREAMING,franchise,UNIVERSAL,summer,-999,cinema,YES, 8+ ,US,film,A-List,DOLBY,3209," 9,574",,18924,£9421,£4597,£7088,14303,17876,
+2022-05-27,DOCUMENTARY,15,HINDI,Streaming,franchise,Sony,spring,-999,STREAMING,no,4-7,nz,digital,b-list,NaN,-999,£14377,"14,392",14339,15350,NaN,9395,17021,1191,£8236
+20/11/2021,documentary,g,hindi,streaming,franchise,Disney,Summer, $50-150m ,streaming,NO,0,canada,DIGITAL,,Dolby,NA,£3905,8316,549,£6724,10320,19122,16918," 7,867",10811
+27/03/2023,animation,g,mandarin,3d,standalone, disney ,missing,<$10m,direct-to-dvd,Yes,4-7,-999,imax 70mm,b-List,dts,13833,6772,£8354,7091,19728,£18922,333,16437,6648," 6,885"
+2024-03-04,drama,18,NA,3d,spin-off,paramount,autumn,$50-150m,limited,Yes,8+,Canada,imax_70mm,newcomer,ATMOS,£4646,£6692,15456,£969,11900,9451,£10496,18855,,£8603
+2021-01-23,action,12a,hindi,streaming,Franchise,DISNEY,Spring,$50-150m,cinema,No,,missing,imax_70mm,A-LIST,dolby,17119,2076,NA,"16,024",4175,NaN," 3,299",£16348,10811,NA
+,action,pg,english,NaN,standalone,paramount,winter,<$10m,direct-to-dvd,yes,0,uk,imax_70mm,B-List,-999,16093,11408," 8,320",17660,NA,395,£6393,missing,16444,-999
+2024-08-22, Animation ,18,french,2d, Spin-Off ,paramount,NA,<$10m,limited,NaN,1-3, Uk ,digital,A-LIST,ATMOS,10893,2547,2230,missing,£1103,15348,£15626,NaN,9282," 4,812"
+08/04/2023,NA,pg,English, 2d ,franchise,NA,spring,$50-150M,,missing,4-7,missing,Film,newcomer,Dts,£19462,14942,15562,2424,18047,£2607,NA,NaN,18758,"15,867"
+-999, Horror ,pg,NaN,2d,standalone,disney,spring,$10-50m,streaming, Yes ,8+,australia,digital,A-LIST,ATMOS,£7728,£4598,"17,326",NA,NaN,5570,14650,£3964,-999,NaN
+12/11/2023,horror,Pg,Hindi,3D,STANDALONE,WARNER,WINTER,>$150m,direct-to-dvd, yes ,0,australia, Imax 70mm ,a-list,ATMOS,£10218,15723,£13637," 3,073",£2586,7863,£14147,"16,267",8209,9566
+2024-04-25,Drama,Pg,NA,IMAX,missing,paramount,AUTUMN, $50-150m ,limited,no,1-3,canada,IMAX 70MM,-999,dolby,£18497,NaN,2450,7919,NA,5425,"12,847","16,965",£3167,12644
+2024-03-07,ANIMATION,12a,mandarin,streaming,Franchise,paramount,NaN,<$10m,NA,no,4-7,US,,b-list,dts,£12802,,"10,058",3987,£8289,£16329,3783,3673,,-999
+2023-10-26,DOCUMENTARY,r,Hindi,2D,Franchise,Disney,summer,>$150m,streaming,NO,8+,Canada,Digital,a-list,ATMOS,"11,905",£10714,18778,,11091,NaN,7901,"13,239",16124,"17,264"
+05/10/2024,NA,15,,streaming,STANDALONE, Disney ,summer,>$150M,cinema,no,1-3, Uk ,Digital,b-list,dts,17763,19995,14014,-999,10799,12861,£671,"18,436",8329,NaN
+20/01/2022,NA,r,french,-999,reboot,universal,winter,>$150m,limited,No,,AUSTRALIA,digital,b-List,dts,11926,NA," 6,521",5644,9151,3959,13750,19005,£3951,8192
+01/11/2023,comedy,NaN,mandarin,3d,STANDALONE, UNIVERSAL ,AUTUMN,$10-50m,NaN,No,0,Canada,imax 70mm,a-list,dts,5235," 1,986",17512,£9219,1560,5946,-999,11546,"10,308",
+NA,comedy,15,Mandarin,IMAX,reboot,paramount,winter,,NaN,no, 8+ ,canada,digital, a-list ,,NA,1153,2805,NA,"18,897"," 1,384","19,109",15104,NaN,10034
+25/09/2023,DOCUMENTARY,18,NaN,3d, standalone ,Disney,autumn,$50-150m,streaming,no,1-3,Uk,IMAX 70MM,newcomer,dolby,16742,"19,248",NA,"17,022",18235,10678,163,£3653,8255,9792
+27/04/2023,action,g,mandarin,streaming,spin-off,warner,winter,$10-50M,LIMITED,no,4-7, canada ,NA,b-list, dolby ,7022,5382,19181,£2238,£11013,£18380,£360,4857,NaN,12020
+26/07/2021,animation,18,english,streaming,,UNIVERSAL, summer ,$50-150m, cinema ,NO,4-7,Us,FILM,A-LIST,atmos,£7510,15572,10758,15811,17079,19288,£4475,-999,11204,1544
+NaN,drama,NaN, FRENCH ,2d,franchise,sony,summer,$50-150M,DIRECT-TO-DVD,no,0,Us,film,a-List,NA," 4,874",16153,7097,NA,790," 7,951",£6300,£11551,7066,£3796
+16/06/2023,,G,NaN,Imax,Franchise, warner ,AUTUMN,>$150m,streaming, no ,,australia,FILM,B-LIST,dts,£15117,£5342,"12,026",9626,NA,£2235,13056,£3224," 2,801",13399
+17/01/2023,ACTION,pg,,NA,reboot, PARAMOUNT ,winter,>$150m,cinema,YES,4-7,canada,Imax 70mm,b-list,ATMOS,961,5890,18546,11981,£9482,7071,18864,9031,18325,11263
+29/07/2022,,12a,spanish,2d,franchise,WARNER,summer,$50-150m,limited,no, 8+ ,australia,DIGITAL,,dolby,19225,16959,NaN,12217," 5,346",6115,14086,£7151,5180,15975
+03/09/2023,ACTION,12a,spanish,Imax,spin-off,sony,-999,$50-150M,direct-to-dvd,NO,8+,us,Imax 70mm,NA,dts,9781,£15741,14770,15570,,£743,6600,3794,NaN,10026
+18/09/2021,action,Pg,English,streaming,standalone,,autumn,$50-150m,streaming,no,1-3,uk,digital,b-list,Dolby,£3512,NaN,4356,734," 4,658",15639,NA,"18,845",6010,18223
+11/11/2023,documentary,r,FRENCH,3d,Standalone,paramount,Winter,>$150m,Limited,no,1-3,Us,imax 70mm,A-List,-999,14882,9271,,£6808,   208,16876," 8,815",1054,£14103,£8889
+"Oct 29, 2024",Animation,15,Mandarin,streaming,REBOOT,paramount,-999,<$10m,cinema,NO,1-3,AUSTRALIA,Film,newcomer,dolby,NaN,4228,£9468,missing,13248,4234,£5637,13297,19071,-999
+30/03/2024,drama,pg,,streaming,STANDALONE,sony,winter, <$10M ,streaming,yes,1-3,US,film,a-list,dts,£6699,18833,-999,12083,7669,£7269,898,16016,9775,missing
+2021-07-06,Animation,G,Spanish,streaming,NA,disney,Spring,missing,Streaming,no,4-7,nz,Digital,NA,ATMOS,13319," 1,393",NA,£11562,£2469,6511,5818," 3,774"," 9,587","14,977"
+17/02/2024,NaN,R,spanish,imax, FRANCHISE ,disney,NA,>$150m,NA,YES,4-7,canada,Film,A-LIST,dts,-999,12935,NA,"18,523"," 8,588",£12864,14116,4848,16420,11907
+"Oct 18, 2022",comedy,r,NaN,2d,Spin-Off,Warner,AUTUMN,$10-50m,STREAMING,NaN, 0 ,Us,FILM,Newcomer,dts,3219,missing,14670,£748,11811,NaN,missing,15296,12932,18482
+2021-01-04,Action,g,french,2d,FRANCHISE,warner,Summer,>$150M, streaming , yes ,1-3,australia,film,NEWCOMER,dolby,4692,NaN,8070,236,17896,13985,17365,£7761,,£17135
+10/08/2024,action,G,Spanish,NaN,standalone,Universal,SUMMER, $10-50m ,limited,no,1-3,US,film,a-list,atmos,£10821,8127,8718,£9509,13284,"18,059",,12414,290,1511
+2023-11-16,Documentary,G,french,3d,reboot,Sony,-999, <$10m ,LIMITED,No,0,UK,FILM,newcomer,ATMOS,"19,911",17932,18325," 6,857","13,445",£12270,669,11467,15337,5607
+18/04/2024,Drama,15,ENGLISH,IMAX,Spin-Off,warner,spring,NA, CINEMA ,YES,4-7,missing,Imax 70mm,B-List,ATMOS,3073,-999,11757,NA,NA,"10,613",19001," 5,721",10509,6135
+-999,comedy,18,english,3d,missing,disney,WINTER,NaN,direct-to-dvd,yes,4-7,australia,-999,a-list,ATMOS," 1,330",missing,"17,742",18885,15744,£16728,15729,3545," 4,382",17849
+22/05/2024,,g,spanish,,standalone,warner, winter ,missing,STREAMING,no,4-7,canada,Film,B-LIST,ATMOS,16100,4879,"10,853",£10411,4135,-999," 6,801",16255,3173,6871
+2022-05-20,Documentary,r,HINDI, Streaming ,reboot,SONY,-999,$10-50m,direct-To-Dvd,yes,1-3,CANADA,film,newcomer,DOLBY,19890,16358,13098,4085," 2,796",£9981,4452,-999,NA,19764
+2021-02-28,Documentary,18,french,streaming,franchise,universal,WINTER,$10-50m,missing,no,8+,-999,, a-List ,Dolby,10885,£1086,NA,£17819,12574,11717,£4294,"11,866",9026,7644
+29/06/2022,Comedy,15,mandarin,imax,FRANCHISE,disney,SPRING,$50-150m,missing,no,0,uk,Digital,a-List,DTS,£15174,7434," 9,557",17573," 8,834"," 5,364",-999,£3551,£4557,880
+23/04/2024, Drama ,pg,mandarin,2D,FRANCHISE,Disney,spring,$10-50m,direct-to-dvd,NaN,0,UK,DIGITAL,b-list,-999,2947,£8804,17703,    52,NaN,NA,19528,£19823,missing,18760
+2023-06-30,Animation,15,English,imax,REBOOT,,SPRING,$50-150M,direct-to-dvd,no,8+,Us,imax_70mm,a-list,dts,11222,10518,"19,981",NA,NaN,6385,£10468,£3437,17469,8392
+29/09/2023,horror,18,mandarin,2d,franchise,warner,Spring,$50-150m,streaming,yes,8+,nz,missing,b-List,dts,13259,£10089,16808,£498,,10309,£5228,£9806,13879,15428
+,COMEDY,18,french,-999,standalone,-999,summer,-999,DIRECT-TO-DVD,no,0,Us,-999, a-list ,DTS,£9173,19934,7218,£8078,8611,"14,853",NaN,9232,£3927," 2,967"
+missing,drama,g,English,3d,franchise,disney,winter,$10-50m,,no,4-7,nz,NaN,b-List,ATMOS,18732,11743,,11410,19749,8114,17359,1699,14743,11400
+01/07/2022,drama,,SPANISH,STREAMING,franchise,Sony, winter , <$10m ,cinema,yes, 8+ ,canada,digital,a-List,dts,861,14523,-999,"18,955",18449,£14867,£10913,£13879,17030," 2,933"
+05/06/2022,Drama,15,french,3d,STANDALONE,Warner,Spring,$50-150m,limited, yes ,1-3,nz,FILM,B-List,dts,missing,14620,8767,3868,7950,-999,missing,19181,-999,13139
+2022-02-21,documentary,,french,imax,reboot,paramount,summer,$10-50M,direct-to-dvd,NaN,0,CANADA,FILM, B-LIST ,Atmos,12494,17323,NaN,3794,18283,3006,14235,£17604,6302,12537
+20/06/2021, documentary ,18,english,streaming,STANDALONE, disney ,summer,-999,direct-to-dvd,NA,1-3,Uk,film,newcomer,atmos,5576,15475,19454,1307,10300,9583,13544,£14630," 9,908",14772
+"Jan 03, 2021", Documentary ,r,mandarin,streaming,franchise, disney ,SUMMER,$50-150M,STREAMING,yes,8+,us,IMAX 70MM,B-List,Dolby,1985,4857,NaN,£5616,missing,"19,837","11,936",£19318,6838,12317
+2024-07-05,horror,G,french,3d,Standalone,PARAMOUNT,missing,$10-50M,Limited,yes,0,NZ, DIGITAL , a-list ,dolby,NaN,3560,NA,,missing,missing,"15,252"," 1,810","14,408",£13878
+09/08/2024,Horror,18,hindi,3D,spin-off,disney,SPRING,$50-150m, Direct-To-Dvd ,no,1-3,australia,film,newcomer, DTS ,11606,3505,11928,15001,NA,17257,5938,16346,"13,257"," 6,291"
+2021-08-12,Horror,15,mandarin,STREAMING,FRANCHISE,universal,autumn,,streaming,No,0,UK,film,b-list,NA,missing,17356,19294,£9332,4657,11628,£7730,13182,18840,£1891
+05/08/2021,,-999,MANDARIN,streaming,franchise,-999,,$50-150m,direct-To-Dvd,no,0,Us,Digital,newcomer,dts,£3197,3208,,3357,9168,7253,-999,£10501,7114,-999
+2022-06-10,Horror,R,-999,imax,STANDALONE, PARAMOUNT ,SPRING,,NA,no,1-3, australia ,digital,newcomer,dts,-999,13832,£12296,"16,199",15768,£4650,10779,1524," 2,958",NaN
+08/02/2021, Drama ,NaN,english,IMAX,spin-off,Paramount,Spring,NA,direct-to-dvd,NaN,8+,Australia,IMAX 70MM,A-List,atmos,£17308," 3,307",£6020,4344,5852,14370,15415,"12,774",£7434,17495
+15/11/2024,drama,18,Hindi,streaming,franchise,warner,winter,$10-50m,direct-To-Dvd,No,4-7,us,digital, A-LIST ,dts,£6579,392,11261,12359,10892,-999,17898,14441,17500,9402
+2024-07-08,ANIMATION, pg ,Spanish,2D,SPIN-OFF,UNIVERSAL,Winter,$50-150m, streaming ,no,4-7,canada,NA,NA,dts,11593,12886,16167,12685,£19769,£14189,9702,NA,17865,6625
+NA,action,g,Mandarin,3D,FRANCHISE,universal, autumn , $50-150m ,limited,-999,0,uk, imax_70mm ,A-LIST,dolby,19839,6945,15296,3447,19336,18209,£17042,15343,10661,£17736
+NA,Documentary,15,Mandarin,2d,reboot,PARAMOUNT,Summer,$10-50m,cinema,yes,0,us,FILM,a-List,Atmos,£17045,13512,£19999,£13256,18297,16511," 1,068",£12500,"17,870",5607
+"Mar 01, 2022", ANIMATION ,18,english,3d, Reboot ,NA,winter,>$150m,NaN,yes,0,Uk, digital ,a-list,atmos,6090,missing,15880,3287,£7809,,£2611,19153,7855,6360
+"Feb 20, 2023",Drama,18,Hindi,3D,standalone,warner,summer,<$10m,Cinema,yes,8+,us,imax_70mm,a-List,Dts,5045,517,10896,£12424,NaN,2125,missing,missing,£18281,7464
+NA,HORROR,G,HINDI,streaming,franchise,PARAMOUNT,spring,$50-150m,missing,no, 4-7 ,uk,imax_70mm,newcomer,dts,£8555,9760,929,missing,19633,7891,NaN,missing,611,£3050
+2024-01-24,action,15,MANDARIN,2D,STANDALONE,warner,spring,$50-150m,Limited, yes ,8+,Canada,imax 70mm,NEWCOMER,,£15533,"10,769",17291,£16191,£8177,5186,15198,16781,NA,8907
+01/12/2021,NaN,r,SPANISH,streaming,,WARNER,Summer,$10-50m,Direct-To-Dvd,yes,4-7,UK,Film,b-list,atmos,3010,13391,13322,17855,£15477,13495,14079,11729,"10,163",1955
+2024-10-02,missing, r ,NA,2d,spin-off,disney,,NA,Direct-To-Dvd,missing,4-7,US,film,newcomer, dolby ,9506,,£19357,£12320,7700,9404,12932,£10201,16572,19722
+2022-10-30,NaN, 18 ,spanish,2d,standalone,disney,Spring,$10-50m,Cinema,NA,4-7,uk,DIGITAL,a-list,dolby,3221,16674,15485,15533,£1197,NaN,£19554,missing,NaN,12322
+2023-03-03,drama,12a,spanish,2d,spin-off,universal,NaN,>$150m,limited,yes,4-7,Canada,Film,b-list,DOLBY,£6506,NA,£16764,19608,£8346,16782,£17170," 6,271",13524,12007
+2023-08-08,Horror, 15 ,french,streaming, spin-Off ,UNIVERSAL,Summer,$10-50m,limited,NO,1-3,us, film ,NA,atmos,5631,4569,10281,10149,4366,15040,"16,309",17290,7535,7990
+2021-08-12,Documentary,Pg,MANDARIN,2d,reboot,DISNEY,,<$10m,streaming,yes,4-7,nz,digital,b-list,Atmos,16904,£2873,£17566,11491,18001,19155,2140,16428,£1830,
+20/06/2022,Action,R,ENGLISH,3D,STANDALONE, DISNEY ,SPRING,$10-50m,limited,Yes,1-3,NaN,Imax 70mm,B-List,atmos,7598,15705,8229,£11361,10509,NA," 5,138",13343,£9563,NaN
+2023-02-12,Horror,r,mandarin,3D,reboot,universal,spring,$50-150m,Streaming,no,1-3,Us,Digital,B-List,NA,£7853,£12749,1354,9851,19309,"13,625",9354,14415," 4,999",16780
+2023-02-28,action,12a,English,2d,spin-off,NA,WINTER,>$150M,-999,NA,4-7,uk,Film,a-list,dolby,£13152,NA,16092,17154,11331,14445,16314,12679,missing,8021
+13/12/2021,comedy,18,mandarin,streaming,spin-Off,paramount,winter,missing,Direct-To-Dvd,YES,1-3,Us,digital,newcomer,atmos,£4738,14417,10882,12115,15088,"19,338",10624,18685,£13450,
+2021-05-07,drama, 18 , mandarin ,streaming,Reboot,DISNEY,summer,>$150M,limited,Yes,1-3,CANADA,imax 70mm,b-list,Atmos,10244,14710,14086,657,16867,NaN,£1683,7127," 2,062",13912
+2022-01-31,NaN,G,mandarin,imax,standalone,disney,summer,NA,limited,yes,4-7,australia,film,Newcomer,," 7,914",8571,£19517,5649,£11289,6266,"15,661",6550,18024,19505
+2022-11-03,horror,12a,-999,3d, standalone ,SONY,SPRING,>$150M,streaming,yes,0,UK,DIGITAL,Newcomer,Atmos," 5,019",£17608,missing,14839,13532,19928,16510,4633,"10,350"," 4,307"
+2023-08-08,animation,g,NaN,,REBOOT,warner, autumn ,-999,cinema,no, 8+ ,Australia, film ,a-List,DOLBY,15234,4963,£1610," 7,244",£9325,11198,14081,2003,£16076,"10,854"
+"Jun 02, 2024", Horror ,18,spanish,2D,NA,universal,missing,$10-50m,cinema,no,8+,canada,film,newcomer,dts,12954,9689,15127,NaN," 4,677",£11589,£15409,18607,£18746,3293
+19/04/2022,ANIMATION,r,mandarin,3D,spin-Off,sony,autumn,NA,limited,yes,1-3,NA,DIGITAL,b-list,atmos,12268,6196,17474,4866,4343,9039,4128,missing,14417,12940
+2024-04-14,horror, 18 ,English,imax,franchise,warner,Spring,$50-150m,CINEMA,no,0,Us,IMAX 70MM,newcomer,DOLBY," 2,501",£4350," 2,567",13723,2740,7373,17437," 9,638",£5031,£4766
+"May 11, 2022",animation,r,Hindi,streaming,spin-Off,warner,spring, >$150m ,limited,no,0,Canada,imax_70mm,a-List,ATMOS,£10461,15787,£14891,19030,   790,7999,NA,17548,£18235,£14840
+"Jul 15, 2021", HORROR ,NA,french,imax,franchise,warner,Winter,>$150M,limited,Yes,4-7,UK,-999,B-List,DOLBY,4062,£17022,-999,14617,12591,3164,5738,16022,"10,628",19460
+20/07/2022, drama ,15,NaN,imax,standalone,WARNER,NaN,>$150m,cinema,No,4-7,Australia,Imax 70mm,newcomer,ATMOS,3930,NA,£15982,16061,9155,-999,10371,10003,NaN,8182
+2024-02-02, Documentary ,15,spanish,2d,Standalone,UNIVERSAL,autumn,>$150m,streaming,Yes, 4-7 , CANADA ,IMAX 70MM, NEWCOMER ,dolby,"12,720",7711,NA,NaN,14055,1912,10586,"19,718",13881," 3,085"
+,Drama,15,hindi, 2D ,reboot,warner,winter,$50-150m,cinema,Yes, 4-7 ,UK,Film,b-List,atmos,£16603,9431,9679,16212,17817,15003,," 5,150",,NA
+"Jan 29, 2022",Comedy,15,MANDARIN,2d,standalone,PARAMOUNT,NA,>$150m,CINEMA,No,missing,Canada,Imax 70mm,newcomer,atmos,,"18,604","17,969","15,138",7449,19833,16329,11193,12352,"16,614"
+2022-10-20,DOCUMENTARY,15,NaN,imax,missing,WARNER,spring,$50-150M,direct-to-dvd,yes, 0 ,Nz,NA,NEWCOMER,Atmos,876,12420,5242,13801,£15670,8961,15317,£4834,4994,7552
+13/03/2024,action,G, FRENCH ,2d,reboot,warner,autumn,<$10m,streaming,yes,4-7,Canada,film,A-List, atmos ,£12275," 4,010",14216,£18243,14513,12246,10508,£3646,missing,5577
+2024-11-25,horror,pg, MANDARIN ,STREAMING, standalone ,paramount, WINTER ,<$10m,direct-to-dvd,NO,-999,uk,FILM,missing,dts,14022,NA," 1,921",£2007,7349,£9663,£3629,2876,10081,4030
+2024-02-18,horror,g,mandarin,streaming,franchise,warner,winter,>$150M,Cinema,missing,0,Uk,imax70mm,A-LIST,dolby,6796,6483,2591,11201,2176,14849,6140,"19,592",12348,780
+02/01/2023,Drama,15,NA,3d,NaN,SONY,Summer,>$150m,streaming,Yes,1-3,canada,Film,newcomer, atmos ,10077,£7206,NaN,,2610,11597,£3998," 9,203",-999,13203
+2023-09-09,HORROR,12a,mandarin,2d,NaN,SONY,-999,<$10M, direct-to-dvd ,YES,0,us,Digital,NEWCOMER,-999,£10649,16446,-999,NaN,11410,16729," 5,241",£12286,-999,
+06/03/2023,animation,18,hindi,imax,Reboot,paramount,winter,<$10m,cinema,NA,1-3,US,-999,A-LIST,dts,2054,-999,£5391,9093,11283,"11,846",,£4750,4023,"14,206"
+2021-09-25,comedy,missing,mandarin,imax,STANDALONE,universal,Autumn,$10-50m,LIMITED,NA,1-3,Uk,DIGITAL,newcomer,dts,NA,17117,9238,"13,399",2436,7097,3991,4544,,2127
+NA,NaN,12a,spanish,imax,franchise,DISNEY,autumn,$50-150m,cinema,NaN,4-7,NaN,imax_70mm,B-List,dolby,£19107,£13708,"17,278",15094,16101,7559,17315,£18448,5513,14607
+01/08/2021, ACTION ,R,HINDI,NA,standalone,Sony,WINTER,<$10m,CINEMA,yes,8+,NZ,missing,a-list,dolby,15528,"18,091",3305,£19264,18870,1095,£1693,18161,13787,15212
+2021-06-17,ACTION,R,hindi,Imax,STANDALONE,Paramount,spring,$50-150M,direct-To-Dvd,no,1-3,NZ,imax_70mm,a-list,Dolby," 6,753",,17529,18700,18312,15843,1410,£19281," 7,868",19400
+"Mar 20, 2024", Documentary ,12a,english,NaN,franchise,NaN,autumn,>$150m,streaming, yes ,1-3,Nz,imax 70mm,NA,Dts,8837,983,10808,3268,16324,3768,£2372,£794,12880,£1320
+-999,comedy,Pg, french ,2d,reboot,universal,-999,>$150M,DIRECT-TO-DVD,yes,8+,nz,,b-List,dts,£9267,14869,,£9078,"11,216",£17610,4109,13936,12377,4427
+missing,action, g ,english,streaming,Reboot,SONY,spring,NaN,Limited, no ,0,Uk,imax_70mm,newcomer,NaN,6091,17222,£4919,8440,15855,£16061,2631,4604,£12282,15823
+31/05/2022,Horror,PG,english,,NaN,WARNER,Winter,, Cinema ,,8+,nz,film,missing,dts,4105,NaN,305,"10,656","13,126",15681,£5676,4341," 4,436",10572
+05/03/2024,animation,15,french,streaming,SPIN-OFF,sony,SPRING,$10-50m,Cinema,no,4-7,australia,FILM,newcomer,atmos,1366,£7736,15365,10825,10789,-999,NaN,19168,2366,12545
+05/07/2021,horror,15,mandarin,3D,Franchise,Paramount,Autumn,$10-50m,limited,, 1-3 ,nz,Film,-999,DTS,10355,£12164,9187,"13,902",17429,10927,13557,NaN,17181,5359
+NaN,horror,G,-999,streaming,-999,warner,-999,$50-150m,direct-to-dvd,yes,4-7,nz,digital,NEWCOMER,atmos,£7519,18032,,15935,£12464,5836,8099,missing,£13560,19285
+2023-03-30,documentary,12a,french,3d,spin-Off,warner,summer,$10-50m,Streaming,Yes,4-7,australia,digital,-999,atmos,16147,10574,,£7187,NaN,17251,£3748,8118,£7087,£4245
+21/08/2022,NA,r,english,Streaming,Spin-Off,paramount,Winter,>$150m,streaming,no,8+,US,digital,b-List,Dts,13781,18353,14753,11225,17837,6269,£9524,2109,missing,11980
+08/07/2024,Drama,18,mandarin,3D,standalone,Universal,spring,<$10m,cinema,yes,4-7,Australia,imax70mm,A-LIST,dts,missing,7174,£889,,"19,700",11358,-999,"11,561",11321,£5175
+14/09/2023,horror,15, french ,3D,franchise,universal,autumn, >$150M ,cinema,yes,NaN,NZ,imax_70mm,-999,atmos,4191,£12318,8428," 1,085",18270,£15129,9712,£4657," 1,176",£7641
+07/05/2022,horror,12a,french, 3d ,Spin-Off,disney,spring,$10-50m,limited,missing, 8+ ,Australia,digital,A-LIST,atmos,"14,034","10,828"," 3,727","18,740"," 4,784",17784,£3593,2634,"18,170",15191
+29/11/2024,COMEDY,r,french,2d,standalone,-999,NaN,<$10m,direct-to-dvd,YES,8+,nz,NA,,Dolby,6574," 8,953",1291,16445,£7593,£12850,19845,"10,063",£19562,NA
+02/01/2024,Documentary,g,mandarin,3d,SPIN-OFF, Warner ,NA,$50-150M,Cinema,NO,NaN,UK,film, newcomer ,atmos,1948,11686,missing,NaN,10560,NA," 4,500",13732,"18,452"," 2,690"
+2021-07-22,Comedy,12a,spanish,2d,FRANCHISE,PARAMOUNT,winter,>$150m,CINEMA,no,0, canada ,imax_70mm,a-list,missing,3904,13498,9469,3175,£17492,15815,14907,7288,13844,12071
+2024-11-20,action,12a,English,imax,standalone,PARAMOUNT,autumn,$50-150m,limited,no,1-3,nz, DIGITAL ,b-list,dts,17438,870,9986,"14,555",18078,NA,"16,744",8647,6376,NA
+31/01/2024, horror ,12A,NaN,streaming,Franchise,SONY,winter,>$150m,limited,YES,4-7,US,imax70mm,b-list,DTS,14912,£7818,£7399,14406,12844,9384,3745,13042,1546,4924
+31/01/2023,action,G,missing,-999,reboot,warner, Winter , $10-50M ,CINEMA,no,4-7,UK,DIGITAL,b-list,dts,missing,NaN,17130,£17476,7351,,"18,400",£6038,"12,184",£6898
+04/08/2022,Animation,15,Spanish,STREAMING,REBOOT, SONY , SUMMER ,<$10m,cinema,no,4-7,nz,film,NEWCOMER,atmos," 5,320",5997,17141,5212,,NA,NA,-999,NaN,335
+20/04/2023,comedy,pg, Spanish ,3d, SPIN-OFF ,universal,SUMMER,$10-50m,DIRECT-TO-DVD,no, 4-7 ,australia,Imax 70mm,A-LIST, dts ,£8036,6452,,18663," 9,560",£8044,9523,7479,19631,£1965
+2024-04-25,horror,NaN,Spanish,3d,franchise,paramount,summer,<$10m,direct-To-Dvd,no,1-3,canada,digital,A-List,Atmos,4501,14496,£409,5928,19669,"18,498",14914,19993,10597,missing
+2021-10-05,DOCUMENTARY,pg,mandarin,streaming,spin-off,WARNER,AUTUMN,$50-150m,LIMITED,yes,1-3,australia,film,newcomer,-999,19776,£12998,10736,16968,£13708," 9,413",missing,11598,6543,13862
+2021-01-30,documentary,-999,English,streaming,Standalone,disney,Summer,>$150m,limited,yes,8+,Uk,digital,a-list,DTS,11294,6338,   422,£411,"10,522",14588,17350,17231,NA,2352
+30/09/2022,Action,g,hindi,2d,NA,missing,NA,$10-50m,LIMITED,No,8+,canada,imax_70mm,missing,dolby,12867,1330,14296," 9,522",,missing,8974,10051,£1795,1571
+2024-12-21,ANIMATION, r ,MANDARIN,NaN,-999,disney,summer,,STREAMING,no,0,nz,,B-List,dts,19049,NaN,4942,4559,11398,missing,NA,5749,3599,14479
+2021-08-31,comedy,pg,French,streaming,standalone,paramount,winter,<$10m,streaming,yes,4-7,us, film ,newcomer,Dolby,12524,£15159,19958,10033,4139,£13930,3999," 2,093",NA,10887
+09/02/2022,comedy,pg,french,streaming,franchise,disney,winter,<$10m,cinema,yes,4-7,nz,film,a-list,atmos,19823,14399,14299,5033,14284,19432,£696," 1,847",19105,£498
+02/02/2021,NA,12A,MANDARIN,missing,missing,Universal,spring, <$10m , cinema ,yes,0,nz,film,, Dolby ,10074,3119,15413," 7,393",NA,10713,£8037,£4214," 7,599",£17646
+2024-09-02,documentary,15, FRENCH , Streaming ,spin-off,sony,SPRING,$50-150m,streaming,yes,0,Nz,film,NaN,Dts,£16898,NA,,750,10079,NA,16563,939,£4527,NaN
+NA,Action,PG,hindi,2d,NaN,disney,autumn,$10-50m,Streaming,yes,4-7,canada,imax_70mm,NA, dolby ,2348,missing,7761,£9926," 4,843",NaN,£14043,£13005,11324,19001
+02/12/2023,Documentary,r,Mandarin, 2D ,missing,sony,Summer,$50-150m,direct-to-dvd,No,4-7,NA,film,b-list,dolby,£9302,£7341,468,"17,159","12,256"," 1,788",£9674,17004,13807,-999
+06/05/2021,documentary, g ,hindi,3d,NA,NA, winter ,$50-150m,limited,yes,1-3,uk,imax70mm,NEWCOMER,dts," 3,787",17632," 1,444"," 7,965",,," 4,524",11086,-999,£84
+25/03/2023,COMEDY, 18 ,spanish,2d,Standalone,DISNEY,summer,>$150m,limited,-999,1-3,canada,film,newcomer,atmos,"19,158"," 7,131",11574," 6,724",4512,14396,NaN,5715,8446,19818
+2024-01-05,NaN,pg,HINDI,2d,franchise,universal,Autumn,$50-150m,LIMITED,yes,1-3,-999, DIGITAL ,b-list,ATMOS,"13,768",4732,9646,missing,14704,-999,6117," 7,751",4597,4434
+2021-05-08, animation ,15,MANDARIN,3d,NaN,paramount,SPRING,>$150M,NA,NO,1-3,NZ,film, a-list ,atmos,7760,3384,£8982,NaN,11289,4525,6981,6579,13264,19755
+15/11/2023,documentary,PG,NaN, 3d ,SPIN-OFF,UNIVERSAL,Autumn,<$10M,direct-to-dvd,yes,0,CANADA,,newcomer,dts,-999,6267,7165,2715,7794,15870,14329,7398,8143,14618
+"Jan 13, 2024",missing,r,french,Streaming,franchise, warner ,winter,$50-150m, direct-to-dvd ,yes,0,Nz, FILM ,b-List,dts,£6747,missing," 6,709",NaN,6252,£14148,-999,13625,18253,"18,508"
+15/11/2024,drama,18,spanish,2d, standalone ,paramount,Spring,>$150m,limited, yes ,1-3,canada,Film, A-List ,Dts,9312,14071,4851,missing,NaN,11640,£9008,19415,10342,17601
+17/06/2022, DRAMA ,Pg,,NA,Standalone,NA,winter,>$150M,NA,yes,1-3,NZ,,newcomer,Dts,NA,£13309,8690,,,£14751," 5,055"," 1,685",NaN,£5
+-999,NA,15,french,2D,standalone,universal, autumn ,<$10m,cinema,yes,1-3,australia,Digital,NEWCOMER,Dts,17470,6099,missing,15304,NA,missing,£391,19329,£10570," 5,928"
+2024-07-30,Action,missing,english,2d,reboot,paramount,SPRING,>$150M,Cinema,no,missing,us,NaN,b-list,dolby,13870,7497,11322,missing,13862,1567,£7071," 4,877",4450,£4170
+2021-07-26,documentary,Pg,spanish,3d,Franchise,Paramount,autumn,<$10m,limited, Yes ,8+,uk,Digital,a-list,DOLBY,1893,12627," 7,528",NA,£14429,4838,4100,£2485,14617," 4,051"
+03/12/2024,comedy,15,HINDI,2d,spin-off,DISNEY,SUMMER,,streaming,NO,8+,UK,digital,A-List,Atmos,18922,1215,£19011,16665,8726,,,11229,"11,863",616
+18/02/2021,horror,r,Hindi,Imax,NaN,universal, SUMMER ,$10-50m,cinema,yes,1-3,australia,FILM,Newcomer,dts,4090,11812,16165," 3,090",15836," 2,695",11904,£12262,£15296,£19533
+2022-04-17,documentary,r,mandarin,2d,missing,sony,Winter,$50-150m,missing,NaN,missing,Canada,missing,newcomer,Dolby,5778," 9,785",NaN,£16930,NaN,,450,£5181,16417,NaN
+2024-08-15,comedy,-999, english , 2d , Franchise ,paramount, summer ,,streaming,no,,US,film,b-list,dolby,13533,missing,14270,15296,NA,missing,£4615,£11615,,9480
+2024-12-12,drama, 12A ,missing,missing,reboot,warner,-999,$10-50m,LIMITED,yes,1-3,Canada,film,B-List,atmos,   227,15326,1913,18650,14292,£10595,"11,727",8221,592,"10,558"
+26/04/2023,HORROR,pg,FRENCH,3d,reboot,universal,autumn,>$150M,cinema,yes, 0 ,australia,digital, B-List ,dolby,18041,4825,19519,11849,£17250,5735,15317,11822,16000,6430
+02/08/2024, action ,18,Hindi,imax,,universal,winter,>$150M,LIMITED,,0,uk,film,a-list,DOLBY,,13836,£16670,,4727,£10328,£4131,£4792,NaN,8327
+"Apr 13, 2023",documentary,Pg,hindi,2d,-999,disney,Autumn,$10-50m,streaming,YES,8+,australia,FILM,newcomer,atmos,10458,93,10571,15425,NaN,12403,£1510,£17334,2391,14797
+2023-07-02,drama,pg,hindi, 2d ,reboot,disney, spring ,$10-50M,cinema,NO,4-7,uk,DIGITAL,NaN,Dolby,-999,3762,15660,4071,£4953,9139,NaN,"10,162",missing,£15691
+09/08/2021,Comedy,12a,mandarin,3d,SPIN-OFF,,summer,$10-50m,streaming,yes,8+,canada,IMAX 70MM,a-List,DTS,12671,NaN,3288,7052,missing,£977,13482,3813,£19350,6783
+"Dec 05, 2021",ANIMATION,g,english,3D,reboot,warner,Spring,>$150m,,no,8+,Australia,Imax 70mm,a-List,dolby,13076,16805," 2,379"," 9,351",4750,£6954,16264,"10,976"," 3,496",16417
+06/08/2023,comedy,15,mandarin,2d,SPIN-OFF,NA,winter,<$10m,LIMITED,no,1-3,AUSTRALIA,-999,a-list,DOLBY,18048,missing,£15549,14886,£13262,£11604,11163,626,3493,3212
+2022-04-25,comedy, PG , french ,STREAMING,-999,sony,winter,<$10m,-999,Yes,8+,us,film,a-List,ATMOS,£16699,11226,£18088,-999," 8,469","10,305",12025,£696,7019,17742
+2022-10-25,action,12A,french,Streaming,standalone,Sony,summer, >$150m ,NaN,no,1-3,nz,FILM,a-list,NaN,£10377,£18145,19691,13013," 1,663",-999,£5653,13200,8069,NA
+NA,COMEDY,r,FRENCH,Imax,FRANCHISE,Paramount,SUMMER,<$10m,streaming,yes,4-7, canada ,digital,newcomer,NA,16464," 4,434",£6171,"18,216",14514,11240,5373," 8,198",16104,15864
+09/07/2023,-999,12A,french,3d,Franchise,Disney,autumn,$50-150M,direct-to-dvd,yes,1-3,CANADA,digital,b-list,Dts,12728,3623,8701,7791," 3,479","17,475",£11873,8742,3826,17404
+05/09/2024,drama,r,English,3D,standalone,NA,spring,$50-150m,CINEMA, yes , 0 ,australia,NA,newcomer,dts,7112,   762,"10,076",£9423,11853,missing," 7,005",1494,15215,"11,852"
+26/06/2021,documentary,15,FRENCH,3d,spin-off,Warner,summer,$50-150M,cinema,No,1-3,US,imax_70mm,newcomer, DTS ,£2525,   743,NaN,,3183,missing,11703,474,-999,NA
+2023-03-08,documentary,15,FRENCH,imax,spin-Off,UNIVERSAL,spring,>$150m,LIMITED,No,4-7,nz,imax_70mm,a-list,DTS,13335,£13297," 6,156"," 4,267","15,634",NaN,£12473,"18,010",9696,11600
+16/01/2022,COMEDY,15,Hindi,2d,franchise,paramount,spring,$50-150M,Direct-To-Dvd,yes,8+,NA,film,a-List,NaN,   326,£9258,13905,"12,027",10422,599,£1364,-999,19681,£6727
+2024-07-17,Horror,18,,2D,spin-off, SONY ,spring,>$150m,cinema,no,4-7,Canada,DIGITAL,Newcomer,dts,NaN,"18,060",16543,11273,-999," 1,820",629,3457,£10569,19566
+2022-10-21,drama,g,NaN,3D,NaN,sony,autumn,$50-150M,streaming,YES,4-7,australia,film,Newcomer, atmos ,1519,3792,-999,NA,12854,9918,16198,17620,18523,"14,402"
+2023-08-29,Documentary,18,mandarin,imax,spin-off,warner,Spring,<$10m,NaN,no,8+,nz,-999,newcomer,atmos,3837,£11887,missing,12523,5548,7519,,5692,2594,£13453
+31/12/2024,Action,r,FRENCH,3d,standalone,paramount,SPRING,<$10m,streaming,Yes,0,Nz,imax_70mm,b-list,dolby," 3,249",9609,556,810,£5289,£5775,9870," 3,544",3872,8374
+20/03/2022,DOCUMENTARY,,spanish,3d,reboot,NA,summer,,Cinema,NO,4-7,nz,digital, a-list ,atmos,5888,9828,14556,3457,7697,missing,5768,5710," 8,516",18897
+14/05/2022,Action,18,english,NA,SPIN-OFF,universal,SUMMER,,direct-To-Dvd, no ,NA,NZ,,NaN,dolby,18532,"14,250",18426,12432,£5417,£2098,12160,-999,2718,5519
+2024-05-29,action,12a,NA,2d,NaN,disney, spring ,>$150M,limited,Yes,1-3,NaN,imax_70mm,A-List,atmos,19296,£17939,10230," 6,202",missing,12507," 7,053",£19281,11795,5158
+2023-02-17,DRAMA,PG,English,3D,reboot,Warner,Winter,$10-50m,direct-to-dvd,NO, 8+ ,Canada,FILM,newcomer,missing,9345,10178,," 3,596",6686,13580,missing,8606,18972,£2061
+28/10/2021, comedy , r ,english,streaming,NA,universal, autumn ,$50-150m,cinema,yes,0, australia ,digital,newcomer,dolby,£2646,"11,387","15,113",£19354,,15122,£13119,"18,994",6138,15275
+2022-03-20, Documentary ,NaN,hindi,2d,franchise,WARNER,summer,$10-50M, DIRECT-TO-DVD ,no,8+,,Digital,a-list,ATMOS,14378,,12323,£8767,13104,NA,12650,£10463,7989,"18,950"
+2024-05-02,comedy,G,spanish,imax,reboot,sony,winter,$10-50m, DIRECT-TO-DVD ,YES,4-7,Us,digital,NA,dts,£14928,-999,11396,19371,NaN,7675,6437,5,,992
+"Sep 11, 2023",NaN,15,english,2D,NA,universal,WINTER,NA,STREAMING,yes,8+,uk,IMAX 70MM,a-list,,£1830,6855,1228,NaN,12207,£9789,£19386,£617,14120," 6,987"
+"Jul 14, 2021",DOCUMENTARY,15,hindi,3d,spin-off,warner,NaN,>$150M,cinema, no ,1-3,Nz,Imax 70mm,A-List,atmos," 4,319",17941,2404,10994," 1,640",9755,7672,,£6086,£8252
+2022-10-12,,NA, mandarin ,3d,standalone,sony, Winter ,<$10m,Limited, YES ,4-7,uk,digital,a-list,atmos,15650,16993,8190,18357,£2016,"13,716",8718,£17008,18817,19949
+2024-10-04,Drama,18,english,2D, reboot ,sony, Winter ,<$10m,limited,,0,NaN,IMAX 70MM,A-List,NaN,7714,6198," 1,015",10496,£11141,2653,NA,7750,"16,332",NA
+31/12/2022,ANIMATION,12a,hindi,2D,franchise,Paramount,Summer,>$150m,cinema,,-999,nz,film,b-list,ATMOS,881," 8,072"," 7,027"," 1,318",£13393,6785," 2,290",NA,"14,200",16831
+26/04/2023,animation,NA,NaN,3d,Franchise,Universal,spring,$10-50m,DIRECT-TO-DVD,no,4-7,nz,Film,Newcomer,-999,£3925,729,7282,4396,15045," 2,947",4123,9931,missing,"18,643"
+2024-05-02,action,r,french,streaming,NaN,sony,Autumn,$50-150M,STREAMING,yes,missing,NA,FILM,A-List,dolby,10435,,£2165,13290,,14135," 4,746",£8354,£3208,NA
+"Dec 18, 2022",DOCUMENTARY,NA,spanish,2d,NaN,Warner,spring, $50-150M , cinema ,YES,0,nz,film,B-LIST,NaN,NaN,14006,£13174,NA,4546,£10102,£17256,29,,"19,699"
+2021-06-29,animation,r,hindi,Streaming,standalone,Warner,NaN,$50-150M,Cinema,yes,8+,us,imax70mm,B-LIST,dts,18023,272,13905,5706,NaN,£3779,1993,NaN,NaN,1644
+2024-04-24,horror,18, English , 3D ,standalone,disney,SPRING,-999,Cinema, yes ,8+,nz,film,b-List,dolby,10241," 4,144",4834,13661,18978,missing," 6,945",9307,£5695,"11,581"
+2023-09-27,documentary,r,hindi,STREAMING,standalone,disney,summer,$50-150m, limited ,yes,8+,CANADA,DIGITAL,newcomer,DTS,£2530,11076,"15,065",NA,16916,£3485,18816,3460," 6,600",11465
+"Sep 03, 2024",comedy,pg,missing,IMAX,spin-off,universal, summer ,<$10m, streaming ,missing,4-7,,Film,b-List,dolby,8220,16359," 3,115",missing,12368,"15,574",£11475,£2102,7509,11050
+29/09/2023,animation,-999,spanish,3D,reboot,paramount,-999,$50-150m,Cinema,no,0,canada,Imax 70mm,NEWCOMER,DTS,17175,733,1293,10735,,NaN,9068,10158,NA,-999
+01/04/2021,comedy,12a, Hindi ,imax,reboot,disney,summer,<$10m,missing,missing,4-7, canada ,digital,a-list,missing,£16567,15682,15232,-999,8707,£5413,8398,£13945,6587,648
+2022-01-15,NaN,-999,ENGLISH, streaming ,-999,paramount, Winter ,missing,NA,yes,8+,us,imax_70mm,newcomer,DOLBY,13349,5475,£9400,19827,"14,051",11881,£5262,19590,17415,1965
+16/10/2022,,pg,Hindi,2d,Franchise,PARAMOUNT,autumn,$50-150m, direct-to-dvd ,No,,nz,FILM,a-list,-999,£10825,18893,£4280,"19,054",£12655,6828,-999," 9,074",£7942," 1,833"
+27/06/2024,animation,G,MANDARIN,2d,franchise,Disney,autumn,>$150m,streaming,YES,0,canada,digital,B-LIST,-999,11141," 7,255",8033,£18798,7441,4129,£15237,8828,69,6313
+05/03/2021,drama,-999,HINDI,Imax,standalone,Sony,-999,$50-150m,,yes, 4-7 ,australia,digital,a-list,DTS," 3,593",8690,636,2920,5367,314,£1975,19700,£10950,£13547
+06/03/2021,Drama,missing,mandarin,imax,Franchise,warner,spring,$10-50m,Direct-To-Dvd,yes,4-7,us,imax 70mm,B-List,DOLBY,£13483,£1993,,15785,17241,14081,NaN,14575,12470,8238
+18/02/2024,animation,G,NA,IMAX,franchise,paramount,AUTUMN,>$150m,CINEMA,no,1-3,Nz,IMAX 70MM,a-list,atmos,14855,NaN,1240,£7240,,3676,-999,11307,£8342,£8057
+15/01/2022,Comedy,r,MANDARIN,2d,missing,paramount,Winter,>$150m, streaming ,yes, 1-3 ,uk,,NEWCOMER,dts,1570,15981,£17924,14593,£14165,9501,15237,12110,18266,6178
+19/03/2023,drama,PG,spanish,imax, franchise ,NaN,spring,>$150m,cinema,NO,0,canada, imax70mm ,NA,DTS,1687," 6,214",2156,15425,£10317,10673,959,"19,976",4890," 9,478"
+2021-10-14,comedy,15,FRENCH,STREAMING,spin-off,paramount,NaN,>$150m,DIRECT-TO-DVD,Yes,8+, us ,digital,missing,dolby,"12,351",17545,£19023,missing,7018,10488,15791,16822,246,£2004
+2024-06-14,drama,pg,mandarin,imax,Franchise,paramount,autumn,,direct-to-dvd,yes,0,NA,DIGITAL,a-list,ATMOS,9132,£3516,£5011,16150,12347,6061,£1431,NA,,"19,724"
+2022-02-24,missing,12a,English,3d,spin-Off,paramount,NA,$50-150m,streaming,yes,0,australia,NaN,-999,ATMOS,£7224,6840,18755,19577,£14975,missing,12215,£17024,18220,13829
+2023-01-29, comedy , G ,english,Imax,franchise,paramount,NaN,$10-50m,Streaming,NA,,Uk,film,b-list,atmos,"17,065",2075," 8,614",NaN,"13,101",2710,14440,7309,987,15629
+12/06/2022,comedy,NaN,spanish,streaming,Spin-Off,Disney,spring,<$10m,Direct-To-Dvd,No,0,,imax_70mm,b-list,dolby,£15158,17103,3923,5526,£15708,960,17263,," 5,239",£14861
+01/10/2022,Action,r,french,imax,franchise,warner,autumn,<$10m, direct-to-dvd ,No, 0 , us ,Film,b-list,dolby,4213,£7517,£6567," 3,509",6872,7168,8375,12637,7781,11393
+2024-05-01,DRAMA,R,,2d,reboot,sony,autumn,<$10m,streaming, yes ,4-7,us,film,b-list,atmos,£13282,"13,777",-999,4204,4672," 8,501",1568,17402,16942,"16,524"
+08/10/2022,Drama, 18 ,mandarin,3d,FRANCHISE,paramount,summer,$50-150m,cinema,No,NaN,US, Imax 70mm ,A-LIST, Dolby ,6333,"10,756"," 4,330",15423,"17,025",2406,£16609,12506,6609,12320
+"Aug 11, 2021",animation,12a,Mandarin,3d, Franchise ,universal,spring,$50-150M,direct-to-dvd,Yes,1-3,canada,FILM,b-list,-999,12720,16694,7142,3819,13792,"16,109",1485,£1256,-999,10876
+,NaN,pg,NA,streaming,standalone,,winter, >$150M ,DIRECT-TO-DVD,Yes,1-3,uk,DIGITAL,b-list, dolby ,623,19456,14874,1226,NaN,£1427,624,18517,£16750,13335
+-999,drama,18,mandarin,2D,spin-off,warner,autumn,missing,direct-to-dvd, No ,8+,nz,IMAX 70MM,A-List,dolby,9443,£4224,,13258,9223,,9180,£16130,NaN,5206
+missing,action,15,english,streaming, reboot ,NA,spring,<$10m,CINEMA,yes,4-7,us,imax 70mm,NEWCOMER,Atmos,"11,066",missing,17755,£5230,NaN,18010,"19,491",8084,4959,7508
+2023-10-20,documentary,r,Hindi,3D,spin-off,sony,Summer,<$10m, streaming ,no,8+,nz,film,Newcomer,,-999,   227,"17,262",8962,£11009,1768,3435,8491,£3469,1470
+NaN,documentary, pg ,english,3d,spin-off,warner,winter,$50-150m,streaming,yes,-999,NaN,imax 70mm,b-List,dts,2071,NaN,10766,missing,16063,18589,"14,905",8556," 5,419",17027
+2022-04-19,COMEDY,12A,spanish,imax,standalone,paramount,autumn,missing,direct-to-dvd,NO,8+,uk,film,newcomer,dts,8733,£7183," 4,079",,,7514,2246,18292,7511,"12,110"
+2021-05-08,Documentary,12a,spanish,imax,franchise,sony,winter,>$150m,NA,No,4-7,UK,digital,NEWCOMER,atmos,"16,608",4887,9131,7327,276," 5,078",2791,5629,11289,14181
+"Aug 09, 2021",horror,15,English,3d,,PARAMOUNT,Spring,$50-150m,Cinema,NaN,1-3,AUSTRALIA,film,b-list,atmos,13786,£14988,£5716,10572,3529,£6173,£13875,19702,7261," 5,934"
+NaN,Action,pg,HINDI,3d,reboot,warner,SUMMER,<$10m,CINEMA,no,0,-999,imax70mm,newcomer,DTS,18837,9316,£8690,12651,£5359,18326,18825,£4366,10904,NA
+21/03/2022,DOCUMENTARY,r,HINDI,2D,standalone,universal,summer,$50-150M,STREAMING,yes,1-3,australia,digital,missing,dolby,9618,£11276,,7758,NA,15070,8376,6389,,£19116
+25/10/2023,action,18,hindi,streaming,standalone,Universal,spring,>$150M,cinema,No,0,missing,imax_70mm,A-List,Dts,£232,,4861,7044,17036,4087,4880,£6539,£3593,12250
+2024-05-24,COMEDY,15,French,-999,reboot,sony,spring,<$10m,DIRECT-TO-DVD,YES,1-3,nz,Imax 70mm,newcomer,dts,4503,,£17692," 1,246",508,3605,9527,17420,£3057,11684
+09/01/2024,comedy,pg,mandarin,2d,standalone,warner, SPRING ,$50-150m,direct-to-dvd,no,missing,Uk,imax70mm,b-list,DTS,,£2586,8850,-999,6376,missing,10103," 7,258",13260,17500
+2021-08-09,drama,g,Mandarin,streaming,,NA,Summer,>$150m,limited,No,0,,digital,NaN,atmos,£1979,19177,5603,£715,16955,10319,£15432,NA,15081,NaN
+2022-07-09,HORROR,r,NA,missing,Franchise,SONY,spring,>$150m,Direct-To-Dvd,no,4-7,uk,imax70mm,a-List,dolby,14639," 2,757"," 6,489",£14605,13630,£9270,missing,,2826,missing
+2021-01-05,comedy,18,english,imax,Standalone,sony,spring,<$10m,streaming,yes,8+,canada, Digital ,A-List,Atmos,£417,10677,3722,11612,4127,£11908,18596,£2908," 6,920",£14686
+2022-07-28,HORROR,r,SPANISH,Imax,Reboot,Universal,missing,<$10M,streaming,yes,0,-999,digital,NaN,atmos,£13846,453,£6675,825,4156,£8155,6757,19718," 9,955",NA
+03/05/2023,DRAMA,G,HINDI, imax ,Spin-Off,universal,SPRING,$10-50m,CINEMA,YES,8+,nz,imax_70mm,a-list, Dts ,£18802,"15,806",missing,£11204,,7236,£5621,8203,17327,11707
+2022-01-19,horror,15,-999,imax,NA,sony,Winter,NaN,streaming,yes,0,australia,imax 70mm,b-List,NA,12334,£13903,15895,NaN,7596,"18,958",NA,2936,16962,18836
+"Mar 17, 2022",drama,R,spanish, 2d ,NA,warner,autumn,$50-150m,DIRECT-TO-DVD,no,0,canada, film ,newcomer,dts,"17,071",1562,"11,578",£4258,15807,6674,4520,10891,-999,13876
+NaN,DRAMA,g,NA, streaming ,SPIN-OFF,paramount, autumn ,,streaming,no,1-3,nz,digital,A-LIST,atmos,NaN,2759,18825,3892,£14793,4076,NA,3937,162,£17101
+17/12/2024,action,missing,spanish,imax,REBOOT,universal,autumn,-999,streaming,NO, 1-3 ,missing,IMAX 70MM,Newcomer,atmos,15872,£684,9200,15190,£12694,3211,10907,£1350,£5240,11843
+09/05/2021,DRAMA,r,ENGLISH,2d,reboot,DISNEY,winter,>$150m,,no,0,us,film, A-LIST ,Dts,,15553,"16,448",2169,9619,-999,8494,13560,15323,£6276
+2024-03-04,drama,r,french,Streaming,REBOOT,Warner,winter,$10-50m,Streaming,YES,0,NZ,digital,a-list,dts,18303,"10,859",missing,2738,13017,16171,15420,1634,," 3,941"
+2021-07-09,horror,r,MANDARIN,Imax,franchise,DISNEY,Autumn,>$150m,cinema, no ,0,us,Film,missing,Atmos,17505,10089,£10430,4558,£12658,£19378,£6101,12227,"15,122",4764
+22/11/2023,Drama,pg,english,imax,standalone,missing,summer,$10-50m,NA,no,8+,nz, DIGITAL ,newcomer,,10984,£9736,"10,508",3921,12958,9959,15786,11084,£13745,168
+2024-04-15,horror,15,HINDI,3D,standalone,warner,Autumn,$50-150m,direct-to-dvd,NO,8+,NZ,Imax 70mm,b-List,NA,18773,£13573,-999,,2693,5347,14273,missing,£16860,6127
+22/04/2022,horror,pg,ENGLISH,imax,STANDALONE,Warner,autumn,$10-50m,direct-to-dvd,No,4-7,uk,,b-list,DOLBY,,19214,£13447,14921,   968,13011,2194,14780,490,9539
+02/04/2021,documentary,pg,french,3D,NA,SONY,autumn,<$10m, cinema ,YES,8+,canada,Film,,dolby,missing," 7,690",5093,£18680,19172,14966,NaN," 7,271",4736,14577
+2024-03-04,-999,,FRENCH,2D,missing,sony,autumn,$10-50m,,YES,NaN,UK,digital,-999,Dts,11836,"10,902",£4743,5190,19258,11348,15116,17589,6886,
+-999,horror,NA,Spanish,streaming,missing,paramount,spring,$10-50M, LIMITED ,No, 1-3 ,Australia,digital,a-list,Atmos,9881,5431,"11,235",£19399,£3670,3958,,2934,10201,£10803
+10/08/2021,Comedy,G, french ,Imax,SPIN-OFF,sony,Spring,missing,LIMITED,no,0,us,NaN,a-List,atmos,15517,1686,3210,2254,10412,11524,18179,10893,"16,993",
+"Apr 16, 2022",horror,15,English,streaming,SPIN-OFF,disney,summer,$10-50M,Direct-To-Dvd,Yes,1-3,CANADA,imax_70mm,b-List,-999,missing,5883,33,4228,£19793,6027,17512,£14673,10783,-999
+2024-02-02,animation,18,spanish,3D,spin-off,NA,winter,missing,NA,YES,8+,canada,imax_70mm,A-LIST,atmos,11908,3914,8521,£7653," 8,349",£10966,£12239,15223,£7090,12648
+11/08/2024,drama,12a,FRENCH,imax,Spin-Off,disney,Autumn,$10-50M,cinema,Yes,NaN, australia ,imax 70mm,A-List, atmos ,10486,1408,7708,£8563,7884,5345,12061,19526,16817,NA
+2024-01-04,action,15,,3d,STANDALONE,disney,AUTUMN,>$150M, STREAMING ,yes,-999,australia,imax_70mm,NEWCOMER,dts,16699,11925,-999,17080,6902,£11090,14093,-999,11423,£2905
+30/06/2021,drama,18,Hindi,3d,Standalone,paramount,spring,$50-150m,DIRECT-TO-DVD,no,4-7,Canada,Imax 70mm,b-List,dts,"18,752",7909,9973,"17,475",NaN,1473,NA,15874,"14,126",19377
+2024-01-22,Documentary,g,english,3D,standalone,NaN, autumn ,>$150m,STREAMING,no,8+,us,IMAX 70MM,a-List,dts,8502,"19,856",4549,"17,338",12159,£11757,8244,£10462,£6491,-999
+"Oct 27, 2024", DOCUMENTARY ,g,hindi,imax,STANDALONE, disney ,autumn,$10-50m, LIMITED , no ,0,australia,Imax 70mm,-999,atmos,NaN,4025,7402,9429,12477,"17,573",13674,15082,8332,"10,635"
+2022-05-24,ACTION,r,mandarin,2d,reboot,sony,Winter, $50-150m ,LIMITED,no,8+,Uk,IMAX 70MM,b-list,dolby,15025,3977,2283,14919,NA,11425,£17715,15785,8043,16218
+-999,horror,12A,english,missing,STANDALONE,Sony,Summer, <$10M ,streaming,NA,1-3,canada,film,a-list,dolby,18524,14676,NaN,4950,£5801,19379,£9011,19280,16568,5509
+12/06/2023,ANIMATION,-999,spanish,IMAX,standalone,DISNEY,AUTUMN,>$150M,CINEMA,no,0, Australia ,FILM,Newcomer,atmos,£14004,14373,14214,2623,6080,7545,14498," 6,165",NaN,14815
+22/10/2021,horror,r,hindi,IMAX,NaN,sony,Summer,$10-50m,streaming,NA,4-7,NA,-999,a-list,Dolby,11719,7430,£16172,8556,18323,missing,"10,940",10062,12944," 4,100"
+2023-09-09,action, 18 ,NaN,IMAX,reboot,warner,winter,$50-150m, direct-to-dvd ,NO,8+,AUSTRALIA,film,B-LIST,dolby,,£5671,"13,538",£6689," 3,478",,291,11577,9949,missing
+2022-10-21,horror,pg,hindi,STREAMING,standalone,missing,autumn,>$150m,limited,yes,0,us,film,B-List,dolby,1269,10981,8770,13142,9795,£5501,£15759,"18,982","17,598",2815
+05/07/2021,missing,12a,english,IMAX,,warner,,$10-50M,CINEMA,yes,4-7,uk,Imax 70mm,a-list,DTS,8572,,NA,£10251,£13388," 9,823",8789,16318,9707,4596
+2021-10-27,COMEDY,12a,missing,missing,standalone,sony,spring,<$10m,STREAMING,missing,8+,CANADA,Digital,NEWCOMER,Dolby,16529,"19,524",14139,1966," 2,917",7798,12861,8757,18096," 5,008"
+14/09/2023,Horror,g,spanish,2d,spin-off,DISNEY,autumn,-999,missing,yes,1-3,canada,imax70mm,Newcomer,-999,£16969,   836,-999,"13,779",17845,8262,15096,£16153,9815,-999
+2023-06-09,ANIMATION,18,mandarin,2d,Standalone,NaN,spring,$50-150M,-999,Yes,missing,australia, imax 70mm ,NaN,DOLBY,14613,3241,8594,7579,NA,"11,813",16773,13728,NaN,£1564
+-999,Horror,18, ENGLISH ,imax,-999, DISNEY ,autumn,$10-50m,cinema,-999,4-7,australia,NaN,a-List,ATMOS,11629,-999,,missing,,5279,£5232,£828,"14,347",missing
+16/09/2024,action,NaN,english,2D,franchise,warner,NaN,$10-50m,streaming,yes,4-7,us, digital ,a-List,atmos,5384,NA,6264,11882,£18867,12292,1181,£12147,£8529,"19,444"
+2024-08-21,drama,18,SPANISH,2d,spin-Off,,NaN,-999,,no,4-7,uk,FILM,newcomer,dolby,11784,1710,£13016,8490,£10478,7279," 3,100",17085,5358,308
+30/07/2024,DOCUMENTARY,15,hindi,imax,Reboot,Paramount,spring,$50-150m,Limited,no,1-3,Us,film,A-List,dolby,missing,4478,"11,287",6065,"14,086",9890,8104,,£7874," 9,040"
+NA, Drama ,NaN,French,2d,Franchise,WARNER,NA,$50-150M,limited,NO,0,US,Digital,a-List,dts,7013,£15620,1488,£17574,11543,NA,18991,1199,12026,2308
+"Jun 06, 2022",horror,15,FRENCH,imax,franchise,sony,winter,<$10M,missing,Yes,4-7,NaN,missing,a-List,atmos,19940,"18,011"," 9,307",6001,12465,£948,£19144,12165,2604," 2,629"
+08/06/2023,animation, 18 ,mandarin,streaming,Spin-Off,UNIVERSAL,winter,$10-50M,direct-To-Dvd,yes,1-3,,digital, newcomer , dts ,8188,13690,1193,8383,,13857,8172,14896,missing,10464
+09/06/2024, action ,15,hindi,NaN,Reboot, paramount ,winter,$50-150m,limited,no,8+,us,,A-LIST,-999," 9,006",627,£1163,16086,"17,596","15,739",,10162,16546,"18,554"
+2023-10-07, drama ,15,Hindi, imax ,Standalone,warner,Spring,<$10m,NaN,NA,8+,canada,imax_70mm,newcomer,Dolby,560,NaN,NaN,14358,£3472,15713,1858,-999," 4,148",5239
+2022-08-15,missing,Pg,french,2d,franchise,Sony,autumn,>$150m,-999,yes,8+,UK,digital,a-list,Dts,NA,12856,£8851,4772,-999,"16,151",NaN,7753,8704,"10,969"
+03/10/2022,ACTION,15,mandarin,STREAMING, franchise ,PARAMOUNT,autumn,$10-50M,STREAMING,YES, 4-7 ,AUSTRALIA,imax 70mm,NEWCOMER,-999,-999,14530,1229,10698,£10481,£15489,"17,774",NA,16212,8867
+2023-07-18,Documentary,pg,english,imax,standalone,paramount,winter,-999,NA,yes,1-3,missing,digital,newcomer,dolby,3752,4263," 5,212"," 6,076",missing,2290,19280,"11,291",3554,£14868
+NaN,HORROR, g ,english,2d,Standalone,,summer,NA,missing,yes,4-7,uk,digital,missing,Atmos,,16072," 9,352","19,711",missing,2017,8817,£12291,£1162,16336
+2023-02-19,Horror,15,ENGLISH,imax,Franchise,paramount,autumn,$50-150m,limited,NO,0,uk,,missing,dts,£11501,NA,missing," 2,831",17675,,missing,10147,£3043,£8167
+missing,Comedy,pg,NaN,Streaming,Franchise,warner,winter,$50-150m,direct-to-dvd,yes,4-7,Uk,NaN, b-list ,NA,4331,missing,£1710,11559,5131,16420,8901,NaN," 9,596",18554
+26/07/2022,-999,pg,french,2D,spin-Off,warner,spring,$50-150M,Direct-To-Dvd,no,4-7,CANADA,-999,b-List,atmos," 4,041",missing,"10,144",6512,9206,£15067,9931," 8,894",19610," 2,626"
+"Dec 02, 2022",Action,R,hindi,2d,standalone,disney,Summer,$10-50M,DIRECT-TO-DVD,No,8+,Us,FILM,NaN,-999,831,14918,NA,9775,"17,936",£13502,19107,"10,734",£6246,10448
+2024-07-08,drama,G,spanish,3d,Franchise,universal,Spring,>$150M,limited,no,1-3,NA,IMAX 70MM,a-list,NaN,-999,"18,183","17,072",NA,£123,£14734,£18302,6204,6683," 3,105"
+2022-11-03,-999,pg,ENGLISH,NaN, Franchise ,DISNEY,spring,$10-50m,DIRECT-TO-DVD,NO, 1-3 ,-999,imax70mm,a-list,dolby,£10078," 5,784",6193,3491,11429,8215,3615,12728,"16,886",9477
+07/05/2021,drama, R ,english,3d,spin-Off,NA,winter,$50-150M,direct-to-dvd,yes, 0 ,UK,Film,B-List,-999,£7679,"18,703",£1989,£19846,716,"10,579",£18845,16907,9835,10027
+2023-04-19,NA,r,MANDARIN,2d,reboot,NaN,WINTER,>$150m,streaming, yes ,0,uk,DIGITAL,a-list,dts,-999,"14,976",16665,£4378,17314,2137,10622,8528,£18040,"13,824"
+28/02/2021,drama,18,spanish,3D,standalone,SONY,missing,$50-150m,direct-to-dvd,Yes,0, AUSTRALIA ,imax70mm,NEWCOMER,Dolby,18318,13932,-999,10,12188,£4283,582,£1847,£15280,17367
+2022-05-09,documentary,NA,english,STREAMING,standalone,disney,Spring,>$150m,limited,no,4-7,Nz,NA,b-list,atmos,15391,"15,157",17960,19642,8807,14509,11166,"17,465",2587,17133
+26/04/2023,comedy,12a,mandarin,imax,-999,Disney,winter,$50-150m,missing,No,4-7,NZ,,a-list,missing,9253," 6,253",5569,9324,15039,13232,£9573,"19,574",£18289,3397
+29/09/2021,Drama,15,french,missing,FRANCHISE,universal,summer,$10-50m,CINEMA,Yes,8+,us,digital, b-List ,dolby,NA,4692,18525,1486,786,£4434,£17479,,NaN,4406
+27/10/2024,NaN,Pg,-999,imax,standalone,universal,winter,>$150m,streaming,No,1-3,CANADA,Digital,newcomer,atmos," 1,633",1588,15245,8070," 8,541",3214,£2889,3564,"17,152",1800
+2021-06-19,documentary,PG,MANDARIN,2d,NA,universal,Winter, $50-150m ,cinema,missing,8+,US,film,b-list,Dts,2877,17346,NaN,,£7640,7069,9815,8571,,14081
+2021-04-05,Documentary,NA,english,3d,reboot,paramount,Summer,>$150m,streaming,No,8+,Uk,film,b-List,dts,£13123,9200,"17,963",17935,7742,"15,901",,5469,missing,8532
+02/04/2024,action,18, mandarin ,2d,standalone,warner,summer,$50-150M,DIRECT-TO-DVD,No,1-3,US, digital ,newcomer,Dts,15389,4444,19354,7076,£449,8484,NaN,3523," 7,465",7313
+2024-05-09,DRAMA,Pg,mandarin,-999,Reboot,SONY,summer,<$10m,Streaming,NaN,1-3,australia,digital,newcomer,ATMOS," 1,770",NA,5636,13121,12766,-999,-999,13408," 6,870","17,828"
+07/02/2022,animation,NA,,2d,reboot,SONY,Spring,$50-150m,limited,no,0,Uk,,B-LIST,Atmos,5461,£1818,-999,£2704,"14,810",2641,-999,-999,£1714," 6,921"
+23/06/2023,ACTION,18,french,imax,franchise,paramount,-999,-999, direct-to-dvd ,Yes,1-3,Nz,film,newcomer,dts,17484,," 1,879"," 9,989",£9653,17496,15091,"17,460",16653,19013
+2024-08-19,documentary,g,-999,2d,-999,-999,summer,>$150m,Cinema,yes,1-3,US,Digital,B-List,atmos,NA," 9,111",2165,13504,£10428,5630,,£14262,NaN," 2,243"
+"May 17, 2021",NaN,18,-999,2d,Standalone,sony,Spring,$10-50M,Streaming,No,0,Us,film,B-LIST,atmos,2057,2718,10939,£4220," 7,409",7770,£11947,-999,-999,2747
+,Action,15,FRENCH,2d,FRANCHISE,DISNEY,spring,$50-150m,direct-to-dvd,yes,0,australia,FILM,a-list,dts,"12,775",1316,£16487,£1447,,11019,£3218,4492,6568,3418
+"Apr 17, 2023",-999,,HINDI, imax ,standalone,DISNEY,autumn,missing, cinema ,YES,0,NaN,film,NA,Atmos,6135,6418," 2,925",£10918,,10431,"18,336",10401,16340,
+"Dec 06, 2021",animation,pg,French,,spin-off,sony,summer,$10-50m,NA, no ,0,canada,digital,b-list,ATMOS,£6132,7323,430,£11351,2061,"17,197",1788,11591,   269,13373
+29/11/2021,drama,12a,Hindi,streaming,FRANCHISE,sony,NaN,$10-50m,cinema,no,,Uk,IMAX 70MM,newcomer,dolby,15452,8111,4790,5287,14537,£15459,60," 8,535",5504,14404
+05/02/2023,action,18,english,streaming,standalone,,Winter,<$10m,Direct-To-Dvd,No,8+, US ,-999,newcomer,missing,8751,17533,£3698,4964,10093,missing,£6291,NaN,12689,11928
+04/11/2021,drama,NaN,Hindi,NA,standalone,paramount,SPRING,>$150M,LIMITED,NaN,4-7,Canada,Imax 70mm,b-list,dolby,5951,-999,11769,14600,14601,19570,4374,11880,,5208
+"Aug 23, 2023",action,12A,Mandarin,missing,NA,disney,autumn,$10-50m,streaming,YES, 8+ ,australia,DIGITAL,newcomer,dts,7064,NaN,NaN,2781,£10584,"15,322",,7581,£7333,-999
+missing,drama,15,missing,streaming,Reboot,Sony,NaN,>$150m,limited,no,,canada,missing,newcomer, Dolby ,1000,19757,NaN,,missing,11435,"17,423",£2121,186,7142
+2023-08-16,NaN,12A,Mandarin,imax,Standalone,universal,missing,,-999,Yes,4-7,NZ,film,NA,missing,"16,373",£13821,"19,057",£1532,-999,2331,"16,810"," 3,542",8388,NA
+2023-01-18,documentary, 15 ,mandarin,3d,,sony,WINTER,>$150m,streaming,yes,0,missing,film,,dolby,10144,NaN,6599,6779,,£10025,13116,   467,15620,£364
+13/11/2022,action,G,mandarin,2D,Reboot,Disney,spring,$50-150M,cinema,No,1-3,uk,film,,dolby,17080,19033,£15844,9141,£12885,16313,NaN,9155,6242,4295
+27/03/2022,documentary,r,MANDARIN,STREAMING,Spin-Off,NA, AUTUMN ,>$150M,DIRECT-TO-DVD, Yes ,1-3,canada,IMAX 70MM,newcomer,dolby,£19059,-999,19817,9967,6786,£11493,£6609,9561,9217,
+19/04/2021,DOCUMENTARY,15,FRENCH,imax,Standalone,WARNER,Winter,>$150M,limited,no,1-3,nz,Digital,B-List,ATMOS,9164,£12894,£19373,19746,8770,4058,6244,missing,£3626,£10748
+"Sep 16, 2022",action,g,spanish,IMAX,franchise,disney,autumn,$50-150m,DIRECT-TO-DVD,no,1-3,uk,imax_70mm,b-list,ATMOS,NaN,£12375," 1,044",6796,3973,4242," 8,275",2188,7371,17834
+01/05/2024,documentary,r,-999,3d,spin-off,paramount,SPRING, <$10m ,NaN,Yes,NaN,canada,Film,Newcomer, dolby ,7773,10637,6814,17666,£18594,10615,£19647," 1,876",missing,"17,435"
+2021-09-20,drama,18,ENGLISH,missing,STANDALONE,DISNEY,spring,<$10m,STREAMING,no,1-3,australia,Digital,a-List,DTS,3351,19446,NaN,1,6668,1401,£16963,5228,17939,6750
+2024-11-21,Action,15,NaN,IMAX,missing,disney,-999,>$150m,LIMITED,Yes,8+,canada,-999,newcomer,atmos,"10,926",10984,£11134,6411,9861,19367,16339,5016,10157," 3,712"
+01/05/2022,ANIMATION,r,Hindi,2d,franchise,sony,WINTER,$10-50m, cinema ,no,1-3,australia,digital,a-list,NA,"15,001",NaN,9709,missing,10269,£11379,£19050,£72,18664," 4,003"
+18/08/2022,DOCUMENTARY,18,mandarin,2d,reboot,WARNER,spring, <$10m ,streaming,NO,0,australia,film,a-List,atmos,9185,16676,2929,7031,£10057,NA,1396,19257,NA,5459
+"Aug 11, 2023",NA,R,hindi,NA,reboot,disney,Spring,>$150m,direct-to-dvd,no,1-3,uk,film,b-list,Dolby,1442,292,6167,"17,567"," 4,897",6098,"15,203",,16446,881
+2022-12-14,action,15,FRENCH,3d,standalone,Universal,SUMMER,$10-50M,Direct-To-Dvd,No,0,nz,digital,A-LIST,dolby,missing,13920,6239,19674,2623,£285,11276,"16,276",11756,7978
+2022-09-28,missing,r, english ,STREAMING,spin-Off,UNIVERSAL,autumn,>$150m,streaming,no,1-3,AUSTRALIA,Film,A-List,dolby," 2,788",15931,2913,11607,15174,7285,416,6916,NA,£3203
+19/12/2023,animation,18, spanish ,imax,reboot, Sony ,spring,>$150M,Cinema,NO,1-3,Uk,imax 70mm,b-List,NA,£16260,£493," 7,929",11308,"15,926","11,025"," 4,441",4521,16084,16030
+"Sep 19, 2021",HORROR,,hindi, Streaming ,-999,universal,Spring,$10-50m,NA,no,1-3,NZ,IMAX 70MM,-999,dolby,NaN,£8858,£1521," 5,394",NA,16121,17908,11822,17918,17497
+"Oct 07, 2024",documentary,18,HINDI,streaming,reboot,disney,summer,$10-50m,cinema,NA,4-7,uk,film,a-list,dolby,NA,£17566,£10482,19380,18094,3880,19322,11696,"19,093",£7014
+NaN, comedy ,g,hindi,3d,STANDALONE,sony,WINTER,>$150M,streaming,yes,8+,AUSTRALIA,Imax 70mm,a-List, dolby ,£7700,£17816,1334,12989,4723," 4,181",NA,12417,£8034,7130
+25/08/2023,action, G ,,2d,-999, warner ,winter,<$10m,-999,no,4-7,nz,film,b-list,dts,19771,18292,19829,12507,16190,NA," 1,622"," 2,516",2771,19164
+07/04/2022,animation, 12a ,hindi,3D,REBOOT,disney,autumn,<$10m,NA,YES,0,UK,digital,newcomer,dolby,£13142,£3577,£15924,£19973,4700,15028,4249,14362,1958,19401
+26/11/2021,DOCUMENTARY,15,Mandarin,imax,franchise,warner,winter,>$150m,direct-to-dvd,NA,1-3,CANADA,film,Newcomer,dts,£15074,£17822,7790,2632,17475,6765,8883,7722,11705,1380
+01/05/2022, action ,,spanish,3d,REBOOT,Sony,summer,$10-50m,missing,No,8+,Canada,DIGITAL,newcomer,Dts,16930,missing,11672,1714,17955,10432,12094,1147,-999,NA
+2021-12-31,,pg,English, 2D ,spin-Off,-999,Spring,,STREAMING,yes,1-3,-999,missing,newcomer,DOLBY,2464,15072," 6,067","11,771",£8740,"15,681",£13773," 3,734",1097," 7,909"
+2021-06-16,action,18,french,2d,reboot,paramount,WINTER,$10-50m,streaming,YES,4-7,AUSTRALIA,digital,a-list, dolby ,NaN,,10081,18314,17688,"14,712","10,836",7778,13088,£1437
+29/05/2023,NA,g,spanish,2D,reboot,disney,SPRING,>$150m,Streaming,No,1-3,uk,imax_70mm,a-list,DTS," 3,857",6351,19100,11385,19229,377,"13,661",£2358,15584,£6818
+2024-02-23,action,-999,spanish,missing,reboot,PARAMOUNT,autumn,NaN,DIRECT-TO-DVD,No,0,uk,NA,b-List,Dts,16907,4227,NaN,14754,19776,5020,6051,,5326,6634
+28/01/2023, Documentary ,12a, hindi , streaming ,-999, Disney ,winter,$50-150m,Limited,No,4-7,,digital,A-LIST,Dts,£3464,18931,606," 1,713","15,216",2689,-999,-999,19740,9887
+2023-09-17, horror ,15,mandarin,2d,REBOOT,SONY,winter, $50-150M ,CINEMA,,1-3, uk ,Digital,a-List,NaN,"17,324",3884,NA,17396,£7661,10370,,10664,7631,"18,149"
+2022-07-03,comedy,PG,NaN,STREAMING,standalone,paramount, AUTUMN ,>$150m, Limited ,Yes,8+,US,FILM,NEWCOMER,NA,13888," 3,112",2665,-999,18617," 3,901",£8705,3312,£10371,1023
+05/11/2024,ANIMATION,18,mandarin,2D,reboot,NaN,SPRING,<$10m,Direct-To-Dvd,YES,8+,australia,Film,b-list,Dts,6070,£18568,£5952,7748,£11519,14356,1884,,"13,636",4505
+22/02/2021,COMEDY,12a,mandarin,3d,reboot,SONY,spring,-999,LIMITED,YES,1-3, us , IMAX 70MM ,b-list,ATMOS,3693,4813,"13,505",3526,15238,£4407,-999,"14,308",11959,£8355
+2021-04-06,action,18,MANDARIN,3d,STANDALONE,UNIVERSAL,-999,>$150M,DIRECT-TO-DVD,NO,-999,NZ,digital,NEWCOMER,-999,14170,3479,17592,9174,8422,£2074,,NA,5445,7518
+09/07/2022,HORROR,G,NaN,Imax,franchise,warner, Winter ,<$10m,cinema,yes,4-7,uk,digital,B-LIST,dts,-999,£19326,13575,,2616,16408," 7,572",NaN,,£868
+2022-04-04,animation,18,english, 2d ,-999,paramount,summer,$50-150m,cinema,No,1-3,canada,Film,NEWCOMER,DOLBY,7130,3908," 4,427",19586,3123,19771,£11182,-999,16236,NA
+2022-08-13, Comedy , Pg ,mandarin, STREAMING ,spin-off,UNIVERSAL, Spring ,<$10M,cinema, no ,8+,Us,Film, Newcomer ,atmos,8825,8232,"12,799",,19025,"14,825",-999,5227,"15,946",10094
+-999,drama,18,Hindi,streaming,Spin-Off, paramount ,Summer,>$150m,Cinema,yes,0,uk,imax 70mm,b-list, Dolby ,11777,4847," 5,703"," 2,674",11107,NaN,4973,NA,2121,4997
+2024-09-23,action,18,missing,Imax,spin-off,universal,summer,missing,STREAMING, no ,1-3,CANADA,,newcomer,dts,"14,247",6575,£2602,-999,226,£3661,NaN,9227,missing,1354
+"May 14, 2021",DOCUMENTARY,15,FRENCH,2d,Spin-Off,NA,summer,<$10m,Limited,no,8+,australia,, Newcomer ,atmos,12739,8637,3386,737,4606,"13,670",1186,18134," 4,548",17576
+23/10/2021,animation,G,french,missing,reboot,Paramount,Winter,<$10m,cinema,no,1-3,nz,imax_70mm,newcomer,DTS,4161,2724,-999,6742,£18930,missing,8250,9130,7349,£11030
+,action,pg,spanish,imax, Reboot ,disney,winter,<$10m,streaming,Yes,1-3,CANADA,Film, A-List ,atmos,19672,2086,8590,,£11392,£6560,8374,£19439,15614,12927
+2024-11-16,Action,R,hindi, 3d ,Spin-Off,warner,spring,-999,Streaming,No,-999,us,film,b-list,NA,9366,3837,"17,004",6114,7236,"12,793",18841,4487,7273,£16911
+2023-12-25,animation,12A,spanish, Imax ,spin-off,SONY,winter,NA,streaming,YES,1-3,uk,Imax 70mm,newcomer,Dolby,17222,18019,18073,19927,£19829,missing,-999,19539,NA,4405
+23/11/2024,Action,missing,spanish,streaming,franchise,universal,summer,>$150m,Limited,NA,8+,uk,imax70mm,B-LIST,DTS,NaN,5764,8605,,17871,,6791,8984,"18,184",missing
+17/03/2021,Documentary,15,FRENCH,3d,spin-off,sony,Autumn,<$10m, streaming ,-999, 1-3 ,,film,a-list,DOLBY,2270,11896,12726,,1625,8975,7652,19547,18410,9640
+06/03/2021,,12a,mandarin,missing,STANDALONE,-999,summer,,CINEMA,NO,0,missing,imax_70mm, Newcomer ,atmos,"19,274",3564,9481,5138," 8,996",4853,£775,14430,3589,5010
+30/10/2023,DRAMA,G,French,NaN,reboot, warner ,,<$10m,streaming,,8+,australia,Digital,a-list,dts,10631,-999,,2486,£2915,£16680,9772,3415,13569,£9219
+2021-02-16,documentary,G,Mandarin,3d,SPIN-OFF,missing,SUMMER,-999,missing,yes,8+,uk,film,b-list,atmos,£19227,"11,732"," 8,603","18,952",7430,NA,7839,4600,£16717,"18,463"
+2023-11-16,DOCUMENTARY,NA,english,3d,NaN,Sony,winter,$10-50M,direct-to-dvd,Yes,8+,nz,digital,B-LIST,dolby,7000,2687,£2188,838,"19,410",13529,6857,£19222,5122,NA
+31/08/2021,drama,12a,hindi,IMAX,franchise,paramount,,>$150m,streaming,No,1-3,us,digital,B-LIST,Dts," 2,603",4097,£9631,£988,566,"18,600",19916,8428,6992,3779
+2021-07-12,Animation,r,english,imax,Spin-Off,NaN,spring,>$150M,cinema,,1-3,nz,FILM,missing,Dts,8603,16462,"11,020",6594,£1579,18235,10153," 2,960",14419," 8,513"
+2022-08-17,animation,-999,spanish,3D,franchise,warner,-999,<$10m,CINEMA, yes ,0,australia,digital,a-list,dolby,,3980,NA,18164,5180,7062,18615," 9,615",18427,£10944
+06/04/2023,animation, r ,NA,2d,franchise,SONY,NA,>$150m,Limited,no,0,uk,Film,b-list,dts,,19989,8739,missing,£1058,421,5383,£14920,missing,5489
+2024-08-14,action,missing,english,3d,franchise,universal,autumn,$10-50M,DIRECT-TO-DVD, no , 4-7 ,NaN,digital,b-List,dolby,183,NA,6503,,15321,15924,18098,17943,"17,386",£9887
+"Sep 15, 2023",Drama,r,English,-999,NaN,Disney,summer,<$10M,cinema,NO,NA,NZ,film,a-list,Dts,2190,," 5,467",£14626,"13,440",£9670,-999,"10,673"," 2,906",£17975
+2023-04-23,Animation,g,mandarin,streaming,franchise,disney,summer,>$150m,LIMITED,Yes,4-7,nz,digital,NEWCOMER,ATMOS,"15,607",,5241,11117,NaN,13088,5990,11847,NaN,13559
+2024-04-17,drama,18,hindi,streaming, franchise ,Warner,summer,missing,direct-to-dvd,Yes,8+,nz,digital,A-LIST,DTS,£3161,£5161,10661,5216,11398,4284,10973,15811,12454,16994
+NaN,horror,PG,,Imax,NaN,SONY,autumn,$10-50m,LIMITED,yes,8+,canada,IMAX 70MM,NEWCOMER,atmos,18124," 7,244",46,£12844,10500,3787,NaN,8896,6375,"19,274"
+17/08/2022,drama,g,FRENCH,IMAX,FRANCHISE,Paramount,summer,$50-150m,cinema,No,0,nz,imax 70mm,a-list,dolby,NA,"19,007"," 5,026",11734,6224,5991,16384,"18,782",8225,missing
+08/09/2022,comedy,18,HINDI,imax,Standalone, Universal ,Autumn,NaN,streaming,,8+,nz,,Newcomer,atmos," 1,589",5357,£11302,£13031,"12,025",NaN," 8,669",16962,-999,9295
+2022-12-17, Animation ,12a,MANDARIN,3d,spin-Off,UNIVERSAL,autumn,$10-50m,direct-To-Dvd,yes,1-3,,FILM,NEWCOMER, DTS ,£16463,NA,7834,£3943,1006,£5719,13742,1801,£3741,6340
+09/10/2024,documentary,pg,hindi,2d, SPIN-OFF ,disney,SPRING,<$10m,NA,yes,4-7,NA,Imax 70mm,b-list,DTS,18039," 5,800",2153,9308,NaN,15636,12319,-999,14901,NaN
+2022-11-04,documentary,PG,Mandarin,3D,REBOOT,-999,AUTUMN,$50-150m,limited,no,NA,nz,digital,NaN,dts,£4519,£16433,£18408,£13372,NaN,1363,16129,7314,19589,NA
+18/12/2021,Drama,18, hindi ,missing, standalone ,Paramount,summer,$50-150m,LIMITED,NO,1-3,australia, Film ,-999,missing,4872,£16998,4144,13395,NA,NaN,NA,,10178,NaN
+missing,documentary,18,NA,2d,SPIN-OFF,paramount,winter,<$10m,limited,yes,missing,us,digital,A-List,atmos,6114,12928,14216,7410,17705,1847,4980,8933,17479," 4,574"
+06/03/2024,NA, g ,french,-999,spin-off,WARNER,Spring,$10-50m,cinema, yes ,0,UK,film,b-List,dolby,£13919,13742,"19,510",8005,16003,18888,NaN,9934,3123,13652
+2022-11-10,documentary,G,SPANISH,missing,franchise,disney,spring,$10-50m,limited,no,1-3,-999,film,newcomer,NA,"11,744",£3896,,12314,£143,9135,NaN,14340,19962,6697
+2021-08-28,drama,-999,english,3d,franchise,,NaN,$50-150m,Streaming,yes,8+,,Imax 70mm,NaN,dolby,£4798,NaN,18945,2546,1307,8129,9679,5171,11346," 2,738"
+14/09/2024,documentary,15,NaN,2d,REBOOT,Paramount,summer, >$150m ,Limited,Yes,0,nz,film,b-List,-999,missing,8561,NaN,£5646,5001," 3,234",8610,12381,12959,"18,771"
+2022-09-16,action,12a,missing,3d,NaN,paramount,autumn,<$10m,limited, no ,8+, australia ,imax 70mm,NEWCOMER,DOLBY,£15734,1360,7651,13675,£11759,13783,17930,11671,19779,19514
+28/04/2023,action, g ,french,NA,reboot, sony ,summer,<$10m,cinema,Yes, 1-3 ,uk,imax_70mm,a-list,dts,7939,£18019,NaN,2779,2286,6826,NaN,10293,2584,15249
+18/08/2023,missing,PG,english,streaming,spin-off,universal,autumn,$10-50m,NaN,no,1-3,canada,FILM,b-list,dts,5765,18606,NaN,"15,974",-999,"10,421",5783," 2,848",£16234,£13580
+01/06/2021,COMEDY,18,english,2d,SPIN-OFF, WARNER ,autumn,>$150m, CINEMA ,no, 0 ,, Imax 70mm ,Newcomer,dts,19486,15972,9914,17237,£13962,-999,15167," 7,770","10,849"," 6,925"
+2021-10-09,drama,R,hindi,imax,franchise,universal,NA,$50-150M,direct-to-dvd,NA,4-7,US,IMAX 70MM, b-list ,Dolby,11986,14771,£183,"17,701",14413,559,"14,083",£6687,12602,2931
+2021-01-28, action ,15,ENGLISH,3d,Standalone,Paramount,WINTER,-999,CINEMA,NaN,4-7,us,film,b-List,-999,-999,-999,missing,10223,17047,13920," 8,039",15859,£5166,NaN
+2022-02-26,Comedy,12a,hindi, IMAX ,franchise,Warner,winter,$10-50M,cinema,missing,8+,AUSTRALIA,imax70mm,newcomer,ATMOS,19901,NA,missing,19647,5873,9611,£18568,7045,missing,10107
+22/06/2023,Documentary,G,french,imax, REBOOT ,-999,NA,-999,cinema,yes,1-3,UK, film ,b-List, dolby ,3523,4943,£13672," 5,909",5304,NaN,"16,922",NA,7703," 6,779"
+2022-09-17,action,12a,english,Imax,spin-Off,DISNEY,spring,$50-150m,direct-to-dvd,no,,us,digital,B-LIST,dolby,£9621,19952,6874,£12397,14695,£13463,10523,9207,12043,781
+2022-08-04,drama,R,french,Streaming,,universal,winter,$50-150M,Cinema,yes,0,CANADA,film,b-list,Dts,£6326,14355,£8712,10800," 8,291",2562,2945,missing,893," 8,949"
+2021-04-08,drama,r,hindi,STREAMING,franchise,WARNER,-999,>$150m,LIMITED,no,8+,NaN,,,atmos,£14867,18117,NaN," 4,019",14577,19601,17986,£8213,6254,6030
+29/05/2022,COMEDY, 15 ,english,Imax, franchise ,Universal,SUMMER,>$150m,Direct-To-Dvd,NO,1-3, australia ,imax 70mm,newcomer,Atmos,18205,£5202,missing,3237,5268,7061,   562,14800,16923,8372
+08/01/2023,horror,PG,missing,Imax,Franchise,warner,summer,$50-150m,direct-to-dvd,Yes,4-7, nz ,DIGITAL,a-list,atmos,5385,17603,"11,408"," 2,201",19754,14759,NA,9096,4014,16873
+"Jul 13, 2021",missing, 18 ,SPANISH,imax,franchise,disney,Autumn,$50-150m,NaN,Yes,1-3,NZ,film,,dts,13139,£6934,14627,14554,113,£3547,"16,955",3905,8292,£4293
+2023-03-05,NA,12A,SPANISH,streaming,Standalone,-999,autumn,,Cinema,no,0,canada,NA,b-list,atmos,£6296,4572,"16,201",19419,2542,missing,15314,"17,109",8033,£951
+2021-07-04,comedy,12a,HINDI,3d, Franchise ,NA,spring,$10-50M, DIRECT-TO-DVD ,no,0,australia,film,b-list,dts,7745,14304,16648,14162,7700,4055,   935,10247,-999,£6903
+2021-08-06,Action,r,english,missing,franchise,Paramount,winter,$50-150m,limited,yes,1-3,AUSTRALIA,-999,missing,dolby,1358,16568,11573,205,£13486,19944,5359,"17,781",13838," 8,924"
+"Oct 13, 2023",Drama,15,NaN,Imax,NaN,paramount,spring,>$150m,NA,no,0,missing,Film,Newcomer,dts,£2164,NaN," 5,472",2254,7116,4192,9000,£3532,"12,465",5093
+"Aug 13, 2022",action,15,Spanish,Imax,REBOOT,paramount,Spring,>$150m,CINEMA,yes,4-7,Canada,imax 70mm,b-list,ATMOS," 2,932",£19961,8125,14377,"10,393","18,061",19314,944,£12945,2156
+2024-02-29,Animation,r,mandarin,imax,NA,sony,SUMMER,<$10m,cinema,NaN,0,uk,Imax 70mm,A-List,dts,18712,18117,12980,17872,NA," 4,353",18147,9257,17148,12783
+16/02/2022,animation,pg,english,streaming,franchise,universal,Summer,$50-150m,direct-to-dvd,No,4-7,us,missing,,dts,6711,11942,9193,£10307,"11,183",1218,£13489,"15,221",14871,11388
+2023-12-04,HORROR,NA,english, 2D ,franchise,NaN,winter,$50-150m,streaming,yes,4-7,Nz,imax_70mm,b-List,dts,NaN,6330,"18,525",17081,4483,14100,18473,16509,18189,£19876
+2022-03-08,Action,pg,hindi,3d,spin-off,WARNER,spring,$50-150M,streaming,no,0,australia,digital,NA,Dolby,14963,415,6597,-999,,-999,£6810,,8461,£16223
+2023-10-20,animation,pg,hindi,,missing,universal,SUMMER,<$10m,direct-to-dvd,Yes,1-3,nz,,a-list,atmos,18701,16141,£19364,NaN,10562,NA,NaN,£4519,10621,7885
+2021-07-23,horror,G,-999,3d,standalone,sony,spring,<$10M,Cinema,-999,8+,Uk, imax70mm ,newcomer,dolby,16081," 4,344",NaN,879,11240," 2,925",9293,"10,251",14570,"14,154"
+"May 09, 2022",drama,15,spanish,Streaming,-999, sony ,spring,$50-150m,LIMITED,yes,missing,Australia,digital,a-list,ATMOS,18470,13168,£5533,£19246,4851,12250,3461,16023,,NA
+22/07/2022,comedy,R,French,streaming,franchise,disney,autumn,$50-150m,cinema,Yes,NaN,australia,digital,newcomer,DOLBY,10221,9007,NaN,13966,£18990,£8595,14384,17272,19885,19941
+11/10/2023,comedy,NA,Hindi,2d,Standalone,,NaN,missing,streaming,no,8+,US,NA,NA,dts,£2190,13627,6486,13584,86,"18,000",6245,NaN,13755,6396
+2024-07-03,Horror,18,hindi, imax ,standalone,paramount,spring,>$150m,streaming,no, 4-7 ,Us,film,b-list,dolby,14785,7757," 2,432",£17938,18978,£15851,"13,870",NA,£17951,6331
+28/06/2023,Horror,NaN,french,-999,Standalone,warner,spring,>$150m,streaming, No ,-999,canada,digital,NEWCOMER,atmos,16542,8746,-999,14318,missing,17837,3456,14218,8260,£13083
+NaN,horror,r,english,streaming,standalone,warner,SPRING,$10-50m,direct-to-dvd,NO,1-3,canada,Film,a-List,dolby,5597,19970,19966,8314,15719,15217,,9341,6152,£2380
+missing,NaN,g,Spanish,3D,reboot,Universal,summer,$50-150m,direct-to-dvd,NO,-999,missing,imax 70mm, Newcomer ,Atmos," 9,044",9296,-999,9897,17352,-999,14636,,1619,10342
+03/07/2023,HORROR,15,SPANISH,2d, franchise ,WARNER,NA,$50-150m,cinema, no ,8+,nz,film,B-List,atmos,11436,-999,-999,16882,2043,8828,£15717,NA,"18,265",15568
+2022-03-08,documentary,12a,English,3d,reboot,paramount,SUMMER,>$150m,direct-To-Dvd,no,8+, UK ,FILM,NEWCOMER,atmos,7941,9307,£1978,18134,missing,14387,6577,£5097,15695,894
+2024-11-27, documentary ,18,spanish,imax,Reboot,UNIVERSAL,spring,>$150m,direct-to-dvd,yes,1-3,missing,digital,NaN,Dolby,"15,646",11848,£13784," 5,664","18,904",427,"15,353",£7858,13401,£10663
+"Aug 14, 2022",ANIMATION,pg,FRENCH,NaN,SPIN-OFF,paramount,autumn,$10-50m,streaming,yes,4-7,CANADA,imax 70mm,newcomer,atmos,£3719,4857," 2,696",NA," 2,046",2383," 1,122","10,496",5010,18704
+2021-06-19,animation,12a,missing,2d,standalone,universal,Spring,$10-50m,cinema,No,0,canada,NA,NEWCOMER,atmos,19133,,7992,£17661,£4033,,4916,£14087,5308," 9,098"
+10/07/2023,horror,12a,english,2d, standalone ,Warner,WINTER,$10-50M, cinema ,no,1-3,NA,-999,newcomer,atmos,6774,NaN,£4178,"12,587",3491,7919,£19282,NA,6015,2633
+2021-07-31,comedy,PG,hindi,streaming,FRANCHISE,PARAMOUNT,Summer,$10-50m,CINEMA,yes,NaN,Nz,film,NaN,dolby,£13489,2510,£18559,,17301,12343,6927,missing,10598,£4469
+2024-04-03,COMEDY,18,,Streaming,Spin-Off,Warner,Summer,$10-50m,-999,no,0,uk, FILM ,a-list,ATMOS,NaN,NA,£1644,NaN,9138,12608,£1696,9239,14415,"11,027"
+03/07/2024, comedy ,15,french,3d,franchise,Disney,spring,>$150M,limited,No,missing, australia ,NA,newcomer,NaN,8713,8011,£15304,"18,265",16823,10686,1459,3180,£1940,"19,579"
+2021-05-07,documentary,18,FRENCH,2d,standalone, universal ,spring,$50-150m,streaming,yes,4-7,Nz,digital,NaN,atmos,17289,,10447,£6748,NaN,17793,-999,£11047," 7,305",2890
+missing,comedy,r,english,-999,reboot,sony,Summer,>$150m,CINEMA,no,1-3,NA,imax 70mm,b-list,dolby,2527,missing,missing,10923,NaN,19916,missing,"16,507",£12798,11559
+,documentary,12a,french,2d,FRANCHISE,disney,summer, $10-50m ,DIRECT-TO-DVD,yes,0,Canada,DIGITAL,newcomer,dts,missing,2910," 3,865",-999,NaN,6654," 8,942",£6456,£3627,7100
+02/07/2021, animation ,12A,French,2d,standalone,NaN, Autumn ,>$150m,direct-to-dvd,No,8+,NaN, Film ,a-List,ATMOS,3829,   999,17457,8420,10635,12553,754,2208,£11097,11653
+05/01/2021,ANIMATION,12a,MANDARIN,2d,franchise,SONY,Summer,>$150m,Streaming,missing,8+,Nz,FILM,newcomer,DTS,6418,3263,,16588,£15914," 8,265",£8538,£2311,14681,£564
+"Jul 05, 2022",comedy,18,Spanish,Streaming,standalone,Disney,summer,>$150m,,No, 4-7 ,us,FILM,a-list,Atmos,missing,17556,17934,7512,14063,18610," 7,643",-999,16960,£17666
+"Jan 23, 2023",drama,12a, mandarin ,IMAX,franchise,universal,summer,$10-50m,Streaming,NO,8+,Us,digital,b-List,DTS,NA,18332,16228,NaN,NaN," 3,502",£8421,6446,14082,"11,463"
+2023-12-14,Drama,15,spanish,2d,Franchise,WARNER,summer,$50-150m,cinema, NO ,1-3,NaN,IMAX 70MM,newcomer,-999,19123,19821,£6050,3264,11978,7393,"14,572",missing,7024,1887
+2023-09-17,missing, 12a , HINDI ,3D,standalone, PARAMOUNT ,Autumn,<$10M,direct-To-Dvd,yes,-999,NZ,digital,B-LIST,DOLBY,,15208,,3533,14088,4619,£18466,£728,£15310,£366
+17/10/2023,horror,R,spanish,2d, REBOOT ,sony, Spring ,>$150M,cinema,NA,1-3,canada,FILM, b-list ,atmos,11894,16752,"12,737"," 8,363","18,536",,19901,4761,16996,6300
+"Apr 10, 2022",NA,r,NA,3d,spin-off,sony,winter,$10-50m,direct-to-dvd,yes,0,uk,imax_70mm,missing,Dts,13359,   620,18394,£737,15330,,15915,18383,"15,616"," 5,885"
+-999,documentary,r,english,imax,reboot,Disney,spring,$50-150m,STREAMING,no,4-7,australia,,newcomer,ATMOS,missing,18197,NA,9617,17084,"10,678",£6822,10630,6445,£14736
+2023-05-15,comedy, G ,Mandarin,2d, Spin-Off ,universal,SUMMER,$50-150m,limited,Yes,8+,missing,NaN,-999,DOLBY,14378,"19,571","13,680",1394,£15351,"11,757","10,900",£12241,12883,£7896
+28/06/2021,drama,15,french,2d,reboot,DISNEY,spring,NA,cinema,NO,1-3,NZ,missing,newcomer,,721,NaN,15182,£512,£591,8159,7307,4739,£285,£8674
+20/06/2024,Animation,R,hindi,3D,franchise,DISNEY, winter , <$10m ,limited,Yes,4-7,us, film ,b-list, atmos ," 1,366",19291,£5486,9584,£10442,£9207,£17669,NA,-999,11084
+01/06/2023,horror,12a,Mandarin,missing,STANDALONE,paramount,SUMMER,$10-50m,streaming,YES,1-3,Us,digital,A-List,dts,5433,missing,2651,95,9370,"14,623",,4224,451," 4,457"
+01/12/2021,COMEDY,g, FRENCH ,3d,REBOOT,sony,autumn,$10-50m,Limited,Yes,1-3,AUSTRALIA,Imax 70mm,newcomer,-999,17096," 3,721",missing,17109,19617,19052," 2,102",1696,NaN,1672
+24/05/2023,action,15,NaN, Streaming ,REBOOT,disney,autumn,$50-150m,direct-to-dvd,No, 0 ,uk,NaN, a-List ,dts,-999,"12,107",5280,9412,19986,7300,missing," 2,582",9611,1673
+04/07/2022,DOCUMENTARY,18,French,2d,Reboot, Sony ,spring, $10-50m ,cinema, NO ,0,Australia,DIGITAL,NaN,Dolby,8236,6788,£7857,18084,-999,"17,198",£6209,£10769,18513,5727
+20/05/2023,missing,r,,3d,spin-off,UNIVERSAL,Winter,$10-50M,direct-To-Dvd,yes,0,us,Imax 70mm,Newcomer,NaN,12278,NaN," 2,792",16028,15290,"19,268",4277,£15299,4505,"10,572"
+10/03/2023,horror,Pg,HINDI,Imax,NaN,paramount,spring, $50-150M ,streaming,No, 4-7 ,canada,imax70mm,Newcomer,NA,8301,10216,19871,15730,17364,£19589,15292,£9277,598,12756
+missing,comedy,G,Mandarin,streaming,reboot,sony,spring, >$150m ,CINEMA,yes,1-3, Canada ,imax_70mm,newcomer,Dolby,£319,£8606,£6288,19594,10914,966,6954,12004,15093,£9678
+23/03/2021,NA,12A,ENGLISH,-999,spin-off,PARAMOUNT,winter,>$150m,LIMITED,no, 1-3 ,CANADA,imax70mm,A-LIST,atmos,£16109,763,missing,£9123,7999,NA,10694,16939,NaN,£15206
+"Apr 26, 2024",,15, hindi ,2d,,Paramount,-999,<$10m,cinema, Yes ,,NZ,Imax 70mm,NaN,Atmos," 6,155",11659,19503,6439,£15452,missing,NaN,£9564,£2636,9542
+missing,NA,12a,spanish,3D,standalone,-999,WINTER,$10-50m,STREAMING, NO ,0,nz,Imax 70mm,newcomer,dts,£10516,11544,5202,7512,1725,10340,13448,£12006,£2013," 5,867"
+2024-10-12,COMEDY,15,Hindi,3d,franchise,-999,summer,missing,Cinema,NO,NA,nz,FILM,b-list,atmos,£5711,NaN,1779,7559,6985,7029,10352,-999,£9775,£3161
+07/08/2022,ANIMATION,r,english,missing,spin-off,universal,Summer,,Streaming,no,0,canada, digital ,Newcomer,Atmos,16471,missing,14949,16012,15873,4568,£278,4878,3501,£19084
+2021-02-13,animation,12A,Spanish,streaming,franchise,sony,autumn,$50-150m,Limited,yes,-999,uk, Imax 70mm ,B-LIST,dolby,6571,9283,£16916,"13,171","15,321"," 7,327",16185,13352,6256," 3,504"
+11/03/2022,missing,pg,MANDARIN,missing,reboot,WARNER,winter,>$150m,cinema,yes,4-7, us ,Film,missing,,,-999,19922,"15,600",£14577,£17280,15584,8665,1390,14456
+09/01/2021,drama,12A,ENGLISH,STREAMING,franchise,disney,autumn,$50-150m,CINEMA,NaN,8+,Nz,film, newcomer ,atmos,15221," 1,476",NA,17431,6735,851,£1897," 2,006",19374,9779
+2023-04-12,COMEDY,pg,spanish,Imax,missing,missing, autumn ,,cinema,no,8+,Nz,digital,NaN,DTS,£5257,3818,5988,3875,2168,missing,NA,£6845,17012,NaN
+04/03/2022,Animation,r,ENGLISH,2D,franchise,SONY, Spring ,$50-150m,CINEMA,no,4-7,uk, Digital ,newcomer,Dolby,14763,3580," 1,143",6797,"11,726",11973,18061,missing,16574,"12,123"
+07/05/2021,documentary,18,french,2D,standalone,PARAMOUNT,,$50-150m,direct-to-dvd,YES,8+,Canada,imax 70mm,NA,atmos,830,16309,3277,6769,£9321,10484,NA,missing,5858,5935
+14/05/2021,DRAMA, R ,spanish,streaming,STANDALONE,sony,winter,$50-150m, streaming ,no,8+,us,digital,b-list,atmos,,£5746,10663,18943,NA,£13839,NaN,10567,"18,392",496
+24/11/2024,documentary,pg,hindi,streaming,reboot,Warner,SPRING,<$10m,limited,no,-999,,digital,B-List,atmos,£10508,11916," 4,162",NaN,17578,missing,NA,£19318,NaN,"17,680"
+2023-02-11, action ,NA,spanish, 2D ,standalone,universal,autumn,$50-150m,direct-To-Dvd,YES,0,Uk,film,missing,ATMOS,£19330,4222,4495,13408,£9508,18077,10160,7183," 4,310",1308
+2023-09-16,DRAMA,-999,hindi,2d,Standalone,universal,,$50-150m,streaming,no,1-3,australia,NA,a-list,dolby,3096,1544,19737,2604,2918,3522,£19200,10688,9166,14002
+2022-06-02,Action,15,hindi,2d,standalone,NA,winter,>$150m, CINEMA ,NO,0,CANADA,Digital,b-List,,5940," 4,452",4978,£19722,"19,223",£8276,6497,"18,302",£15670," 7,890"
+31/01/2022,action,12a,English,NaN, franchise ,sony,NA,-999,LIMITED,no,8+,australia,Digital,B-LIST,Dolby," 6,837",679,NA,14517,,4225,"18,725","17,869",16691,6654
+-999,horror,15,French,missing, spin-off ,Sony,autumn,$10-50m,limited,No, 0 ,NZ,DIGITAL,newcomer,dolby,8464,NaN,16741,6906,£6754,9927,NA,-999,NA,16002
+2021-06-21,Comedy,g,english,3d,franchise,universal,summer,<$10M,cinema,yes, 4-7 ,CANADA,digital,a-List,DOLBY,16715," 3,376","10,563",5572,£8918,17350,4569,11495,,16660
+2024-01-31,NaN,pg,spanish, streaming ,reboot,warner,Winter,$50-150M, Streaming ,yes,8+,uk,film,NA,dolby,£8228,8162,£9790,£4657,7952,£19080,7073,NA,NA,10231
+2023-04-21,Drama,18,spanish,imax,Reboot,UNIVERSAL,autumn, >$150m ,cinema,-999,1-3,nz,-999, b-List , Dolby ,13731,1178,-999,10717,6198,15650,1982,6613,10112,missing
+10/11/2024, HORROR ,15,spanish,2d,spin-off, universal ,SUMMER,<$10M,limited,YES,0,UK,FILM,newcomer,dolby,16854,£13221,-999,,15437,missing,£8315,7118,£11931,5786
+26/12/2024,documentary,18,NA, Streaming ,spin-off,Universal,Autumn,$50-150m,LIMITED,no,NaN,NA,imax_70mm,B-LIST,atmos,19171,9936,4716,15873,10740,13433,642,17126,2214,£2100
+2024-06-07,animation,12a,Mandarin,imax,-999,Warner,summer,-999,streaming,NO, 4-7 ,NZ,FILM,newcomer,Atmos,missing,7511,1061,12653," 9,052",5609,2226,"11,412",11963," 6,901"
+2023-06-22,COMEDY,R, hindi ,-999,SPIN-OFF,disney,summer,<$10m,-999, no ,4-7,australia,Digital,a-List,dolby,£2038,9060,17304,4650,12778,16164,4394,4098,£16944,2095
+04/09/2023,Action,-999,spanish,2d,standalone,sony,NA,$10-50m,Cinema,no,4-7,canada,DIGITAL,A-List,DTS,£9233,£12720,18181,5714,"19,729",1509,11528,£2275,2991,£17775
+12/03/2024,Action,12a,english, imax ,,UNIVERSAL,spring,$50-150m,Streaming,no,8+,canada,digital,A-LIST,dolby,19680,15051,missing,NaN,12036,2484,14267,9493,£7084,18892
+2022-10-14,animation,g,english,STREAMING,spin-Off,disney,Winter,<$10m,direct-To-Dvd,NO,0, canada ,imax70mm,B-List,Dolby,122,19096,8814,3253,5846,12074,-999,11866,"10,145",£578
+20/10/2022,animation,,english,imax,Standalone,,spring,>$150m,Limited,no,4-7,NZ,film,A-LIST,Atmos,"10,500",5685,£19500,7878,£13353,3350,£9701,9264,10384,18668
+"Apr 10, 2022",Drama,pg,hindi,missing,spin-Off,NaN,winter,$10-50m, limited ,no,4-7,uk,Imax 70mm,b-list,dts,missing,£17578,16520,"14,747",,-999,19555,10135," 7,220",14132
+26/03/2021,ACTION,pg,french,Streaming,REBOOT,SONY,,<$10m,-999,no,1-3,NA,digital,B-List,Atmos,8288,5085,missing,2495,NA,£5089,£1813,3728," 1,549",£938
+2022-04-23,Horror,12a,french,Imax,Reboot,,summer,>$150m,cinema,missing,8+,canada,imax 70mm,a-list,dts,15117,7935,£6702,1474," 5,632",," 7,449",1898,14031,13866
+2024-03-07,animation,18, hindi ,2d,-999,Universal,summer,$50-150m,missing,YES,missing,missing,imax70mm,Newcomer,DOLBY,8137,NA,464,NA,19122," 6,449",1267,16337,5508,"10,709"
+25/07/2021,comedy,12a,english,streaming,reboot,NA,spring, >$150m ,Direct-To-Dvd,NO,NaN,UK,imax_70mm,Newcomer,DTS," 9,432",18626,9689,8473,£8278," 8,740",missing,"15,431",3895," 4,259"
+02/06/2023,animation,15,Mandarin,2d,FRANCHISE,Sony, autumn ,>$150m,limited,yes,8+,uk,imax_70mm,missing,Dts,,£17610,£2736,8860,15702,11662,8426,12874,£12814,NaN
+30/03/2022,HORROR,18,Hindi, STREAMING ,franchise,paramount,SPRING, $50-150m ,streaming,NaN,8+,uk,imax70mm,b-List,Dts,11781,4936,16761,14812,£15992,£7352,£8571," 8,364",14046,£7533
+24/02/2022,comedy,g,hindi,imax,Standalone,paramount,-999,$10-50M,LIMITED,NO,1-3,us,digital,B-List,,£4936,2482," 1,857",-999,NaN,£16725,£5675,-999,2287,-999
+2024-09-18,drama,18,mandarin,2d,NA,DISNEY,autumn,<$10m, cinema ,YES,1-3,us,digital,a-List,dts,1082,-999,13175,£9357,3886,16847,£186,"14,210",9162,£19269
+2024-09-07,documentary,pg,SPANISH,3d,standalone,warner,NA,$50-150m,-999,no,4-7,NA,imax70mm,NA,DTS,12906,£16327,543,"17,471",7546,14799,15870,£14050,missing,£3888
+27/05/2024,comedy, g ,hindi,streaming, Franchise ,warner,spring,>$150m,LIMITED,yes,0,nz,Film,a-list,dts,18296,"16,277",,£7218,13935,7158,"14,956",5336,14196,NaN
+2023-01-15,horror,15,hindi,2d,REBOOT,warner,missing,>$150m,cinema, NO ,8+,canada,NA,A-LIST,,13616,13261,5076,11273,3594," 1,568",12721,£13660,NA,18792
+2022-06-29,DOCUMENTARY,NA,spanish, 3d ,reboot,PARAMOUNT,spring,$50-150m,cinema,YES,0,nz,imax_70mm,b-List,Dolby," 8,361",1327,5871,3253,1435,£11238,1867,NaN,£5238,£18859
+06/04/2022,comedy,PG,French,Streaming,FRANCHISE,WARNER,autumn,$50-150m,NaN,no,NaN,missing,Imax 70mm,newcomer, Atmos ,,19831,4419,£8112,-999," 7,196",NaN,10937,7663,1085
+31/10/2022,Documentary,g, hindi , streaming , reboot ,SONY,winter,$10-50m,limited,No,0,us,film, A-LIST ,dolby,6917,£15212,18210,£12424,12013,," 2,399",£11524,£19300,
+2022-08-15,horror,15,Spanish,2d,Franchise, warner ,Spring,$50-150m,limited,no,0,nz,film,a-list,dolby,19676,11151,£8767,9745,   368,NaN,NaN,£13466,5241,£11482
+2023-04-10,Comedy,pg,FRENCH,imax,reboot,universal,autumn,$50-150M,limited,yes,1-3,australia,imax_70mm,b-List,DOLBY,9899,"11,276",18988,"11,373",5,884,5065,£14871,8708,"17,858"
+02/04/2023,comedy,r,English,2d,standalone,sony,spring,<$10M,DIRECT-TO-DVD,No,1-3,,Film,a-list,dts,£5426,£5678,NA,2583,"17,584","19,199",£14814,4416,1056,£17315
+01/08/2024, Drama ,pg,french,IMAX,reboot,universal,autumn,$50-150m,cinema,-999, 4-7 ,nz,digital,A-List, dts ,12445,"19,535",10278,15697,19152,9419,NA,9147,£3728,"17,293"
+10/05/2023,Comedy,missing,french,imax,NaN, sony , summer ,$10-50m,streaming,yes,4-7,UK,film,a-list,DOLBY,   470,12241,£18216,19118,19749," 1,033",16788,1354,"18,991",£17997
+"May 20, 2024",NaN,missing,MANDARIN,,franchise,paramount,summer, $10-50M ,cinema,No,8+,nz,digital,A-List,Atmos,"12,871",missing," 5,581",£5280,14616,17501," 2,820",£3980,11730,£694
+16/12/2023,drama,NA,french,3D,reboot,warner,spring,$10-50m,,YES,8+, Uk ,imax70mm,A-List,dts," 7,033",12010,14069,2666,17084,NaN,13495," 9,848",16020,462
+"May 07, 2021",horror,G,hindi,Imax,standalone, paramount ,winter,$10-50M, Cinema , No ,8+,uk, imax 70mm ,newcomer,dts," 7,002",19743,17402,missing,17047,   581,"10,945"," 1,789",2825,3406
+13/04/2024,Action,pg,NA,3D,NA,SONY,winter,<$10m,Direct-To-Dvd,NO,4-7,Uk,IMAX 70MM,B-LIST,atmos,622,12719,missing,12179,19017," 2,866","16,736",14174,,-999
+22/04/2022,documentary,g,hindi,2d,spin-Off,paramount,winter,>$150m,cinema,YES,NaN,Nz,digital,B-LIST,dolby,5685,14020,-999,285,18689,"10,062",1007,11228,"12,472",10667
+22/01/2023,-999, g ,mandarin, imax ,franchise,warner,Autumn,$50-150M,direct-to-dvd,missing,4-7,CANADA,imax_70mm,a-list,Atmos,15397,1660,11559,-999,18780,722,NaN,7107,missing,£16289
+2022-04-15,,12a,english, 3d ,Spin-Off,WARNER,winter,>$150m,limited,NO,0,australia,missing,newcomer,dolby,£18495,7326,4043,19520,13189,2516,11112,missing,8996,£17804
+2023-11-27,Drama,NaN,spanish, STREAMING ,spin-off,warner,spring, >$150m ,LIMITED,yes,missing, canada ,Digital,-999,dts,£15389,£10439,9976,,8543,£6323,7810,16966,missing,14137
+27/05/2022, horror ,pg,Hindi,3D,Standalone,warner,spring,$10-50M,cinema,yes,-999,canada,digital,b-list,Dolby," 7,509",£16835,1851," 2,689","15,090",£14903,NA,"12,199","10,984",2978
+2022-08-10,NaN,18,Mandarin,IMAX,spin-Off,disney,,missing,,YES,1-3, uk ,digital,NaN,atmos,15288,NaN,£19406,£5240,4308,10571,,12629,"11,894",3190
+2023-11-24,NaN,12a,english,streaming,Standalone,paramount, autumn ,$10-50m,CINEMA,yes,1-3, canada ,FILM,a-List,atmos,-999,4996,4409,   923,19828,missing,3747,6409,19565,18004
+10/05/2022,DOCUMENTARY,r,hindi,2d,spin-Off,warner,summer,$10-50m,NA,no, 0 ,nz,film,a-List,DTS," 7,789",£10925," 7,398",19970,18443,1079,18160,2703,£6070,580
+02/01/2024,animation,Pg,FRENCH,imax,Franchise,paramount,summer,<$10m,streaming,YES,4-7,NA,NaN,B-List,atmos,"12,032",missing,-999,"18,939",," 5,573",NA,12316,"18,831",6555
+2024-07-15,Comedy,r,SPANISH, 2d ,standalone,paramount,Summer,missing,cinema,YES,missing,missing,Film,b-list,dts,£19471,£5046,18098,1359,7109,"13,976",£10384,2370," 6,253",-999
+2022-06-10,comedy,15,Mandarin,STREAMING,SPIN-OFF,disney,summer,$10-50m,streaming,No,4-7,us,film, B-List ,Atmos,-999,7187,15826,£11458,1325,6670,3684," 7,228",16038,18570
+2024-06-05,horror,18,english,3d,spin-off,PARAMOUNT,WINTER,<$10m,limited,yes,8+, CANADA ,film,B-List,Atmos,10960,£19582,19551,missing,3520,13250,,1426,17280,1053
+2022-06-06,ACTION,g,HINDI,2d,REBOOT,UNIVERSAL,winter,$50-150M, direct-to-dvd ,no,0,nz,film,b-list,dolby,£13309,5661,missing,5640,£2768,NaN,13000,15914,19377,8972
+2022-07-23, horror ,18,french, imax ,standalone,sony,Spring,<$10m, streaming ,no,4-7,Nz,missing,b-List,Dolby,10283,11457,£7774,missing,17595,8411,NA,,6986,"12,005"
+2021-11-04,Documentary,18,mandarin,streaming,SPIN-OFF,,NaN,>$150m,Streaming,,4-7,US,film,newcomer,DOLBY,-999,3173,292,£12951,£9302,18975,12641,7311,NaN,11277
+2024-09-04,DOCUMENTARY,pg, english ,STREAMING,missing,warner,summer,>$150m,cinema,yes,NA,NA,FILM,NA,atmos,"12,117",NA,3708,£11851,3573,6413,4264,7211,129,£1466
+"Oct 06, 2023",animation,12a,hindi,2d,reboot,paramount,NaN,<$10m,limited,Yes,8+,Canada,NA,A-List,NA,2390,£14893,695,18022,£2713,13972,4333,9959,8850,£7820
+"May 09, 2022",action,18,MANDARIN, streaming ,missing,SONY,NaN,>$150m,direct-to-dvd,Yes,1-3,Us,FILM,newcomer,Dolby,17239,£10787,11864," 2,390","10,501",6591,14751,"15,416",6883,15594
+27/07/2022,-999,18,,2d,-999,warner,spring,,direct-to-dvd,Yes,0,UK, IMAX 70MM ,B-LIST,Dolby,£19662,£4964,missing,-999,£14677,14549,15076,"10,079",NA,
+2021-09-20, comedy ,NaN,mandarin,2D,standalone,disney,AUTUMN,<$10M,limited,missing,0,uk,imax_70mm,newcomer,Atmos,11860,-999,19693,"10,674",4392,NaN,NaN,£18498,13954,6778
+26/12/2024,drama,r,french,2d,franchise,disney,winter,$10-50m,limited,YES, 1-3 ,australia, film ,a-list,atmos,4005,£8794,10882,7430,£7907,£7895,NA,"17,744","13,009",
+"Mar 02, 2021",Documentary,pg,french,Streaming,Reboot,UNIVERSAL,autumn,$50-150M,limited,No,8+,missing,FILM,b-list,,10397,£12360,8362,"19,543",18163,18499,£15262,17584,£16925,£9097
+03/06/2024,animation,r,english,-999,missing,universal,SUMMER,<$10m,cinema,no,4-7,UK,film,b-list,dts,"19,927",2657,19161,,12899,5494,6998,"16,208",£2467,£19103
+04/08/2024,Documentary,12a,hindi,2d,spin-off,UNIVERSAL,summer,$10-50M, direct-To-Dvd , NO ,1-3,canada, imax 70mm ,a-List,atmos,NaN,£15571,£12400,9163,8448,17670,£19026,£260,£9117,
+19/04/2022,NaN,15,spanish,STREAMING, REBOOT ,sony,SPRING,-999,streaming,yes,8+,australia,film,B-LIST,dts,missing,-999,3730,6543,"10,102","19,960"," 6,717",£1445,15727,3904
+17/08/2021,Action,15,ENGLISH,streaming,franchise,disney,spring, $10-50m ,cinema,yes,missing,missing,film,newcomer,DTS,19791,5640,NaN,13030,7727,£11087,"14,590",6862,1017,£1343
+17/02/2024,comedy,NA,NaN,NA,Reboot,paramount,AUTUMN,$10-50M,streaming,no,4-7,australia,digital,newcomer,DTS," 5,927",10307,10613,11096,£1468,19771," 5,718",-999,11688,£12017
+08/05/2024,action,-999,English,2d,reboot,sony,SUMMER,<$10m,,yes, 4-7 ,australia,digital,B-List,Atmos,4147,"16,978",18489,£7432,,NaN,missing,17461,5086,missing
+24/02/2022,comedy,R,French,2d,NA,DISNEY,autumn,$10-50m,-999,yes,1-3,australia,digital,a-List,dolby,-999,4959,£956,"12,824",16850,995,"10,681"," 4,638"," 2,077",£9747
+23/11/2024,HORROR,15,spanish,imax,reboot,warner,WINTER,>$150M,streaming,No, 8+ ,australia,FILM,b-List,atmos,13226,899,4640,11103,13104,18912,missing,,4030,12097
+17/07/2022,action, G ,Hindi,3d,NA,sony,spring,,Direct-To-Dvd, no ,8+,uk,Digital,newcomer,dolby,11170,2072,,15589,,1476,,4808,,12954
+09/07/2023,documentary,15, spanish ,streaming,reboot,-999,Summer, >$150m ,cinema, yes ,8+,Uk,-999,b-list,NaN,£16208,1967,£18633,£18583,missing,3358,£1074,   644,£18287,17850
+2022-08-31,NA,r,hindi,,Franchise,universal,SUMMER,$50-150m,direct-to-dvd,no,0,us,Digital, newcomer ,-999,5552,£4339,12600,NA,NA,-999,missing,,5585,£6881
+11/07/2024,DRAMA,18,spanish,2d,spin-off,warner,spring,>$150M,STREAMING,YES,-999, Canada ,digital,B-LIST,NaN,8688,14244,£11645,£8485,-999,9506," 2,628"," 3,400",4228,17864
+2024-11-05,NA,G,spanish,3d,spin-off,,spring,<$10m,streaming,NO,4-7,australia,film,B-List,,£18026,2685,19269,-999,"10,244","18,851",missing,16338,18799,7583
+2022-01-26,comedy,18, spanish ,missing,franchise,DISNEY,Summer,$10-50m,limited,YES,0, uk , film ,b-list,atmos,£451,£4371,6703,18384,3935,19426,10093,£9602,18163,£4612
+2023-05-21,HORROR,15,Hindi,2D,reboot,DISNEY,NaN,NaN,direct-to-dvd,no,NA,nz,FILM,b-list, DTS ,13046,10373,£7550,4756,18797,11781," 9,206","12,212"," 4,146",6614
+07/05/2023,missing,pg,English,imax,standalone,disney, SPRING ,<$10M,NaN,yes,8+, Nz ,imax_70mm,B-LIST,,-999,17065,6064,NA,14788,£7356,4807,£6311,missing,1882
+23/08/2022,HORROR,-999,hindi,streaming, spin-off ,warner,summer, >$150m , cinema ,yes,,nz,film,NaN, DTS ," 2,039",14857,"18,252",13436,9739,£9122,6798,17414,19104,11733
+12/10/2023,NA, pg ,English,IMAX,spin-off,warner,Autumn,missing,limited,Yes,0,Nz,imax70mm,NaN,dolby,£5510,11179,£10121,17306,5630,£17103," 8,873",18038,9276,£2041
+2021-08-10,action,12a,english,IMAX,-999,NA,WINTER,>$150m,-999, no ,8+,us,FILM,newcomer,atmos,17719,2515,3180,,,NA,£15368,4748,missing,5272
+10/03/2021,COMEDY,g,ENGLISH,2d,missing,Sony,summer,$10-50m,streaming,No,4-7,australia,Digital,-999,dts,3483,£19178,NaN,18478,£5223,£9860,£2998,17802,13822,3209
+NaN,,18,french,2d,STANDALONE,Universal,SPRING,>$150M,-999,yes,1-3,UK,DIGITAL,Newcomer,ATMOS,1725,15268,"14,256",£19114,10843,3196,6145,19292,2391,£9271
+2024-10-21,comedy,18,Mandarin,,NA,universal, winter ,$10-50m,streaming,Yes,4-7,canada,film,B-List,DTS,14392,14045,"16,105",2695,11297,£17630," 9,047",8871,£3346,£12374
+"Feb 17, 2022",comedy,r,english, streaming ,franchise,Universal,winter,$50-150m,limited,yes,1-3, uk ,film,a-list,atmos,15339,"17,143",NaN,NaN,4541,missing,£19422,5522,12760,5950
+25/02/2022,Horror, pg ,hindi, 2d , standalone ,universal,winter,>$150m,cinema,no,8+,UK,,a-List,ATMOS,£6707,£15624,13593,19822,missing,missing,17477,£10973,"11,774",missing
+"Aug 10, 2024",ACTION,15,SPANISH,2d,standalone,warner,Summer,$50-150m,DIRECT-TO-DVD,No,-999,missing,imax 70mm,a-list,atmos,8117,3406,6477,,£14301,8467,£8986,18311,£4012,12771
+2021-05-15,animation,-999,,Streaming,Standalone,disney,Winter,$50-150m,direct-To-Dvd,NaN,,NaN,digital,missing,ATMOS,5256,missing,-999,19421,"17,212",3036," 9,321",14368,£5208," 1,957"
+2022-12-25,horror,missing,hindi,2d,spin-Off,UNIVERSAL,autumn,>$150m,LIMITED,Yes,8+,us,FILM, Newcomer ,dolby,1119,£15040,12900,,£9364,"15,309",£16867,NA,15088,£11304
+NA,action,15,french,STREAMING,franchise,disney,summer,NA, streaming ,YES,0,UK,missing,A-LIST, ATMOS ,"19,897",4985,5425,   323,11493,£10243,,13522,18003,18794
+16/05/2024,comedy,r,MANDARIN,NaN,franchise,paramount,spring, >$150m ,-999,No,8+,Us,Digital,NA,DTS,878,17760," 7,817",£10828,13497,£9110,£4374,15826,£9781,
+missing,-999,12a,mandarin,2d,standalone,warner,winter,missing,direct-To-Dvd,NO,missing,nz,IMAX 70MM,b-List,dts,14913,£1623,14331,163,10393,14303,3444,2414,£8661,1652
+2022-02-21,horror,-999,spanish,2d,reboot,PARAMOUNT,Autumn,$50-150m,NA,yes,NA,Canada,NA,B-LIST,dts,3677,12900,10383,£10408,£10505,-999,7074,£13131,4519,10095
+20/04/2023, comedy ,12a,French,3d,standalone,missing,winter,$10-50M,cinema,NO,1-3,uk,film,-999,dts," 7,597",£1424,3500,4043,NaN,"15,662",missing,-999,NaN,3747
+04/08/2022,HORROR,,mandarin, imax ,franchise,PARAMOUNT,SUMMER,>$150m, DIRECT-TO-DVD ,NO,4-7,Canada,IMAX 70MM,newcomer,atmos,5281,£976,   406,£14812,15145,"10,559",8846,NaN,£15979,-999
+05/07/2023,HORROR,NaN,French,3d,,sony,Summer,$50-150m,CINEMA,yes,4-7,uk,film,a-list,Dts,12309,£4034,-999,,8758,13737," 6,903",£13186,£8080,10171
+19/05/2021,action,18,spanish,3D,Franchise,sony,winter,$50-150m,direct-to-dvd,No,8+,Canada,digital,-999,atmos,18882," 6,482",,18661,16311,£4237,£17328,12021,2194," 3,366"
+2023-03-08,documentary,18,ENGLISH,imax,standalone,universal,summer,<$10m,direct-to-dvd,yes,1-3,nz,digital,NaN,dts,19170," 8,770",£10157,£12495,missing,£14176,"18,247",£16103,7992,4898
+2021-03-27,Documentary,R,french,2d, reboot ,DISNEY,autumn,$50-150m, STREAMING ,yes,8+,missing,NA,newcomer,dts,12396," 1,521",-999,7446,7716,9032,-999,15766,2628,13378
+21/05/2024,Comedy,pg,hindi,2d,reboot, sony ,AUTUMN,>$150m,DIRECT-TO-DVD,Yes,8+,NA,digital,A-List,atmos,NaN,3162,NA,-999,-999,£19736,£3257,2910,"13,116",£14328
+19/04/2024,horror,R, HINDI ,NaN,franchise,-999,-999,$10-50m,streaming,yes, 0 ,NZ,imax70mm,NEWCOMER,atmos,13863,17756,"11,855",,14505,17437,514,9707,"16,790",18771
+2021-02-17,documentary,g,spanish,3d,SPIN-OFF,paramount,spring,>$150m,DIRECT-TO-DVD,no,1-3,nz,digital,b-list,Dolby,£1039,NA,£6411,NaN,1276,NA,"17,486",£9521,"10,802",12007
+2021-08-03,DRAMA,12a,french,missing,REBOOT,Paramount,Spring, <$10m ,Direct-To-Dvd,NaN,8+,us, film ,b-List,DOLBY,11526,16181,7413,18766,missing," 1,330",NaN," 7,164",7345,£19005
+2023-08-21,documentary,15,english,NaN,NaN,warner,WINTER, <$10m ,cinema,no,1-3, UK ,imax 70mm,newcomer,ATMOS,missing,18257,308,18861,15604,6897,,8745,2895,£15909
+"Apr 04, 2023", comedy , 12a ,ENGLISH,NA,REBOOT,Warner,Spring,>$150m,streaming,,8+,us,imax 70mm,A-LIST,ATMOS,3684," 3,400",2364,9608,18427,missing,"16,019",£6290,16703,£16701
+04/10/2022,-999,pg,french,imax,standalone,sony,Summer,$50-150M,streaming,-999,8+,CANADA,imax_70mm,b-List,ATMOS,missing,£15169,9549,"19,884",10260,19884,£6281,8469," 6,638",£8368
+2021-10-12,DOCUMENTARY,12a,ENGLISH,missing,Franchise,disney,summer,missing,DIRECT-TO-DVD,,0,UK,NA,b-list,Dolby," 4,886",5968,,365,£12602,2382,,£14571,775,7527
+missing,comedy,r,French,streaming,spin-off,-999,winter,>$150M,cinema,YES,1-3,AUSTRALIA,digital,a-List,dts,6315,NA," 4,326",1695,£5687,-999,£17112,10859,5989,17102
+15/11/2021,Comedy,12A,spanish,2d,reboot,universal,summer, >$150m , cinema ,NO,missing, us ,imax_70mm,missing,dts,NaN,6674,7211,£11920,,1362,17265,14106,12893,£16637
+21/02/2021,COMEDY,g,Spanish, 3d ,STANDALONE, sony ,spring,<$10m,streaming,YES,8+,canada,NaN,B-LIST,NaN,5404,3862,7091,4891,£12079,£15480,,£15060,£10167,4521
+"Mar 25, 2022",action,r,french,2d,reboot,universal,,missing, cinema ,YES,0,Nz,Film,NA, DOLBY ,198,685,,2938,7835,9628,13929,5440,NaN,4558
+2024-08-09,missing,15,spanish,missing,franchise,missing,AUTUMN,>$150m,direct-to-dvd,no,0,uk,imax70mm,A-LIST,dolby,,10714,£18977,12241,-999,missing,-999,£17369,NA,18117
+2021-12-29, horror ,15,MANDARIN,2D,Spin-Off,warner,WINTER,$10-50m,streaming,missing, 4-7 ,us,digital,b-list,atmos,,£5337," 3,258",2775,8801,£930,11522,1011,NaN,2364
+-999, animation ,,SPANISH,IMAX,Standalone,warner,Winter,<$10m,limited,yes,-999,canada,digital,Newcomer,Atmos,£2867,2211,519,18881,18955,"10,909",19890,19879,missing,12723
+2021-02-20,horror,18,french, 2d ,spin-off,warner,autumn,<$10m,direct-to-dvd,no,1-3,Us,imax 70mm,B-List,ATMOS,10406,4877,263,£19931,,19560,15040,£12545,13348,4525
+2022-12-04,animation,NaN,FRENCH,3d,REBOOT,UNIVERSAL,AUTUMN,<$10m,limited,no,-999,Uk,Digital,B-LIST,Dolby,6597,3492,13373,12407,17628,13518,£14413,15893,£1954,£16922
+2022-09-28,animation,pg,hindi,missing,Franchise,paramount,summer,>$150m,LIMITED,yes,0,australia,NaN,Newcomer,dts,£2507,10707,NA,9729,15948,missing,-999,9726,4631,"19,623"
+"Nov 25, 2021",action, pg ,Hindi,3d,STANDALONE,SONY,SUMMER,$10-50m,limited,no,4-7,us,film,missing,Dts,NA,"15,624",1311,14151,5373,NA,3976,2009,8012,£16040
+"Oct 31, 2023",missing,pg,NaN,streaming,Spin-Off,SONY,-999,$10-50m,CINEMA,no,-999,Australia, film ,NA,atmos,NaN,£553,16803,14417,14020,13164,1986," 2,871",7042,"15,870"
+2021-12-21, Action ,12a,,3d,standalone,Sony,autumn,NaN,-999,NO,,australia,digital,b-List,atmos," 5,299",1196,8849,"15,568"," 2,540",7186,9549,9372,6654,-999
+09/08/2024,Drama,Pg,mandarin,2D,spin-Off,Paramount,,<$10M,cinema, no ,4-7,NA, Digital ,A-List,ATMOS,£19651,,7751,18803,14356,4975,16419,15569,£12715,
+09/09/2024,animation,R,english,2d,reboot, warner ,summer,$10-50m,streaming,,1-3,missing,imax70mm,NaN,Atmos,£10685,"16,737",NaN,7007,19084,NaN," 6,504",10075,11059,-999
+30/08/2021,comedy, G ,hindi,3d,franchise,WARNER,SUMMER, $50-150m ,Cinema,NO, 8+ ,missing,IMAX 70MM,a-List,Dts,18285,11935,18712,£14625,£982,11005,£13132,1003,"17,548",3378

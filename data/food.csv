@@ -1,0 +1,1001 @@
+date, cuisine , MEAL TYPE , dietary tag ,course, Spice Level ,servingTemp, allergen ,Protein,cooking_method,Origin Country,Occasion,packaging,organic,Fairtrade,RESTAURANT CHAIN/,calories_kcal, fat g ,protein g,carbs g, sugarG ,Salt G,Cost £,serve size g?,PREP TIME MIN,Cook Time Min
+"Aug 29, 2021",indian,breakfast,VEGETARIAN,starter, medium ,,NaN, tofu ,grilled,,birthday,metal,yes,no,NaN,£3748,12848," 6,792",2460,6057,18886,£16016,10899,10914,£8006
+23/04/2023,italian,NaN,keto,side,fiery,Cold,fish,Pork,grilled,greece,Holiday,Plastic,no,YES,FRANCHISE,10546,missing,   473,"19,351",12198,6299,missing,6689,2245,19442
+2021-07-21,greek,dessert,-999,starter,medium,-999,egg,Beans,GRILLED,china,BIRTHDAY,compostable,no,no,missing,"17,204",-999,NA," 4,610",8898,£224,3365,"10,804",4619,-999
+2024-11-15,NaN,Dessert,VEGETARIAN,starter,fiery, Room Temp ,NaN,lamb,baked,france, birthday ,Paper,NO,yes,STREET FOOD,,6431,£14485,2457,-999," 1,726",17070,£9818,15945,-999
+"Aug 17, 2024",indian,Lunch, vegan ,side,MILD,hot,dairy,-999,raw,GREECE,,missing,yes,yes,Fast Food,3628," 5,210"," 8,568"," 9,070",11912,"16,515",15001,NA,17918,7056
+13/10/2022,french,,VEGETARIAN,side,medium,missing,EGG,Beef,fried,india,FORMAL,paper,yes,Yes,NaN,"14,821",NaN,missing,£1920,6070," 2,115","16,246",9141,1806," 3,237"
+"Dec 25, 2022",INDIAN,brunch,vegetarian,drink,hot,cold,Gluten,beef,STEAMED,china,Birthday,-999,NaN,yes,franchise,"11,483",8252,3631,816,16061,13380,14867,2322,10713,7308
+23/08/2021,indian,dinner,,STARTER,hot,-999,NONE,Lamb,Grilled,Italy,holiday,NA,YES,yes,franchise,13208,7257,15535,NA,£1084,10518,£13594,missing,£9340,£7906
+28/02/2022,Indian,dessert,halal,starter,mild,NaN,Fish,Pork,baked,india,HOLIDAY,paper,NA,NO,franchise,10536,£8973,2172,,£17017,7301,£15648,883,14984," 2,254"
+2023-01-03,french,Breakfast,keto,drink,Mild,Cold,NONE,chicken,NaN,-999,birthday,METAL,Yes,no,NaN,"19,048",2381,£2687,9760,3680,11420,"19,968",£13559,£13061,"18,913"
+2024-03-04,Mexican,brunch,NA,MAIN,fiery,COLD,none, chicken ,Raw,italy,Birthday,glass,NO,Yes,STREET FOOD,15477,£9630,4317,6655,NaN,9774,19275,-999,16200,-999
+2024-05-04,,snack,keto,Main, Mild ,room_temp,DAIRY,beef,Steamed,france,holiday,metal,missing,no,NA,17739,,8705,11050,"14,373",missing," 7,220",10382,4918,11763
+18/10/2022,Indian,Dinner,gluten-Free,STARTER,HOT,HOT,NONE,missing,grilled,italy,Holiday,Glass,yes,Yes,INDEPENDENT,£14813,6271,NA,9808,3539,18792,"19,075",1754,4774,£4132
+2024-05-09,mexican,dessert,NA,main,mild,COLD,egg,pork,raw,france,holiday,compostable,Yes,yes,Street Food,8268,13843,11690,3374,£9042," 2,673",-999,   966,18559,missing
+2024-05-14,indian,dinner, kosher ,Drink,fiery,hot, fish ,lamb,BAKED,MEXICO,Birthday,Plastic, yes ,NO,Fine Dining,£11696,£2170,12572,10735,19061,17982,9309,-999,9720,2473
+NA,mexican,snack,keto,main,fiery,cold,DAIRY,pork,RAW,greece,casual,compostable,No,missing,franchise,NA,1453,1854,NA,£18129,5695,18776,NaN,£4530,-999
+"Jan 07, 2022",NA,dinner,gluten-free,SIDE,Mild,room temp,gluten,chicken,raw,italy,FORMAL,glass,YES,no,streetFood,16799,£8364,NaN,£479,4756,£12932,12566,16017,9025,5329
+2022-08-26,-999,dinner,Vegan,starter,hot,hot,dairy,CHICKEN,steamed,italy,casual,paper,yes,YES,FRANCHISE,5836,,2139,15779,11791,1716,NaN,745,2483,£5845
+,Indian,Dinner,missing,sweet,Mild,COLD,,NaN,Baked,Italy,casual,PLASTIC,no,yes,franchise,7238,18428,11275,2249,11048,11835,£12817,8457,9268,£16474
+11/09/2022,-999,,halal,sweet,mild, cold ,fish,chicken,grilled,-999,-999,metal,no,No,street_food,-999," 8,936",NA,10258,18209,10724,4278,7032,£18699,8754
+2024-11-24,french,lunch,halal,STARTER,mild,Cold,dairy,chicken,Baked,france,birthday,plastic,no,NO, FRANCHISE ,"15,475",7807,£15355,"15,176",6437,16447,£1430," 2,919",11717,£6387
+06/07/2024,italian,Brunch,vegan,sweet,mild,roomTemp,none,pork,FRIED,INDIA,HOLIDAY,plastic,NO,-999,fast food,13638,9741,NA,7268,£4014,£5679,728,NA," 1,805",13973
+2022-07-20,NaN,Lunch, KOSHER ,starter,fiery, hot ,Egg,beef,-999,france,Birthday,metal,no,yes,fast_food,5059,54,14674,16886,19682,4744,"19,286",£9213,"10,023",£18271
+2021-05-22,chinese,SNACK,Vegetarian,Main,FIERY,room_temp,nuts,NaN,BAKED,greece,birthday,COMPOSTABLE,yes, NO ,independent,NaN,NA,19808,14094,,11158,5676,£11422,2563,14852
+2023-09-16,Greek, dessert ,halal, MAIN ,MILD, room_temp ,none,chicken,baked,mexico,CASUAL,PLASTIC, yes ,yes,franchise,18209,225,7745,£10478," 9,938",13889,missing,-999,18632," 5,373"
+24/10/2022,French,LUNCH,VEGAN,SIDE,Mild,cold,,Tofu,grilled,italy,birthday,plastic,,no,fine dining,18556,5796,missing,"19,893",-999,19140,14589,15285,18005," 6,565"
+13/07/2022,INDIAN,dessert,,side,Hot,COLD,Egg,BEANS,grilled,mexico,Formal,missing,YES,Yes,Independent,11223,2132,-999,13806,4759,NaN,14599,£10628,"16,903"," 8,707"
+missing,indian,dinner,gluten-free,Side,mild,COLD,missing,beans,steamed,italy,casual,paper,YES, YES ,NaN,6161,7852,18702,19756,18279,12743,15587,£4553,9921,-999
+,chinese,-999,vegetarian,drink,Mild,COLD,dairy,pork,raw, mexico ,formal,metal,YES,no,,1030,1482,£17389,4602,16966,7050,   318,6761,11069,14503
+2021-06-26,FRENCH,BREAKFAST,halal, side ,medium,,FISH,lamb, RAW ,INDIA, Holiday ,glass,no,yes,independent,,£22,12243,£19211,,5815,"16,578",,8838,17950
+06/12/2022,Mexican,LUNCH,VEGAN,DRINK,mild,cold,egg,LAMB,raw, ITALY ,Formal,Metal,NaN,missing,independent,13176," 3,329",NA," 3,056",19679,missing,9478,14041,NaN,1803
+29/07/2023,greek,snack,HALAL,side,,hot, Dairy ,LAMB,raw,NaN,casual,paper,no,Yes,Street Food,3151,5137,£8342,10621,11434,-999,16941,17390,18156,"10,934"
+31/01/2022,french,lunch,NaN,,hot,roomTemp, gluten ,Lamb,Fried,missing,casual,compostable,no,Yes,street_food,£4150,19315,£14481,£14586,£8558,NaN,"12,245",8569,£6450,16306
+2023-05-15,mexican, brunch ,kosher,side,hot,ROOM TEMP,dairy,BEANS,GRILLED,china,holiday,Paper,No,-999,Street Food,£5928,11987,1160,10444,14611,,14187,,NA,10082
+2021-02-21, Greek ,NA,,DRINK,fiery, COLD ,egg,Beef,baked,ITALY,casual,glass,no,yes,Street Food,10751," 3,112",£15077,"13,808",11388," 2,436",NA," 2,469",7377,"16,903"
+2022-04-13,GREEK,Lunch,gluten-free,NA,medium,ROOM TEMP,FISH,Beef,raw,italy,Casual,Compostable,yes,NO,Street Food,2271,NA,211," 4,362",16057,£14485,3588,2196,£18457,9696
+"Oct 16, 2022",French,dinner,missing,sweet,Mild,room temp,Nuts,Lamb,steamed,INDIA,BIRTHDAY,Metal,yes,no,Fine Dining,NA,"19,562",,£9340,NaN,10864,£3210,"19,447",18414,3840
+14/04/2022,,NaN,missing,sweet,medium,Hot, soy ,pork,baked,Mexico,birthday,plastic,YES,,Street Food,10516,"14,903",12377,"11,622",7240,13655,£3890,missing,4234,18031
+"Dec 05, 2021",indian,dessert, Vegetarian , starter ,,room_temp, soy ,Beef,,Italy,casual,glass,yes,NA,independent,NA,7184,17007,"16,373",£19952,9074,NaN,8029,16553,£10809
+"Oct 31, 2022",FRENCH,NaN,NaN,,mild,room_temp,fish,beef,fried,Mexico,birthday,paper,no,yes,independent,9636,£13060,13900," 3,763",NaN,NaN,7641,19535,"18,371",16096
+-999,chinese,snack,kosher,sweet,Mild,cold, SOY ,Beef,-999,china,casual,paper, No ,no,fastFood," 1,539",18842,£14551,16495,£4015," 8,926",18827,NaN,4514,8596
+11/04/2023,chinese,Snack,KETO,main,mild,Cold, Nuts ,beans,fried,MEXICO,formal,paper,Yes,NO,Fine Dining,11910,"18,105",11062," 1,793","17,838",8885,10377,10327,NA,10432
+01/04/2024,Mexican,dinner, kosher ,MAIN,Hot,COLD,dairy,beans,-999,mexico,birthday,metal, no ,no,STREET FOOD,12457,13059,missing,17001,9460,£5592,-999,£18007,17201,12686
+12/06/2024,NaN,Lunch,gluten-free,Starter,MEDIUM,Cold,none,chicken,Fried,GREECE,FORMAL,PLASTIC,yes,no, street_food ,19502,16810,,3614,19134,16299,14047,7934,4659,
+"Jul 04, 2021",italian,NA,HALAL,drink,FIERY,HOT,soy,BEANS,grilled,italy,BIRTHDAY, compostable ,yes,no, FAST FOOD ,13034,"11,828",13220,,,13084,13139,"14,507",NaN,2741
+2023-05-29,,DESSERT,Kosher,SIDE,Medium,room temp, Nuts ,tofu,fried,ITALY,casual,METAL,-999,Yes,fine dining,2384,2443,"13,606",,11717,NA,13759,"14,247",£15917,10136
+07/11/2024,CHINESE,lunch, gluten-Free ,Drink,hot,cold,Dairy,PORK,Baked,greece,holiday,paper,-999,yes,FINE DINING,,12896,NA,£2126,8052,7065,4880,3908,-999,missing
+2023-08-17,missing,lunch, gluten-free ,side,HOT,hot,fish,chicken,grilled,NaN,casual,,,yes,STREET FOOD,-999,7347,1482,16152," 8,469",309,"11,424",7943,£9532,16894
+28/09/2021,italian,dinner,keto,Main, MEDIUM ,missing,egg,beans,baked,GREECE,formal, compostable ,no,YES,FAST FOOD,£17545,14668,9752,18968,2179,7289," 4,792",15239,14948,2280
+12/06/2023,CHINESE,LUNCH,kosher,-999,hot, hot , dairy ,beef,steamed,china,HOLIDAY,plastic,,no,NaN,£7457,4244,15120,10702,18784,6028,12542,9972," 3,703","16,727"
+NA,ITALIAN,breakfast,kosher,sweet,fiery,hot, gluten ,lamb,baked,mexico,NaN,COMPOSTABLE,NO,no, fast_food ,"17,407",8843,"14,874",15903,NaN,"15,713",   288,NA,"10,007",10057
+"Jun 09, 2023",italian,brunch,Vegetarian,side,hot, cold ,None,Tofu,BAKED,france,CASUAL,plastic, no ,yes,FINE DINING,£4224,13500,NA,1909,£9218,336,NA,2090,NA,£10075
+12/11/2024,chinese,Dinner,GLUTEN-FREE,Side,hot,Room Temp,gluten,pork,baked,mexico,-999,missing,yes,yes,STREET FOOD,4000,16630,6164,,10113,missing,8499,15150,£17219,£16235
+29/03/2024,french,lunch,gluten-free,side, mild ,room_temp, NONE ,beans, Baked ,,HOLIDAY,compostable,no,yes,streetFood,missing," 5,050",7461,,4106,£2302,16402,5070,£19526,16604
+2023-04-01,italian,missing,halal,side,hot,cold,fish,beef,steamed,mexico, holiday ,plastic,yes,no,street_food,18247,19779,5576," 9,625",missing,£6433,11260,13890,12240,NA
+28/07/2022, ITALIAN ,snack,GLUTEN-FREE,main,hot,cold,none,Tofu,fried,CHINA,FORMAL,Plastic,yes,no,Independent,"19,519"," 1,599",11531,18775,2657,14655,8204,NaN,£11469,8114
+14/07/2021, Italian ,BRUNCH,GLUTEN-FREE,side,Hot,NaN,Dairy,PORK,steamed,Italy,casual,compostable,yes,NO,FINE DINING,NA,7158,14348,£3628,19880,missing,8718,5163,missing,"17,812"
+06/07/2022,greek,snack,VEGETARIAN,main,HOT,Room Temp,fish,tofu,grilled,china,casual,GLASS,No,Yes,street_food,6651,"19,281",£1742,15601,NaN,£7208,15134,£10682,   141,£17011
+24/04/2024,indian,BRUNCH, Gluten-Free ,main,Hot,ROOM TEMP,egg,tofu,NaN,china, Formal ,compostable,no,yes,FAST FOOD,NA,-999,13524,"18,058",3568,missing,6235,502,-999,12164
+2023-05-23,NA,,vegan,-999,hot,roomTemp, NUTS ,TOFU,grilled,greece, formal ,glass,Yes,NaN,INDEPENDENT,7660,£18075,13153,8690,10436,8686,5170,£15753,14719,3213
+"Jul 21, 2024",French,-999,-999,SIDE,fiery,room temp,SOY,chicken,missing,GREECE,casual,metal,yes,No,INDEPENDENT,7438,£11464,NaN,NA,£4750," 3,115",£7,13574,16701,12762
+23/03/2023,italian,Snack,KOSHER,DRINK,hot,cold, gluten ,beans,steamed,china,casual,glass,no,yes,FAST FOOD,£2361,£11222,NA,   982,12227,,12246,5969,321," 1,741"
+17/03/2023,italian,-999,VEGAN,STARTER,fiery,hot,soy,tofu,-999,greece,holiday,Glass,NO,NA,fineDining,3037,5716,17481,£9132,NA,7521,17355,"10,033",6011,£12110
+2021-11-21,ITALIAN,lunch,VEGETARIAN,side,fiery,roomTemp,missing,beef,Fried, india ,Formal,Paper,NO,NO,missing,£12482,£8195,4974,£12469,17831,9818,£4264,16352,£4381,4245
+28/11/2022,INDIAN,LUNCH,NaN,side,MILD,COLD,none,Beans, steamed ,GREECE,Holiday,metal,missing, Yes ,FRANCHISE,12757," 1,191","11,425",£16366,9538,NaN,"10,721"," 1,507",£8465,5794
+2022-01-19,Chinese,dinner,gluten-free,drink,fiery,room_temp,None,PORK,raw,mexico,formal,COMPOSTABLE,NA,NO,independent,-999," 6,124",£13161,18956,£19669,2269,5727,15045," 7,926"," 9,437"
+NaN,italian,DESSERT,missing,side,hot,NA,soy,lamb,grilled,india,,plastic,No,no,Street Food,1463," 7,524",624,NA,7250,4548,,£4654,7709,4534
+2023-03-31,Italian,dessert, Kosher ,starter,NA,HOT,none,CHICKEN, Baked ,greece,holiday,compostable,YES,no,independent,"18,539",4225,14050,£9911," 5,075",missing,5944,NaN,£8509,"16,246"
+NA,GREEK,DINNER,GLUTEN-FREE,drink,medium,Room Temp,soy,lamb,Grilled, Italy ,Formal,Compostable, yes ,no,franchise,£16999,10680," 6,361",15067,"18,169",14318,17257,£11109,7835," 7,272"
+2022-06-09,mexican,Breakfast,halal,Sweet,MEDIUM,hot,FISH,Lamb,steamed,greece,CASUAL,plastic,no,YES,Fast Food,9041,17568,17318,5026,£11020,9443,£1506,"15,339",4688,397
+"Sep 05, 2023",greek,Breakfast,missing,sweet,mild,Cold,-999,LAMB,fried,-999, formal ,plastic,NO, no ,Street Food,£2255,2651,missing,18390,12012,14659,9763,"14,452",£7253,£2554
+NaN,Italian,missing,kosher,SIDE,FIERY,hot,dairy,lamb,Fried,greece,birthday,METAL,yes,missing,Fine Dining,15467,13959,,NaN,19359,"12,185",1071,12061,£16721,12134
+2021-12-29,-999,lunch,HALAL,sweet,mild,Room Temp,fish,-999,steamed,india,HOLIDAY,plastic,Yes,no,STREET FOOD,£4092,11895,6986,799,15970,19092,£7087," 1,894",2720,£15781
+18/08/2023,indian,BREAKFAST,Vegetarian,SWEET,Hot,room_temp,FISH,chicken,NaN,china,Formal, glass ,no,No,FRANCHISE,4346," 2,152",,£16213,£7007,3861,£12117,17664,£14134," 7,795"
+2021-09-05,greek,DINNER, vegan ,Sweet, Mild ,cold,-999,beans,STEAMED,ITALY,holiday,metal,missing,,,15245,NaN,7464,£10607,£7011,19814,14225," 2,226",19704,890
+2021-01-31,missing,BRUNCH,missing,sweet,MEDIUM,roomTemp,NUTS,beef,GRILLED,Italy,birthday,paper,YES,yes,street food,£102,10903,5921,300,5770,10973,NA," 7,065",19830,15875
+29/05/2024,chinese,breakfast,vegan,side, hot ,room temp,-999,-999,grilled,GREECE,birthday,glass,,-999,streetFood,1082,4708,4177,19670,8734,    11,11998,8943,12036,19280
+2022-08-02,chinese,dinner,missing,sweet,Hot,hot,Gluten,tofu,RAW,GREECE,BIRTHDAY,GLASS,no,NO,fast food,£10521,6707,19353,£4075,14120,-999," 3,134",£14220,£19952,"10,535"
+11/06/2024,greek,Dinner,vegan,starter,HOT,COLD,fish,tofu,grilled,India,formal,compostable,Yes,yes,Street Food,£13191,4403,9391,19858,£19830,6390,18442,," 1,811",£6516
+"Apr 11, 2023",NaN,dinner,Halal,DRINK,fiery,NaN, soy ,beans,baked,mexico,formal,metal, yes , yes , STREET FOOD ,£12013,NaN,17810,8811,,16746,-999,9448,"12,872","14,142"
+06/08/2023,french,dessert,vegan,SIDE,NA, room_temp ,soy,missing,NA,mexico,casual,Metal,yes,missing,,9283,13780,4080,10489,562,2786,-999,-999,5385,missing
+23/01/2024, MEXICAN ,Lunch,halal,drink,medium,Cold, nuts ,Tofu, FRIED ,INDIA,holiday,NA,-999,missing,fine_dining,16029,15447,19500,NaN,11912,16511,missing,NaN,537,1189
+05/07/2021,Greek,dinner,VEGETARIAN,NaN,fiery,COLD,Soy,lamb,baked,GREECE,casual,NaN,no,Yes,fineDining,,2269,15926," 4,363",NA,5625,1168,6252,4345,1339
+01/04/2023,chinese,breakfast,Halal,sweet,NaN,hot,EGG,chicken,Baked,-999,birthday,COMPOSTABLE,no,no,INDEPENDENT,£8,,8037,4940,missing,8239,16122,"14,410",NaN,19088
+12/07/2022,GREEK,DINNER,vegetarian,drink,hot,NaN,dairy,BEEF,fried, greece ,missing,metal,no, no ,independent,19958,19845,£7488,4704,£14983,14329,10588,7701,£10423,7607
+30/12/2021,-999, Dessert ,kosher,-999,MEDIUM,missing,NUTS,Beef,NaN,france,holiday,missing,NO,no,independent," 3,051",£780,522,15524,8734,8059,NA,," 2,861",£17755
+24/02/2023,chinese,dessert,vegan,MAIN,mild,COLD,soy,TOFU,Fried,india,holiday,compostable,no, yes ,-999,1466,"18,306"," 9,924","18,987",6089,11120,6282,11705,missing,£11519
+2022-09-22,-999,dinner,keto,main, Fiery ,ROOM TEMP,EGG,PORK,,india,casual,PAPER,no, YES ,INDEPENDENT,£6285,"19,090",1387,9436,10966,10142,7190,1395,£12565,3871
+2023-06-06,greek,dessert,Vegan,sweet,medium,room temp,egg,tofu,steamed,china,casual,Glass,YES,yes,Independent,6352,10405,16897,9849,888," 3,235",19854,7226,8242," 1,563"
+03/05/2021, chinese ,BRUNCH,vegetarian,Side,Medium,HOT,NA,CHICKEN,Fried,MEXICO,Birthday,plastic,yes,yes,franchise,3964,18332,14677,£10250,9214,£19316,18351,"15,737",missing,15281
+17/01/2023,italian,breakfast,vegetarian,starter, Fiery ,Room Temp,soy,BEEF, baked ,Greece,Holiday,PAPER,-999,No,-999,697,"17,377",7545,9762,,2362,£4140,16950,4911,£7220
+2023-12-05,mexican,Brunch,vegan,,hot, hot ,SOY,Beef,raw,China,Holiday,Glass,NO, no ,fine dining,£18233,£11429,£1806,-999,6894,,£4234,missing,"18,152",8692
+04/01/2023,,Dessert,keto,NaN,medium,cold,gluten,Beans,GRILLED,france,formal, Metal ,YES,no,Fine Dining,15241,2743,17436,-999,£7852,13725,7840," 8,116",£9776,4192
+"Oct 28, 2023",chinese,NA,keto, Sweet ,Fiery, cold ,NaN, chicken ,FRIED,mexico,holiday,METAL,YES,NO, fine dining ,missing,4046,£14702,15926,NA,9391,3815,"11,921","14,198",4210
+03/07/2021,indian,dinner,halal,missing,Fiery,roomTemp,none,lamb,GRILLED,-999,casual,glass,missing,yes,fineDining,-999,13535,15128,6391,13735,11911,14760," 4,726",5947,8151
+2023-11-30,italian, DESSERT , gluten-Free ,drink, mild ,ROOM TEMP,missing,lamb,Raw, greece ,birthday,paper,No,-999,franchise,£13557,15667,£15125,£15735,9913,18540,8005,£2474,3935,£15490
+2022-02-11,CHINESE,LUNCH,vegetarian,main,MILD,Cold,nuts,lamb,grilled,missing,holiday,PAPER,yes,no,NaN,15746," 3,771",12277,NA,12235,10235,£9194,"17,317"," 9,324"," 6,484"
+03/06/2021,INDIAN,Breakfast,vegetarian,Starter,medium,cold,fish,beef,grilled,India,-999,Compostable,,yes,Fast Food,NA,missing,£6148,17589,18197,,17843,8651,£9279,£10311
+2024-04-21,indian,Dessert,HALAL,side,missing, hot ,Egg, Chicken ,grilled,GREECE,Birthday,paper,YES,no,franchise,17848,8691,17870,15871,NaN,18687,13967,"12,311",10923,£9372
+08/04/2024,-999,NA,Halal,main,,missing,gluten,beef,,france,CASUAL,PAPER,yes,no,fastFood,"18,111",£14722,17430,NA,12058,NA,£6851,10436,£11845," 7,137"
+"Nov 27, 2024", greek ,brunch,NA,drink,HOT,cold,Gluten,beans,baked,GREECE,Casual,COMPOSTABLE,No,no, fine_dining ,4109,1809,"15,804",10798,807,-999,3076,1509,9541,13282
+30/08/2021,indian,brunch,gluten-free,STARTER,NaN,Cold,Fish,lamb,fried,china,birthday,PAPER,Yes,missing,Fast Food,10310,,16950,,8269,missing,13709,10680,missing,£11327
+30/11/2023,French,brunch,Gluten-Free,missing,Mild,HOT,soy,Beans,Baked, India ,HOLIDAY,Metal,no,yes,Franchise,13427,6359,,NA,£5785,13534,2008,11036,4164,"15,467"
+-999,greek,snack,gluten-free,side,fiery,roomTemp,soy,lamb,Grilled,INDIA,Formal,Plastic,NO,yes,INDEPENDENT,14363,1085,11695,£18905,15909,17769,17115,NaN,9251,"18,276"
+21/05/2022,missing, breakfast ,kosher,main,FIERY,hot,missing, lamb ,baked,INDIA,casual,PLASTIC,Yes,YES,street food,19487,16944,9959,£13914,1951,2474,£16418," 6,426"," 7,253",14148
+18/02/2021,,snack, VEGETARIAN ,sweet,fiery,Hot,egg,Tofu,Baked,MEXICO,casual,metal,No,NO,fast food,19006," 8,888",11932,6838,£3203,NA,missing,£8376,14806,"14,532"
+24/06/2021,french,dinner,Vegan,sweet,Hot,hot,fish,Beef,steamed,-999,-999,paper,yes,NO,NA,NaN,15980,"17,541",19093,"13,605",14757,£15166,7631,17965,
+01/09/2024,CHINESE,SNACK,vegetarian,missing,fiery,hot,missing,lamb,grilled,NaN,HOLIDAY,METAL,yes,No,FAST FOOD,6438,2671," 3,823",,3006,9734,£1558,£12979,10814,862
+2023-10-09,,dessert,Keto,drink,Medium,Cold,FISH,BEANS,raw,France,CASUAL,METAL,YES, yes ,street_food," 1,956",13503,12667,3099,"18,503",NA,17251," 4,269",£14291,"15,557"
+20/08/2021,FRENCH,-999, halal ,starter,hot,Hot,FISH,Beef,baked,Mexico,formal,Paper,NO,no,fine_dining,1092,620,£11064,NA,11831,£12231,17092,NaN,6595,6720
+28/07/2023,french,BRUNCH,Keto,SWEET,medium,roomTemp,Nuts,tofu,fried,FRANCE,FORMAL,COMPOSTABLE,NO, YES ,independent,missing," 2,036",16408,12204,3240,£2896,,"19,427",10751,-999
+2021-02-23,GREEK,BRUNCH,vegan,side,fiery,roomTemp, nuts ,pork, fried ,NA,NA,Metal,,no,Fast Food,8621,16146,17674,£9432,-999,"17,604",-999,29,6772,"10,483"
+"Aug 14, 2022",greek,dinner,Halal,Starter,Mild,Room Temp,none,chicken,-999,Mexico,-999,PLASTIC,NA,yes,Fine Dining,4618,£14044,4017,£18349,19330,5363,3561,1445,14220,£6810
+06/02/2023,Italian,dinner, Halal ,sweet,Hot,Room Temp,Nuts,chicken,steamed,france,Formal,Plastic,yes,no,street_food,missing,16056,15594,3391,"17,044",13151,18582,13099,"17,364",5321
+31/03/2023,italian,lunch,VEGETARIAN,STARTER, MILD ,hot,Nuts,tofu,baked,CHINA,holiday,plastic,no,yes,independent," 5,368",NA,-999," 7,788",10977,,£12398,19976,£19473,missing
+2021-01-03,chinese,lunch,halal,sweet,medium,HOT,DAIRY,PORK,fried,india,formal,GLASS, yes ,yes, FINE DINING ,491,14421,3550,6722,"12,211"," 9,015",NaN,NaN,9829,13647
+2022-01-05,French,lunch,Kosher,sweet,hot,roomTemp,soy,Lamb, steamed ,italy,Birthday,metal,No,No,fastFood,£8704,"15,296",NaN,11837,12461," 4,507",18098,4272,8198,359
+2024-05-01,italian,Dessert,Kosher,SWEET,,hot,nuts,chicken, FRIED ,ITALY,Birthday,Compostable,No,yes,NA," 7,160",19233,3860,4499,,£16900,13881,18926,£6889,387
+2022-10-01,MEXICAN,BRUNCH,KOSHER,starter, FIERY ,ROOM TEMP,gluten,beef, fried ,greece,casual,compostable,Yes,yes,independent,15486,14400,"13,577","17,790",£11993,2697,"11,218",£7001," 7,984",£8677
+2021-12-12,French,Brunch,VEGAN,NaN,Fiery,room_temp,None,NA,NA,india,formal,compostable,no,no,FINE DINING,,," 3,572",missing,missing,19866,£635,588,11761,NaN
+27/02/2022,indian,SNACK,NaN, Side ,HOT,HOT,NaN,lamb,steamed,china,birthday,glass,NO,-999,STREET FOOD,missing,10872,4747,£6130,"19,640",5030,17249,,4292,8713
+2024-01-11,NaN,brunch,Halal,SWEET,hot,Hot,missing, beans ,baked,china,holiday,metal,NA,no,fast_food,missing,13823,,3075,4438,,£5144,15522,14830,"14,608"
+2024-01-06,Indian,breakfast,Kosher,sweet,mild,hot,dairy,beans, fried ,India,missing,plastic,yes,NO,fineDining,19005,"12,697",NA,5382,4718,8590," 2,540",£14939,13311,8816
+19/04/2021,GREEK,snack,KETO,SWEET,NA,roomTemp,NUTS,LAMB,grilled,INDIA,birthday,metal,yes, no ,,17256,£12693,12271,11375,7971,£6991,13047,"18,575",10171,"12,244"
+NA,GREEK,brunch,NA,main,HOT, roomTemp ,None, pork ,grilled,Greece,BIRTHDAY,Compostable,missing,no,fast_food,6882,15795,14441,"10,667",-999,12728," 9,179",1301,NaN,
+2024-11-26,CHINESE,dinner,halal,-999,fiery,COLD,Nuts,lamb,BAKED,india,holiday,plastic, yes ,no,FRANCHISE,9695,£4568,15776,£9977,8111," 1,828",12734,11426,£12359,11215
+03/12/2023,FRENCH,DINNER,keto,side,medium,hot,gluten,TOFU,steamed,greece, formal ,PLASTIC, yes ,no,franchise,3761," 7,237",£11111,1865,15734,18640," 8,740",missing,16744,15761
+23/10/2022, Mexican ,Brunch,keto,Drink,MILD,Hot,NaN,beef,STEAMED,MEXICO,BIRTHDAY,metal,NA,NO,Independent,18970,19250,missing,4695,16397,19422,2696," 4,917"," 8,429",16137
+20/08/2021,greek, dessert ,keto,sweet,mild,-999,fish,Lamb,fried,NaN,casual,Metal,no, no ,missing,15854,18039,9358,£12517,£9805,"15,559",10709,12183,,£8120
+30/04/2024,indian,-999,halal,STARTER,fiery,room temp,soy,chicken,fried,mexico,formal,METAL,no,Yes,FINE DINING,7958,£17303,£10462,3952,8608,2263,£13358,15819,8533,7376
+"May 13, 2024",french,breakfast,keto,Side,MILD,cold,Nuts,pork,fried,CHINA,Birthday,paper,yes,yes,Independent,19762," 5,921"," 7,421",6293," 3,725",1122,"14,401","17,412",869,2569
+25/03/2023,CHINESE,NaN,halal,main,Mild,hot,FISH,Chicken,RAW,NA, holiday ,METAL,Yes,YES,street_food,2399,19123,NA," 6,950",6815,-999,12191,14046,15282," 8,217"
+"Jan 13, 2021",mexican,missing,VEGAN,starter,mild,cold,NONE,lamb,GRILLED,India,CASUAL, metal ,no, no ,fast_food,19477,4843,1162,"15,763",NaN,10541,,18255,18738,£18921
+"Aug 11, 2021", MEXICAN ,Breakfast,gluten-Free,SWEET,-999,Room Temp,none,tofu,grilled,ITALY,Formal, Plastic ,No,YES,Fast Food,10557,15224,2002,£19847,£12926,,10238,13899,8690," 9,876"
+04/05/2023,French,breakfast, Gluten-Free ,drink,Hot,room temp, egg ,Beans,missing,mexico,birthday,PAPER,no,NO,street_food,2331,19357,9184,£16898,"11,947",7682," 8,197",5718,3577,"15,666"
+27/02/2021,NA,dessert,-999,starter,MEDIUM,hot,none,Pork,FRIED,INDIA,Birthday,paper,YES,NaN,fast food,-999,6039,1093,£9649,12889,-999,,2026,5162,£7978
+2021-08-19,Greek,missing,NA,side,HOT,Hot,Soy,beans, fried ,,formal,plastic, yes ,no,streetFood,18496,"16,753",4587,NA,missing,"16,246",1723,13699,5470,-999
+2024-07-23,French,lunch,gluten-free,,medium,hot,gluten,beans,Grilled,INDIA,HOLIDAY,metal,no,no,independent,12473,7546,7333," 9,310",5391,12856,£4535,missing,£1232,£8866
+12/06/2024,,lunch,gluten-free,NaN,MILD,NaN,Egg,tofu,raw,mexico,Birthday,paper,no,No,missing,5391,6469,1749," 2,788",16426,9039,2504," 1,703",19150," 7,040"
+23/06/2021,mexican,Breakfast,halal,starter, mild ,cold,Nuts,pork,Grilled,china,FORMAL,glass,yes,yes,franchise,13243,£4123,4534,16244,missing,"15,142",10948,19811,£13414,15721
+15/10/2023,greek,dinner,NA,STARTER,NaN,roomTemp,egg,BEEF,grilled,FRANCE,Birthday,compostable,No,yes,fastFood,6903,"17,710",8328,15684,,7325,£7156,19572,"14,863",£10953
+28/03/2023,GREEK,lunch,halal,side,mild,cold,gluten,beef,missing,-999,BIRTHDAY,GLASS, Yes , no ,Street Food,10253,18538,,5129,961,19289,£8802,6410,17338,19254
+12/04/2021,mexican,LUNCH,Vegetarian,sweet,-999,room_temp,fish,Chicken,steamed,NaN,-999,NaN,NaN,yes, franchise ,3262,£14632,11296,£18436,6125,12856,£10398,2661,14479,3207
+NaN,Chinese,BRUNCH,gluten-Free, SWEET ,Hot,room temp,FISH,, baked ,india,NaN,glass,-999,no,FINE DINING,8417,16296,4473,£1336,5905,17357,NaN," 8,076",£15432,1113
+18/07/2022,MEXICAN,dinner,VEGETARIAN,DRINK,medium,Cold,Nuts,BEANS,Baked,greece,holiday,plastic,yes,yes,Fine Dining,9075,13180,18145,448," 8,147",£6300,17348,£10880,18883,6457
+08/10/2023,italian,LUNCH,-999,DRINK,Medium,,none,lamb,STEAMED,Mexico,casual,missing,YES,YES,NA,"13,453",2836,2344," 1,551",2832,2470,"15,494",7952,"10,900",2195
+29/03/2023,mexican,Snack,vegan,drink,Mild,COLD,none,pork,Baked,mexico,-999,metal, NO ,yes,FINE DINING,£1713,4368,£7977," 3,226",5097,14213,5116,16547," 4,138",9791
+"Sep 12, 2024",NA,brunch,NA,Starter,Fiery,hot,gluten,pork,raw,ITALY,,NA,yes,NO,NaN,£16607,17156,14492,£5628,10626,10286,17157,5838,13896,£10511
+06/09/2022,Indian,BRUNCH,Kosher,-999,hot,Room Temp,, pork ,steamed,missing,Formal,compostable,yes,yes,franchise,"14,334"," 2,945",,7336,£18380,18787,11398,"13,337",1840,"15,245"
+"Jun 14, 2022",CHINESE,breakfast,Halal,Drink,Mild, Hot ,fish,lamb,grilled,greece,Holiday,Metal,YES,No,Street Food,3814,7046,14946,,"16,365",£12357,10005,17176,NaN,17658
+07/09/2021,chinese,,GLUTEN-FREE,starter,fiery,room temp,Fish,BEANS, BAKED ,,Birthday,paper,yes,yes,Fine Dining,"13,874",£6460,£16053,17532,£2471,15005,3260,15449,8136,10947
+2021-08-18,mexican,dinner,KETO,side,MEDIUM,HOT,DAIRY,NaN,steamed,greece,Holiday,plastic,no,no,street food,,£5748,713,£3282,5681,13539,14976,11030,£9355,1345
+2022-12-06,mexican,dessert, keto ,Main,fiery,COLD,egg,tofu,fried,India,Formal,glass,Yes,yes,fine dining,-999,4530,15839," 2,403",17106,7733,13345,16223,19123,£973
+23/12/2023, indian ,-999,VEGETARIAN,DRINK,mild,room_temp,gluten,,RAW,France,formal,metal,Yes,yes,fine dining,8821,11015,£12671,1916,8016," 4,750",£2308,"17,644",£2132,"15,293"
+"Aug 24, 2022",indian,Snack,HALAL,drink,fiery, hot ,Nuts,beans,steamed,india,FORMAL,Compostable, No ,no,FRANCHISE,NA,£11084,1684,1816,£4711,12078,£4872,£8146,10303,£5212
+2021-10-14,Chinese,snack,vegan,-999,MEDIUM,hot,Nuts,beef,RAW,mexico,casual,GLASS,yes,no,Franchise," 9,230",NA,12635,"11,833",1113,NaN,3536,1881,£19464,£9781
+2021-01-07,italian,dinner,Vegan,Sweet,medium,cold,egg,beans,raw,India,formal,compostable,no, no , franchise ,11554,4300,17936,£6779,£10471,£5946,7912,£7848,£1143,14662
+2022-01-15,chinese,DINNER,KETO,missing, fiery ,COLD,Egg,lamb,fried,china,FORMAL,paper,Yes,yes,fineDining,£10473,missing,8404,NA,8796,7006,£1857,£4443,15012," 6,595"
+2024-06-02,indian,LUNCH,missing,main,fiery,Cold,gluten,NaN,steamed,Mexico,BIRTHDAY, compostable ,no,YES,franchise,5017," 8,374",1950,4428,16814,4661,11102,-999,19078,NaN
+2021-04-26,french,DINNER,missing,,hot,cold,,PORK,grilled,China, holiday ,glass,no, no ,FAST FOOD,1182,£11349,£3574,18940,,£6984,-999,£13559,1376,NaN
+2024-05-15,chinese,BRUNCH,Keto,Main,NA,roomTemp,gluten,missing,steamed,greece,holiday, paper ,NO,yes,fast food,missing,£8604,,NaN,"10,643",2861,655,£9638,3706,17088
+28/09/2023,MEXICAN,dinner,NaN,drink,hot,ROOM TEMP,nuts,beans,GRILLED,china,holiday,compostable,NO,no,franchise,10609,18958,12121,-999,1765,7773,"18,970",£9730,3240," 7,240"
+16/08/2022,greek,missing,missing,STARTER,mild,hot,soy,beans,NA,mexico,holiday,paper,yes,YES,Fast Food,NaN,314,missing,"19,000",£13889,5904,6312,   819," 9,519",14995
+11/08/2023,GREEK,dinner,keto,sweet,Fiery,room_temp,soy,tofu,-999, greece ,BIRTHDAY,plastic,no,Yes,Fast Food,NaN,1718,10315,£17451,-999,£15757,18948,15443,7080,9778
+"Mar 21, 2023",mexican,breakfast,kosher,Drink,MEDIUM,cold,FISH,BEEF,fried,ITALY,birthday,plastic,No,no,independent,   182,-999,1811,missing,11150,13279,19731,"13,396",6151," 7,175"
+2021-01-12, italian ,dessert,gluten-Free,Sweet,missing,room_temp,Dairy,beans, fried ,italy,Birthday,PAPER,yes,yes,INDEPENDENT,5268,16223,6381,11106," 6,694",,16797,£452,912,"10,289"
+2022-01-12,missing,DESSERT,Vegan,sweet,mild,room temp,NUTS, BEANS ,RAW,China, birthday ,missing, no ,Yes,Independent,8970,NA,14334,missing,16661,£10291,17892,NA,£11779,£4213
+missing,greek,breakfast,kosher,sweet,FIERY,HOT,missing,lamb,fried,Italy,holiday,paper,no,yes,street_food,"10,066",11068,7287,£10480,17752,10683,NaN,13355,£17237,7886
+2023-01-12,greek,lunch,KETO,DRINK,mild,room_temp,none,Chicken,STEAMED,INDIA,Casual,plastic,no,yes,Fine Dining,337," 9,606","16,540",£10013,19446,8310,5589,£16524,8004,8781
+2022-05-13,NA,snack,vegetarian,SIDE,Fiery,COLD,egg,tofu,fried,mexico,Formal,Paper,no,no,fine dining,£10075,5357," 9,607",NA," 7,392",16459,NaN,£6249,15793,£12696
+28/02/2021,french,Lunch,vegetarian,side,-999,room_temp,gluten,NA,Raw,china,casual,plastic,no,yes, Fast Food ,389,11090,£5320," 5,786","12,019",-999,missing,9324,11274,19030
+2021-12-27,Indian,dessert,Vegetarian,main,NaN, cold ,egg,CHICKEN,grilled,india,casual,NA,NA,Yes,fastFood,6212,NA," 2,597",6518,13903,4547,missing,-999,£3537,15852
+12/06/2022, Greek ,lunch,Vegan,SIDE, mild ,room temp,Dairy,lamb,raw,greece,holiday,glass,no,no,independent,£8578,,5184,£1772,1635,"17,199",1861,14161,£4470,10787
+15/01/2021,french,LUNCH,Halal,Drink,hot, hot , Fish ,lamb,raw,Greece,NaN,PAPER,No,no,franchise,"17,972",£19259,14368,7430,19704,16327,£13514,208,NA,-999
+"Apr 10, 2023", ITALIAN ,lunch,VEGAN,drink,medium,Room Temp,None, LAMB ,NaN,China,formal,COMPOSTABLE,Yes,yes,independent,,NaN,9052,14163,-999,63,9649,6317,8364,7663
+18/08/2021,NaN,,vegetarian,main,Mild,roomTemp,nuts,beans,Fried,, Birthday ,paper,yes,yes,independent,13556,15220,9409,7807,"18,130",8006,19690," 5,012"," 7,226",11175
+22/10/2024,GREEK, BRUNCH ,gluten-Free,starter,FIERY,-999, egg , beef ,Fried,France,Holiday,Metal,no,NO,franchise,7977,15243,NA,£19797,15223,,1088,-999,£9383,"19,394"
+2023-10-27,chinese,brunch,keto,drink, Fiery ,roomTemp,None, TOFU ,fried,MEXICO,Formal,glass,yes,yes,Street Food,"18,270",5884,1696,NA,11520," 2,588",1195,51,£18049,18113
+2024-02-01,italian,brunch,Kosher,side,FIERY,cold,NA,Pork,raw,france,birthday,NA,No,yes,FRANCHISE," 1,530",4449,10064,4485,NaN,9809,£8613,£6397,-999,5556
+08/06/2024,chinese,dinner,vegan,MAIN,NA,hot,dairy,NA,raw,ITALY,formal,PLASTIC,no,yes,street food,£10107,NA,10396,664,£12812,8019,5339,8103,15886,18297
+15/02/2021,greek,dessert,kosher,sweet,Mild,NA,dairy,LAMB,raw,italy,holiday,plastic,NO, Yes ,fast food,2089,missing,£9827," 5,075",-999,7467," 4,360",£5117,missing,11575
+missing,chinese,BRUNCH,vegetarian,drink, hot ,roomTemp,SOY,chicken, RAW ,NA,Casual, glass ,NA, Yes , Independent ,11542,1887,18664,8432,2124,missing,3627,£17000,15358,9318
+23/10/2021,FRENCH,,Vegetarian,drink,hot,cold,DAIRY,pork,steamed,MEXICO,holiday, plastic ,YES,No,franchise,4256," 2,947",£4196,7283,"14,878",1304,19940,8981,£17084,
+-999,greek,BRUNCH,GLUTEN-FREE,sweet,medium,cold,NaN,beans,BAKED,MEXICO,casual,Paper,yes,no,Fine Dining,NA,19761,NA,£45,10991,10604,   976,-999,6052,£19584
+2022-05-27,french,DESSERT,halal,Drink,medium,roomTemp,None,pork,steamed,ITALY,FORMAL,plastic,Yes,Yes,fast food,9702,NA," 9,162",£18118," 2,222",NA,19997,6082," 5,262",5543
+"Feb 05, 2022",french,Brunch,kosher,MAIN,fiery, cold ,nuts,tofu,raw,ITALY,,paper,NO, yes ,fine dining,"13,199"," 6,071",," 5,924",2899,£8600,12505,"18,636",1656,315
+15/12/2022, Greek ,,gluten-Free,side,Mild,Hot,None,pork,steamed,missing,holiday,metal,NA,NO,NA,6256,6011,2829,£9646,£13836,,£19402,"12,954",7653,9200
+19/02/2021,mexican,dinner,keto,MAIN,Hot, room_temp ,soy, CHICKEN ,fried,greece,birthday,plastic,NO,yes, fineDining ,7886,4076,"14,662",895,15145,,£16994,,,NaN
+2022-01-28,italian,,KOSHER,starter, hot ,Hot,FISH,pork,STEAMED,china,holiday,Paper,,no,FRANCHISE,£6887,-999,£8941,,"12,883",-999,1504,18368,12832,10249
+missing, greek ,SNACK,missing,missing,medium,COLD,None,Chicken,Baked,greece,Casual,Glass,NO,-999,FINE DINING,5971,445," 6,762",13955,"10,179"," 9,669",15486,16544,11458," 4,918"
+01/10/2021,greek,dinner,KOSHER,drink,fiery,cold,dairy,Beef,RAW,MEXICO,birthday,metal,Yes,NO,streetFood,-999,11850,"14,797",15999,4216,409,£18957,2841,9581,-999
+2024-07-22,NA,dessert,GLUTEN-FREE,drink,fiery,hot,NUTS,chicken,STEAMED,china,FORMAL,missing, No ,YES, Street Food ,£7406,,,"16,480",3818,15261,missing,"12,105",16468,1596
+"Feb 18, 2023", italian ,lunch,HALAL, sweet ,fiery,room_temp,GLUTEN,beans,steamed,ITALY,holiday,plastic,yes,yes,-999,£8545,£513," 5,296",8907,403,,11329,NaN,6649,£5978
+03/04/2024,Italian,NaN,missing,Side,NA,hot,Soy,beef,FRIED,NA,birthday,glass,no,no,INDEPENDENT,"11,267",6809,14477,NA,3646,13426,6231,6783,missing,6806
+27/09/2024,Italian,Breakfast,vegan, SIDE ,hot,cold,-999,PORK,grilled,india,formal,paper,missing,NO,fast_food,11587,13575,6866,missing,,missing," 9,572",1007,9644,4405
+02/09/2024,NaN,lunch,vegetarian,side, MEDIUM ,hot,Dairy,lamb,raw,Greece,birthday,compostable,yes,yes,street food,3678,"16,253",15897,7570,£2524,17394,5237,£261,4361,5932
+2023-05-12,FRENCH, dessert , vegetarian ,drink,MILD,Hot,EGG,Tofu,steamed,greece,birthday,PAPER,No,no,,12253,805,£1849,"13,286","17,122",11555,£17801,12968,£14257,17338
+05/12/2021,,lunch, KOSHER ,starter,medium,NA,egg, tofu ,steamed,INDIA,birthday,GLASS,yes,NO,Street Food,10028," 9,074",387,14125,£12464,£5869,NA,15326,NA,£14315
+2021-10-03,French,BRUNCH,keto,NaN,Hot,Hot,dairy,TOFU,Fried, india ,Formal,Glass,no,no,NaN,£16517,£12821,NaN,8029,17244,£12117,£14223,17112,missing," 9,878"
+26/05/2024,missing,Dessert,NaN,main,fiery,hot,-999,Beans,RAW,FRANCE,holiday,metal,-999, no ,,14153,19502,10980,17996,," 9,503",19045," 5,202",133,18120
+2022-05-16,greek,Brunch,halal, drink ,NA,cold,,lamb,STEAMED,india,formal,metal,no,-999,franchise,"18,808",7310,14169,1356,"16,017",5781,NaN,£8053,6529,
+15/01/2021,greek,DESSERT,vegetarian,MAIN,Fiery,Cold,none, beans ,BAKED,INDIA,birthday,METAL,yes,Yes,FINE DINING,NaN,£11456,19241,12355,missing," 5,523",14146,1569,12872,8654
+04/01/2022,NA,BREAKFAST,keto,-999,Hot,roomTemp,GLUTEN,pork,Raw,france,FORMAL,Plastic,Yes,No,INDEPENDENT,19260,19382," 9,873",16749,£9560," 8,820",NaN,NA,8684,6331
+22/12/2022,mexican,Dinner,vegetarian,NaN,medium,cold,missing,Beans,steamed,greece,CASUAL,glass,yes,Yes,Street Food,"19,652","10,438","14,742",10304,15019,12563," 6,457",,8532,11977
+2022-04-05,greek,Snack,VEGAN,SIDE,fiery, HOT ,Fish, lamb ,raw,france,birthday,glass,yes,no,STREET FOOD,9078,19964,15884,NA,13184,missing,£1424,£18669,17242,"17,201"
+2024-10-14,chinese,dinner, kosher ,side,medium,room_temp,gluten,beef,missing,india,, PLASTIC ,no,,INDEPENDENT,"16,505"," 3,521",£1782,11453," 6,308",4666,,17540,12046,NA
+13/07/2022,indian,dinner,vegan,sweet,-999,COLD,egg,tofu,steamed,china,CASUAL,plastic,YES,No,STREET FOOD,10423,16414,7891,12684,10025,£3314,5120," 1,014",6282,3613
+15/08/2023,-999,breakfast,gluten-Free,,MILD,HOT,SOY,tofu,Fried,FRANCE,CASUAL,metal,no,yes,franchise,12912,missing," 8,548",£14322,£10126,9183,£7132,£15692,9342,2001
+2022-08-19,missing,dessert,vegan,Starter,Fiery,Room Temp,gluten,BEEF,Raw,China,formal,Compostable,No,YES,street_food,£19852,£16608,£9669,£10711,£6520,2438,7376,3850,1571,"11,684"
+2023-06-25,missing,snack,halal, side , HOT ,hot,FISH,beef,GRILLED,, birthday ,plastic,NO,YES,fastFood,18675,5929,missing,16127,18542,773,£360,13077,15796,"12,052"
+"Dec 26, 2023",Greek,NaN,keto,side,fiery,HOT,fish,Beef,FRIED,mexico,,PAPER,missing,yes,fine dining,£15432,7822,2935,15296," 9,386",NaN,13907,16191,8557,
+2022-01-09,mexican,lunch, KOSHER ,MAIN, mild ,HOT,egg,beans,grilled, INDIA ,formal,missing,Yes,NO,fineDining,-999,missing,3520,£9142,NA," 2,872",3862,£15376,7825,12644
+2023-05-19, chinese ,breakfast,Vegan,starter,fiery,,gluten,pork,BAKED,greece,birthday,COMPOSTABLE,No,Yes,independent,4572,"10,281",16857,10077,10266,"13,761",8379,"14,476"," 5,669"," 6,415"
+09/06/2024,,Lunch,KETO,drink,Medium,HOT,gluten,Beans,fried,greece,FORMAL, PAPER ,-999,Yes,Fine Dining,5472,-999,,£14012,£11168,1752,9021,16249,8255,5794
+2022-12-11,Mexican,brunch,gluten-free,missing,MILD,NaN,none,lamb,STEAMED, india ,BIRTHDAY,plastic,yes,yes,Fine Dining,11480,894,,11924,"12,595",£1195,14630,NaN,1651,1053
+2024-05-06,indian,snack,Vegan,drink,Fiery,hot,none,Lamb,raw,China,CASUAL,PLASTIC,NaN,yes,independent,12807,5256,£12951,18183,18233,,18694,9088,17360,£8560
+2021-02-23, GREEK ,SNACK,gluten-free,sweet,Hot,Cold,none,Chicken,RAW,France,holiday,glass,,yes,street_food,8110,5815,3064,10566,16417,£1164,£14994,9661," 2,406",17588
+2023-01-12,french,BRUNCH,halal,starter,hot,hot, NUTS ,pork,raw,india,formal,COMPOSTABLE,yes,No,fine_dining,16647,4707,11830,2376,7660,16763,NaN,2896,3974,£7188
+2022-08-08, mexican ,Brunch,Vegan,main,MEDIUM, Room Temp ,soy,Chicken,BAKED,India,-999,glass,No,no, street food ,-999,3382," 5,969",-999,£9344,NA,19544,£5146,7358,15032
+09/07/2021,greek,dinner,kosher,NA,fiery,,none,beef,STEAMED,mexico,holiday,plastic,NO,Yes,streetFood,8705,3644,919,8671,16393,£16038,17412,17178,19203,£19823
+-999,indian,brunch,KOSHER,main,Hot, cold ,egg, chicken ,steamed,NA,birthday,Glass,yes,yes,streetFood,missing,18935,4251,7705,£6068,5016,NaN,£2040,14192,19484
+2023-11-24,Mexican,brunch,VEGETARIAN,SWEET,MEDIUM,Hot,none,Tofu,BAKED,INDIA,FORMAL,-999,no,-999,street_food,£1929,NA,10535,"14,272",£5129,£14112,"14,742",missing,3525,£589
+30/07/2021, Italian ,dessert,vegetarian,SIDE,fiery,Hot, egg , TOFU ,fried,greece,Birthday,metal,YES,no,independent,"13,357",19046,16526,2345,4221,13522,14383,£3028,"14,586",9428
+22/07/2023,italian,brunch,kosher,-999,medium,roomTemp,NaN,pork,GRILLED,italy,Holiday, metal ,NA,Yes,Street Food,7906,13187,14728,17260,£18327,"10,445",2241,"18,238",6742,15997
+25/11/2023,french,Brunch,vegan,side,MEDIUM, Hot ,gluten,Pork, steamed ,china,BIRTHDAY,plastic,yes,no,FINE DINING,15666,-999,"18,660",£19918," 9,996",£5190," 1,772",8606,255,1681
+"Dec 26, 2022",italian,Dessert,kosher,Starter,Fiery,Room Temp,Soy,Beans,Grilled,missing,holiday,Metal,yes,yes,Street Food,11100," 7,414",17857,13833,6570,15550,4125,9116,£10500,3826
+06/09/2023,mexican,NA,Vegan,Side,fiery,hot,none,chicken,raw,france, casual ,missing,no, Yes ,INDEPENDENT,£17718,£12535,616,£5289,7359," 7,334",15311,18619,9944,£5611
+-999,italian,snack,NA,NA,missing,NA,none,PORK,baked,Greece,,Paper,yes,NO,INDEPENDENT,17356,£19767,198,£10892," 4,512",missing,£5761,-999,17738,3995
+05/12/2022,-999,brunch,keto,Starter,Fiery,COLD,none,Beans,-999, china ,missing,paper,yes,Yes,franchise,1953,495,5781," 9,123",945,£6563,18109,"12,517",14273,£9705
+2021-08-22,italian,Lunch,halal,side,fiery,room temp,Fish,beef,NaN,NA,Birthday,metal,NO, yes ,NA,,£19076,12640,1077,13919,15944,-999,11910,£9684,9883
+29/12/2024,french,dessert,halal,MAIN,Mild,room_temp,NA, Pork ,NaN,FRANCE,CASUAL,NaN,yes,missing,street food,17855,£3726,NaN,5423,127,4909,8348,11022,2173," 6,520"
+,french,lunch, vegetarian ,SWEET,hot,cold,egg,tofu,baked,ITALY,holiday,plastic,no,missing,franchise,,"11,196",£12587,17758,£13580,11542,-999,£13548,5235,13894
+"Mar 17, 2024",chinese,brunch,vegan,starter,mild,cold, soy ,chicken,baked,mexico,Formal,plastic,no,no,street food,8994,£5140,18501,"13,122","18,695",17240,5572,£18262," 5,097",1376
+NA,CHINESE,snack,Vegetarian, drink , hot ,cold, none ,Lamb,raw,Mexico,FORMAL,metal, NO ,no,independent,NA,£515,£10307,9796,13074,5245,£7924,,18873,4192
+missing,chinese,snack,HALAL,main,HOT,roomTemp,none,Lamb,STEAMED,greece,Birthday,Plastic,yes,NO,FRANCHISE,12699,£9132,6395,£6609,13012,8523," 8,691",£17898,18477,4396
+2021-06-07,italian,,gluten-free,Main,medium,hot,dairy,Pork,grilled,greece,holiday,missing,yes,yes,independent,£10848,6016,2706,19104,-999,11094,8962,,946,18937
+21/11/2024,MEXICAN,SNACK,KETO,side,MEDIUM,roomTemp,dairy,CHICKEN,raw,india,-999,glass,yes,no,-999,-999,5742,missing,"10,665",5659,,4465,18412," 3,123"," 4,082"
+2023-12-06,italian,breakfast,kosher,STARTER,Fiery,ROOM TEMP,soy, Chicken ,Raw,-999,BIRTHDAY,GLASS,NO,yes,independent,£8839,"18,484",7551,13593,2025,6006,10597,9408,-999,5735
+2024-06-18, Italian ,brunch,halal,side,HOT,roomTemp,NaN,beans,RAW,MEXICO,holiday,COMPOSTABLE,yes,no,street food," 3,722",10058,," 6,891",15797,2477,9977,£9894,£16973,£4967
+2022-07-08,FRENCH,Dessert,halal,Side,FIERY,NaN,egg,pork,Baked,greece,Casual,,NaN, no ,,1996,11356,17842,15979,11885,743,9958,£1108,"10,207",£9775
+23/10/2023,indian,breakfast,keto,Drink,mild,COLD, dairy ,BEANS,NA,india,Birthday,metal,YES,no,franchise,12818," 5,334",NA,£4197,615,19639,665,5554,12967,£12377
+25/02/2021,chinese,,keto,starter, HOT ,roomTemp,egg,TOFU,Fried,Mexico,birthday,compostable,,,fineDining,£16906,15733," 1,732",9956,11714,£17463,£11600,NA,15020,NA
+"May 25, 2022",French,snack,NaN,Main,hot,COLD,None,Tofu,grilled,italy,holiday,metal, No ,NO,independent,17258,"15,259",NA,"12,337",9167,missing,10869,£4506,11945,8124
+2022-05-24,Mexican,DESSERT,gluten-Free,Sweet,hot,NaN,fish,NaN,Fried, China ,casual,Glass,NO,NO,franchise,£10184,179,10606," 1,293",17477,4066,4863,10246,16943,13222
+2024-01-15,italian,Breakfast,vegan,Starter,mild,cold,Dairy,Chicken,steamed,GREECE,-999,glass,no,yes,fastFood,6360,£10163,18846,3090,15410,17207,8837,3970,1830," 9,918"
+2024-05-13,greek,snack,missing,Side,hot,Cold,Fish,Tofu,NaN,france,formal,Metal,no,yes,franchise," 9,923",17943,15465,4981,13625,17336,NaN," 5,210",£5163,NaN
+08/04/2023,french,breakfast, gluten-free , side ,fiery, hot ,Dairy,-999,NA,italy,formal,NaN,missing,yes,fast_food,"11,863",1084,£11603,missing,missing,5157,1073,£4731,17682,NaN
+2021-03-24,chinese,missing,keto,sweet,NA, Cold ,none,pork,Grilled,china,Formal,-999,yes,no,FINE DINING,12086,"19,267"," 7,217",11463,1095,NA,NaN,£1521,£18355,"12,132"
+2024-04-18, mexican ,NaN,NA,DRINK,FIERY,ROOM TEMP,dairy,Chicken,baked,,HOLIDAY,Metal,YES, no , FAST FOOD ,14565,8807," 1,371",5105,8866,£11794,11845,16848,15942,£6022
+11/08/2024,GREEK, dessert ,vegetarian,Main,hot,Cold,EGG,lamb,raw,mexico, holiday ,PAPER,no,NA,streetFood,2444,242,-999,£15816,2770,"17,081","17,285",NA,NaN,11346
+11/06/2023,italian,lunch,missing,Starter,NA,ROOM TEMP,None,Tofu,raw, france ,HOLIDAY,paper,Yes,,Street Food,3327," 9,362",926,£6820,-999,£15137,"17,105",NaN,"19,205",19119
+"Sep 19, 2022",french,Brunch,-999,starter,medium,NA,gluten,LAMB,baked,Greece,holiday,compostable,yes, no ,streetFood,,"12,766"," 1,534",13781,7684," 6,928",4065,missing,"12,243",£9163
+28/04/2023,french, LUNCH ,keto,NaN,HOT,Room Temp,none,,grilled,france, birthday ,paper,yes,no,fine_dining,13911,10373,8561,792,£1491," 2,180",£2613,5072,£4157," 6,258"
+2024-07-20,INDIAN,DINNER,keto,NaN,hot,Cold,None,LAMB,baked,italy,FORMAL,GLASS,NA,NA,STREET FOOD,£11652,NaN,1172,£10655,NA,2861,1415,227,,NaN
+21/05/2023, CHINESE ,BRUNCH, keto ,SWEET,medium,NaN,Dairy,tofu, Steamed ,greece,casual,Paper,yes,YES,street food,11315,2274,£15937,missing,14507,16356,-999,NA,1488,£18399
+06/11/2021,greek,Dinner,missing,starter,medium,COLD,gluten,Beans,-999,india,Casual,glass, YES ,missing,FINE DINING,5076,"13,635",NA,-999,17005,2871,-999,£14935,2800,£12087
+09/01/2022,french,DINNER,Vegan,sweet,NaN,-999,Egg, tofu ,FRIED,mexico,,plastic,NO,NaN,Street Food,12196,-999,NaN,15180,£18739,4570,7507,-999,NA,missing
+"Feb 07, 2022",missing,lunch, Vegan ,Sweet,hot,HOT,none,lamb,raw,france,Formal,compostable,Yes,no,independent,15705,14886,8429,17524,7867,NA,2342,NA,14998,788
+2022-12-13,french,SNACK,vegetarian,starter,hot,HOT,None,Beef,baked,india,casual,paper,No,yes,franchise," 9,386",5007," 7,388",596,£19411,5281,"14,857",11796,18795,NaN
+2023-07-08,FRENCH,breakfast,HALAL,Starter,Hot,Cold,gluten,pork,Grilled,CHINA,casual,NaN,no,NO,independent,NaN,£84,NaN,"14,499",9551,14309,16236,16529," 3,087",10618
+24/11/2021,Mexican,dessert,VEGETARIAN,sweet,medium,HOT,egg,tofu,FRIED,china,NA,glass,NaN,-999,street food,10454,£18892,14811,9727,3258,17346,15181,3228,"19,733",10094
+-999,-999,Breakfast,KETO,STARTER,fiery,HOT,fish,pork,NaN,mexico,Birthday,paper,,yes, independent ,"17,802",6767,2770,£12694,"18,864",652,11630,,18433,2637
+2021-05-28,greek,snack,VEGAN,STARTER,medium,room_temp,missing, pork ,NaN,Greece,Casual,GLASS,yes,NO, franchise ," 5,426"," 6,479",9063,6569,7824,1678," 3,099",-999,14456," 6,286"
+2023-04-26,INDIAN,NaN,keto,main, FIERY ,hot,Soy,lamb,steamed,greece,formal,-999,Yes,no,independent,missing,9314,8220,10109,17805," 4,145",15417,6507,18714,£16831
+-999,ITALIAN,snack,kosher,main, Medium ,Room Temp,,PORK,,Greece,Casual,METAL,No,yes,street_food,£15413,7008,12697,£4066,14682,14270,missing,7464,13286,"19,859"
+2023-10-11,chinese, lunch ,halal,Starter,fiery,COLD,EGG,BEEF,NA,france,Casual,compostable,NO,yes,fine_dining,6439,9969,16098,£10055,NaN,13307,12517,1495,£5352,12273
+16/08/2023,Greek,brunch,KETO,Drink,hot,hot,NUTS,pork,baked,ITALY,formal, METAL , no ,yes,FAST FOOD,8191,"12,869",NaN,"14,801",£14680,10454,17959,11256,18801," 8,922"
+2021-01-09,GREEK,brunch,vegan,SIDE,medium,-999,GLUTEN,beans,Steamed,india,Holiday,Glass,no,Yes,fastFood,12677,8644,NaN,9494,£10039,£14650,19665,8418,14755,"10,739"
+26/01/2021,italian,lunch,vegetarian,Starter,,cold,missing,chicken,FRIED,India,BIRTHDAY,PLASTIC,yes,NO,Fast Food,£2398,"12,575",£3323,£14155,1169,11866,8569,£12765,"15,060",15261
+"Jan 16, 2024",greek,lunch,vegetarian,missing,fiery,hot,NUTS,pork,-999,mexico,holiday,plastic,no,No,fineDining,missing,£14209,14100,8873,£18179,missing,8601,-999,18091,NA
+, italian ,brunch,Gluten-Free,main,Medium,roomTemp,gluten,beef,Grilled,greece,casual,compostable,no,YES,independent,15423,£7696,10465,8778,"11,915",13590,£3720,"15,536",18995,   945
+2023-08-28,Mexican,Brunch,vegan,sweet,mild,ROOM TEMP,none,-999,RAW, greece ,holiday,Glass,-999,yes,independent,£8129,2149,"18,162",5125," 9,989",3455,1827,15290,7713,5820
+,Greek,Dinner,Vegan,starter,hot,roomTemp,dairy,Tofu, GRILLED ,china,CASUAL,Metal,NA,no,fast food,6013,missing,missing,£4820,,1136,6164,£8318,missing,
+"Sep 02, 2021",french,snack,GLUTEN-FREE,main,NaN,Cold, DAIRY ,lamb,steamed,greece,holiday,METAL,,no,Fast Food,16277,missing,7929," 3,218",NA,3250,     5,2486,16010,9634
+"Jan 23, 2022",missing,snack,keto,Drink,medium,cold,egg,beef,fried,india,,metal,No,no,fastFood,16422," 2,705",2197,"10,575",-999,£16619,"19,232",NaN,10172,£18279
+"Mar 05, 2023",indian,lunch,Keto,side,fiery,hot,-999,chicken,GRILLED,india,birthday,PAPER,yes,,streetFood,7686,4604,5116,11821,-999,£3922,"18,291",19350,11011,
+13/09/2021,italian,LUNCH,Gluten-Free,Side,fiery,COLD,gluten,lamb,grilled,italy,formal,NaN,No, YES ,FINE DINING,7456,£3976,"13,123",1936,7735,5041,NaN,,NA,18385
+14/11/2024,french, breakfast ,halal,side,fiery,Hot,dairy,CHICKEN,fried,MEXICO,Formal,Metal,YES,no,independent,"19,250",£8560," 5,932","19,803",15940,11750,"16,460",430,1328,5049
+,MEXICAN,dessert,kosher,sweet,MILD,cold,,NaN,steamed,italy,BIRTHDAY,NaN,no,NA,FAST FOOD,£16237,£19766,13984,£6675,£11103," 8,004",18468,NaN,15956,
+2023-12-12,Mexican,Dinner,vegetarian,STARTER,mild,roomTemp,SOY,beans,Steamed,france,FORMAL,glass, Yes ,No,STREET FOOD,"19,970",£17055,19,£1901,18114,866,1863,18909,17921,1384
+2021-04-26,french,dinner,Gluten-Free,Side,medium,hot,Fish,lamb,Fried,italy,casual,glass, yes ,no,Street Food,627,2600,£14574,£15860,10291,18721,£11726,13093,£9852,9637
+NA,CHINESE,BREAKFAST,vegan,main,NaN,COLD,nuts,,missing, greece ,birthday,glass,NaN,yes,FAST FOOD,233,12647,£12141,13251,,£15902,19645,14276,1594,18133
+2024-04-13,missing,brunch,kosher,Side,HOT, roomTemp ,nuts,NaN, Baked ,FRANCE,Casual,,,missing,streetFood,5633,-999,16754,£14074,2777," 9,990",18505,13589,15027,645
+21/11/2023,mexican,Breakfast,-999,Drink,medium,HOT,nuts,CHICKEN,raw,india,Formal,Compostable,yes,YES,fine_dining,£8060," 4,018",£8637,8040,£9732,NaN,£18027,16593,16332,15183
+2022-10-30,indian,breakfast,vegetarian,missing,HOT,hot,Egg, Beans ,raw,FRANCE,holiday,glass,No,yes,Fine Dining,,5993,12344,14928,£7248,£5413,missing,7605,642,17357
+08/03/2022,chinese, brunch ,vegetarian,NA,FIERY,cold,none,chicken,fried,-999,casual,NaN,No,missing,,missing,missing,5416," 3,975",missing," 3,944",£16089,11017,2122,12734
+16/03/2021,NaN,brunch,HALAL,drink,Medium,hot,DAIRY,lamb,steamed,greece,casual,NA,NA,NO,STREET FOOD,14711,£1363,-999,1256,3396," 5,662",15693,5691,14810,14622
+2021-08-04,chinese,Breakfast,halal,NaN,FIERY,hot,egg,Lamb,raw,GREECE,holiday,-999,NO,No,Franchise,7011,16993,£618,13891,7953,-999,£15515,£8613,"13,828",9993
+11/01/2024,chinese,breakfast, vegan ,starter,medium,Hot,None, chicken ,FRIED,greece,birthday,plastic, no ,no,fastFood,2934,,£18545,£6888,2996,6938,£14054,14310,245,1760
+"Apr 06, 2021",mexican,,vegan,SIDE,, Room Temp ,nuts,lamb,baked,GREECE, birthday ,NA, no ,yes,franchise,15108,11074,14863,-999,1716,-999,£7146,5010,6132,£5349
+NA,,SNACK,Kosher, Sweet , hot ,Hot,NUTS, PORK ,BAKED,italy,holiday,glass,no,yes,street food,8796," 6,921",£10920,"15,204",4967,-999,9691,£6524,18672," 9,628"
+16/04/2021,Mexican,dinner,gluten-free, drink ,fiery,room temp,dairy,PORK,grilled,CHINA, holiday ,METAL,,no,STREET FOOD," 9,969",17051,-999,2118,2109," 3,755",10120,missing,missing,10871
+NaN,indian,brunch,vegetarian,SWEET,hot,Hot,soy,pork,Baked,INDIA,birthday,Compostable,YES,no,independent,6504,4307,9492,"17,036",13231,£726,11121,13199,10640,8991
+NaN,indian,breakfast,vegan, sweet ,Mild,roomTemp,none,BEEF,,china,Holiday,compostable,no,no,street_food,NaN,17837,10506,19102,"15,110"," 3,247",16478,£8776,-999,"12,810"
+28/02/2023,italian,breakfast,GLUTEN-FREE,Sweet,MILD,cold,NUTS,-999,steamed,France,holiday,-999,NA,NA,Fast Food,18213,£13929,2054,missing,15394,5606,11714,16747,128,4272
+NA,chinese,brunch,kosher,main,Medium,roomTemp,fish,chicken,Steamed,greece,HOLIDAY,COMPOSTABLE,no,no,franchise," 2,769",13772,6738,£2175,7286,18377,NA,NaN,£16334,£14638
+2024-07-15,chinese,Dessert,NA,starter,Medium,cold, dairy ,tofu,missing,greece,NaN,compostable,YES,yes,Independent,£9982,£1548,,487,18027,£7439," 7,818",5233,34,£19194
+18/10/2021,GREEK,snack,VEGETARIAN,Main,Fiery,HOT,nuts,CHICKEN,grilled,missing,NA,compostable,no,missing,,18814,£16616,13049,4993,16003,£14785,£2720,1869,£7977,9373
+05/05/2021,french,Dinner,HALAL, starter ,Fiery,Cold,dairy,,RAW,MEXICO,BIRTHDAY,PAPER,Yes,yes,,13894,-999,16252,91,2488,,10604,£13984,£4755," 2,151"
+12/10/2022,NaN,DINNER,KETO,Side,HOT, room_temp ,Egg,tofu, GRILLED ,france,NA,metal,-999,No,Fast Food,3856,1113,15313,13188,12280,2350,15686,£5923,577,14056
+06/08/2023,french,Lunch,Gluten-Free,Side,Medium,roomTemp,nuts,chicken,grilled,Greece,Birthday, paper ,no,yes,fastFood,£10074,157,10030,13153,19899,£1885,£2632,8280,£5963,9268
+23/03/2022, chinese ,lunch,Vegan,side,Fiery,HOT,gluten,PORK,fried,mexico, holiday , Metal ,NO,YES, franchise ,5576,4119,11376,"13,808",9527,8537,£7506,2749,10053,£7061
+29/07/2023,italian,lunch,keto,MAIN, HOT ,room temp,soy,LAMB,raw,china, Casual ,plastic,yes,yes,missing,£9117,17349,5472,£17835,14194,6524,7180,15733,,8060
+2021-07-24,-999,brunch,gluten-free,main,mild,,-999,Beans,baked,india,CASUAL,Plastic,yes,no,STREET FOOD," 7,840",£4749,£10986,£6309,1868,271,-999,-999,5782," 6,391"
+2024-12-24,indian,lunch, VEGAN ,sweet,mild,cold,egg,chicken, Raw ,-999, birthday ,NA,no,,INDEPENDENT,16816," 7,687",7450,11797,17768,-999,18987,2125,NA,
+13/05/2024,ITALIAN,brunch,vegan,main,hot,COLD,gluten,lamb,steamed,France,Casual,missing,No,yes,independent,10898,19454,819,6477,-999,missing,5183,,16697,8735
+2024-08-26, FRENCH ,snack,halal,Sweet,fiery,Hot,nuts,beans,GRILLED,greece,CASUAL,Compostable,Yes,NO,fine_dining,NA,6807,726,5698,NaN,£1327,1636,"13,244",19719,13184
+2024-06-24,greek,LUNCH,halal,SWEET,mild,cold,gluten,pork,STEAMED,france,birthday,Compostable,YES,yes,fine dining,"14,274",4900,4865,284,12317," 9,465",864,6832," 4,236",12403
+2021-06-02,indian,lunch,vegetarian,drink,hot,Cold,nuts,missing,baked,china,formal,plastic,no,NA,FINE DINING," 9,622",5029,5682,£8820,missing," 3,093",1858," 1,626",17239,"17,932"
+2022-08-01,mexican,dinner,gluten-Free,Main,FIERY,HOT,none,chicken,grilled, Greece ,Holiday,metal,Yes,, FRANCHISE ,£7526,12396,258," 7,015",2376,4980,7261,£6708,18256,4716
+2023-04-19,INDIAN,dessert,kosher,NA,mild,cold,Fish,NA,-999,china,FORMAL,NA,no,No,NA,,£19010,2784,549,£19439,8166,14464,,NaN,£7820
+-999,GREEK,Snack,VEGETARIAN,DRINK,Hot,cold,nuts,lamb,RAW,China,formal,Paper,NO,Yes,independent,8991,"18,721",6249,5,4567,16924," 5,821",16725,5486,2247
+12/06/2021,-999,dinner,vegetarian,Sweet,fiery,cold,egg, beans ,raw,China, casual , plastic ,missing,missing,streetFood,NaN,£996,£6481,£11749,7646,NA,NA,11033,3624," 1,701"
+"Nov 22, 2023",NA,breakfast,vegetarian,side,Mild,cold,-999,Tofu, Baked ,FRANCE,Holiday,plastic,-999,yes, streetFood ,4247,13639," 1,573",£16464,£18638,100,18667,4348,£1770,14981
+06/10/2023,indian,lunch, Keto ,-999,fiery,Room Temp,,chicken,grilled,FRANCE,NA,plastic,no,NO,Franchise," 7,476",missing,missing,3111,missing,missing," 1,599",446," 3,891",14181
+missing,italian,dinner, kosher ,Sweet,fiery,Hot,dairy,pork,grilled,italy,HOLIDAY,paper,NA,Yes,streetFood," 8,217",NaN,-999,6385,18375,14294,NaN,NA,12662,5485
+27/10/2023,mexican,snack,halal,SIDE,fiery,room temp,missing, Lamb ,raw,MEXICO,casual,metal,NaN,YES,fast_food,9254,16149,12385,19692,15405,£11251,£10576,15738," 8,825"," 8,208"
+10/07/2023,NaN,breakfast,vegan,,Mild,,Gluten,Beef,Fried,greece,FORMAL,METAL,no,missing,NaN,2863,8770,£16802,12751,13570,7379,13955,"10,376",15059,11435
+2022-08-27,mexican,brunch,halal,Drink,FIERY,hot,Nuts,Tofu,RAW,france,Holiday,compostable,no,no,street food,£8641,17800,8178,£12170,"17,935","11,871",13132,10736,£9511,8582
+2021-10-19,Greek,NA,halal,Side,HOT, Room Temp ,soy,tofu,STEAMED,greece,BIRTHDAY,compostable,yes,no, streetFood ,10966,9674," 7,992",14843,"12,216",NaN,£6856,   436,"12,974"," 2,763"
+2022-12-19,mexican,missing,VEGAN,side,Fiery,Room Temp,egg,chicken,fried,china,Casual,compostable,no,no,franchise,£15049,missing,,244,10355,8065,14757,18873,5409,8772
+"Jan 21, 2021",indian,lunch,gluten-Free,SIDE,FIERY, Room Temp ,dairy,lamb,GRILLED,italy, birthday ,Glass,no, No ,street food,missing,15852,12758,5248,NaN,£9182,2419,2762,1031,12695
+2024-12-02,chinese,lunch,GLUTEN-FREE,SWEET, HOT ,roomTemp,Soy,PORK,grilled,greece,Birthday,COMPOSTABLE,yes,yes,fine_dining,£5487,"11,436","19,342",9344,14443,"15,356",15915,"16,635",7331,9741
+20/05/2022, indian ,DINNER,VEGETARIAN,starter,fiery,Hot,dairy, CHICKEN ,grilled,mexico,Casual, PLASTIC ,NO,yes,franchise,"19,272",14380,,8076,11427,2437,6840,3563,2603,680
+21/07/2021,italian,Dessert,Halal,DRINK, fiery ,hot,dairy,BEEF,RAW,,birthday,paper,yes,no,,10435,16613,£12733,3594,"16,473"," 2,001",6569,14559,14137,"16,080"
+02/02/2022,indian,Dinner,Keto,Sweet,-999,Room Temp,NaN,beans,,NaN,holiday,Paper,yes,NO,street_food,18563,14256,-999," 9,769",15001,11103,£4989,,"10,181",1017
+2022-12-20,NaN,dessert,,main,Hot,cold,NUTS,chicken,-999,MEXICO,missing,Paper,NA,yes,,"14,616",   938,£14835,5244,11725,£16737,19202,-999,5559,£17736
+2023-09-07,chinese,snack,halal,NA,FIERY,hot, egg ,chicken,Steamed,mexico,holiday,NaN,NO,yes,,16365,£14290,£4451,5771,NA,13718,£16836,6088,"15,784",12372
+"Jun 26, 2023",French,dinner,halal,SWEET,mild,roomTemp,egg,,,india,Casual,COMPOSTABLE,yes,YES,fine dining,"10,297",18217," 5,448",£17586,9514,£3826,£6512,"19,582",8681,1530
+2023-05-30,NA,missing,Vegan,Starter,hot,hot,egg,pork,BAKED,France,formal,PAPER,No,no,missing,NA,19642,,"15,374"," 6,307",1883,£16431,12662," 2,731",19386
+27/01/2022,greek,lunch, vegetarian ,side,fiery,ROOM TEMP,fish,Pork,grilled,CHINA,formal,Paper,no,NO,Fast Food,19777,£15366,NA,250," 7,056",19392,7306,7918,340,17186
+15/02/2023,french,breakfast,Kosher,main,MILD,roomTemp, nuts ,beef,GRILLED,italy,holiday,PLASTIC,no, no ,street_food,3350,13459,5590,13851,16012,£6576,£5393,"14,043",16995,7217
+13/01/2023,chinese,BRUNCH,Gluten-Free,Drink,mild,HOT,gluten,pork,STEAMED,greece,holiday,compostable, YES ,Yes,,£18662,£13359,8247,£2148,NaN,,NaN,£4843,8477,15289
+2021-07-09,greek, Brunch ,Vegan,drink,mild,cold,missing,lamb,NaN, GREECE ,BIRTHDAY,compostable,YES,NaN,independent,724,5512,£4716,"13,126",£12819,£19240," 3,120",7939,12284,3238
+18/03/2021,Greek,SNACK,keto,sweet, hot ,Hot,gluten,BEANS,steamed,NaN,missing,plastic,-999,NaN,franchise,11848,4817,10755,NA,4887,"17,015","14,133",10291,NA,16583
+13/10/2021,italian, breakfast ,gluten-free,DRINK,hot,room_temp, gluten ,chicken,-999,GREECE,casual, PLASTIC ,Yes,no,streetFood,11062,4590,18568,18692,NaN,13989," 5,152",NaN,1000,18144
+21/03/2023,French,dinner,NaN, Sweet ,mild,hot,Soy, chicken ,steamed,china,BIRTHDAY,Paper,yes,NA,STREET FOOD,13113," 9,103",-999,14130,7486,2661,12512,£9019,-999,17786
+2024-12-19,,breakfast,NA,drink,fiery,cold,Fish,chicken,,CHINA,missing,glass,Yes, yes ,street_food,-999,10950,3475,16094,   221,1277,£10190,£3927,5107,£7068
+"Oct 03, 2024",Mexican,dinner,vegan,MAIN,medium,Cold,egg, Beef ,baked,greece,formal,glass,YES, yes ,street food,NaN,443,714,-999,"15,981",£15776,3963,£9061,14308,£10688
+07/04/2022,chinese,Dessert,KOSHER,side,MEDIUM,,gluten,NaN,-999,india,birthday,,no,no,NaN,£10069,10939,NaN,-999,1407,5485,£17002," 2,458",10144,£11394
+2022-11-14,mexican,dinner,vegetarian,SWEET,MEDIUM,Room Temp,Egg,Pork,STEAMED,FRANCE, holiday ,glass,NA,yes,-999,1706,NaN,£16056,NaN,3190," 5,279",15924,5114,9318,504
+2024-06-08,MEXICAN,DESSERT,keto,Main, medium ,ROOM TEMP,gluten,TOFU,missing,mexico,formal,PAPER,no,yes,Street Food,£18132,9408,£12064,£5534,NA,517,NA,£2547,£6337,"17,527"
+2022-07-01,chinese,Snack,halal,Main,mild,hot,NONE, pork ,baked,mexico,NA,COMPOSTABLE,yes,NO,STREET FOOD,2440,missing,17118,18905,3426,12697,13706,17322,493,9729
+29/11/2023,french,,gluten-free, side ,MILD,room temp,EGG,Beef,Grilled,France,FORMAL, glass ,Yes,yes,STREET FOOD,-999,12305,2143,NaN,14113,NA,16060,9592,£11979,880
+28/04/2021,CHINESE,lunch,keto,side,,cold,Dairy,lamb,fried,China,birthday,NaN,Yes,NaN,fast food,£11273,2372," 1,753",3761,£6949,6713,13907,4915,£3198,£14702
+07/10/2024,INDIAN,brunch, gluten-Free , starter ,missing,Hot,soy,NaN, STEAMED ,Mexico,Holiday,Compostable,no,YES,franchise,4537,13325,16363,17316,"15,597",NaN,956,6794,7744,13859
+16/01/2023,Greek,Brunch, vegetarian ,Drink, mild , room_temp ,dairy,Beef,RAW,-999,birthday,glass, yes ,yes,NaN,15661,7316,16518," 5,256",3403,16551,missing,583,-999,£2978
+"Aug 09, 2023",mexican,breakfast, VEGETARIAN ,sweet,Medium,Room Temp,-999,chicken,Baked,france,formal,plastic,yes, yes , independent ,£7578,19031,missing,,-999," 3,136",-999,NA,18429,17400
+2023-11-06,MEXICAN,snack,vegan,Drink,NA,ROOM TEMP,egg,CHICKEN,Fried,india,NaN,METAL,YES, no ,fine dining,NA,11033,4357,NA,2500,16139,,3463," 1,370",10429
+2022-02-01,MEXICAN,,gluten-free, Side ,FIERY, roomTemp ,soy,LAMB, raw ,france,FORMAL,compostable,yes,no,FRANCHISE,9615,14065,18266,15994,£11335," 8,145",14691,10715,3192,£6731
+2024-07-19,greek,Lunch,gluten-Free,STARTER,mild,Hot,Nuts,chicken,FRIED,-999,formal,plastic,Yes,yes,Street Food,£1211,6693,1870,12452," 3,946",£17482,-999,15207,15617,14770
+2024-08-22,chinese,lunch,NaN,starter,fiery,room_temp,GLUTEN,tofu,steamed,China,birthday,PAPER,no,yes,fast_food,15504,,7296,"19,091",12392," 4,150",4540,9894,9241,£507
+2024-06-06,INDIAN,lunch,HALAL,MAIN,mild,Room Temp,Nuts,chicken,Baked,greece,casual,PAPER,NO,no,INDEPENDENT,18564,"11,303",£5898,£17805," 7,760",11721,£9654,1634,£137,£8538
+28/03/2023,INDIAN, BREAKFAST ,halal,sweet,medium,room temp,fish,BEEF,STEAMED,mexico, Holiday ,NA,missing,no,Fast Food,15818,£9055,6343,17062,11613,16781,13853,11272,14667,
+"Mar 25, 2024",indian,NA,kosher,Side,hot,-999,nuts,Lamb,RAW,india,FORMAL,COMPOSTABLE,no,no,missing,18125,15122,11777,£5091,7409,16976," 1,091",10287,5480,
+,french,breakfast,vegan,drink,FIERY,roomTemp,Gluten,pork,fried,NaN,CASUAL,Paper,yes,NO,STREET FOOD,8017,10313,"13,152",11595,19324,16360," 6,198",1555,3299,£16674
+28/03/2024,mexican,DESSERT,keto,MAIN,fiery,cold,Nuts, tofu ,BAKED,NaN,Casual,COMPOSTABLE,,No,streetFood,£1189,19835,6822,13178," 7,492",-999,15902,,8614,16661
+01/02/2023,MEXICAN,Brunch, Vegan ,sweet,Mild,-999,Nuts,chicken,NA,china,NaN,glass,yes,no,Independent,6238,15675,10868,NaN,16877,£13743,922,"15,176",6295,3719
+10/08/2024,French,dessert,keto,MAIN,fiery,COLD,soy,pork,raw,GREECE,BIRTHDAY,glass,No,no, franchise ,17793,14077,7296,15465,11813,-999,11751,"19,717",2937,£16389
+2022-09-03,mexican,DESSERT,HALAL, SIDE ,fiery,roomTemp,EGG,chicken,BAKED,france,Holiday,Glass,no,no,street food,17590,"15,054",3923,£7818,97,NaN,18250,6708,,19055
+"Dec 11, 2023",french,LUNCH, gluten-Free ,side,medium,room temp,DAIRY,beef,BAKED,china,,NA,-999, yes ,missing,6263,17479,6208,19348,17697,NA,15884,17104,4532,63
+21/08/2022,Indian,Snack,kosher,SIDE,hot,HOT, fish ,Chicken,steamed,greece,Formal,compostable,YES,yes,franchise,£7457,7438,NA,£7379,7807,£6867,16820," 9,460"," 1,878",10110
+2023-01-16, indian ,LUNCH,keto, drink ,hot, cold ,Soy,lamb,GRILLED,China,,,no,,Street Food,£6415,1878,16180,£2284,£18800,missing,,18709,NaN,NA
+16/08/2022,Mexican,Brunch,halal,drink,NaN,hot,Egg,lamb,grilled,france,FORMAL,GLASS,Yes,Yes,street food,5448,£11445,£8352,2612,10713,-999," 7,914",3601,£18328,13300
+2021-09-03,greek,brunch,gluten-Free, MAIN ,Medium,Room Temp,dairy,Lamb,Raw,Greece,,NaN,YES,yes,Street Food,£4647,-999,7829,17830,NaN,18126,£19026,£697,9085,16639
+09/10/2021,NaN,Brunch,vegetarian,drink,MILD, hot ,none,beans,baked,mexico,casual,plastic,yes,No,independent,"13,545"," 1,056",13448,-999,18837,NA,14999,16828,15875,630
+"Aug 04, 2022",,breakfast,gluten-Free,main,Fiery,,soy,chicken,grilled,NaN,HOLIDAY,plastic,no,YES,Fine Dining,£1876,13800,11750,"16,551",5809,10530,3929,6197,"15,222",4793
+"Jan 08, 2023",NA,BREAKFAST,Keto,sweet,FIERY,cold,soy,pork,-999,NA,holiday,GLASS,yes,YES,Fast Food,18139,"18,031",NaN,5632,10460,£8216,10770,,£6786,£16711
+06/05/2023,italian, snack ,KOSHER,main,HOT,ROOM TEMP,soy,BEEF,NaN,india,holiday,plastic,,no,fast food,11898,"16,054",7820,3259,missing,"11,653",11361,,"17,422",7680
+"Feb 09, 2023",-999,Brunch,halal,SIDE,hot,Hot,NaN,chicken,baked, france ,NA,metal,,missing,street_food,387,5403,13759,"17,399","14,548",2632,£11603,,12385,£9577
+07/01/2022,mexican,DESSERT,KOSHER,drink,Medium,Cold,Soy,beef,Baked,Greece,BIRTHDAY,paper,Yes,No,independent,3732,2529,11254,£1806,6929,-999,£9397,£6523,4526," 2,102"
+29/07/2021,chinese,snack,halal,sweet,Mild,cold, soy ,LAMB,steamed,china,birthday,Compostable,yes, yes ,fine_dining,7871,4454,£15162,10508,3558,5615,7824,£431,232,£17580
+2024-09-13,INDIAN,snack,halal,sweet,hot,roomTemp,soy,chicken,raw,Greece,formal,compostable,yes,NA,Fast Food,3542,,2891,16273,13839,"15,740",NA,,16002," 8,181"
+15/11/2021,Greek,,KOSHER,drink,hot,cold,FISH,lamb,steamed,Mexico,holiday,paper,NaN,Yes,street_food," 9,520","12,521",£7246,£6029,1609," 5,516",6706,18450,15865,£10553
+2021-12-24,french,breakfast,Keto, Side ,NA,hot,FISH,tofu,RAW,INDIA,HOLIDAY,COMPOSTABLE,yes,yes,street_food,missing,5208,4226,£1225,18099,15143,,3001,18126,12023
+2024-09-02,italian,snack,vegetarian,side,hot,cold,Soy,TOFU,NA,france,formal,glass,no,NO,Fine Dining,£7053,9158,£6714,4201,NaN,3522,12126,16918,14662,13590
+19/09/2022,italian,NA,vegetarian,Side,medium,Room Temp,Dairy,beans,fried,GREECE,holiday,Glass,no,no,fastFood,£14378,3986,18464,-999,16922,£6577,£17034,NA,983," 5,409"
+2022-12-08,indian, snack ,KOSHER, Drink ,Hot,cold,NUTS,pork,Grilled,missing,Casual,Compostable,Yes,YES,NA,missing,£9477,15489,7267,5275,13423,13440,17332,NaN,NaN
+01/05/2022,greek,dinner,vegan,sweet,,,SOY,chicken,RAW,GREECE,birthday,PAPER,yes,Yes,Fine Dining,14613,£15752,4732,   453,5099,9290,17904,"18,667",15762,missing
+30/01/2023,INDIAN,,KOSHER,SIDE,mild,hot,EGG,beans,raw,NaN,casual,compostable,Yes,No,fine_dining,10082,14457,NA,NaN," 9,592",14375,5387,935,11437,£17204
+,french,dessert,halal,drink,hot,HOT,NONE,CHICKEN,FRIED,italy,birthday,glass,yes,no,fine_dining,19659,£9369,14116,2389,17230," 7,352"," 8,004",missing,488,3744
+26/04/2023,indian,lunch,-999,Main,hot,Cold,missing,tofu,-999,greece,Holiday,plastic,no,no,FRANCHISE," 5,909",10867,NA," 7,513",11569,18699,4806,9237,14021,13734
+2024-07-14,indian,BREAKFAST,gluten-free,main,MILD,cold,Fish,missing,NA,italy,birthday,,no,yes,INDEPENDENT,-999," 4,140"," 6,943",missing,£6846,£9678,£19975,7029,9414," 5,625"
+2024-04-11,french, dessert ,halal, SIDE ,Hot,cold,SOY,Lamb,baked,india,birthday,plastic,No,no,independent,16075,3966,3106,£10665,,£8822,14337,-999,NA,6653
+16/06/2021,missing,Dinner,gluten-free,drink,hot,Hot,soy,Tofu,STEAMED,india,holiday,Paper,missing,yes,street food,,18354,8959,18046,11764,10469,2211,NA,£1708,1103
+05/08/2024,italian,LUNCH,vegan,drink, FIERY ,cold,none,Beans, grilled ,china,Birthday,glass,-999,NO,fast_food,16662," 9,635","17,145",1120,7731," 7,923"," 3,004"," 5,267",12215,17483
+30/08/2023,French,DINNER,gluten-free,side,medium,HOT,soy,BEEF,fried,greece,holiday,paper,YES,no,Franchise,15171,£15509,"14,317",-999,6395,£236,2289,,2952,£4466
+"Mar 06, 2022",italian,BRUNCH,Kosher,SIDE,FIERY,HOT,none,chicken,steamed,france,holiday,PAPER,No,no,STREET FOOD,19800,14252,£12101,2985,£1287,13557,6389,10229,"12,187",2485
+05/12/2023,, breakfast ,KETO,side,Fiery,cold,EGG,TOFU,STEAMED,NA,casual,glass, No ,yes,Fine Dining,13669,2982,7978,4382,12290,7843,NaN,NA,8469,19570
+"Feb 27, 2023",mexican,snack,gluten-free,NA,hot,Cold,Gluten, Pork ,raw,-999,casual, plastic ,NO, no ,independent,"10,663",£327,2995,19255,NA,18394,"11,861"," 1,119",£19888,NaN
+"Dec 13, 2023",indian,LUNCH,VEGAN,main,MEDIUM,cold,soy,Pork,raw,NA, Birthday ,Compostable,no,yes,FINE DINING,16434,£16518,"16,084",£18843,13112,-999,17705,missing,1548,987
+17/11/2021,mexican,breakfast,gluten-free,Starter,Fiery,cold,NUTS,beef,FRIED,mexico,casual,missing,no,NO,NA,81,NaN,"14,102",£4705," 5,434",10096,£5038,£17943,11793,"16,468"
+"Jun 19, 2021",mexican,,gluten-Free,drink,hot,Cold,dairy,chicken,raw,india,NaN,Metal,no,yes,street_food,9228,-999,"19,062","17,105",17713,13031," 4,562"," 2,202",-999,9053
+10/10/2024,french,SNACK,halal,Starter,,Cold,fish,beef,Grilled,china,HOLIDAY,plastic,no,NO,missing,10080,-999,£2498,9056,16741,8521,10581,£8036,£5907,£3762
+16/10/2023,,NA,gluten-free,drink,FIERY,HOT,fish,lamb,fried,greece,NA,metal,yes,yes,FAST FOOD,£19839,-999,10554,5679,NA,11893,12940,16554,19571,2612
+14/02/2022,Italian,SNACK,gluten-free,missing,NaN,room temp,Nuts,PORK,steamed,MEXICO,birthday,COMPOSTABLE,no,YES,NaN,NA,196,16011,£15768,6053,NaN,"15,502",3353,6360,6623
+2021-11-27,indian,BRUNCH,halal,SIDE,mild,Hot,fish,Beef,grilled,italy,Casual, paper ,no,yes,independent,NaN,"16,261",96,5095,£3441,missing,14433,£7676," 2,123",6992
+31/05/2022,chinese,snack,NaN,main,missing,COLD,fish,NaN, grilled ,greece,holiday,NaN,yes,yes,independent,628,," 6,871",1206,"11,804",15585,missing,£1239,NA,"18,121"
+07/12/2023,French,dessert,vegetarian,Drink,medium,hot,SOY,lamb,baked,,missing,Compostable,no,Yes,fast food,18091,NaN,15188,706,missing,671,15225,12332,5283,12765
+2022-10-31,INDIAN,breakfast,vegan,SIDE,fiery,hot, DAIRY , beans ,fried,Italy,BIRTHDAY,Compostable,no,Yes,STREET FOOD,9380,NaN,,5449,7053,£19345,£13756,1293,NA,18841
+2023-01-10,French,missing,Keto,main,-999,HOT, SOY ,Beef,steamed,mexico,holiday,PAPER,YES,YES, STREET FOOD ,NA,17899,17179,11219,8695,19084,17417,,11732,16814
+05/06/2021, chinese , Snack ,halal,NA,fiery, hot ,NA, beans ,FRIED,china,BIRTHDAY, glass ,no, yes ,franchise,NaN,14938,,£14108," 4,680",£15625,2822,missing,13828,307
+15/01/2024, CHINESE ,brunch,gluten-free,Sweet, Fiery ,hot,gluten,-999,STEAMED,ITALY,CASUAL,glass,no,NO,FAST FOOD,7636,£18640,8923,£1360,1794,18955,1419,"11,276",3958,£10911
+07/07/2021,chinese,brunch,Keto,side,fiery,cold,gluten,LAMB,fried,italy,formal,plastic,NO,NO,FINE DINING,£17463,5356,5066,19335,15600,8598,15141,"15,056",5101,NaN
+2021-08-18,INDIAN,breakfast,-999,MAIN,hot,room temp,gluten,tofu,grilled,Italy,CASUAL, metal ,NO,no,FAST FOOD,7814,-999,,7315,17409,"10,343",10470,2404,17889," 3,991"
+05/04/2021,italian,brunch,keto,main,missing,cold,Dairy,missing,raw, greece , HOLIDAY ,plastic,No,no,street food,£2542,8405,7166,NaN,6985,16413,NA,,19193,5035
+2022-07-09,NaN, dinner ,VEGETARIAN,SIDE,hot,cold, None ,-999,steamed,india,birthday,metal, yes ,no, fastFood ,4206," 1,976",6766,,13712,2342," 1,400",12859,13125,11976
+"May 16, 2023",french,BRUNCH,kosher,sweet,NA,NaN,Fish,lamb,Baked,greece,casual,PLASTIC,yes,NO,fine_dining,"13,049",6531," 5,871",NA,missing,1265,£13234,4699,7950,"14,594"
+"Oct 03, 2022",Chinese,brunch,Kosher,sweet,MILD,hot,dairy,beans,fried,india,casual,compostable,no,no,franchise,£9485,10557,3070,1819,4549,"15,195",£9518,£5110,13246,9716
+2024-09-15,CHINESE,lunch,vegetarian,main,mild,Room Temp,nuts,pork,raw,greece,NA,missing,yes,no,missing,11869,450,537,15576,£9319,18089,NA,2911,18511,2480
+"Oct 17, 2021",indian, brunch ,halal,SWEET,MEDIUM,hot,fish, Lamb ,grilled,india,birthday,plastic,yes,no,fast_food,£4990,£7112,NaN,12940,6466," 1,316",-999,NaN,6031,NaN
+"Nov 29, 2024",chinese,snack,KOSHER,sweet,Medium,missing,missing,Tofu,NaN,Italy,birthday,metal,No,YES,fast_food," 7,148",2499,345,9692,£4812,12218,6910," 6,156",£695,11130
+"Apr 10, 2021",NA,DINNER,vegan,main,medium,hot,Fish,Beef,raw,china,CASUAL,Plastic, Yes ,no,independent,1783,5932,£15933,£10140,5811,   519,,6736,"18,890"," 7,118"
+2024-03-30,Italian,Lunch,keto,starter, Fiery ,room_temp, Gluten ,chicken,raw,france,birthday,glass,NA,NO,Street Food,1284,14701,15282,£7358,missing," 1,256"," 4,663",7357,"11,323","19,835"
+04/07/2023, indian ,dinner,Halal,sweet,FIERY,hot,GLUTEN,Pork,Baked,italy,birthday,PAPER,No,YES,Fast Food,14643,"15,060",£9808,£16301,9439,£1513,6548,1836,missing,12750
+04/08/2023,CHINESE, Lunch ,vegetarian,DRINK,fiery,Hot,none,beef, Grilled ,mexico,formal,paper,No,yes,street food,"11,198"," 1,082",£15890,18434,missing,£8933,1060,19873,4721,"11,834"
+2023-02-07,Indian,breakfast,vegetarian, Sweet ,hot,cold,fish,PORK,raw,mexico,FORMAL, compostable ,no,no,missing,19701,5229,," 5,106",£4536,-999,"16,307",7360,£15910,18293
+2021-10-24,missing,LUNCH,kosher,sweet,hot,NaN,SOY,beans,NA,france,casual,compostable,YES, YES ,fine dining,7106,£8151,16810,4108,11653,£7792,18904,NaN,15253,£17289
+NA,INDIAN,Brunch,halal,sweet,Mild,HOT,EGG,beef,baked,france,casual,paper,yes,yes,franchise,15162,"16,167",14974,£9558,"18,314",£5006,NA,739,5626,£16865
+"May 22, 2023",chinese,dessert,vegetarian,side,hot,missing,nuts,beef,Raw,greece,BIRTHDAY,glass,no,NA,FAST FOOD,"17,249",9375,"11,344",NaN,£12042," 4,336",£12312,19695,£8062," 2,028"
+2022-06-15,missing,breakfast,Halal,Drink,FIERY,hot,fish,beans,fried,GREECE,Birthday,glass, NO ,no,FRANCHISE,1621,£18943,-999,NaN,16717,missing,1107,18263,,3683
+"Sep 06, 2022",Mexican,NaN,gluten-Free,DRINK,fiery,COLD,egg,beans,baked,mexico,BIRTHDAY,glass,Yes,Yes, Fast Food ,£5996,8605,"16,031",10551,£10990,2657,4444,19744,13924,"17,882"
+2021-10-28,greek,-999, keto ,drink,mild,hot,gluten,,Raw,Mexico,birthday,paper,NO,yes,street food,13064,NA,£1984,4813,7154,-999,15948,10546,1458,8722
+2021-03-23,Indian,Snack,vegetarian,drink,hot,COLD,none,beef,Raw, France ,holiday, Glass , NO ,yes,FINE DINING,15379,10328,1180,2260,1219,16308,5279,NaN,4404,£19097
+06/10/2022,Mexican,Breakfast,vegan,side,Hot,cold,dairy,BEEF,baked,mexico,holiday, paper , yes ,Yes,FAST FOOD,18246," 8,183",,17620,"17,232",missing,8406,4677,"19,961",1457
+17/11/2023,chinese,snack,NA,, hot ,Hot,gluten,tofu,-999,italy,CASUAL,compostable,yes,No,Independent,8906,£4214,£1810,,£4106,14046,15682,£7033,NA,5534
+2022-08-15,missing,snack,vegetarian,side,mild, roomTemp ,NONE,NA,Grilled,Mexico,casual,missing,NaN,no,FRANCHISE,£13645,£11756,6646,19926,18127,£10144,£11913,14819,12211,NA
+16/01/2022,greek, dinner ,kosher,drink,hot,roomTemp,Gluten,chicken,-999,china,birthday, PAPER ,NO,no,fast food,16289,15023," 1,378","12,305",9982,4253,18993,,6949,2459
+20/01/2021,indian,LUNCH,vegan,SWEET,Hot,cold, GLUTEN ,LAMB,NA,france, casual , metal ,-999,yes,Franchise,19356,NA,18820,1146,9434,14064,2232,7252,12813,1684
+2023-06-30, french ,DESSERT,kosher,side,fiery,NaN,Egg,NA,steamed,India,-999, metal ,No,yes,street_food,"17,763",18864,16936,£788,"12,546",19999,7325,8717,8260,£19400
+"Dec 06, 2021",indian,breakfast,vegetarian,Main,hot,Room Temp,egg,LAMB,Baked,italy,Birthday,paper,Yes,yes,Fast Food,11101,"13,779",1964,"15,416"," 8,358",£9578,2677,7325,7552,16079
+2023-07-18,indian,lunch,Keto,drink,mild,room_temp,dairy,beef,STEAMED,france,Casual,plastic,no,no,independent,15939,1365,NaN,10272,11191," 6,517",15832,19030,295,£12664
+15/01/2023,French,breakfast,keto,side,NA,-999,nuts,chicken,Baked,italy,Casual, Paper ,YES, Yes ,fine_dining,£19401,18141,1075,14853,8332,NaN,"17,477",9513,17173,6592
+29/11/2021,italian,breakfast,VEGETARIAN, starter ,mild,cold,fish,LAMB,Fried,india,HOLIDAY,PLASTIC,Yes,no,independent,13804,2711,"12,920",16431,8976,9104,11605,"11,877",NaN,NA
+2021-10-20,chinese,Dessert,gluten-Free,starter,hot,ROOM TEMP,None,chicken,-999,missing,BIRTHDAY,,missing,no,streetFood,655,£19757,16808,£68,£3088,19354,£8803,£10824,3826,5960
+2022-09-28,Chinese,NA,halal,main,medium,hot,none,PORK,BAKED,MEXICO,Formal,GLASS,no,YES,fast_food," 3,103",11194,,-999,5590,14389,,"10,708",3529,£18962
+2024-05-05,italian,snack,keto,Side,NaN,Cold,dairy,-999,Baked,,Holiday,Compostable,yes,NO,fine dining,NA,6280,7489,NA,"14,581",11269,£8289,125,£12844,18797
+09/07/2024,french,lunch,Vegetarian,main,FIERY,hot,soy,LAMB,raw,Mexico,birthday, Compostable ,missing,no,fineDining," 4,589",17594,2940,2954,,£8973,£2847,16223,£8320,9487
+14/01/2021,CHINESE,Dessert, vegetarian ,side, hot , COLD ,gluten,beef,steamed,CHINA,formal,plastic,NO,yes,street food,missing,17584,5081,13516,12040," 8,745",797,19945,1451,17650
+NA,chinese,dessert,HALAL,starter,FIERY,Cold,FISH,pork,,mexico,holiday,Metal,yes,No,fineDining,"10,204","12,541","18,763",17731,10377,missing,4964,8642,"14,400",-999
+"Aug 13, 2021", indian ,snack,vegan,Starter,Hot,cold,Egg,beef,NaN,FRANCE,birthday,metal,no,yes,Fine Dining,2801,NaN,2513,"19,309",1366,   147,£5216,17611,£4396,13010
+2021-10-11,italian,DINNER,NA,starter, medium ,hot,GLUTEN,pork,BAKED,greece,casual,Paper,no,No,Street Food,-999,£16169,£1282,8059," 7,966"," 2,905",NA,15135,"13,510",5715
+"Apr 24, 2021",indian, BRUNCH ,GLUTEN-FREE,SIDE,fiery,missing,NUTS,Beef,baked,France,Formal,GLASS,No,yes,,2492,£12104,10730,£15967,missing,,19246,-999,2419,9256
+"Jul 06, 2023",french,Dessert, halal ,-999,missing,Room Temp,nuts,tofu,Fried,china,holiday,plastic,Yes,yes,streetFood,19247,NA,10904," 9,304",19176,9273,£8962,£335,missing,2580
+05/08/2024,indian,-999,halal,sweet,medium,Hot,missing,TOFU,GRILLED,Italy,Birthday,glass,No,Yes,fine dining,"17,467",17935,9960,15780,NA,,"15,646",19171,11501,"13,555"
+14/09/2021,INDIAN,lunch,kosher,STARTER,MILD,room temp,dairy,beef,fried,India,birthday,PLASTIC,yes,no,Street Food,14688,-999,1089,£1369,17849," 9,692",6992,7399,13382,-999
+07/10/2022,french,lunch,GLUTEN-FREE, MAIN ,medium,room_temp,fish,chicken,Steamed,-999,Formal,paper,Yes,no,fineDining,£18632,9268,NA,4596,2507,17257,£160,6197,3873,16708
+24/07/2022,CHINESE,breakfast,halal,Sweet,fiery,ROOM TEMP,fish,beans, RAW ,china,Casual,plastic,NO,No,independent,"19,335",NaN,17408,17673,£4253,17585," 5,085",14886,16625,£10972
+23/07/2022, ITALIAN ,Snack,vegetarian,DRINK,Mild,hot,,Pork,STEAMED,italy,birthday,Metal,NO, yes ,Fine Dining,missing,NaN,11597,1757,-999,£17729,4654,,£4747,16864
+,indian,DESSERT,vegetarian,STARTER, fiery ,hot,-999,NaN,raw,india, CASUAL ,plastic,No,yes,fine dining,4187,4558,11803,12164,,9906,8651,"10,635",NA,12081
+23/07/2024,chinese,SNACK,gluten-free, sweet ,medium,hot,FISH,lamb, steamed ,greece,holiday,NA,NaN,NO,street_food,527,"14,848",5986,17588,£5495,9679,1685,5310,7586,15549
+2022-08-08,mexican,Dinner,HALAL,MAIN,hot,room temp,soy,PORK, raw ,MEXICO,holiday,compostable,yes,-999,-999,10152,11126,6176,19076,£6128,17403,16145,NaN,436,"10,715"
+"Nov 09, 2022",Indian,lunch,Keto,-999,Fiery,Hot,NaN,beans,RAW,mexico,Casual,PLASTIC,Yes,No,fineDining,90,£3894,19668,"14,446",13944,2357,19147,16762,5189,11683
+03/11/2024,French,Breakfast, vegan ,Sweet,hot,missing,fish,beans,RAW,mexico,BIRTHDAY, glass ,yes,NaN, fine dining ,   987,12275,1579,8167," 5,453","14,737",1667,16898,NA,4753
+2023-10-01,italian,Snack,Vegetarian,STARTER, hot ,cold,Nuts,lamb,RAW,China,Birthday,glass,Yes, Yes ,street_food,14278,-999,16282,16838,missing," 7,972",8800,£11254," 4,849",£4343
+05/02/2023,NA,Dessert,NaN,starter,medium,COLD,-999, pork ,baked,MEXICO,casual,metal,NO,no,franchise,12967," 6,554",19164," 8,687",15016,4668,16211,NaN,18691,3362
+"May 16, 2021",chinese,missing,vegan,sweet,hot,Room Temp,-999,chicken, grilled ,Mexico,casual,COMPOSTABLE,Yes,Yes,fastFood,-999,15480,,4897,4909,17722,17300,12665,7435,"19,743"
+31/12/2022,mexican,Dinner,Halal,starter,medium,Hot,soy, lamb ,steamed,,HOLIDAY,metal,no,no,missing,9736,4278,10666,4229,6030,10743,£8645,12029," 5,877",13287
+"Dec 17, 2022",italian,lunch,Kosher,main,hot,cold,nuts,beans,baked,india,formal,glass,yes,yes,FRANCHISE," 2,444",19894,19245,-999,missing,£15515,19706,4411,17594,18435
+01/02/2021,Italian, brunch ,NaN,starter,medium,hot,Dairy,pork,BAKED,China,holiday,plastic,,No,streetFood,NaN,204,4415,15652,NA,"10,849",£11878,6763,"19,319",17038
+2021-12-02,italian,brunch, GLUTEN-FREE ,side,fiery,Cold,NONE,beef,fried,india,CASUAL,METAL,,YES,independent,£10174,£2876,18646,   876,1833," 2,773",12182,£16660,£18846,17561
+"Apr 04, 2022",indian,,Kosher,sweet,hot,hot,missing,NA, fried ,greece,Holiday,glass,Yes,no,franchise,7021,£8533,6422,NaN,-999,785,   384,NaN,17744,£13219
+2022-08-10,chinese,SNACK,HALAL,DRINK,fiery,hot,NONE, beans ,NaN,India,casual,NA,YES,NO,STREET FOOD,£13514,11005,£4984," 1,649",8084," 5,029",12137,9036,4937,4326
+2021-04-02,FRENCH,lunch,vegan,drink,Medium,Hot,fish,pork,fried,mexico,casual, glass ,Yes,YES,Franchise,19758,886,12040,4270,"13,688",9094,£6648,NaN,£19934,"10,724"
+2024-05-04,chinese,Dinner,halal,main, hot , room_temp ,none,lamb,raw,india,casual,Metal,YES,yes,Fast Food,2017,8702,£3516,"17,890","16,031",4614,£19489,11643,7613,"19,251"
+10/08/2021,NaN, SNACK ,,,Hot,cold,Egg,pork, raw ,france,,missing,Yes,yes,independent,8587,£3859,£4484,3384,missing,missing," 9,176",7436,£8615,£5379
+2021-06-08,italian,lunch,Vegan,MAIN,Hot,COLD,soy,Beans,raw,CHINA,,paper,-999, no ,street_food,NaN,12081,,17363,14520,-999,-999,4122,3709," 7,505"
+2022-08-23,mexican, DESSERT ,NaN,starter, hot ,NA,NUTS,CHICKEN,STEAMED,-999,casual,Plastic,yes,NaN,franchise,426,7371,18390,7031,NA,825,NA,,650,11715
+"Jan 09, 2023", french ,DINNER,vegetarian,Drink,Fiery,Room Temp,NA,chicken,raw,india,casual,GLASS,NO,yes, FAST FOOD ,18970," 8,554",847,7060,19795,505,1993,£10652,2857,13440
+2021-08-16,chinese,breakfast,,drink,mild,ROOM TEMP,NUTS,missing,baked,france,Formal,plastic,yes, YES ,fast food,NaN,585,NaN,12726,"16,760",19066,14764," 2,907",NA,£2976
+2021-07-18,italian,,kosher, Drink , Hot ,Cold,Gluten,pork,fried,india, CASUAL ,missing,YES,Yes,fastFood,£12085," 9,449",£15627,12375,8061,6257,19429,-999,NA,10991
+2022-04-19,Greek,brunch,kosher,Main,hot,cold,Dairy,missing,BAKED,missing,Casual,missing,yes, yes ,Franchise,1878,£1394,9583,5859,NaN,7612,£18197,£7252,6845,£5626
+31/01/2022,french,lunch,keto,starter,medium,HOT,gluten,NaN,,mexico,formal, Paper ,NA,yes,INDEPENDENT,17849,16249,8594,2956,6319,6260,5839,382,"13,327",
+2021-02-10, French ,NA,VEGAN,drink,fiery,roomTemp,DAIRY,Chicken,steamed,italy,BIRTHDAY,compostable,NO,Yes,INDEPENDENT,1853,1563,NaN,£875,19789,NA,9883,6320,14977," 8,046"
+2022-01-15,mexican,LUNCH,vegan,Sweet,-999,cold,GLUTEN,tofu,Fried, italy ,BIRTHDAY,paper,yes,YES, independent ,NaN,14822,6190,11092," 1,637",7979,£1090,£19967,"11,765",13992
+20/03/2022,indian,dessert,kosher,drink,fiery,HOT,none,-999,fried,mexico,HOLIDAY, PAPER ,no,yes,independent,3428,£16243,8799,missing,missing,"13,839",NaN,10372,   448,£4696
+2023-02-09,french,SNACK,gluten-free,DRINK, Mild ,cold,soy,beef, Fried ,INDIA,HOLIDAY,Glass,no,yes,fineDining,963,4777,14050,missing," 5,173",11391," 3,803",-999,5414,NA
+-999,french,DINNER,vegan,main,mild,HOT,egg,chicken, RAW ,India,holiday,METAL,no,no,Fine Dining,£10415,"15,732",£16764,19794,4032," 7,095",missing,2973," 1,490",19028
+2022-01-12,indian,dinner,kosher,MAIN,MILD,cold,egg,NA,steamed, greece ,birthday,glass,NaN,-999,fast food,5910,2616,NA,3299,6459,12261,£19969,18013,1253,13799
+19/04/2021,missing,BREAKFAST,KETO,sweet,HOT,roomTemp,soy,tofu,GRILLED,Mexico,holiday,METAL,no,no,fine_dining,£3690,£8886," 6,693",10727,15751,5295,NaN,NA," 8,750"," 5,766"
+"Nov 08, 2023",-999,dessert,-999,drink,MEDIUM,Hot,Dairy,tofu,baked,greece, Casual ,paper,Yes,No,independent,11007,2289," 8,861",1237,9393,11485,19926,7030,£11545,£14313
+01/12/2024,chinese, brunch ,gluten-free,NA,hot,roomTemp,NA,lamb,Baked,missing,formal,metal,yes,yes,fastFood,10345,£5354,£16916,15966,"11,410",16795,12623,5479,17581,5809
+-999,Indian, dinner ,Kosher,sweet,NA,room_temp,egg,chicken,STEAMED,mexico,missing,glass,no,Yes,FAST FOOD,17207,5826,7297,273,16485,14164,1404," 8,872","12,986",10696
+31/05/2023,Italian,Lunch,NaN,main,MILD,hot,fish,beans,raw,France,CASUAL,Glass,YES,Yes,NA,£352,£2557,9228,£1527,18279,15174,NaN,£15282,"19,671",£12711
+2023-01-19,french,Dinner,gluten-Free,Drink,mild,ROOM TEMP,dairy, pork ,raw,INDIA,formal,PAPER,YES,no,Franchise,4141,11961," 9,653",17382,£7470,11449,11888,2263,7432,4826
+13/04/2023,French,breakfast,kosher,side,MILD,cold,NaN,chicken,Raw,GREECE, Birthday ,compostable,yes,No,street_food,4610,6389,-999,7860,1513,16896,£5698,£12231,10191,10740
+-999,Indian,DINNER,Gluten-Free,side,HOT,Cold,dairy,beans,steamed,MEXICO,holiday,plastic, YES ,yes,STREET FOOD,"10,479"," 6,945",-999,"10,427",16024,2594,11556,NA,£7164,£250
+01/09/2021,indian,dessert,keto,STARTER,mild,hot,none,,baked,italy,holiday,metal,yes, no ,NaN,-999,706,NA,2234,14525,£3223,NaN,2740,£3153,"12,700"
+2023-04-24,missing,snack,gluten-free,side,mild, cold , none ,Tofu,STEAMED,france,Birthday,missing,no,yes,Street Food,£12308,-999,2839,5131,10668," 4,113",2341,2560,," 9,126"
+05/11/2021,INDIAN, Breakfast ,Halal,sweet,mild,HOT,NA,beans,grilled,india,birthday,GLASS,NO, no ,fine_dining,5497,£16115,"13,164",£10528,2219,£3936,-999,£14077,1242,9568
+28/05/2022,,DINNER,,sweet,medium,room_temp,NONE,tofu,fried,china,casual,plastic,,NO,franchise," 2,980",missing,£14326,10263,£6096,10025,,£12337,11919,missing
+31/10/2022,Chinese,lunch,halal,Main,Medium,HOT,-999,tofu,missing,mexico,NA,paper,no,NO,Franchise,2546,18629,£9803,4538," 2,559",6322,£17854,,12467,£18828
+2023-02-14,Indian,lunch,vegetarian,side,MEDIUM,NA,soy,beans,Grilled,italy,holiday,NA,yes,Yes,Independent,£9454,NA,-999,18313,-999,"10,011","16,054",,£3044,15084
+"Jul 12, 2022",NaN,dinner,Halal,-999,mild,COLD,FISH,pork, steamed ,FRANCE,birthday,glass,Yes,NO,INDEPENDENT,£1659,£2591,£6251," 3,727",17754,£19823,12921,4168,4327,-999
+2021-11-08,french,NaN,GLUTEN-FREE,drink,mild,hot,EGG,pork,GRILLED,india,Birthday,paper,NaN,,franchise,8635,NaN,£16780,18848,£2672,17317,"15,965",12563,15008,7372
+09/01/2022,GREEK,lunch,vegetarian,SWEET,Mild, cold ,nuts, CHICKEN ,baked,NA,casual,Plastic,no,yes,fine dining,2356,NA,"19,364",1975,12198,18286,12020,17346,missing,10707
+18/02/2023,missing,Brunch,NaN,Sweet,missing,Cold,fish,tofu,Grilled,-999,Formal,GLASS,yes,no,street food,£1579,4432,12638,12413,18970,,16863,£14881,13293,14896
+2024-02-25,INDIAN,snack,keto,missing,Medium,roomTemp,none,Pork, steamed ,india,Birthday,,YES,NO,fineDining,£5047,8185,519,,7088,15221,   984,NaN,4483,9776
+18/10/2022, mexican ,-999,HALAL,Starter,fiery,NaN,Soy,chicken,Fried,india,Formal,glass,NO,no,FAST FOOD,£5024,19037,6124,"18,060"," 3,219",£16502,-999,18206,,3063
+"Jul 08, 2022",FRENCH,dessert,Kosher,NA,Hot,room temp,gluten,TOFU,fried, greece ,,Paper,-999,Yes,NA,19871,NA,£9814,19010,NaN,9720,15091,11541,6739,6916
+06/10/2021,chinese,breakfast,KOSHER,starter,medium,hot,none,beef,missing,greece,NaN,Glass,no,Yes,franchise," 6,105",-999,14102,£1083,19403,6953,"14,530",15243,11256,24
+09/02/2022,Mexican,brunch,NaN,NaN, fiery ,cold,, pork ,raw,greece,birthday,COMPOSTABLE,NA,,FAST FOOD," 9,275",7942,8441,-999,13694,13008,18252,15817,10226,4942
+2023-06-16,MEXICAN,brunch,keto,sweet, hot ,COLD,NUTS,tofu,Steamed,mexico,formal,glass,Yes,no,fine dining,"14,562","14,276"," 5,722",£10048,6598,NaN,2952,17136,5983,10674
+2021-09-13,MEXICAN,dessert,halal,side,mild,hot,NONE,chicken,BAKED,italy,Casual,compostable,No,-999,Franchise,£10543,14563,£5342,NaN,2661,NaN,9888,4714,14198,£19088
+28/01/2023,Italian,dessert,halal,main,fiery,NaN, EGG ,Beef,raw,greece,NaN,plastic,NO,YES,fine dining,16539,5937,15579,NaN,missing,£7715,19385,-999,missing,5410
+20/05/2023,mexican,breakfast,KETO,starter,medium,Room Temp,Gluten,NA,RAW,greece,casual,metal,,no,NaN,£12878,10403," 5,708","11,355",1517,£7550," 7,245",£19409," 8,334",5371
+19/09/2023,greek,lunch, KETO ,,fiery,cold,nuts,BEANS,Grilled,france,formal,Plastic,NO,YES,street food," 2,670",£11817," 4,052"," 3,024",11944,,15549,missing,£17816,3656
+2022-04-03,-999,Snack,GLUTEN-FREE,NaN,missing,room temp,soy,chicken,GRILLED,india,holiday,PLASTIC,yes,no,street food,2753,10218,11226,"13,578",19880,£1144,15057,-999,"19,748",NaN
+2021-06-23,Greek,brunch,vegetarian,main,NA,HOT,egg,beef,grilled,italy,holiday,plastic,NO, YES ,franchise,"14,292"," 2,708",11725,12271,£9578,£8868,15787," 1,657",17096,"16,116"
+08/03/2021,italian,brunch,NA,side,FIERY, hot ,gluten,BEANS,raw,italy, casual ,paper,missing,YES,Fine Dining,8174,"14,807",10433,9014,11440,NA,4536,10979,NaN,£9669
+"Aug 12, 2022",french,breakfast,kosher,main,medium,Cold,dairy,beans,baked,mexico,holiday,paper,yes, no ,franchise,18057,£14788,missing,19243,NaN,12064," 3,665",3116," 5,339",NaN
+2024-03-07,-999,lunch,gluten-free,Sweet,NaN,cold,SOY,TOFU,steamed,,NaN,-999, No ,No,fast_food,£4313,£17144,14505,4551,19254," 9,971",17910,2400," 8,725",17275
+08/08/2022,indian,NA,gluten-free,Side,Mild,hot,gluten,Chicken,STEAMED, mexico ,holiday, METAL ,yes,,franchise,11719,8859,NA,14312,16603,10497,10445,1001,13445,1701
+28/12/2021,chinese,lunch,keto,main,fiery,HOT,fish,tofu,RAW,Mexico,HOLIDAY,GLASS,NaN,Yes,STREET FOOD,12675,7128,1170,£18006,18774,£3691,14557,7397,3989,10170
+2023-04-30,italian,dessert,halal,starter,Hot,NA,dairy,beef,BAKED,CHINA,NaN,missing, No ,no,franchise,£14008,10412,£19868,2597,2672,14218,3196,15311,,"13,512"
+2021-09-28,mexican, breakfast ,Vegetarian,drink,Hot,room temp,-999,beans,raw,greece,holiday,compostable,yes,yes,independent,missing,£4429,1044,13015,NA," 3,115",13151,£9520,16812,4079
+10/08/2022,italian,Dessert,vegetarian,Drink,MEDIUM,ROOM TEMP, Gluten ,beef,fried,india, CASUAL ,PAPER,yes,no,fast_food,17156,"17,243",-999,missing,£12431,6929,1053,NaN,£4096," 2,811"
+2024-09-07,indian, snack ,kosher,sweet,MEDIUM,-999,soy,BEEF,grilled,NA,missing,glass,yes,yes,-999,17494,NA,missing,3336,12162," 7,717","19,792",7189,,1377
+2021-04-27, chinese ,dessert,-999,starter,NaN, room_temp ,egg,NaN,grilled,italy, Holiday ,compostable,yes,no,FINE DINING,7357,2220,   551,13586,12994," 3,107",3514," 7,106",£12672,"14,994"
+19/10/2023,Indian,brunch,HALAL,SWEET,Hot,hot,-999,pork,steamed,france,Birthday,paper,No,NO,streetFood,16344,9532,£2909,"10,931",£11315,£18259,NaN,598,£16829,£2803
+29/06/2024,italian,LUNCH,HALAL,main,HOT,hot,-999,tofu,fried, mexico ,casual,PLASTIC,No,NaN,Fast Food,5775,£5693,7526,16530,"12,706",992,"18,449",1027,5388,
+01/07/2024,MEXICAN,snack,halal,main,HOT,Cold,NaN,chicken,Fried,NaN,birthday,paper,NO,NaN,Franchise,"14,203",£9333,"16,414","10,151",5107,9287,,£12619,£14352,£1763
+20/05/2023,Mexican,lunch,GLUTEN-FREE,STARTER,missing,-999,FISH, Beans ,baked,china,,-999,NO,no,fine dining,17237,2535,£17005,£13125,14124,-999,NA,845,£18108,14284
+07/08/2021,Chinese, Dinner ,KOSHER,sweet,mild,HOT,gluten,beans,fried,mexico,formal,glass,-999,no,franchise,18228,£5321,5595,NA,2631,£16962,NA,8691,1352," 8,225"
+2024-09-05,greek,breakfast,vegan,-999,Fiery,NaN,SOY,-999,STEAMED,NA,birthday,METAL,,NA,INDEPENDENT,£10773,5770,NaN,,16220,15737,"14,341",£14752,-999,3140
+17/06/2024,french,Dinner,GLUTEN-FREE,-999,MILD,Hot,soy,lamb,NA,china,birthday,,yes,yes,Independent,68,19914,3843,12026,£14696,10015,3962,6741,NA,£11220
+07/10/2021,MEXICAN,Brunch,GLUTEN-FREE,side,mild,missing,fish,chicken,STEAMED,INDIA,Holiday,COMPOSTABLE, Yes , yes ,STREET FOOD,£6181,9243,£1358,6119,18165,£2292,10737,£4056,16290,15350
+2021-03-17,indian, Brunch ,Keto,drink,fiery,hot,soy,,STEAMED,china,Casual,PLASTIC,no,no,Franchise,7048,£7137," 7,584",4272,10860,2819,£4819,6747,10946,"10,104"
+2024-07-21,chinese,Brunch,gluten-free,drink,fiery,room_temp,fish,pork,raw,ITALY,HOLIDAY,COMPOSTABLE,No,no,STREET FOOD,9422,£11243,£13631,11643,3625,15880,£7607,15515,16335,19769
+25/11/2023,,dinner,halal,sweet,hot,COLD,fish,beef,steamed,italy,Birthday,paper,no,yes,Street Food,-999,5514,14615,missing,1271,NA,-999,NaN,1847,£9407
+06/08/2022,missing,Dessert,Halal, MAIN ,Medium,hot,-999,Tofu,baked,NA,casual,Glass,YES,-999,Independent,£17116,£7458,14480,2878,NA,6415,£19652,missing,6283,"18,867"
+02/04/2021,italian,breakfast,keto,DRINK,Hot,hot,dairy,BEEF,NaN,CHINA,casual,compostable,NaN,no,fine dining,6206,12154,missing,9599," 8,068",£14674,9292,8854,15462,17795
+10/05/2021,italian,Lunch,VEGETARIAN,Drink,hot,HOT, Nuts ,beef,steamed,france,holiday,Glass,yes,yes,franchise,13255,1860,19110,3166,NaN,4654,£8014,£3981,17718,16299
+30/09/2021,mexican,brunch,KOSHER,Sweet,mild,hot,DAIRY,BEEF,Baked, mexico ,casual,PAPER,yes,no,fine dining,"18,970",missing,"11,452",£817,17073,16886," 8,681",18658,£5736,1806
+02/11/2021,indian,breakfast,Vegan,NA,NA,ROOM TEMP,none,Tofu,BAKED,ITALY, Holiday ,METAL,, yes ,independent,1848,10735,13485,13164,13727," 9,171",,15190,£7511,7617
+31/12/2023,chinese,dessert,gluten-free,Drink,Fiery,hot,NaN,beef,baked,missing,holiday,GLASS,NA,NO,franchise,11303,19724,15842,£12890,605,£13536,missing,15678,256,4750
+2021-01-28,italian, Dessert ,vegetarian, SIDE ,mild,cold,soy, tofu ,steamed,Italy, FORMAL ,plastic,missing,no,street food,4196,"16,034",2017,899,5522,4351,£4080,19716,6991,£1315
+2022-10-09,greek,-999,vegetarian,NA,mild,Cold,NaN,PORK,Steamed,FRANCE,Holiday, Paper ,YES,no,NA,£6637,5455,7439,2254,NA,17098,12914,£15806,13407,£9215
+02/06/2024,indian,-999,vegetarian,side,mild,room_temp,fish,chicken,baked,india,birthday,compostable,yes,no,street food,9537,12122,9053,10763,11310," 8,695",14568,£10505,19701," 6,539"
+missing, Italian ,dinner,Halal,Starter,hot,hot,gluten,Beans,raw,MEXICO,BIRTHDAY,compostable,No,no,FAST FOOD,13856,13669,£5632,856,£11365,12918,14274,6294,18281," 1,862"
+2023-04-02,indian,dinner,keto,SIDE,Mild,room temp,fish,beans,RAW,Greece,NaN,metal,No,NO,Fine Dining,16670,13413,£13163,"11,990",9041,8947,NA,2104,11199,NA
+NA,italian,snack,keto,, mild ,NA,soy,Pork,Grilled,France,casual,glass,YES,yes, independent ,"13,495",15134,,17524,10563," 5,510",7474,14770,NA,16908
+2024-05-14,CHINESE,,Kosher,missing,medium,Room Temp, None ,LAMB,steamed,china,FORMAL,plastic,yes,NO,fastFood," 2,772",2258,1181,14809,£3386,6014,18197,3271,-999,"16,018"
+17/06/2021,chinese,NaN,gluten-free,Sweet,Fiery,cold,soy,lamb,fried,greece,,Metal,,Yes,FAST FOOD,8805,8093,   253,"10,550",£16740,15841,6188,missing,15651,1329
+2021-07-23,french,breakfast,-999,Starter,hot,hot,egg,BEEF,Steamed, MEXICO ,HOLIDAY,plastic,yes,no,franchise,-999,17134,10871,12830,"11,732",£12553,14741,NaN,"15,019",18655
+06/04/2023,Greek,breakfast,gluten-free,starter,Fiery,cold,GLUTEN,TOFU,steamed,ITALY,FORMAL,compostable,Yes,YES,Independent," 5,899",13837,14509,5619," 3,949",£10770,,15773,£14516,11602
+2023-06-24,-999,Breakfast,Keto, Side , hot ,HOT,soy,beef,-999,FRANCE,casual,glass,yes,no,fastFood,12616,13555,6975,8028,6737,£2351,£11985,-999,missing,"14,409"
+-999,italian,dinner,Kosher,NaN,mild,cold,NaN,chicken,BAKED,italy,Casual,plastic,yes,YES,franchise,17906,15479,13594,8165,"12,938","15,341",16384,11591,3699,16007
+2021-01-18,Indian,LUNCH, vegan ,NaN, Fiery ,Cold,Dairy,beef,steamed,greece,Casual,paper,No,Yes,streetFood,8827,7379,£3755,6059,9077,16559,16493,NaN,14387," 9,819"
+"Apr 17, 2024",-999,lunch,vegan,SIDE,fiery,cold,Dairy,pork,BAKED,,-999,PLASTIC,no,no,fine_dining,4201,   451,£2659,NaN,NA,missing,4419,missing,NA,9182
+25/11/2021,-999,Dessert,, STARTER ,fiery,roomTemp,fish,TOFU,baked,FRANCE,formal,metal,no,yes,streetFood,10217,," 7,434",NA,7642,262,18123,8009,3066,"13,193"
+"Nov 07, 2023",French,LUNCH,NaN,sweet,hot,cold,fish,lamb,RAW,NaN,formal,METAL,NO,yes,fine dining,NaN,16150," 1,364",-999,£11302," 5,241",13876,12893,8922,missing
+NaN,italian,brunch,KOSHER,sweet,mild,ROOM TEMP,none,pork,-999,Greece,holiday,compostable,yes,YES,independent,£12238,missing,9008,10738,3539,19651,16736,592,7091,-999
+20/04/2022,french,SNACK,kosher,drink,medium,Hot,None,Beans,Grilled,GREECE,CASUAL, METAL ,yes,YES,streetFood,"12,165",17640,2236,4277,NA,"15,107",4253,4393,£15432,16719
+21/05/2024,Italian,Snack,Vegan,DRINK,,COLD,none,Tofu,fried,china,birthday,NaN,YES, Yes ,FRANCHISE,9320,,"18,467",£6289,667,15711,3237," 6,192","12,277",6136
+2022-07-05,missing,brunch,Vegan,sweet, fiery ,HOT, Soy ,chicken,FRIED,France,formal,NA,missing,no,-999,£8064,8029,£4996," 3,928",9577,5627,7002,2540,£13770,3031
+"Jul 10, 2021",chinese,Brunch,vegan, drink ,Medium,hot,egg,BEANS,RAW,China,FORMAL,Metal, no ,NO,FAST FOOD,NaN,10439,10984,"17,444",19365,9508,11949,11473,11608,NaN
+2023-10-24,chinese,DESSERT,Keto,SWEET,fiery,HOT,EGG,CHICKEN,RAW,china,HOLIDAY,Metal,no,YES,INDEPENDENT,13731,10481,11691,2681,NaN,£16207,12671,10156,16875,15097
+2024-03-07,mexican,SNACK,Vegan,main,MILD,Cold,-999,tofu,steamed,china,casual,metal,Yes,NaN,fine_dining,3746,£13559,16926,5274,14835,-999,2638,2713,6472,£13000
+02/08/2021,,snack,Gluten-Free,drink,fiery,Cold,none,beans,FRIED,mexico,FORMAL, plastic ,NaN,NO,Fine Dining,   285,NA,12389,10003,NA,£12393,17316,5521,£7073,-999
+2021-09-30, chinese ,brunch,vegetarian,main,MILD,NA,None,lamb,raw,india,Holiday,paper,YES,NO,FAST FOOD,14861,15839,14668,593,10839,17537,1924,6613,,NaN
+29/04/2024,indian,DESSERT,vegetarian,missing,medium,room_temp,soy,lamb,STEAMED,FRANCE,HOLIDAY,metal,no,NO,street food,NaN,1422,11067,1605,£2991,NA,£15564,18835,£17743,NA
+2024-02-02,,BRUNCH,vegan,Main,Fiery,room_temp,Nuts,Beef,fried,GREECE, formal ,glass,NO,no,-999,£15687,12378,12337,10877,7546,-999,"18,939",16316,-999,13182
+05/12/2022,missing,Brunch,KOSHER,DRINK,Fiery,Hot,soy,tofu,grilled,CHINA,FORMAL,metal,NO,yes,streetFood,4189,10269,missing,18302,9421,   355,-999,13202,£6007,£2283
+"Jul 08, 2021",Chinese,dinner,kosher,STARTER,Medium,hot,soy,lamb,grilled, greece ,casual,Metal,missing,NO, street_food ,11118,NaN,,14756,NaN,NA,16675,7597,"19,337",NA
+2021-01-31,NA,,halal,starter,,ROOM TEMP,dairy, chicken ,fried,ITALY,HOLIDAY,glass,,no,STREET FOOD,£8605,19426,8370,7240,18103,1936,13075,16039,NA,NaN
+20/09/2024,indian,dessert,,MAIN,fiery,roomTemp,NONE,beans,grilled,china,Formal,COMPOSTABLE,yes,YES,Fast Food,18963,8731,£557,£8928,-999,£3881,4096,10200,10267,£13164
+2022-10-13,mexican,-999,vegan,,FIERY,Hot,Soy,Pork,baked,China,Casual,Metal,NO,yes,fast food,£13412,"19,694",13716,£5228,11979,16857,7383,£18,£11556," 6,262"
+"Nov 12, 2021",italian,Dinner,gluten-free,NaN,-999,hot,egg,lamb,STEAMED,-999, Casual ,NaN,no,Yes,STREET FOOD,2740,"19,424",17193,7453,15197,NaN,NA,14211,,3616
+2022-01-13,french,brunch,keto,Side,FIERY,cold, FISH ,tofu,Baked,china,formal,PLASTIC,missing,yes,Fast Food,£18403,£1919,17342,13323,"17,058","17,275","13,894",3891,2439," 3,433"
+2023-12-10,Mexican,brunch,HALAL,STARTER,Hot,cold,fish,beef,fried,NaN,Birthday, glass ,YES,yes,STREET FOOD,£10574,"17,449",19079,£4636,16747,17494,   369,8588,1633,14823
+2021-09-18,Greek,NaN,Kosher,Side,fiery, Room Temp , nuts ,lamb,GRILLED,italy,missing,NaN,yes,yes,INDEPENDENT,18011,13828,5378,14939,12600,3095,13691,,10885,£2591
+2023-11-09,italian,Brunch,keto,Sweet,mild,missing,nuts,Tofu,fried,ITALY,BIRTHDAY, compostable ,yes,yes,franchise,15763,8638,11157," 2,063",,missing,10937,1965,£11915,6572
+NA,french,Dessert,-999,Side, Hot ,ROOM TEMP,none,Pork,steamed,ITALY,CASUAL,paper,yes,YES,fine dining,10523,£14132,£16332,£3119,," 7,600"," 9,579",11457,,12190
+"Sep 12, 2023",INDIAN,brunch,NaN,side,FIERY,ROOM TEMP,Egg,Chicken,grilled, italy ,Casual,Glass,no,Yes,independent,17599,12367,8492,359,18860,£10764,8435,"13,104",£11044,17713
+03/11/2021,french,Brunch,NaN,MAIN,Mild,HOT,nuts,pork,NaN, italy ,Holiday,paper,NO,no,Street Food,£3785,19834," 6,127",NA,6829,,11607,18139,£19515,1862
+20/07/2022,chinese,NA,GLUTEN-FREE,sweet,FIERY,NaN,nuts,NaN, fried ,france,formal,metal,yes,Yes,NA,17167,£13266,18127,11462,missing,10008,1250,252,14005,"10,024"
+2022-04-17,indian,snack,vegan,starter,fiery,Room Temp,Nuts,,Grilled,italy,birthday,PLASTIC,YES,missing,fastFood,11260,12467,£15670,£4900,14485,3103,£5609,18746,NaN,17465
+"Jan 29, 2023",indian,breakfast,Kosher,sweet,mild,ROOM TEMP, gluten ,chicken,Steamed,Greece,formal,Plastic,NO,no,,8061,16505,NA,9167,10171,9148,13988,3947,£3758,15035
+2021-06-27,french,Lunch,halal,-999,hot,Room Temp,Soy,lamb,Steamed,mexico,birthday,PAPER,no,no,franchise,3428,NA,missing,,£4467,missing,£13798,2035,,£19275
+06/03/2024,french,breakfast,GLUTEN-FREE, drink ,Mild, HOT ,Fish,chicken,grilled,italy,birthday,compostable,yes,yes, franchise ,16742,2005,1495,-999,16373,19488,£9921,-999,4717,£7020
+"Apr 16, 2023",French,Breakfast,GLUTEN-FREE,main,Hot,cold,soy,beans,grilled,Mexico,,Paper,no,no,Independent,17259,9795,,1489,15715,7559,NA,15773,18876," 4,655"
+NA,GREEK,dessert,vegetarian,drink,mild,, dairy ,beef,RAW,france,holiday,compostable,Yes,yes, streetFood ,"10,175",11432,,£11219," 3,491",NA,NaN,-999,9057,£17682
+31/10/2023,mexican,breakfast,kosher,sweet,mild,cold,GLUTEN,BEANS,BAKED,ITALY,formal,glass,YES, yes ,streetFood,2426,16942,16408,8287,11070,NaN,"12,950",8633,18086,NA
+12/08/2024,chinese,dessert,NaN,MAIN, FIERY ,ROOM TEMP,Nuts,tofu,raw,india,casual,Plastic,missing,Yes,NA,,"18,917",4806,13318,8580,2088,16133,14289,£18470,-999
+15/01/2021,chinese,Breakfast,,sweet,Fiery,cold,fish,Beef,,missing,casual,NA,no,Yes,street_food,10111,£19883,"17,984",13389,4425,10187,12633,,-999,NA
+2022-04-05,INDIAN,dinner,gluten-free,STARTER,Fiery,COLD,nuts,beef,Steamed,India,holiday, paper ,no,YES,streetFood,11459,4123,£267,£18218,19497,£5366,1202,2460,3708,12505
+-999,french,brunch,Gluten-Free,Main,fiery,cold,NONE,pork,Grilled,France,formal,METAL,NA,yes,INDEPENDENT,"14,745",17737,9369,4110,16995," 6,445",14557,NaN,3068,8142
+26/12/2024,mexican,SNACK,halal,main,Mild,,SOY,chicken,STEAMED,CHINA, BIRTHDAY ,compostable,yes, NO ,fastFood,-999,£6072,11557,6136,missing,12104," 8,575",£11409,17537,3925
+2022-09-24,italian,breakfast,Halal,Main,mild,room temp, none , Beef ,raw,Italy,Holiday,Metal,yes,missing,fineDining,19666,15921,"13,797",14484,£16765,"12,220",16323,£12823,16145,£12503
+26/11/2024,indian, Breakfast ,Vegan,starter, Hot ,,NA,lamb,GRILLED,china,birthday,metal,NO,YES,fine dining,8146,missing,"14,606","12,519",16630,NA,19750,10433,£764,"14,218"
+2021-06-14,greek,brunch,HALAL,starter,Medium,ROOM TEMP,None,Beans,NA,mexico,birthday,-999,NO,-999,-999,17765,9399,6302,1276,4272,4793,missing,missing,9828,missing
+"May 21, 2023",italian,Snack,keto,starter,-999,cold,Dairy, beef ,Grilled,CHINA,BIRTHDAY,PAPER,NO,yes,,2437,6179,missing,14322,7321,"14,388","12,017"," 1,384",19076,9320
+21/03/2022,Italian, Snack ,kosher,MAIN,fiery,hot,egg,chicken,steamed,MEXICO,holiday,Paper,no,yes,fine_dining,missing,18367,7596,11377,missing,7945,"18,885",15828," 6,463",3631
+"May 15, 2024",Mexican,dinner,kosher,sweet,MILD, roomTemp ,nuts,-999,grilled,India,Formal,NA,,no,street_food,"18,599"," 6,340",£7467,16300,2356,17941," 3,001",£18894,£8436,7884
+17/06/2024,mexican,DINNER,gluten-free,drink,hot,cold,none,Chicken,FRIED,india,casual,missing,yes,,streetFood,£3072,11487,£8086,16868,-999,14687,4633,"12,081",13652,£13624
+22/10/2024,INDIAN,missing,-999,Sweet,, hot ,nuts,PORK,Grilled,italy,formal,paper,yes,no,FINE DINING,9594,£7128,8665,£631,£17397,£19122,missing,14534,8787,4743
+16/04/2021,chinese,lunch,-999,sweet,fiery,hot,FISH,Beef,Steamed,china,Holiday,NA,YES,yes, Franchise ,,4059,12005,"16,828","18,239",£17154,14549,6744,14140," 5,561"
+10/10/2024,missing,missing,-999,STARTER,hot,HOT,gluten,pork,steamed,india,holiday,PLASTIC,no,NO,franchise,1679,9887,£10940,14608,782,missing,11489,4161,"14,918",£2146
+24/02/2023,Greek,lunch, keto , Side ,FIERY,cold,soy,BEEF,baked,china,holiday,metal,NaN,yes,Franchise,19961,"17,939",1494," 4,237",NA,3871,£2177,2732,12184,14919
+2024-05-31,NA,snack,halal,SWEET,NaN,cold,dairy,Chicken,fried,india,Birthday,metal,Yes,yes,Street Food,NaN," 3,502",1881,777,15033,19229," 2,792",7149,17624,13006
+2022-10-04,FRENCH,BRUNCH,keto,starter,hot,,fish, pork ,Baked,ITALY,BIRTHDAY, glass ,NO, no ,street food,£6428,"12,044",15060,£5497,10879,£3012,£8271,3,7575,"19,983"
+"Jul 19, 2024",NaN,DESSERT,halal,Side,MILD,cold,NUTS,chicken,,china, holiday , paper ,yes,no,Independent,14619,£2276,12552,1614,10904,£919,9843,15230,,NaN
+2024-11-24,chinese,NA,HALAL,Main,MILD,-999,soy,tofu,fried,France,formal,glass,YES,no,NaN,"18,403",9046,3087," 4,165","16,142",14019,7470,£13816,4230,1861
+2022-01-25,Mexican,breakfast,gluten-free,sweet,hot,hot,missing,beans,FRIED,France,holiday,plastic, YES ,yes,FRANCHISE,£19465," 2,954",16907," 2,677","18,785",18054,10312,7032,4240,6555
+2021-10-06,Italian,breakfast,Vegan,NA,Fiery,hot,soy,chicken,NaN,ITALY,holiday,glass,yes,missing,Independent,£1035,1290,8426,938,12826,1399,705," 9,112",NaN,5081
+19/06/2021,Indian,brunch,vegetarian,drink,fiery,cold,None,TOFU, grilled ,ITALY,holiday,metal,,Yes,NA,1884," 1,602",£5477,£3871,15446,16810,£5813,18112,NA,10976
+26/03/2023,chinese,breakfast,Gluten-Free,DRINK,hot,COLD, Soy ,tofu,raw,italy,missing,compostable, yes ,,independent,6604,13836,14684,£18992,"18,180"," 8,728",£6333,16990,,1709
+01/02/2024,french,BREAKFAST,gluten-free,side, hot ,HOT,fish,tofu,fried,INDIA,formal,paper,Yes,NO,FAST FOOD,6888,£10053,1721,17172,12860,3112,7051,19980,NaN,£15957
+2024-12-31,italian,brunch,Kosher,sweet,Fiery,Cold,none,lamb,STEAMED,missing,casual,PLASTIC,No, yes ,street_food,,5705,-999,8693,£14106,9865,14922,7795,9914,11066
+2023-07-09,NA,dessert, GLUTEN-FREE ,SIDE, hot ,HOT,DAIRY,beans,Baked,FRANCE,HOLIDAY,plastic, YES ,NO,independent,£10924,missing,£1291,13178,902,19810,£12961,5688,9462,395
+2024-07-04,NaN,,vegetarian, Drink ,fiery,hot,dairy,Tofu,baked,Mexico,holiday,Plastic,missing,missing,STREET FOOD,17641,14332,455,17683,738,261,£19089,£4723,13741,7355
+2022-04-18,Italian,brunch,kosher,starter,hot,NaN,gluten,Beans,raw,mexico,birthday,glass,yes,yes,missing,19499,£16065,£5569,9243,4428,7096,17236,"12,285",£13089,missing
+29/12/2024,missing,BRUNCH,,sweet,fiery,Hot,Soy,pork,grilled,-999,NaN,Plastic,no,yes,fine dining,8019,16481,6503,£12447,8575,5370,"12,179",£7625,16963,-999
+2024-04-09,indian,Dessert,NaN,MAIN,mild,hot,missing,lamb,grilled,-999,formal,glass,NO,no,Fast Food,6796,6352,7982,"12,702",17043,16208,15461,"14,347",-999,3963
+"Oct 11, 2021",greek,LUNCH,kosher,starter,medium,ROOM TEMP,dairy,Beans,grilled,FRANCE,casual,paper,NO,yes,fineDining,15472,£17193,13905,missing,8550,18103,NaN,8051,19132,9104
+2024-07-11,Indian,breakfast,halal,main,hot,cold,None,NaN,grilled,GREECE,birthday,missing,Yes,yes,independent,115,12343,17178,11577,3574,£1966,3000,"17,220",19011,14411
+23/01/2024,mexican,Breakfast, VEGETARIAN ,Sweet,MEDIUM,cold,-999,PORK,fried,france,holiday,plastic, no ,no,independent,992,13232,15913,8422," 9,701",1882,-999,-999,4955,
+2023-06-22,chinese,breakfast,NA,main,Medium,room_temp,none,Lamb,FRIED,china,CASUAL,NaN,yes,yes,,"18,612",123,13148,12146,16877,3865,15443," 9,924",£6156,10914
+05/03/2021,NaN,dinner,gluten-Free,main,Hot,cold,nuts,beans,fried,france,Holiday,glass,yes,yes,franchise,12442,14698,16019,£12977,16323,9746,6473,"18,706",15895,"14,004"
+2021-11-28,-999,,halal,missing,fiery,room_temp,GLUTEN,pork,steamed,MEXICO, CASUAL ,Metal,No,no,,9251,4924,12335,6963,,NaN,16671,6060,NaN,"15,587"
+09/10/2023,chinese,lunch,Vegan,NaN, mild ,COLD,nuts,-999,grilled, Greece ,Formal,glass,yes,no,street food,,6100,247,2570,11245,missing,4917,19728,13468,16537
+2024-03-16,french,lunch,KOSHER,STARTER,HOT, Hot ,egg,Beef,raw,france,formal,Plastic,yes,No, Street Food ,£3456,£1007,13071,NaN,11217,17161,17701,NaN,8116,453
+18/09/2021,Greek,dinner,Kosher,Drink,hot,hot,SOY,BEEF,raw,greece,casual,metal,no,yes,independent,14022,17347,1771,6262,8374,4763,13709,,2599,3867
+26/10/2024,indian,NaN,Kosher,starter,mild,cold,dairy,Pork, steamed , Italy ,holiday,Paper,NO,yes,franchise,7649,5592,£11537,2513,9928,£12976,,NaN,16484,7715
+30/07/2021,french,DINNER,kosher,starter,medium,room_temp, gluten ,Beans,BAKED,italy,Casual,Plastic,no,missing,STREET FOOD,£1313,4755,   554,£10419,-999,-999,9629,-999,£6935,3046
+2023-04-17,Chinese,lunch,Kosher,STARTER, hot ,room temp,,PORK,grilled,missing,casual,compostable,no,yes,Street Food,16570,3626,NA,   781," 6,012",," 7,877",3243,missing,NA
+"Jun 05, 2023",greek,dinner,HALAL,Main,Medium,,nuts, chicken ,Steamed,china,birthday,compostable,yes,no,independent,£1593,12370,12058," 7,564"," 7,675",6815,£2475,NA,11400,-999
+2022-07-24,FRENCH, dessert ,halal,starter,hot,roomTemp,EGG,TOFU, STEAMED ,NaN,,COMPOSTABLE,YES,,fast_food,£19956,18760," 1,482",1611,19474," 6,817",12299,6966,"17,577",£14885
+2022-08-24,Indian,Brunch,VEGAN,STARTER,medium,COLD,none,TOFU, baked ,india,birthday,METAL,yes,yes,NA,16262,7272,£4847,9941,1162,9353,3134,15839,6007,9964
+,greek,lunch,kosher,main,FIERY, Hot ,Gluten,Pork,Fried,FRANCE,casual,glass,yes,NO,fast_food,16408,NaN," 2,792",,13015,5131,17546," 8,510",12680,1773
+2023-09-08,NA,lunch,gluten-free,Main,HOT,cold,gluten,Tofu,fried,missing,formal,plastic,, yes ,fine dining,14192,missing,636,9790,-999,142,502,16049,8399,19414
+NaN,french,Snack, VEGETARIAN ,-999,mild,HOT,Dairy,beef,NaN,italy,Formal,metal,no,YES,-999,19415,NaN,£2175,£10446," 7,955",19162,17552," 3,567",12638,3587
+06/01/2021,french,snack,Keto,starter,Mild,room_temp,missing,tofu,raw,CHINA,casual,missing,no,no,FINE DINING,£12775,NaN,2081,7773,NA,19997,6488,14466,15142,584
+NA,chinese,LUNCH,keto,starter,hot,Hot,dairy,pork,BAKED,greece,formal,paper,NO,yes,Independent,3256,NaN,12462,£14241,707,NA,17296,-999,14780,11880
+17/10/2023,MEXICAN,Breakfast,keto,drink,fiery,cold,,lamb,missing,india,BIRTHDAY,PAPER,yes, no ,franchise,15502,6270,-999,17672,18103,£8972,16277,,15830,£18657
+14/02/2021,italian,breakfast, halal ,Main,hot,Cold,nuts,lamb,-999,India,Casual,glass,No,yes,franchise,11083,£13281,7394,3529,3613,12746,5026,£14768,13815,5463
+NaN, MEXICAN ,NaN,missing,SIDE,fiery,room temp,soy,beef,BAKED,china,Formal,PLASTIC,no,Yes,Independent,8396,missing,,19104,11474,NaN,£15828,5839,3542,-999
+03/10/2021,french,snack,VEGETARIAN,SWEET,fiery,cold,fish,beans,Steamed,india,formal, GLASS ,No,yes,street food,"17,677",£10634,missing,£2867,,"11,693",NA,8242,3575,"12,418"
+12/06/2023,greek,brunch,HALAL,side, Fiery , Cold ,Dairy, Chicken ,BAKED, china ,formal,PLASTIC,no,yes,franchise,"13,133",8355,NaN,3299,15012,3351,missing,18308,missing,NA
+2023-08-09,greek,BRUNCH,NaN,drink,Fiery,-999,gluten,tofu,baked,FRANCE,holiday,Glass,yes,yes,independent,10467,14362,4779,"13,340",missing,18470,NA,£15721,10599,missing
+2021-11-25,Greek,snack,KETO,MAIN,FIERY,roomTemp,nuts,beans, fried ,FRANCE,BIRTHDAY,Paper,NO,NO,FRANCHISE,16727,9073,£19863,"15,498",£4500,£18563,NaN,NA,6401,8565
+18/08/2023,indian,snack,GLUTEN-FREE, drink ,medium,hot,soy,beef,Grilled,missing,casual,METAL,,yes, fine_dining ,13124,"14,959",12341,-999,£638,9653,£18203,£6615,9453,7419
+25/06/2022,italian, DESSERT ,gluten-free,sweet,fiery, room_temp ,none,pork,grilled, greece ,casual,metal,no,yes,independent,17278,£11426,"16,354",NA,,11385,"19,471",£15078,2360,"18,744"
+2022-06-10, french ,brunch,vegetarian, Main ,fiery,roomTemp,soy,TOFU,raw,greece,Formal,plastic,no,no,franchise,4220,£14247,4351,2068,4346,11505,"18,494",3470,£18749,16433
+"Feb 02, 2022",chinese,DESSERT,Kosher,STARTER,hot,roomTemp, soy ,tofu,fried,france,FORMAL,PAPER,yes,yes,NA,-999,NA,8168,£5143,11976,4634,5756,3023,4085,2133
+01/04/2022,greek,lunch,vegan,main,missing,roomTemp,none,Pork,grilled,italy,missing,paper,NO,yes,street food,NaN,15025,2892," 5,038",12126,13956," 9,329",2547," 7,329",£19184
+"Feb 03, 2022",MEXICAN,lunch,keto,sweet,Hot,hot,DAIRY,PORK,steamed,greece,casual,paper,yes,No,FAST FOOD,5525,,19315,8349,12335,11446,"16,919",14192,2606,15770
+"May 10, 2024",INDIAN,lunch,missing,,medium,hot,FISH,tofu,FRIED,India,holiday,Plastic,NA, yes ,Independent,missing,14722,2120,£75,"16,447",652,4159," 7,726",4190,15575
+2023-01-17,Greek,SNACK,kosher,main,mild,Cold,soy, Chicken ,steamed,india,HOLIDAY,PAPER,yes,no,Fast Food,19945,missing," 3,252",8657,missing,1396,£17514,NaN,18209,9345
+2023-08-13,mexican,breakfast,gluten-Free,Side,missing,room_temp, DAIRY ,lamb,raw,greece,BIRTHDAY,metal,no, no ,franchise,-999,£13874,"14,269"," 7,970"," 5,460"," 9,167",1980,"11,724"," 3,794"," 4,305"
+"Jan 21, 2022",french,NaN,NA, DRINK ,hot,cold,,pork,NaN,greece,casual, metal ,NA,YES, FRANCHISE ," 8,113",-999,14873,5468,7326,NA,4365,£10029,15197,"10,547"
+missing,italian,snack,VEGETARIAN,starter,missing,Cold,NONE,Beef, raw ,greece,Formal,Compostable,NaN,yes, franchise ,124,11061,," 9,072",    13,missing," 8,449",£2359,4854,NaN
+17/12/2024,french,brunch,kosher,MAIN,fiery,hot,fish,Tofu,steamed, india ,birthday,compostable,no,-999,independent,10123,14057,"16,696",£16834,14718,15314,2390,9572,15796,£14132
+2024-06-13,-999,Brunch,GLUTEN-FREE,Starter,hot,room temp,-999, PORK ,NaN,,birthday,metal,yes,NO,fineDining,4417,15027,6538,11906,9269,9403,," 9,142",7618,NA
+29/01/2021,NaN,BRUNCH,halal,Sweet,Hot,cold,dairy,lamb, steamed ,NA,Holiday,PAPER,no,,independent,£4663,missing,"15,839",£7683,11502,"10,917",6488,£8862,£1156,
+2022-07-10,french,Dessert,kosher,-999,Hot, roomTemp ,Fish,pork,STEAMED,India,casual,compostable,Yes, yes , fine_dining ,3698,17984,12665,8474,19433,NaN,£7794,,1582,8436
+2022-11-08,GREEK,brunch,kosher,drink, medium ,ROOM TEMP,fish,Chicken,STEAMED,GREECE,casual,missing,yes,no,independent,13351,6181,£19792,2206,8051,18486,£9547,2273,12840," 7,098"
+18/09/2021,french,lunch,halal,SWEET,Fiery,roomTemp,nuts,-999,fried,china,HOLIDAY,COMPOSTABLE,Yes,yes, Fast Food ,17865,2828,13769,15943,14428," 8,025",£11228,344,19304,1493
+2023-06-20,missing,dessert,kosher,Drink,medium,roomTemp,egg,beans,grilled, INDIA ,BIRTHDAY,COMPOSTABLE,-999,yes,Franchise,,1693,15247," 2,810",11856,£11885," 9,964",-999,19361,£18500
+29/04/2023,Chinese,breakfast,NA,drink,medium,Hot,gluten,lamb,NaN,italy,casual,plastic,yes,yes,NaN,6548,12201,,12818," 4,693",15146,£3849,missing,4328,-999
+03/02/2021,italian,Breakfast,missing,sweet,NA,cold,none,TOFU,NA,china,HOLIDAY, PLASTIC ,yes,no,fast food,16261,590,14534,2998,£14870,£2167,17821,15194,£8432,18881
+15/12/2021,Mexican,NA,Keto,Starter,MILD,-999,None,Tofu, FRIED ,india,BIRTHDAY,Metal,no,NaN,NA,9459,8138,12462,"18,811",7421,2398,8229,11581,19556,2524
+22/10/2023,italian,Snack,Vegan,STARTER,NA,Room Temp, Nuts ,BEEF,grilled,france,FORMAL,compostable, no ,NaN,franchise,13680,18145,£6318,17441,NaN," 3,790",,18455,missing,13139
+06/05/2022,,snack,vegetarian,NaN,Hot,NaN,NUTS,beans,fried,mexico,formal,glass,yes,NO,street_food,£5208,NaN,£7101,"12,826"," 3,409",7286,-999,3243,6059,916
+2022-04-20,,breakfast,Keto,NA,medium,COLD,dairy,chicken,baked,China,CASUAL,NaN,missing,No,FRANCHISE,£5437,missing,,16908,£9134,"14,839",£3148,£17581,£7107,1832
+17/12/2024,NA,snack,keto,SIDE,Fiery,roomTemp,dairy,Beef,raw,GREECE,BIRTHDAY,glass,yes,,FAST FOOD,NaN,£3336,£2155,7230,17046,£15531,10040,"10,635",6132,£6303
+"Dec 15, 2023",CHINESE,brunch,Kosher,Sweet,NaN,cold,dairy,chicken,grilled,india,formal,Glass, yes ,yes,street_food,£2368,12980,1499,12949,11331,13022,missing,7338,"19,282",19108
+2021-12-11,mexican,-999,Vegetarian,Main,Medium,room temp,none,beef,raw,india,Holiday,paper,yes,Yes,Fine Dining,1022,12246,7106,"13,587",281,7197,18004,12704,-999,£219
+"Jun 14, 2023",greek,lunch,kosher,side,Mild,cold,gluten,beans,NA,NaN,-999, glass ,YES,yes,STREET FOOD,,£11461,16327,13456,"17,624",2724,£10855,15307,-999,5320
+2023-09-29,INDIAN,DINNER,Keto,missing,NA,Room Temp,Nuts,CHICKEN,fried,france,Formal,paper,no, no ,fast food,,13206,"16,079",NaN,11510,"10,697",8667,14568,missing,4210
+2024-08-06,NaN,breakfast, vegetarian ,STARTER,Medium,Cold, egg ,PORK,GRILLED,MEXICO, casual ,glass,yes,YES,fine dining,NaN,3314," 2,876",11823,4589,£14589,6969,12029,4228,"10,771"
+2024-05-10,italian,BRUNCH,vegan, Side ,-999,room_temp,nuts,missing,Baked, france ,birthday,paper,NO,no,independent,missing,16062,10903,13803,,£6660,10676,£9659,£10853,13674
+"Sep 14, 2021",greek,DINNER,vegetarian,drink,mild,COLD,EGG,BEANS,Fried,Mexico,casual,COMPOSTABLE,-999,YES,Franchise,£4032,£14966,13079,NA,£3079,19318,£6315,13129,19629,NaN
+2023-02-09,NaN,DESSERT, KOSHER ,SIDE,HOT, Cold ,Fish,lamb,NaN,mexico,birthday,plastic,no,yes,franchise,£7673,15257,£10929,£15025,3009,9025,,8381,£6216,2177
+15/07/2023,greek,NA,vegan,drink,hot, ROOM TEMP ,none,Tofu,Raw,France,,NaN,missing,no,Street Food,£15736,1662,-999,9132,"13,943",12705,5888,12489,NaN,-999
+08/02/2023,mexican,lunch,vegan,starter,-999,roomTemp,soy, Beans ,steamed,france,formal,Plastic,no,Yes,Franchise,£9718,11747,"15,996",11758,"12,580",11672,18265,14571," 4,025",
+NaN,chinese,breakfast,keto,side,hot,hot,nuts,pork,Baked,missing,missing,paper,yes,NaN,Street Food,14508,16462,NA,4198," 8,347",£18509,11982,19612,"16,227",5147
+missing,Italian,dessert,gluten-Free,starter,Fiery,cold,none,missing,baked,india,formal,COMPOSTABLE,YES,YES,streetFood,"18,368",17448,7640,12101," 9,707",£15617,missing,7500,NA," 2,209"
+18/09/2022,ITALIAN,LUNCH,keto,DRINK,FIERY,ROOM TEMP,Fish,Tofu,Steamed,mexico,Holiday,paper,no,NaN,streetFood,7574,£7084,"19,995",13110," 1,159",11144,NaN,£19925,NaN,17000
+22/05/2022,greek,LUNCH,vegan,SWEET,medium,room_temp,dairy,tofu,Grilled,FRANCE,birthday,Paper,YES,yes,street_food,9857,NaN,54,"19,925","11,914",3677,£10435,11148,    56,4520
+2023-11-18,chinese,snack,vegan,drink,medium,missing,none,Beans,baked,Mexico,formal,plastic,No,yes,NaN,2662,12694,"18,511",15965,13085,£9640,missing,NA,2489,£7584
+23/02/2022,INDIAN,brunch,kosher,starter,-999,room_temp,nuts,Beef,GRILLED,france,birthday,compostable,no,no,street food,£11217,1099,missing,£13650,16209,6242,"18,674",6136,7315,16149
+"Oct 16, 2022",chinese,breakfast,kosher,starter,FIERY,Hot,Soy,pork,steamed,INDIA,BIRTHDAY,Metal, Yes , no ,,4283,£17654,£2389,£4020,3898,£11232,17993,"11,615"," 5,655",6435
+07/08/2021,indian,Brunch,VEGAN,main,mild,room temp,gluten,LAMB,BAKED,CHINA,casual,glass,no,yes,Fast Food,£8613,13641,11644,2546,,4815,NA,£2428,NA,7518
+2024-04-28,Chinese,breakfast,Vegetarian, drink ,hot,hot,EGG,CHICKEN,,france,birthday,GLASS,yes,NA,-999,   406,£15470,16651,11814," 1,325",£3974," 5,001",,19338,14706
+01/07/2023,Italian,dessert,vegetarian, Starter ,-999,Cold,gluten,-999,FRIED, mexico , Birthday ,GLASS,no,Yes,FINE DINING,£16299,,13368,17918,18637,3689,£16110," 4,160",6784,4753
+"Mar 24, 2024", indian ,lunch,vegan, starter ,HOT, cold ,Soy,tofu,NaN,INDIA,birthday,metal,no,Yes,independent,18958,   420,"15,493",12755,4865,5107,£4356,16440,17067,11
+"Apr 29, 2021",French,Brunch,kosher,Starter,missing,Room Temp,dairy,pork,baked,china,formal,-999,no,Yes,INDEPENDENT,NA,£7109,11528,15749,8844,missing,15270," 9,125",missing,£19955
+"Aug 14, 2023",italian, breakfast ,gluten-Free,Side,hot,COLD,FISH,Pork,NA,france,holiday, Paper ,yes,yes,Franchise," 1,255",6160,4550,£490," 1,469",£1293,12211,£10405," 2,817",5509
+21/06/2022, Indian ,BRUNCH,GLUTEN-FREE,-999,MILD, Hot ,dairy,tofu,RAW,india,holiday,plastic,YES,no,FRANCHISE,"18,835",16275," 3,377",£8801,3288,£11996,NaN,-999,1242,7004
+08/01/2023,french,dinner,halal,Main,mild,COLD, egg ,lamb,fried,INDIA,FORMAL,METAL,yes,YES,street_food,14195," 6,451",13744,12612,NaN,£6022,-999,£5477,14707,NA
+08/12/2024,french,brunch,vegan,drink,hot,Cold,nuts,NaN,fried,Mexico, holiday ,compostable,yes,yes,STREET FOOD,5847,"17,088",£17143,14446,NaN,15068,,£3271,19755,5313
+05/06/2022,,missing,Vegetarian,Drink,NA,HOT,SOY,beans,,France,casual,COMPOSTABLE,Yes,yes,independent,£14726,£10222,13050,19704,8028,missing,18508,£9366,11463,NA
+15/08/2021,Greek,breakfast,keto,NA,medium,missing,egg,-999,NaN,mexico,formal,glass,yes,YES,FRANCHISE,missing,12769,1557,16188,7201,11112,£7382,10147,9250,£18983
+28/02/2023,INDIAN,brunch,GLUTEN-FREE,missing,MEDIUM,Cold,soy,Pork,Grilled, greece ,birthday,glass,no,yes,franchise,3870,9965,NaN,£3803,717,4600,16154,"15,214",2650,8115
+18/04/2022,french,breakfast,Keto,Drink,medium,COLD, nuts ,Beans,Raw,FRANCE, formal ,-999,yes,yes,franchise,2359,17720,"19,518",2330,8952,6262,"12,895",£1303,14612,6837
+2023-11-27,chinese,snack,Vegetarian,starter,fiery,Cold,-999,chicken,,CHINA,birthday,compostable,NO,YES,fine dining,3542,10976,NA," 3,563",£13481,-999,5830,12989,£2838,£9920
+2021-09-24, italian ,,vegetarian,side,hot,cold,SOY,lamb,grilled,mexico,holiday,metal,Yes,yes,-999,3118," 5,315",13451,10487,£203," 3,402",13524,5270,£7126,"19,696"
+10/08/2024, indian ,BRUNCH,Halal,SIDE,missing,cold,GLUTEN,lamb,baked,italy,Casual,plastic,no,no,Fast Food,7505,   998,7072,9067,18339,16637,"11,983",,14127,NaN
+2024-01-10,french,NaN,halal,main,MEDIUM,cold,fish,Lamb,grilled,FRANCE,Birthday,PAPER, no ,NO,fastFood," 7,639",1671,18007,5605,18312,11115,11262,13023,"13,640",£11292
+2022-10-05,ITALIAN,DINNER,halal,sweet,medium,cold,none,Beef, baked ,CHINA, FORMAL ,Metal,NO,YES,fast_food,14688,,10483,10,295,11717,5749,6528,£15134,1831
+2022-06-27,french,brunch,gluten-Free,side,fiery,cold,nuts,BEANS,Grilled,india,holiday,metal,no,NO,Fast Food,5692,13205,10156,8016,"10,771",8136,8171,missing,"11,977",£19692
+2022-02-12,chinese,dinner,HALAL,starter,mild,Room Temp,egg,pork,,ITALY,holiday,PLASTIC,no,no, Fine Dining ,12744,NaN,16213,"12,806"," 2,789",NaN,6246,£19067,£8447," 3,727"
+"Sep 19, 2024",FRENCH,Brunch,NaN,NaN,Medium, roomTemp ,NA,lamb,Steamed,France,birthday,paper,yes,no,street food,19936,9512,18761," 2,815",10651,2201,8593,9529,"17,527",571
+2023-10-26,French,dinner,vegan,side,medium,HOT,EGG,TOFU,Fried,Italy,formal,metal,-999,No,Independent,1970,£11302,5909,,15942,13033,14534," 5,464",missing,14219
+2022-07-23,mexican,NA,KETO,Drink,-999,COLD,gluten,Pork,grilled,Mexico,casual, GLASS ,no,No,INDEPENDENT,10355,17099,"10,285",12403,"12,781",-999,£18009,-999,15200,239
+15/03/2022,Italian,snack,vegan,NA,HOT,cold,NONE,beef,Raw,CHINA,casual,Compostable,no,no,NA,£4120,13675,7335,5561," 3,545",1322,14859,,NaN,14555
+"Feb 18, 2021",chinese,brunch,vegetarian,Main, MEDIUM ,room_temp,none,lamb, baked ,GREECE,holiday,paper,no,No,FINE DINING,£11597,£12713,7263,15015,NA,£9600,17917,£711,649,361
+"May 01, 2023",mexican,lunch,Vegetarian,SWEET,hot,,NaN,pork,grilled,India,HOLIDAY,metal,yes,YES,streetFood,11912,£5793,15435,14813," 6,592",10751,"13,775",10538,14809,£18576
+, indian ,BREAKFAST,keto,Main,fiery,NA,-999,BEEF,-999,china,NaN,compostable,,yes,street_food,19132,11004," 2,512",NA,"15,661",19260,4304," 1,064"," 6,771",6126
+08/11/2021,Mexican,DESSERT,GLUTEN-FREE,starter,medium,Hot,gluten,PORK,Baked,france,birthday,glass,-999,no,franchise,"19,190",9701,£6786,NaN,16163,£4656,15192,2467,-999,£11193
+2023-02-28,chinese,snack,vegetarian,drink,medium,hot,FISH,-999,baked,-999,casual,METAL,yes,no,INDEPENDENT,17956,missing,£70,NA," 5,477",," 1,116","18,569",4112,18763
+NA,Indian,BREAKFAST,halal,SWEET,mild,Cold,none, chicken ,fried,missing,holiday,paper,NO,yes,independent,£2640,NA,886,5587,£3901,£7642,£18363,14554,£5949,3660
+27/10/2024,,LUNCH,vegan, Main , mild ,hot,soy,tofu,steamed,france,Formal,GLASS,-999,yes,Franchise,£17963,£7691,£9355,3977,"16,586",missing,missing,5445,£6403,NaN
+2024-05-07,french,breakfast,KOSHER,starter,fiery,cold,Egg,BEEF,fried,italy, birthday ,metal,No,no,independent,-999,NA,8635,£4815,19257,641,15230,2501,NaN,4768
+31/01/2022,italian,lunch,gluten-free,Main,,Hot,FISH,beef,steamed,GREECE,holiday,missing,no,YES,Fine Dining,£8860,£10226,1448,7698," 3,276",1938,NaN,8013,13507,6041
+30/12/2024,INDIAN,Dessert,gluten-free,SWEET,MILD,missing,Egg,Beef,Fried,NA, birthday ,PAPER,no,NO,fastFood,missing,12995,NaN,£5706,NaN,NaN,NaN,9290,NaN,3045
+2024-03-21,NA,BREAKFAST,NaN,Starter,MEDIUM,room temp,dairy,pork,RAW,china, holiday ,glass,no,NO,independent,£3632,15600,missing,-999," 8,522",7537,10791,"14,114",5856,10948
+09/07/2023,Greek, lunch ,Vegan,starter, fiery ,hot,None,CHICKEN,raw,china, BIRTHDAY , COMPOSTABLE ,YES,no,street_food,NaN,6580,3429,missing,9417,£12056,-999,missing,£10366,19699
+2024-01-01,Greek, DINNER ,keto,main,Mild,Hot,NONE,beef,-999,Greece,Holiday,glass, no ,yes,street_food,missing,566,17926,3077,£14173,5508,"18,958",-999,£15139,5710
+19/06/2024,ITALIAN,dessert,halal,sweet,HOT,cold, NONE ,CHICKEN,Steamed,france,holiday,glass,yes,yes,independent,NA," 1,444",missing,"14,661",£13784,£15405,3423,9435,12628,11707
+2023-08-12,french,LUNCH,NA,sweet,medium,roomTemp,NaN,NA,grilled,-999,casual,Paper,yes,yes,franchise,"11,953",£2420,11972,15994,£4823,£462,19007,£4129,£8018,15027
+23/09/2021,greek,-999,kosher,MAIN,FIERY,COLD, egg , beans ,grilled,Mexico, holiday ,METAL,no,Yes,independent,16433,2118,£7451,NA,NA,£14234,10484,14704,1529,£4282
+2022-04-03,greek,brunch,vegetarian,drink,missing,cold,soy,Lamb,fried,italy,birthday,paper,NO,no,Franchise,17442,17909,4594,missing,18182,10072,£10536,12837,16420,13627
+2024-03-12,FRENCH,dinner,gluten-free,main,NA,Hot,nuts,chicken,Baked,GREECE,holiday,Glass,yes,no,Street Food,7568,"12,239",£18329,1184,£5999,9522,-999,"16,628",15227,   207
+NA,Indian,DESSERT,vegetarian,Drink,Fiery,HOT,-999,Chicken, baked ,ITALY,birthday,compostable, yes ,yes,street_food,15208,19417,13772,NA,   610,£16034,-999,£12675,17706,11904
+01/08/2021,french,SNACK,vegetarian,drink,medium,room temp, NUTS ,Pork,fried,greece,casual, metal ,no,No,fastFood," 5,112",10914,4578,£16910,£2258,2210," 3,158",£7413,18477,£16504
+2022-02-08,NaN,,GLUTEN-FREE,SIDE,MILD,roomTemp,fish,beef,fried,France,casual,glass,no,yes,independent," 9,089",3613,19767,817,missing,19486,£19223,12608,2553,1217
+12/08/2022,-999,Lunch,KETO,side,missing,ROOM TEMP,none,beef,Steamed,Italy,BIRTHDAY,compostable, No ,yes,STREET FOOD,3286,NA,"18,259",-999,missing,7482,"11,494",19788,14949,5276
+20/10/2021, Mexican ,SNACK,kosher,DRINK,fiery,hot,egg,Chicken,FRIED,china,casual,compostable,yes,Yes,fine dining,9805,7602,7088,5850,£5735,£2828,£11776,£8154,748," 6,302"
+18/06/2022,greek,dessert,vegan,missing,HOT,Cold,-999,CHICKEN,fried,mexico,holiday,PAPER,no,NA,fine_dining,£17164,-999,NaN,18820,4908,10080,791,£4125,11669,£13185
+15/06/2023,greek,LUNCH,keto,drink,medium, room_temp , egg ,Pork,BAKED,mexico,,PLASTIC,Yes,yes,street_food,missing,5739,14150,-999,14385,£3134,14226,7293,£16056,4009
+2024-08-15,-999,missing,vegetarian, Main ,NA,ROOM TEMP,EGG,BEEF,fried,greece,holiday,plastic,NO,-999,independent,12124,£3540,1975,£13043," 7,522",£5432,£15459,9511,£2368,14918
+-999,chinese,SNACK,KOSHER,DRINK,hot,roomTemp,missing,NA,FRIED,Greece,holiday,Compostable,yes,yes,Franchise,2402,2107,"17,961",£19175,15445,3973," 8,827",,6573,£15448
+2024-07-26,italian,,Keto, Starter ,mild,hot,Gluten,CHICKEN,Raw,italy,CASUAL,glass,no,NO,Franchise,11796,"14,273",£476,10775,3160,"19,245",,£1511,,19403
+22/10/2023,Chinese,breakfast,KOSHER,starter,Mild,cold,soy,BEANS,RAW,India,casual,metal,No, NO ,Street Food,12801,13790,2710,12818,8386,"19,983",NA,2797,£17787,
+2023-01-02,italian,Dessert,keto,sweet,FIERY,hot,Gluten, chicken ,fried,greece,casual,NA,YES,no,fine_dining,missing,3036,NA,-999,"12,963",15964,5212,7533,6213,7970
+2021-12-31,GREEK,dinner,missing,SWEET, hot ,COLD,dairy,TOFU,Fried,ITALY,birthday,COMPOSTABLE,no,no,Independent,2079,12133,£13004,NA," 8,996",6535,,"12,813",£11150,£15251
+,mexican,dinner,Vegan,SWEET,medium,cold,Dairy,NaN,fried,GREECE,Holiday,paper, yes ,yes,fine_dining,15429,,"11,749",NA,£7911," 7,815",13641,"16,579",£4588,£17055
+21/09/2022,French,Dessert,Vegan,STARTER,fiery,roomTemp,egg,lamb,steamed,missing,holiday,compostable,no,yes,fine dining,-999,£3482,12292,missing,missing,16263,13706,1434,6646,3692
+-999, FRENCH ,dessert,vegetarian,starter,Medium,cold,-999,beans,baked,greece,birthday,Paper,Yes,NO,fast food," 2,749",2163,3493,19284,NA,10912,16263,7433,13458,"18,238"
+13/08/2023,chinese, breakfast ,halal,-999,FIERY,cold,gluten,missing, fried ,-999,birthday,Metal,yes,missing,fine dining,7743,17815,£4153,   206,9947,16983,5267,"18,714",17276,15347
+2021-04-28,greek, snack ,KOSHER, SWEET , FIERY ,ROOM TEMP,None,-999,Fried,GREECE,holiday,METAL,yes,-999,franchise,5738,missing,missing,18661,,3964," 3,197",£13174,13150,645
+10/08/2021,French,DESSERT,halal,drink, fiery ,hot,Fish,BEEF,raw,France,formal,GLASS,no,NO,NaN,£19979,£8783,"13,920",NaN,£8537,"13,729",19516,,6086,NaN
+19/02/2024, CHINESE ,dinner,halal,Main,fiery,NA,-999,Lamb,Grilled,france,HOLIDAY,compostable,yes,yes,Fine Dining,NaN,missing,£1602,16684," 8,682",-999," 5,983",153,9209,1241
+2022-07-01, indian ,Dinner,Keto,DRINK,hot,NA,DAIRY,tofu,grilled,china,BIRTHDAY,metal,NO,YES,FAST FOOD,840,16564,£3878,£3577,7029,8269,1556,NA,18484,£8565
+10/11/2023,mexican,dinner,vegetarian,Starter,Medium,COLD,fish,BEEF,NA,GREECE,Holiday, PAPER ,NO,yes,-999,17509,4521,15595,17952,7984,"14,321",£12599,£1923,1311,2025
+23/03/2022,indian,BRUNCH,keto,missing,Hot,cold,Fish,CHICKEN,FRIED,MEXICO,CASUAL, Plastic ,no,no,franchise,£1675,2817,17732,£8455,16795," 2,337",£17758,47,12803,12975
+2023-09-17,Indian,BRUNCH,Keto,SIDE,Medium,COLD,gluten,lamb,GRILLED, india ,missing,compostable,no,no,FRANCHISE,£19123,17208,£4087,14928," 5,078",£714,£6628,15222,10765,£6732
+2022-06-25,Chinese,dessert,keto,side,NA,hot,NONE,beans, Baked , china ,Formal,COMPOSTABLE,yes,Yes,Franchise,7987,8113,£6936,missing,2514,5077,£1815,17427,13980,1340
+16/10/2023,GREEK,,NA,SWEET,MEDIUM, HOT ,missing,-999,Steamed,india,birthday,compostable,No,Yes,streetFood,15652,18427,16724,£1603,"18,647",,"13,444",18730,NA,£15788
+18/11/2022,GREEK,Snack,vegan,main,Mild,cold,nuts,PORK, raw , france ,birthday,GLASS, yes ,No,NA,£9145,3121,£4889," 8,939",NaN,8821,15741,15504,4652,£4568
+17/09/2022,Italian,lunch,keto,STARTER,FIERY,,Fish,chicken,Steamed,MEXICO,-999,-999,Yes,missing,franchise,1183,£6029,217,14003,10576,19918,114,6376,17760,"14,393"
+2024-06-10,french,dinner,Kosher,missing,MEDIUM, cold ,Egg,missing,fried,italy, birthday , Glass ,yes,no,franchise,11569,14617,18108,£6543,,,6031,£613,£12892,7486
+26/11/2023,mexican,Lunch,vegan,starter,medium,room temp,nuts,lamb,RAW,china,CASUAL,metal,yes,No,fast food,778,13730,missing,9190,1858,2217,£17974,£2320,9473,£19394
+NA,italian,snack,-999,NA,mild,,fish,BEANS,FRIED,china,NA,METAL,NO,yes,franchise,-999,NA,"18,805",NaN,£18191,-999,missing,6362,8323,"15,184"
+-999,NaN,Dessert,-999,Starter,MEDIUM,Hot,Gluten,pork,FRIED, italy ,casual,paper,Yes,no,franchise,£19357,2772,10392,15483,18100,missing,14083," 2,808"," 8,426",11015
+2021-09-15,italian,dessert,halal,SWEET,Hot,room temp,soy,lamb,FRIED,FRANCE,formal,glass,Yes,no,STREET FOOD,NaN,18752,5407," 9,507","14,551",5175," 9,382",9505,16642,10732
+2021-10-30,french, snack , gluten-Free ,starter,Fiery,cold,SOY,chicken, baked ,france,NA,NA,Yes,Yes,INDEPENDENT,12209," 9,562",1570,£10937,9754,10443,17228,9972,£5682,NaN
+2022-01-13,greek,missing,GLUTEN-FREE,starter,medium,missing,None,beef,grilled,Greece,BIRTHDAY,METAL,NaN,no,STREET FOOD,1944,13178,2434,16596,1157,9937,£10018,5851,13833,£17335
+"Jul 17, 2023", Chinese ,dinner,missing,STARTER,medium,cold,FISH,Lamb,NA,Greece,birthday,,yes,Yes,fine dining,,17885,"16,371",NaN,-999,4072,NaN,missing,13452,14844
+2023-02-01,mexican,,GLUTEN-FREE,SIDE,mild, room_temp , None , tofu ,steamed,india,Birthday,,missing,missing,FAST FOOD,19758,£18770,19286," 6,122",£11343,15943,-999,10291,3779,13835
+15/07/2022,mexican,Dinner,gluten-free,sweet,mild,HOT,gluten,tofu,Fried,NA,CASUAL,compostable,NO,yes,-999,8082,19298,7132,8150,10065," 6,427",8070,NA,3618,19421
+"Feb 19, 2022",mexican,NaN,HALAL,side,medium,COLD,GLUTEN,beef,FRIED,CHINA,holiday,compostable,yes,yes,franchise,,5610,£4522,13431,12986," 2,750",4483,£17147,3122,2875
+14/05/2021,chinese,Dinner,Gluten-Free,Sweet,medium,Room Temp,egg,beans,RAW,Italy,FORMAL,metal,yes, NO , FRANCHISE ," 6,588"," 5,442"," 7,931"," 3,737",,19204,10431,19938," 6,843"," 8,214"
+"Mar 14, 2021",mexican,brunch,vegetarian, MAIN ,MILD,cold,Gluten,missing,Steamed,NaN,,COMPOSTABLE,yes,NA,street_food,15928,"19,167",   389,18492,16254,5826,13061,£11579,£4014,£7933
+2021-02-09,mexican,breakfast,Halal,sweet,medium,COLD,missing,chicken,grilled,GREECE,HOLIDAY,paper,NA,no,Fine Dining,13690,16210,missing,1993,12253,15307,,16283,9408," 4,815"
+"May 30, 2021",MEXICAN,brunch,Gluten-Free,side,medium, cold ,Nuts,LAMB,fried,,BIRTHDAY,METAL,YES,No,FRANCHISE,14042,NA," 9,406",NA,16219,7971,1594,3571,£11812,£237
+2021-10-05,MEXICAN,dinner,kosher,Sweet,Hot,hot,Soy,Pork,grilled,mexico,Casual,metal,no,NO,STREET FOOD,NA," 4,861",8898,£16298,"14,617"," 3,910",missing," 8,872",7667,17666
+27/07/2021,NA,Breakfast,KETO,starter,hot,cold,gluten,NaN,steamed,india,birthday,Metal,NA,yes,FINE DINING,NaN,19415,£4938," 5,687",missing,"16,333","14,612",NaN,£3596,NA
+"Sep 18, 2024",french,brunch,missing, starter ,FIERY,cold,Dairy,tofu,fried,ITALY,holiday,paper,yes,yes,Franchise,8053," 1,272",66,11264,950,,NaN,£16320," 4,560",12436
+2022-07-13,french,Snack,Kosher,starter,hot,cold, NUTS ,tofu,NA,italy,CASUAL,missing,-999, yes ,independent,,10532,-999,10070,"17,128",£780,13551,11719,11673,16974
+13/12/2023,mexican,dessert,gluten-Free,sweet,Hot,cold,gluten,Beans,fried,CHINA,Casual,NaN,YES,No,Fast Food,1568,4435," 7,689",10948,8086,16267,3197,3601,14152,£15550
+2024-12-21,french,dinner,Keto,side,fiery,HOT,FISH,beans,fried,india,birthday,,No,Yes,Fast Food,9154,12414,£10086,"14,538",£9341,11787,16437,"13,330",5871,NA
+2021-10-19,FRENCH,dinner,keto,STARTER,fiery,cold,egg,missing,baked,NaN,holiday,Compostable,Yes,Yes,streetFood,18900,588,missing,5986,834,NaN,6180,13483,7619,10378
+10/04/2022,mexican,snack,Vegan,sweet,fiery, HOT ,Dairy,Beef,NaN,france,formal,PLASTIC,YES,NO,Street Food,18653,NA,12197," 5,003",-999,2603,£12989," 2,048",1637," 4,837"
+20/02/2021,INDIAN,SNACK,vegetarian,,Medium, hot ,gluten,Tofu,NA,China,holiday,Glass,Yes,no, Fast Food ,10239,-999,,,12383,£5353,17978,3321,9825,17208
+-999,french,dessert,VEGAN,drink,missing,Room Temp,egg,beans, steamed ,greece,HOLIDAY,paper,yes,no,Fast Food,£19946,£18449,£17648,missing,NA,£18754,£14673,,,11882
+10/06/2022,INDIAN,Snack, Halal ,main,Medium,roomTemp, dairy ,TOFU,NaN,france,Casual,Metal,no,yes,independent,14221,3097," 8,751",£9545," 2,865",802,17070,£9898,NA,11739
+"Apr 27, 2023",-999, LUNCH ,gluten-free,Drink,FIERY,hot,Soy,beef,raw,greece,Birthday,plastic,yes,no,fast food,£16960,3437,£13749,19179,15907,"19,304",6706,313,19294,12302
+"Sep 14, 2021",NaN,lunch,gluten-free,sweet,FIERY,ROOM TEMP,dairy,tofu,RAW,,casual, COMPOSTABLE ,YES,NA,FINE DINING,missing,"16,187",1069,511,18931,£2810,6804,£8126,£6586,£4521
+2023-12-20,italian,brunch,gluten-free,SWEET,Mild,Hot,gluten, pork ,fried,china,birthday,metal,YES,yes, fineDining ,7042,£9234,missing,£10747,9081,"10,513","16,272",£12806,13003,£14512
+2024-08-09,italian,LUNCH,NA,DRINK,mild,Room Temp,fish,Tofu,raw,NaN,HOLIDAY,METAL,NA,NA,streetFood,5492," 1,845",14188,£17199,8623,7333,5324,14317,14570,6513
+21/09/2022,greek,LUNCH, vegan ,main,mild,cold,none,tofu,grilled,italy,casual,-999,no,yes,street food,,9420,18508,£3684,£19839,£862,8081,£140,£5641,2168
+17/07/2021,french,dessert,Halal,SWEET,mild,COLD,none,chicken,RAW,Mexico,birthday,NaN,Yes,no,NaN,"12,782",7960,"15,918",17955,6935,,"11,244",£867,14972,13792
+12/10/2023,Chinese,NA,VEGETARIAN,starter,hot,hot,fish,PORK,BAKED,india,Holiday,paper,No,YES,Independent,7292," 8,131",£2332,-999,14963,£908,6342,£748,£15966," 2,537"
+11/03/2022,greek,breakfast,VEGETARIAN,sweet,MILD,cold, GLUTEN ,pork,fried,italy,HOLIDAY,PAPER,YES,No,FAST FOOD,,18193,492,2060,NaN,4271,£2630,missing,NA,£6317
+"Aug 09, 2022",missing,snack,NaN,sweet,Fiery,roomTemp,dairy,TOFU,missing,Greece,formal,metal,no,no,fast food,1398,£8320,18543,-999,16443,15434,1893," 2,262",15666,NaN
+2023-04-29,CHINESE,lunch,gluten-Free, drink ,medium,room_temp,Nuts,TOFU,missing,missing,formal,plastic,no, no ,fineDining,NaN,14429,£5706,£5372,16426,15721,£11875,£15298,,£6456
+missing,CHINESE,Dessert,halal, starter ,mild,room_temp,none,BEEF,Raw,missing,casual,compostable,no, no ,independent,£14170,-999,9944,14853,19387,NaN,missing,£10051,14071,18718
+2024-07-01,Greek,Lunch,vegetarian,Side,medium,HOT,soy,tofu,FRIED,FRANCE, FORMAL ,compostable,no,no,franchise,1492,£13522,13873,8595,15185,"10,640",4190,£14085,"17,025","14,217"
+2024-07-26,french,Lunch,,starter,-999,Hot,soy,missing,Grilled,China,holiday,plastic,NO,yes,missing," 8,694"," 3,225",4409,16207,17363,3563,5905,2711,£8176,19951
+2022-09-19,Mexican,BREAKFAST,KETO,sweet,medium,Hot,gluten,,,mexico,casual,plastic,missing,NA,fast_food,759,9483,6518,14544,£14012,£7599,"15,739",19270," 1,007",
+2022-02-16,chinese,snack,-999,drink,Medium,Cold,EGG,Lamb,FRIED,india,BIRTHDAY,compostable,yes,no,fast_food,NaN,£14199,11376,16115,16820,   427,"13,148",4119,£13604,509
+14/08/2021,Indian, Brunch ,Kosher,,fiery,,soy,-999,Grilled,india,NaN,Glass,yes,YES, streetFood ,£14207,9755,"19,618",NA,4433,missing,10954,11401,8312,9147
+2024-02-07,INDIAN,dessert,keto,side,Medium,hot,Egg,LAMB,-999,greece, Birthday ,metal,no,yes,fastFood,4693,-999,£7617,£16475,NaN,992,missing,517,10433,£5263
+"Apr 26, 2022",mexican,Dessert,-999,sweet,medium,NA,none,beef,steamed,NaN,FORMAL,-999, No ,Yes,street food,,13010,12930,5969,"19,252",7199,£15240,12245,5537,"16,104"
+,French,NaN,Gluten-Free,starter,hot,hot,Gluten,chicken, Raw ,ITALY,formal,paper,No,YES,fastFood,"15,896",NaN,8843,1189,,17330,£18468,14797,4901,£6891
+2023-07-14,CHINESE,SNACK,NA,SIDE,hot,Room Temp,-999,Beef,fried,india,Holiday,METAL,NA,-999,-999,"13,649"," 1,190",-999,1652,£4288,£17997,17500,209,17934,910
+30/03/2021,chinese,LUNCH,Vegetarian,Drink,hot,hot,missing,PORK,raw,MEXICO,-999,Plastic,no,yes,fast_food,NA,7336,6994,9412,NA,1728,7034,9613,"10,386",£15263
+"Aug 22, 2021",mexican, Dinner ,-999,Side,hot,cold, gluten ,pork,GRILLED,MEXICO, holiday ,glass,NO,NO,INDEPENDENT,£4589,19936,£13616,3560,7460,15359,4400,19913,15048,4081
+missing,NaN,dinner,vegan,MAIN, HOT ,cold,fish,Tofu,grilled,ITALY,birthday,Plastic, yes , NO ,franchise,14616," 1,959",7104,369,3179,9449,13092,17713,2425,£7793
+2023-07-03, Italian ,SNACK,GLUTEN-FREE,starter,FIERY,hot,soy,Lamb, fried ,china,birthday,-999,NO,no,FINE DINING,£820,£4372,9151,5904,18724,-999,5788,18799,£11617,19034
+"Apr 10, 2021",italian,brunch,HALAL,side,MILD,COLD,none,lamb,raw,china,Birthday,metal,yes,Yes,franchise,2505,,14544,NaN,814,£12997,-999,16978," 1,927","14,978"
+2022-07-12,french,NaN,kosher,main,NaN,ROOM TEMP,fish,beef,baked,GREECE,missing, paper ,No,No,street_food,10783,5063,£17682,2222,£6287,18090,NaN,NaN,9790,£9284
+2022-05-24,chinese,breakfast,vegan,NaN,mild,cold,NaN,tofu,Baked,india,FORMAL,glass,yes,Yes,fast food,9478,13578,7494,"16,894",12026,£10069," 7,836",£4475,17928,missing
+2022-08-17,ITALIAN,Breakfast,GLUTEN-FREE,Drink,Fiery,cold,missing,Lamb,-999,GREECE,Casual,NA,NA,yes,street food,NaN," 7,725",8755,£15819,2269,10784,"11,109",£4123,8902,6634
+2022-06-23,greek, brunch ,Halal,starter,mild,,soy,beef,raw,NA,birthday,plastic,no,NO,fastFood,"16,340",19608,18110,8697,NA,£9770,NA,5614,11880,missing
+2023-07-20,GREEK,snack,VEGAN,MAIN,NA, hot ,nuts,chicken,fried,mexico, formal ,metal,yes, yes , Street Food ,10515,16791,£16424,1631,13834,NaN,NaN,9414,   375,6265
+07/09/2023,mexican,lunch,vegetarian,drink, hot , hot ,Dairy,chicken,steamed,mexico,formal,Metal,no,yes,," 1,028",19128,NA,5542,-999,9768,£16457," 6,148",NaN,NA
+2022-12-26,indian,brunch,Vegetarian,Main,medium,hot,fish,chicken,grilled, MEXICO ,holiday,paper,yes,yes,independent,6994,2151,"15,722",£13785,18593,10015,-999,2332,4453,9109
+NA,chinese,-999,-999,Main, FIERY ,hot,Dairy,beans,steamed,italy,birthday,metal,no,No,FRANCHISE,"18,107",NA,19423,1412,12636,9943,missing,missing," 3,593",8502
+27/08/2022,ITALIAN,LUNCH,vegetarian,starter,Hot,cold,none,BEANS,Steamed,mexico,birthday,NaN,No,No,fine_dining,11315,5326,19749," 2,507",18418,£4026,8601,800,10955,5166
+14/06/2023,-999,Lunch, kosher ,SWEET,hot, hot ,NA,Chicken,BAKED,italy,formal,plastic,yes,missing,FAST FOOD,NA,3660,13308,16351,£19695,£11784,"15,323",8306,£3626,1568
+"Mar 03, 2022",Mexican,dinner,Keto,main,mild,cold,DAIRY,-999,Steamed,india,formal,Metal,YES,NA, INDEPENDENT ,14695,£8744,16010,16081,14150,,1263,12262,9463,-999
+18/10/2022,chinese,Breakfast,Keto,main,Hot,cold,nuts,beans, FRIED ,china,-999,metal,no,,fineDining,£3140,2175,,,£13060,missing,4883,16908,£10858,8070
+03/03/2023,french,snack,Kosher,starter,FIERY,room temp,NaN,BEANS,FRIED,ITALY,Casual,glass,no,no, franchise ,5402,£2514,1723,£14014,9649,17249,6941,19898,NaN,7216
+"Sep 30, 2022",French,snack,gluten-free,DRINK, medium ,missing,fish,beef, fried , Italy ,formal,compostable,NO,YES,NaN,NaN,16500,16964,2217,missing,£10225,-999,£8781,"19,738"," 1,022"
+08/01/2023,indian,snack,vegetarian,main, Mild ,cold,nuts,beans,Fried, italy ,birthday,GLASS,NO,YES,independent," 5,899",807,114,£4696,26,11682,2804,7308,9229,14941
+10/02/2024, indian ,DINNER,vegetarian,starter,FIERY,hot,none,CHICKEN,fried,CHINA,Casual,plastic,no,yes,franchise,19363,4348,missing,16688,missing,13007,11851,£16602," 8,218",6771
+2021-11-09,chinese,Dinner,halal,STARTER,mild,hot,missing,LAMB,Steamed,mexico,formal, METAL ,NA,yes,fine dining,19681,£3569,6175,£19879,16022,£13410,7607,"18,862",,18066
+19/11/2021,FRENCH,BREAKFAST,vegan,side,-999,room temp,fish,Chicken,grilled,GREECE,,compostable,no,no,franchise,NA,17660,14576,£2845,,£2552,NaN,missing,-999,£10854
+04/07/2021,INDIAN,DINNER,Keto,missing,medium,-999,fish,tofu,GRILLED,china,birthday,Metal,Yes,yes,streetFood,"16,572",16167,10167,6892,£16285,1456,"17,230",1805,£17293,15722
+,french,snack,vegetarian,side,medium,room_temp,EGG,beans,raw,mexico,formal, PAPER ,YES,yes,NA,5250,£13702,9935,18325,10977,17459,18932,19606,£16358,"15,523"
+"Nov 13, 2022",INDIAN,-999,Vegan,drink,Fiery,HOT,NUTS,,-999,China,formal,glass,Yes,yes,independent,14405,,3347,2712,£11406,£12052,2000,"13,613",4934,3016
+missing,indian,lunch,-999,main,-999,cold,SOY,pork,grilled,mexico, casual ,GLASS,no, No ,Fine Dining," 7,498",3763,"13,914"," 4,552",£6747,14376,10094,£18958,"17,534",17586
+10/09/2021,french,snack,NA,NaN,fiery,NA,none,pork,,INDIA,holiday,GLASS,yes,NO,fast food,10498,2953," 8,615",11588,NA,£6125,15102,£6544,," 4,177"
+2022-10-26,Mexican,dessert,Gluten-Free,side,,hot,none,Lamb,FRIED,FRANCE, casual ,Metal,missing,yes,fast_food,1815,"13,780",15037,18," 9,237","14,540",-999,," 5,017",
+08/04/2024,missing,breakfast,gluten-free,MAIN, hot ,COLD,egg,Beef,steamed, china ,NA,-999,,Yes,street food,4574,"19,862",£4397,10759,"13,067",NaN,17277,7617,18633,2899
+2024-02-28,mexican, brunch ,kosher, SWEET ,MILD,,egg,tofu,NaN,mexico,birthday,metal,yes,yes,franchise,5398,19383,"14,846",36,1210,£18751,£8604,12143,3311,
+08/09/2022,indian,,kosher,side,NA,room_temp, egg ,NA,STEAMED,ITALY,CASUAL, glass ,No,YES,-999," 8,550",5188,18608," 8,557",missing,691,"19,401",17803,1944,"12,480"
+30/08/2022,French,BREAKFAST, HALAL ,SIDE,hot,cold, NUTS ,tofu,BAKED,greece,missing,-999,yes, yes ,Street Food,9583,8916,646,19334,16281,1760,"19,057",missing,£7728,214
+15/06/2023,,DESSERT,gluten-free,Starter,hot,Cold,egg,Beef,missing,China,NA,-999,, yes ,street food,2056,18770,missing,£2336,4045,18608,2744,NA,12262," 4,398"
+05/07/2024,chinese,Snack,keto,main,hot,roomTemp,None,-999,baked,India,FORMAL,compostable,YES,No,fast food,,2989,1763,7529,,11313,19872,5097,16811,£11400
+20/02/2023,italian,dessert, Kosher ,DRINK,NaN,Room Temp,nuts,BEEF,Steamed,Greece,casual,-999,NO,Yes,franchise,£19620,2062,8040,18107,3313,£13678,"12,646",£18267,-999," 3,982"
+08/01/2021,Italian,breakfast,keto,main,NaN,room_temp,DAIRY,CHICKEN,NA,Greece,casual,,missing,no,independent,1211,18828,15274," 4,363",4657,1101,1584,11885,12451,9293
+2021-12-17,italian,dinner,halal,NA,hot,hot, gluten ,chicken,missing, Greece ,FORMAL,metal,-999,no,NaN,8176,19421,£10278,4630,16256,   524,NA,15314,19100,£13341
+26/05/2021,Chinese,Dessert,NA,SWEET,medium,,soy,NaN,FRIED,france,CASUAL,compostable,No,No,fine dining,14550,"18,203",NA,708,£1070," 5,188",NaN,"11,839",13717,£2472
+16/08/2021,FRENCH, dinner ,kosher,starter,mild,NaN,none,beef,Grilled,India,birthday,METAL,,yes,fineDining,£14404," 7,833",NA,14329,5559,£18180,6639,16832,60," 2,409"
+07/11/2022,missing,,keto,DRINK,hot,hot,FISH,Beef,-999,china,Holiday,PAPER,yes,yes,STREET FOOD,£10786,340,18001,10827,£2765,2510,12088,741,6521,£10908
+2022-05-10,Indian,Breakfast,gluten-Free,sweet,fiery,roomTemp,EGG,lamb,steamed,greece,-999,PAPER,no,yes,fast_food,14700,-999,2235,"18,260",9015,15828,13544,3953,16756,NaN
+2021-07-27,MEXICAN,dinner, VEGETARIAN ,DRINK,mild,cold,soy,,GRILLED, China ,HOLIDAY,Plastic,-999,No,FAST FOOD,,1965,-999,984,18093,2636,"12,919",NA," 8,448",7166
+2022-03-19,Chinese,breakfast, VEGETARIAN ,sweet,Hot,cold,fish,,NaN,greece,holiday,Metal,yes,no,independent,1246,£8972,2673,11185,9905," 4,195",1714," 9,877",3341,8837
+2023-06-12,greek, breakfast ,NaN, SIDE ,MEDIUM,Room Temp,Egg,pork,steamed,france,Holiday,missing,no,yes,franchise,4047,10206,£13462,12025,-999,1892,6647,£853,16952,£10293
+17/12/2022,greek,LUNCH,HALAL,DRINK,Hot, COLD ,none,Tofu,steamed,MEXICO,formal,plastic,yes,NA,INDEPENDENT,16723,"10,844",13579,13337,18605,1156,12349,3695,"19,884",3695
+missing, italian ,Snack,vegetarian,main,,Room Temp,-999,chicken,steamed,China,BIRTHDAY,plastic,yes,,FINE DINING,NA,NaN,4631,11985,NaN,9953,298,"12,872",18119,£5072
+19/08/2024, Chinese ,dessert,GLUTEN-FREE,-999,NA, room_temp ,egg,chicken,fried,india,holiday, COMPOSTABLE ,NO,no,FRANCHISE," 6,714",14049,3626,9834,8343,£2084,£8995,12477,NaN,£6724
+11/04/2022,Indian,-999,gluten-Free,Side,NA,room temp,nuts,tofu,steamed,GREECE,casual,COMPOSTABLE,,yes, Fine Dining ,17947,"16,359",NaN,-999,15017,17956,"19,555",8484,16572,"10,840"
+2023-07-12,chinese,lunch,vegetarian,NA,NaN,roomTemp,soy,Tofu,fried,china,-999,plastic,yes, no ,independent,"16,025",£720,19759,1366,15343,8832,-999,NaN," 5,122","16,743"
+2022-02-22, GREEK ,dinner,keto,side,Hot,Room Temp,Fish,lamb,STEAMED,MEXICO,missing,METAL,No,yes,,5039,NaN,"19,100"," 1,886",NaN,£1222,-999," 8,680",17190,£7687
+2021-05-19,Indian,snack, HALAL ,sweet,medium,room_temp, None ,TOFU,RAW,China,formal,glass,missing,yes, franchise ,£9109,NA,£14217,16133,5591,4758,missing,7350,3740,12639
+12/05/2022,INDIAN,NaN,halal,SWEET,Hot,cold,Gluten,BEEF,raw,france,Holiday, Glass ,no,NO,fine_dining,17975,10040,9448,16346,7075,15201,5203,298,865,"10,593"
+-999,chinese,breakfast,Vegetarian,side,MEDIUM,-999, none ,beans,raw,Mexico,Casual,Metal,Yes,no,NA,16627,6792,"14,583",NA,NA,£7949,14623,18659,11129,"13,990"
+31/07/2021,greek,BREAKFAST,KETO,sweet,FIERY,Hot,fish,lamb,Fried,NaN,holiday,NaN, YES ,yes, street food ," 1,034",15683," 6,982",18491," 5,543",£17957,1839,,6782,NaN
+05/11/2023,, DINNER ,HALAL,Sweet,Hot,ROOM TEMP,none,pork,NA,india,birthday,METAL,yes, Yes ,independent,10388,"18,944",10084,"16,121",-999,8593,8295,16110,"17,014",£16628
+2023-12-01,chinese,Lunch,gluten-Free, Starter ,fiery,cold,NA,Lamb,Baked,italy,birthday,-999,NaN,no,Independent," 6,466",NA,NaN," 1,048",4892,8081,7030,9386,16567," 4,884"
+"Aug 08, 2022",mexican,snack,vegan,missing,fiery,hot,gluten,beef,fried,mexico,holiday,plastic,,yes,FRANCHISE,12359,8966,7652,14868,£13772,4946,10578,£9304,£10167,7308
+2023-10-18,french,BRUNCH,Vegetarian,SIDE,HOT,room_temp,SOY,LAMB,baked,Greece,FORMAL,Plastic,no,Yes,fastFood,587," 1,626",808,11325,17625,14399,missing,18120,£9157,16517
+2022-12-26,greek,snack,halal,STARTER,mild,,gluten,tofu,Steamed,,FORMAL,Glass,yes,no,fast_food,£15168,14592,1908,£6433,missing,4554,14024,16987,-999,NaN
+2021-07-14,missing,Lunch,KOSHER,-999,MEDIUM, roomTemp ,fish,beans,baked,India,Holiday,GLASS,Yes,YES,Independent,19542,3826,"16,292",12261,16009,,"19,574",10319,18534,£14624
+01/03/2023,greek,BRUNCH,Vegan,SIDE,FIERY,cold,nuts,NA,raw,NA,HOLIDAY,plastic,yes,no,fastFood,4722,16728,6648,,12848,"16,703",4697,13661,NA,£12206
+13/06/2022,NaN, Breakfast ,missing,side,hot,Hot,Fish,,steamed,china,Birthday, COMPOSTABLE ,no,no,Street Food,15418,"12,316",7209,-999,19071,18238,"13,750",13765,missing," 7,152"
+31/07/2024,Mexican,brunch, kosher ,sweet,-999,cold,fish,CHICKEN,missing,france,BIRTHDAY,PAPER,NO,No,franchise,£2491,1523,15486,2654,662,NaN,"11,938",3555,9103,9511
+"Apr 15, 2024", greek , BRUNCH ,missing,, mild , Cold ,NA,tofu,Fried,italy,Birthday,paper,yes,yes,-999,"16,413",15442,5431,7962,15430,3513,10138,£3476,13111,4412
+10/10/2022,chinese,dessert,gluten-free,drink,medium, cold , gluten ,Chicken,Baked,india,birthday,missing,yes,yes,Franchise,£13286,16083,19812,12109,11016,19661,£2143,£10852,missing,17124
+09/12/2021,INDIAN,-999,kosher,main,fiery,hot, gluten ,chicken,fried,,casual,PAPER,NO,no,streetFood,NaN,4171,2819,£2624,10459,7437,18987,£6280," 6,601","14,321"
+missing,mexican,Dinner,vegan,Main,Mild,room_temp,soy,Tofu,,CHINA,holiday,compostable,NA,yes,franchise,5658,NA,"16,140",NA,,NaN,17062,£19365,£16669,NaN
+29/09/2024,Indian,dessert,keto,,fiery,missing,missing,tofu,raw,italy,casual,plastic,Yes,yes,INDEPENDENT,"18,387",missing,£6219,£6194,11777,4501,11904," 2,581",1703,£8545
+03/05/2022,greek,snack,KETO,STARTER,Fiery,room_temp,nuts,TOFU, GRILLED ,france,casual,Metal,,no,-999,   642,614,19790,£6129,4644,18879," 4,795",missing,£15295,12244
+31/08/2022,French,dessert,NaN,starter,fiery,hot,Gluten,Pork,BAKED,france, casual ,glass,YES,,franchise,6717,-999," 9,803",11950,,NA,13038,,1758,missing
+2023-07-04,mexican,NaN,gluten-Free, SIDE ,missing,hot,,NA,RAW,italy,casual,paper,No,yes,Fine Dining,8413,£16670,1566,8413,£14309,17169,NaN,£12486,5574,19410
+2023-12-26,indian,brunch,NA,drink,hot,room_temp,dairy,beans,-999,GREECE,birthday,paper,yes, yes ,fast_food,2684,£9936,12493,5909," 3,883",3070,£6078,,8293,2774
+26/02/2024,greek,LUNCH, KOSHER , Main ,mild,NA,NONE,beef,grilled,italy,NaN,plastic,no,,fast food,NA,missing,837,17516,15950,1207,NA,9323,£3682,9210
+06/08/2022,mexican,Dinner,halal,sweet,HOT,COLD,gluten,beef,grilled,mexico, formal ,plastic,YES,yes, independent ,10364,857,£4246,£8106,£18917,16456,8048,13278,£16202,5758
+2021-12-17,indian,lunch,,starter,fiery,hot,egg,BEANS,baked,france,NA,NaN,,yes,fine dining,NaN,£4289,2618,NA,14903,17820," 2,084",3897,11195,6215
+28/06/2024,Mexican,NA, gluten-free ,side,HOT,room temp, fish ,chicken,NA,GREECE,missing, paper ,YES,yes,fineDining,19940,16648,10152,3125,"17,353",,"16,680",15516," 5,021",19789
+2024-11-23,Italian,lunch,NaN,Sweet,hot,,Gluten,tofu,-999, india ,Birthday,paper,yes,no,Fast Food,£7937,1668,"17,415",£13571,7975,18948,1378,,1701,£4196
+"Nov 06, 2024",chinese,dessert,vegetarian,SWEET, mild ,hot,NUTS,Lamb,FRIED,greece,formal,paper,no,yes,FAST FOOD,"17,994",£18694,"18,387",£13592,£5221,NaN,"15,532",18893,12623,3810
+, french , LUNCH ,halal,MAIN,mild,COLD,none,NaN,Baked,INDIA,FORMAL,Compostable,YES,no, franchise ,569,£13982,£12890," 6,332",7927,£6590,£19596,NaN,"13,029",-999
+2024-04-23,French,Brunch,keto,Starter,medium,missing,-999,NaN,grilled,FRANCE,birthday,paper,NO,yes,independent,15842,3201,,10230,3456,£3875,774,10339,-999,NA
+05/09/2023,french,SNACK,vegan,sweet,MILD,NaN,egg,Beef,steamed,Mexico,birthday, PAPER ,,no,Fine Dining,11960,£15593,11564,missing,7761,2677,£17650,15953,12643," 1,401"
+-999,mexican,breakfast,kosher,SWEET,Hot,missing,fish,,steamed,NaN,FORMAL,compostable,No,yes,Franchise,13508," 7,734",missing," 8,768",583,19742,6032,12043,6486,4393
+31/10/2022,mexican, dessert ,halal,starter,HOT,roomTemp,NA, tofu ,steamed,india,birthday,paper,no,NO,INDEPENDENT,19151,16656,-999," 3,179"," 8,032",NaN,£10055,2865,18459,"15,112"
+2023-07-26,mexican,snack,NA,NA,missing,cold,nuts,beans,baked,france,missing,PLASTIC,NO,yes,street food,£11550,£1204,14459,NaN,13722,14271,15975,£11413,missing,6831
+12/02/2021,french,snack,Kosher,sweet,mild,roomTemp,-999,missing,Fried,MEXICO,formal, Glass ,YES,no,fast food,13912,£11791,11542,17557,missing," 6,960",18994,£6166," 7,035",-999
+29/12/2021,CHINESE,DINNER,GLUTEN-FREE,starter,Hot,Cold,Fish,BEEF,RAW,india,holiday,plastic,-999,no,missing,10170,11443,15652,£9995,18957,11800,10278,7840,7426,1670
+13/06/2024,mexican,lunch,gluten-free,SWEET, mild ,,fish,LAMB,NaN,italy,Formal,PLASTIC, YES ,NO,Street Food,"15,450",18505,6699,," 7,222",9324,16165,,£7600,10922
+21/12/2024, Indian , LUNCH ,Vegetarian,SIDE,fiery,Room Temp, nuts , chicken ,baked,france,HOLIDAY,Paper,no,no,fine_dining,£816,£11387,7663," 7,851",14187,£19144,missing,missing,"19,439",12713
+16/04/2024,indian,breakfast, Gluten-Free ,drink,mild,Hot,soy,beans,Fried,italy,missing,plastic,no,no,Street Food,£13152,9029,£3466,2697,16936,6572," 6,093",NaN,9118,£4683
+19/09/2021,CHINESE,Dinner,vegetarian, SWEET ,mild,COLD,none,NaN,,italy,NaN,glass,Yes,no,fast food,12617,11137,12711,5772,16310,8681,14248,"17,821","13,673",14920
+23/03/2022,indian,dessert,missing,side,mild,ROOM TEMP,DAIRY,beef,fried,France,formal,missing,No,NO,franchise,£10181,NaN,missing,9452,8965,15026,10451,£14062,5711,NA
+04/04/2023,indian,-999,halal,side,NA,Hot,missing,BEEF,steamed,france,casual,compostable,No,yes,Fine Dining,4661,,"18,333",15247,£6629,18314,6137,4203,1124,£6925
+25/08/2022,NA,NaN,NaN,starter,MEDIUM,Cold,fish,Pork,raw,greece,holiday,,no, no , franchise ,6337,14227,12149,-999,£1647,£4505," 2,473",3699,£18559,
+-999,chinese,breakfast,vegan,drink,HOT,HOT,NONE,pork,Raw,India,FORMAL,Glass,No,yes,independent,1466,NA,8795,-999,7056,NaN,NA,9692,missing,15125
+02/11/2021,French,breakfast,Kosher,MAIN,Hot,hot,SOY,tofu,Raw,italy,formal,, no ,no,independent,missing,4690,£18670,1069,3211,"13,143"," 1,597","17,880",8349,£5472
+2021-05-26,,Snack,vegan,NaN,NaN,COLD,dairy,-999,Fried,Mexico,CASUAL,plastic,No,No,independent,£14568,NA,2589,948,17165,955,£7391,11833,6654,78
+NaN,greek,lunch,kosher,Side,mild,cold,nuts,beef,Baked,FRANCE,CASUAL,glass,No,Yes,-999,£4930,5038,1987,19806,19959,-999," 7,578",missing,-999,"17,644"
+"Dec 05, 2021",missing,breakfast,HALAL, sweet , HOT ,room temp,fish,CHICKEN,grilled,france,formal,missing,no,no,franchise,18334,"10,343",12678,"18,093",6591,£12665,9538,16325,7976,6048
+"Jun 17, 2021",MEXICAN,missing,GLUTEN-FREE,Drink,hot,NaN,NA, beef , grilled ,China,holiday,Glass, yes ,Yes,independent," 8,055",11544,missing,13637,7121," 2,377",missing,NaN,6078,15955
+2024-12-17,french,SNACK,gluten-Free,DRINK,Hot,HOT,EGG,beef,Grilled,mexico,BIRTHDAY,glass,NaN,no,fine_dining,£582,2438,£14978,18370,4694,£15244,16921,19509," 2,562",£5502
+30/12/2024, greek ,dessert,halal,Main,MILD,,gluten,tofu,fried,india,Birthday, glass ,no,no,FAST FOOD,658,9315,,2960,6499,£10429,12908,4799,17730,6365
+"Nov 10, 2023",Italian,dinner,halal,sweet,mild,hot,Nuts,pork,fried,Greece,Formal,glass,NO,NO,NaN,12122,12344,10422,£5214,,£18695,16390,missing," 7,459",18196
+19/04/2023,greek,brunch,vegan,starter,NA,cold,fish,tofu,Fried,india,missing,metal, yes , Yes ,independent,14836,4979,9664,NaN,3825,£7632,9141," 6,822",11618,missing
+2024-10-25,NA,snack,vegan,Drink,HOT, room temp ,Nuts,beans,raw,greece,CASUAL,COMPOSTABLE, yes ,yes,Independent," 7,800"," 4,857",missing,17689," 7,528",missing," 4,204",£12534,NaN,14771
+14/12/2024,chinese,BREAKFAST,halal,SIDE,hot,roomTemp,none,LAMB,fried, greece ,holiday,plastic,no,NaN,fineDining," 6,646",missing,£823,£11590,£6878,£18077,£5469,15336,8622,12869
+2023-11-17,italian,Brunch, HALAL ,Main,fiery,room_temp,dairy,beans,raw,china,Formal,plastic, no ,-999,franchise,£17206,3227,-999,8559,£19454,missing,8013,13287,£9862,£1898
+07/03/2021,Italian, dessert ,-999,MAIN, HOT ,Hot,soy,lamb,grilled,china,Formal, Glass , no ,yes,FRANCHISE,6985,16855,£5720,£19373,NaN,4897,missing,15605,4414,missing
+16/11/2022,greek,snack,,drink,-999,hot,Egg,chicken,grilled,MEXICO,holiday,METAL, no ,no,INDEPENDENT,13815,"10,651",12943,missing,14655,"13,716",17162,17708,"14,284",1125
+27/07/2023,greek,breakfast,kosher,side,hot,room_temp,egg,pork,GRILLED,italy,formal,compostable, yes ,no,street_food,16478,"12,454"," 8,229",NA," 3,057",7947,£11663,6848,12701,£6193
+29/11/2022,greek,NaN, VEGETARIAN ,SWEET,medium,cold,Nuts,Beef,grilled,ITALY,Formal,plastic, Yes ,yes,Independent,44,6938,"14,216"," 6,727",£2776,10877,18832,13245,£12247,missing
+2024-07-06,missing,missing, gluten-free , sweet ,medium,cold,Nuts,chicken,BAKED,MEXICO, Holiday ,-999,,NO,streetFood," 2,330",16186,£17159,-999,16241,£18229," 1,109",5804,£6253," 1,167"
+2024-04-11,Greek,lunch,KOSHER,drink,fiery,hot,NA,chicken,grilled,missing,HOLIDAY,metal, No ,no,fast food,£2809,"17,042",-999,13968,15217,8630,£1998,£18141,"18,903",12628
+21/06/2024,indian,dinner,Vegetarian,STARTER,MEDIUM,hot,NONE,beef,Raw,greece, formal , GLASS ,yes,Yes, FAST FOOD ,NaN,9798,9546,£11023,£3274,£16882,4880,14822,-999,10836
+07/08/2021,NaN,breakfast,halal,sweet,medium,hot,,lamb,missing,china,formal,PLASTIC,yes,NO,streetFood,£5210,14472,£19273,13402,8500,4218,£7293,15655,7463,£9220
+2024-10-13,Greek,,Keto,sweet,hot,cold,gluten,LAMB,missing,NaN,casual,Compostable,Yes,Yes,franchise,18659,12814," 9,530",£1429,3003,12270," 2,153",£7727,7238,£5124
+2022-02-17, chinese ,snack,keto,NaN,MEDIUM,roomTemp,none,LAMB,steamed,missing,holiday,Glass,yes,,fastFood,£10306,15683,7694,£13102,£7596,missing," 8,284",£12378,16184,£13555
+23/09/2023,mexican,Brunch,vegetarian,STARTER,HOT,Cold,dairy,chicken, Steamed ,GREECE, formal ,metal,yes, yes ,street food,£5280,10163," 8,400",9012,15424,£3854,£7805,missing,"19,928","16,036"
+"Mar 04, 2021",NA,BREAKFAST,Keto,main,Fiery,room_temp,Dairy,Chicken,Raw,china,birthday,PAPER,no,yes,NA,"14,698",NaN,6609,17857,7245,19006," 7,880",-999,£13654," 7,526"
+15/01/2024,french,dessert,gluten-free,drink,medium,Hot,NUTS,pork,NA,mexico,Birthday,Glass,Yes,no,Street Food,£17798,10343," 9,094","13,345",NaN,NaN,18944,£7595," 3,688",14281
+2024-02-01,MEXICAN,Brunch,-999,missing,MEDIUM, HOT ,none,LAMB,grilled,greece,casual,glass,no,NO,street food,"13,266",£4105,£15039,"10,670",14094,16806,1328,£7838,18066,£19060
+2021-01-14,mexican,breakfast,gluten-free,-999,Hot,cold,NA,NA,BAKED,india,casual,PAPER,no,no,FINE DINING,10165,,missing,£8238,2107,£10086,17183,£1427,19584,NaN
+,greek,dessert,halal,main,HOT,COLD,gluten,tofu,fried,france,casual,Compostable,yes,Yes,street_food,3221,NaN,NA,14923,NaN,11275,12453,10389," 5,437",17619
+2023-05-28,greek,snack,-999,SWEET,FIERY,COLD,Fish,NA,grilled,france,,Glass,Yes,yes,street food,"11,089",9915,4648,-999,9976,"10,300",£113," 8,165","18,092",4985
+23/12/2021,greek, brunch ,keto,DRINK,FIERY,hot,soy,BEEF,grilled,italy,casual,plastic, YES ,no,fine dining,£9598,15578,4151,7590,£5673,£7748,NaN,11803,,£17450
+28/09/2021,italian,lunch,-999,side, Fiery ,cold,FISH,Chicken,,greece, formal ,PAPER, Yes ,No,independent,-999,£9837,NaN,17409,2997,14576," 8,830","14,910",12840,10509
+2024-10-08,-999,snack,Vegan,NA,Hot,room temp,FISH, tofu , grilled ,Mexico,holiday,METAL,no,no,STREET FOOD,-999,"14,270",-999,-999,3532,3512,missing,8968,17243,6614
+2022-07-23,indian,breakfast,NaN,SIDE,medium,missing,soy, pork ,FRIED,india,holiday,Compostable,No,NaN,missing,15471,14498,7448," 7,230",£2162,563,15452,5758,,£13909
+-999,chinese, breakfast ,VEGETARIAN,Main,mild,room temp,, chicken ,Baked,india,formal,metal,yes,Yes,FAST FOOD,"18,609",4493," 8,904",NA,£978,1649,"11,888","10,662",724,237
+06/07/2021,chinese,SNACK,VEGETARIAN,sweet,FIERY,COLD,NA,pork,,INDIA,holiday,glass,no,no,fine dining,£4516," 5,314",7729,16654,NA,"13,850",5698,"10,078",8693,14192
+"Apr 19, 2022",italian,brunch, Vegan ,Side,MEDIUM, hot ,fish,Pork,Steamed,italy,-999,metal,yes,yes,Independent,£15833," 6,745",,£1013,£3134,17480,7840,   523,11568,£4170
+2023-06-23,mexican,lunch,halal,Drink,MILD,Room Temp,dairy,, STEAMED ,FRANCE,BIRTHDAY,Plastic,no,No,street_food," 7,783",3898,11683,£17459,1833,271,£11225,,£12817,11375
+18/11/2023,CHINESE,BRUNCH,Vegan,Starter,hot,Hot,fish,beef,NA,China,BIRTHDAY,Glass,no,yes,Franchise,,£5534,missing,18295,14945,17564,,14366,£19571," 8,975"
+2022-11-14,-999,-999,keto,-999,NaN,Room Temp, dairy ,lamb,raw,india,holiday,GLASS, yes ,No,INDEPENDENT,18692,9788,153,"16,594",missing,NA,1172,£8106,16889,missing
+2024-01-28, FRENCH ,BREAKFAST,gluten-free, DRINK ,NA,room_temp,egg,PORK,steamed,china,formal,Paper,NA,no, independent ,11133,293,9487,8081,"16,937",13184,16,5130,6190,5170
+"Apr 10, 2024",Italian,brunch, vegan ,starter,mild,cold,None,TOFU,STEAMED,Mexico,Birthday,compostable,No,Yes,independent,14419,5394,12676,,1018,2426,7480,5021,19987,5196
+11/05/2021,french,Brunch,-999,starter,medium,Cold,nuts,Tofu,Steamed,italy,Formal,compostable,yes,YES,street food,962,£2983,£13658,1647,£17417,-999,17884,NaN,15865,2635
+28/09/2024,indian,dinner,keto,main,mild,hot,None,chicken,raw,china,-999,Compostable,No,yes,streetFood,1418,14305,11185,14508,19477,7597,"16,916",15717,"10,116",£11695
+21/06/2021,Mexican, Snack ,halal,side,medium,roomTemp,Egg,Chicken,steamed,CHINA,formal,compostable,YES,yes,Fine Dining,12049,11551,£8736,"18,057",17595,14140," 3,086",14064,-999,16658
+2023-05-24,INDIAN,dessert,keto,DRINK,hot,hot,-999,, GRILLED ,india,FORMAL,PLASTIC,yes,Yes,franchise,   195,2648,13038,1361,19540,"10,573"," 1,710","11,458",-999,"11,856"
+2024-02-03,mexican,breakfast,kosher,MAIN,NaN,cold,dairy,chicken,steamed,india,formal,Glass,Yes,no,Fine Dining,£17236,4113,15427,19035,"14,461",11764,14340,NaN,5204," 6,465"
+2022-09-09, FRENCH ,lunch,-999,Side,hot,Cold,NUTS,beef,steamed,CHINA,CASUAL, COMPOSTABLE , NO ,,,15153,19943,4214,"14,078",7886,£12122,missing,2387,missing,missing
+2023-10-26,FRENCH,missing,kosher,Sweet,HOT,missing,SOY,pork,baked,france,holiday,GLASS,Yes,YES,fast_food,NaN,4417,£5083,5413,NaN,3380,,9247,863,4401
+29/10/2022,italian,brunch,vegetarian,side,Hot,Hot,Fish,pork,Fried,France,holiday,compostable,YES,yes,INDEPENDENT,1837,19363,£11640,1095," 5,350"," 1,728",3510,8016,7008,NaN
+10/10/2022,Chinese,dinner,,,,-999,egg,beans,NA,NaN,NaN,plastic,yes,yes,STREET FOOD,£17993,9107,19699,13139,missing,-999,7943,NA,-999,12990
+2024-04-14,MEXICAN,lunch,KETO,main,medium,hot,Fish,Beef,baked,france,HOLIDAY,compostable,no,Yes,Fine Dining,£15153,£4093,£2817,7632,5420,6839,1216,3528,   336,£19091
+23/10/2021,chinese,LUNCH,vegan,main,missing,Hot,none,lamb,-999,ITALY,Holiday,Plastic,No,NO,NaN,17451,£10682,"16,522",5796,6910,"13,271",8049,9994,16975,NA
+27/06/2023,french,brunch,Halal,SWEET, Mild ,HOT,fish,beef,RAW,France,BIRTHDAY,glass,no,no,-999," 8,086",£14999,   435,3484,6798,£7772,2292,9274,332,13163
+17/08/2021,Indian,-999,keto,starter,mild,hot,egg,lamb,grilled,italy,,glass,YES,YES,street_food,7253,18100,17358,1136,missing,259,£19791,£3712,11116,7459
+2023-03-27,FRENCH,lunch,keto,starter,FIERY,Cold,egg,beef,Baked, GREECE ,HOLIDAY,metal,YES,NO,Street Food,£4512,5440,5658,   787,NA,£16205,NA,11870,13088,15729
+,ITALIAN,,gluten-free,starter,medium,Hot,soy,beans,grilled,China,birthday,plastic,yes,NO,Fast Food,10728,13910,19041,"19,917",£17711,£8375,£7445,1893,4989,6999
+18/01/2021,CHINESE,DINNER,halal,Main,fiery,missing,soy,Lamb,raw,mexico,Holiday,PAPER,yes,No,independent,16229,7527,12598,-999,8708,£4735,9601,9381,19023,16417
+2024-08-12,greek,brunch,missing,sweet,FIERY,-999,nuts,pork,Baked,mexico,FORMAL,-999,No,no,street_food,18724,,11410,"10,029",£6624,"12,833",4242,missing,"12,850",15183
+28/08/2023,mexican,DESSERT,HALAL,sweet,-999,room temp,gluten,chicken,FRIED,Italy,casual,plastic,NO,yes,STREET FOOD,£16571,£18703,6307,2589,4200,£11357,£606,-999,£13872,7917
+2022-03-02,NaN,dinner,keto,side,medium,COLD,nuts,beans,NaN,FRANCE,Holiday,plastic,No,no,fineDining,1682,"15,183",10675,2026,£12629,£6737,3594," 9,990",16979,£13997
+"Jul 24, 2023",greek,DESSERT,Vegetarian,drink, MEDIUM ,COLD,gluten,chicken,BAKED,China,holiday,paper,yes,YES,fast_food,12634,9254,5890,5876,11541,missing,£8412,NaN,18143,10588
+05/01/2024,chinese,brunch,kosher,side, medium , hot ,none,beans,grilled,-999,casual,paper,NA,yes,fine dining,1398,"13,726",11462,"15,793",£12046,11617,NA,14553,7112,£7948
+2023-08-15,french,snack,Gluten-Free,DRINK,medium,Hot,nuts,pork,-999, Greece , birthday ,compostable, yes ,no,fastFood,5153,13406,1882,1530,NaN,"10,509",£7562,17887,12514,14847
+09/02/2024,italian,DINNER,Vegetarian,NaN,hot,NaN,,beans,baked,INDIA, BIRTHDAY ,compostable,NaN,yes,independent,13979,16077,8046,NaN," 3,150",£16108,£2663,,NaN,£9011
+2024-03-09, greek ,DESSERT,vegan,NA,Medium,COLD,Dairy,CHICKEN,-999,Greece, formal ,Glass,no,No,franchise," 3,197",16464,13130,NaN,18009,NaN,19829,13982,missing,"16,252"
+NaN,GREEK,NaN,Kosher,drink,missing,hot,-999,chicken,GRILLED,Mexico,birthday,Plastic,missing,-999,independent,13279," 1,903","14,713",1714,6474,£10573,,£12224,501,NA
+2022-03-29,Indian,dessert,keto,sweet,medium,cold,NaN,Lamb,fried,china,FORMAL,GLASS,yes,no,fastFood,£5287,"13,522","14,844",17796," 1,271",£19954,11333,£7393,577,
+23/10/2022,French,Dessert,vegetarian,drink,FIERY,Hot,Dairy,pork,baked,greece,formal,COMPOSTABLE, yes ,no,independent,NaN,13241,-999,missing,14183," 2,967",,4785,14572,4327
+2024-12-23,french,dinner,keto,sweet,medium,cold, nuts ,Lamb,raw,greece,NA,paper, no ,Yes,fast food,16544,899,17298,6437,16154,19991,£19218,NA,NaN,11904
+14/07/2023,MEXICAN,snack,KETO, DRINK ,MILD,roomTemp,nuts,pork,FRIED,china,NA,Paper,no,NO,fast_food,3781,16342,-999,667,10164,£15171,10408," 3,603",6109,13965
+2021-10-26,greek,brunch,kosher,sweet,MILD,cold,fish,chicken,FRIED,china,birthday,glass,NA,yes,franchise,12176,14260,13737,4835,16715,," 4,634",1307,-999,11256
+2022-10-01,ITALIAN,missing,NaN, side ,mild,cold,dairy, beans ,steamed,france,NA,METAL,no,no,Fine Dining,£1110,missing,missing,5157,£16242,1210,"10,148",57,7328,9025
+2022-06-02,Italian,breakfast,NaN,NA,medium,roomTemp,DAIRY,chicken,raw,Mexico,Formal,paper,Yes,,Franchise,£2404,17127,1684,19822,,17324,£8465,missing,5551,-999
+"Mar 19, 2024",missing,breakfast,vegan,main,HOT,NaN,dairy,pork,,France,FORMAL,plastic,yes,NO,fine dining,15181,5922,3699," 8,531",£16332,1359,10319,£13313,£12262,6729
+"Mar 07, 2024",NA,Dinner,vegetarian,Starter, fiery ,roomTemp, FISH ,tofu,fried,mexico, Casual ,paper,no,yes,INDEPENDENT,NaN,£2250,11609,772,"18,225",£16271,18253,15315,11174,£1243
+17/05/2021,chinese,Lunch,vegan, STARTER ,fiery,room temp,nuts, tofu ,fried,india, holiday ,METAL,yes,,NaN,£8528,18776,14646,12025,13158," 8,690",6494,9194," 4,277",1005
+2023-03-09,,Dinner,Vegan,drink,Mild,hot,None,pork,grilled,,Holiday,compostable,no,NO,FINE DINING,£376,90,18757,2833,"15,045",3306,£72,£13094,8016,14057
+2022-02-22,Indian,-999,keto,main,fiery,hot,gluten,lamb,RAW,missing,NaN,compostable,yes,yes,FINE DINING,£3906,"14,489",14451,,3210," 9,733",£5158,15922,18085," 1,112"
+2022-07-24, ITALIAN ,Breakfast,halal,Drink,medium,COLD,none,BEANS,Raw,greece,Birthday,glass,no,No,INDEPENDENT,4206,£2021,-999,15351,£8037,7023,£12450,2668," 1,172"," 9,754"
+2022-11-23,CHINESE,Dinner,,-999, Medium ,Room Temp,soy,tofu,Raw,China,NA,COMPOSTABLE,no,yes,Independent,,4330,14035,1525,16523,7613,NA,18134,3061,£14946
+2023-03-09,mexican,LUNCH,keto,side,,NA,GLUTEN, beef ,BAKED,mexico,birthday,Paper,NO,YES,fast_food,589," 2,532",,"17,204","10,057",NA,5015,£14488,NA,£16090
+"May 14, 2024",GREEK, breakfast ,HALAL,sweet,,Hot,Soy,beef,,Mexico,birthday, plastic ,yes,no,Independent,1768," 3,985",18245,6829,18043,4521,5026,18359,NaN,19510
+2024-10-07,mexican,BREAKFAST,gluten-free,drink,Fiery,cold, NUTS ,lamb, raw ,france,casual,paper,Yes,YES,INDEPENDENT,   755,"10,338",-999,missing,"19,839","15,047",£11697,"12,239",£6741,9622
+2023-10-06,french,Snack,vegan,side,Hot,cold,-999,beef,RAW,china, formal ,plastic,Yes,NO,franchise,13141,11678,NaN,"14,837",17215,2343,1690,18096,,£18262
+09/10/2022,FRENCH,lunch,keto,Main,HOT,room temp,FISH,beef,GRILLED,china,holiday,plastic,YES,YES,NA,8880,£1456,18766,9212,19646,13318,16742,7122,2860,"15,071"
+"Oct 24, 2023",greek,lunch,gluten-free,main,hot,hot,fish,Beef,RAW,italy,holiday,paper,no,yes,fine_dining,9868,£1326,5596,£4963,£3652,-999,NA,£4150,493,
+2024-03-07,greek,,GLUTEN-FREE,,medium,cold,nuts,beans, grilled ,china,Formal,paper,yes,NaN,street_food,15696,"18,263",10138,18715,10059," 2,578",9436,   620,569,NaN
+02/12/2024,Greek,,Gluten-Free, side ,MILD,missing,None, beef ,steamed,france,FORMAL,metal,NO,No, independent ,£8005,£1572,"12,242",-999,£7545,   147,15586,£5742,6822,missing
+missing, Mexican ,lunch,missing, starter ,,Hot,NUTS,tofu,steamed,Italy,Holiday,plastic,no,yes,STREET FOOD,£5186,6395,£11403,£18276,,1190,-999,missing,    99,1346
+27/01/2021,greek,dinner,vegan,DRINK,MILD, cold ,soy, tofu ,raw,france,casual,glass,no,,NA,missing,missing," 7,560"," 7,519",11595,17161,10029,3682,7491,4201
+2023-12-29,french,Lunch,-999,sweet,HOT,ROOM TEMP,fish,Chicken,STEAMED,,HOLIDAY,compostable,no,NO,fast_food,8957,5065,7136,7246,11171,4081,7546,10215,18049,missing
+2023-04-14,french,, halal ,Drink,Fiery,Hot,Dairy,chicken,BAKED,mexico,casual,compostable,no,-999,STREET FOOD,13666,£8771,16023,NaN,6601,   576,8430,18299,6189,£19956
+27/04/2024,CHINESE,DESSERT,-999,SIDE,MILD,cold,NA,PORK,steamed,MEXICO,casual,paper,Yes,Yes,fine_dining,2959,£10731,14758,8180,9656,£18443,15309,4034,missing," 6,792"
+21/07/2021,indian,NaN,KOSHER,main,fiery,missing,Egg,BEANS,, italy ,formal,glass,NO,no,fineDining," 7,949","19,687",8653," 1,589",11101,1390,"12,115",13533,19851,18925
+20/01/2022,chinese,dessert,vegan,main,missing,cold,Nuts,lamb,BAKED,MEXICO,BIRTHDAY,compostable,NO, No ,FRANCHISE,"18,545",NaN,3898,1655,3540,"10,642",-999,7347,£75,16149
+19/04/2023,italian,,vegetarian,Drink,NaN,HOT,egg, beans ,RAW,mexico,BIRTHDAY,glass, yes ,no,street_food,13653,"19,898",1247,16292,17561,£940,7577,6208,19482,£41
+20/08/2024,italian,brunch,vegetarian,Main,medium,Room Temp,none, beef ,steamed,greece,missing,paper,yes,no,FINE DINING,£9666,12272,14724,3321," 6,970","10,278",18577,£14962,£11497,13542
+-999, mexican ,Snack,kosher,MAIN,MEDIUM,HOT,SOY,beef,baked,FRANCE, BIRTHDAY ,paper,yes,no,fastFood,6222,missing,16774,missing,11092,14242,"19,128",16052,"17,983",13974
+16/06/2024,mexican,DESSERT,-999,MAIN,mild,cold,NA,missing,BAKED,Mexico,casual,glass, yes ,No,Fast Food,£10882,15671,"11,306","13,538","13,799",£13001,3203,NA,679,202
+2021-03-10,ITALIAN, Brunch ,Halal, side ,mild,HOT,none,beef,grilled,italy,Formal, glass ,no,NO,independent," 7,985",14297," 1,906",6277,"18,371",3664," 9,489",7036,"18,226",12381
+18/11/2022,Mexican,brunch,NA,drink,mild,Hot,fish,PORK,steamed,china,holiday,PLASTIC,yes,yes,FRANCHISE,£8896,11461,12317,8172," 5,489",4242,9514,8622,13423,9236
+15/04/2023,NA,DESSERT,KOSHER,starter,fiery,NaN,none,Pork,BAKED, china ,formal,glass,Yes,-999,fast_food,991,£19684," 2,984",12122,11446,£2314,11018,16173,9807," 6,712"
+2022-12-13,mexican, dessert ,GLUTEN-FREE,starter,hot,cold,Egg,tofu, baked ,mexico,birthday,missing,NO,NO,franchise,16366,,NA,13143,13630,,"11,254","19,928",392," 9,295"
+2024-05-26,mexican,dessert,vegetarian,DRINK,Fiery, HOT ,None, tofu ,raw,india,NA,COMPOSTABLE,no,yes,,"15,033",6880,-999,£3101,17236,4060,19246,"15,133",£15284,14718
+20/01/2021,indian,missing,KOSHER,DRINK,medium, cold ,NA, beans ,grilled,mexico,birthday,plastic,NaN,No,fine_dining,18117,,4782,NaN," 5,919","15,823",1688,17777,17297,11775

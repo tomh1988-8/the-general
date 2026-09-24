@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Upload and review your columns, choose an analysis, and take your results into a dashboard or readable R script.">
+  <title>User guide | The General</title>
+  <link rel="stylesheet" href="docs.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">G</span><span>The General<span class="brand-sub">Documentation</span></span></a>
+    <nav aria-label="Guides"><a href="index.html" aria-current="page">User guide</a>
+<a href="statistics.html">Statistics guide</a>
+<a href="developer.html">Developer manual</a></nav>
+  </div>
+</header>
+<div class="layout">
+<aside class="contents">
+  <p class="eyebrow">In this guide</p>
+  <nav aria-label="On this page"><ol><li><a href="#start">Start with a question</a></li>
+<li><a href="#columns">Review and adjust columns</a></li>
+<li><a href="#cleaning">What happens to your data</a></li>
+<li><a href="#time">Understand the time fields</a></li>
+<li><a href="#filters">Apply a filter</a></li>
+<li><a href="#features">Find the right view</a></li>
+<li><a href="#dashboard">Build a dashboard and export</a></li>
+<li><a href="#r-scripts">Use the R scripts</a></li>
+<li><a href="#examples">Try a verified example</a></li>
+<li><a href="#help">Resolve common problems</a></li></ol></nav>
+  <p class="contents-note">Works offline.<br>Use Ctrl+F or Cmd+F to find a topic.</p>
+</aside>
+<main id="main" tabindex="-1">
+  <div class="page-heading">
+    <p class="eyebrow">Guide 01 / 03</p>
+    <h1>User guide</h1>
+    <p class="subtitle">From CSV to a result you can explain.</p>
+    <p class="intro">Upload and review your columns, choose an analysis, and take your results into a dashboard or readable R script.</p>
+    <p class="version">Reviewed 23 September 2026 · Column review board &amp; readable R exports</p>
+  </div>
+  <section id="start">
+<h2>Start with a question</h2>
+<p>Choose <strong>Documentation</strong> beside Home's two download buttons to open these guides in a new tab. Your current app session stays open in its original tab.</p>
+<p>The General explores a CSV through tables, graphs and a dashboard of pinned views. Each row is treated as an observation: the app does not automatically deduplicate people, weight records or recognise repeated measurements.</p>
+<p>Decide what one row represents, which population you want to include, and whether you need counts, percentages, typical values or a distribution. Use the <a href="statistics.html#choose">statistics guide</a> to choose a view.</p>
+<ol class="steps">
+<li><strong>Upload one CSV.</strong> On Home, choose <strong>Browse.</strong> in <strong>1 · Upload</strong>. Use the first row for column names. Save an Excel worksheet as CSV first; the current upload control accepts CSV only.</li>
+<li><strong>Review the suggested columns.</strong> Open <strong>Review columns</strong>, adjust the board, then choose <strong>Confirm columns</strong>.</li>
+<li><strong>Choose your rows.</strong> Select a filter column and values, or leave them blank to use all rows. Click <strong>Apply</strong>; this also unlocks <strong>Download your data</strong>.</li>
+<li><strong>Explore.</strong> Choose a view in the header or sidebar, select its variables, and inspect both the plot and its table.</li>
+<li><strong>Keep a result.</strong> Download a table or plot, or use <strong>Add to Dashboard</strong> on a graph. In My Dashboard, choose <strong>Preview Full Dashboard</strong> to export.</li>
+</ol>
+<p class="note">Use <strong>Download example sheet</strong> on Home for the app's starter CSV, or use the <a href="#examples">worked example below</a> for results you can check by hand.</p>
+</section>
+
+<section id="columns">
+<h2>Review and adjust columns</h2>
+<p>The modal places and ticks suggestions in three columns. Click a card's left or right button to move it one column; untick it to leave it out. Hover over a card for its suggestion reason and example values.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Choosing a column&#x27;s role"><table><caption>Choosing a column's role</caption><thead><tr><th scope="col">Role</th><th scope="col">Use it for</th><th scope="col">Required selection</th></tr></thead><tbody>
+<tr><td>Date</td><td>The date used to derive periods, such as an event or transaction date.</td><td>Exactly one ticked column.</td></tr>
+<tr><td>Numerical</td> <td>Measurements you can meaningfully average, such as a score, duration or amount.</td><td>At least one ticked column.</td></tr>
+<tr><td>Categorical</td><td>Labels used to split or count rows: region, programme, status or category codes.</td><td>At least one ticked column.</td></tr>
+</tbody></table></div>
+<p><strong>Suggestions are editable starting points.</strong> They assess the values, not the meaning of the column. A numeric-looking identifier can still be categorical. Leading-zero codes and yes/no values receive special handling, but unfamiliar dates, mixed formats and unusual missing-value codes still need review. Empty columns start unticked.</p>
+<p>For a measurement such as a rating that you also want to group by, open <strong>Also use numeric columns for grouping</strong> and tick it there. This creates both numerical and categorical versions. It does not turn an identifier into a meaningful measurement.</p>
+<p><strong>Confirm columns</strong> applies your selection and cleaning. <strong>Cancel</strong> discards the modal's edits. Reopening restores your last confirmed selection; a new upload starts a new review. Confirming a revised mapping resets the filtered dataset, so apply your filter again.</p>
+<p class="note">The messy books fixture now has the intended 26 suggestions, but that is a regression example, not proof that suggestions are reliable for every dataset. Wider dataset evaluation remains planned.</p>
+</section>
+
+<section id="cleaning">
+<h2>What happens to your data</h2>
+<p>The app reads uploaded fields as text, then converts only the columns you confirm. Your original CSV is not rewritten. Only selected columns reach the mapped dataset; rows with no remaining usable values in any selected column are removed.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Cleaning and naming rules"><table><caption>Cleaning and naming rules</caption><thead><tr><th scope="col">Input</th><th scope="col">Current handling</th><th scope="col">What to check</th></tr></thead><tbody>
+<tr><td>Column names</td><td>Names become snake_case with a role prefix: <code>Date_</code>, <code>Num_</code> or <code>Cat_</code>. “WORD COUNT” becomes <code>Num_word_count</code>.</td><td>Use the mapped names in analysis selectors and exported scripts.</td></tr>
+<tr><td>Missing values</td><td>Blank text, NA, N/A, NaN, null, none, missing, unknown and -999 are treated as missing, ignoring case.</td><td>A genuine category named “Unknown” is therefore lost as a distinct category. Missing values are not zero.</td></tr>
+<tr><td>Numbers</td><td>Currency symbols and separators are parsed using UK and European interpretations, then a heuristic chooses between them.</td><td>Inspect ambiguous values such as “1,234” or mixed decimal conventions in the mapped download.</td></tr>
+<tr><td>Percent strings</td><td>A value containing a percent sign is divided by 100: <code>85%</code> becomes <code>0.85</code>.</td><td>Plain <code>85</code> stays 85. Avoid mixing proportions and percentages in one measurement.</td></tr>
+<tr><td>Categories</td><td>Whitespace is trimmed; ordinary labels are lowercased and then title-cased. Boolean-like columns map to No/Yes.</td><td>Case distinctions can merge. Text codes such as <code>0012</code> retain leading zeros when categorical.</td></tr>
+<tr><td>Dates</td><td>Several year-first, day-first, month-first and named-month formats are attempted. Times are reduced to dates.</td><td>Prefer ISO dates such as <code>2026-09-23</code>. Ambiguous dates can be read differently from your intention; parse failures become missing.</td></tr>
+</tbody></table></div>
+<p>The suggestion board does not show a cell-by-cell cleaning preview. After confirming and clicking Apply, download the mapped data and check representative values, missingness and units before interpreting results.</p>
+</section>
+
+<section id="time">
+<h2>Understand the time fields</h2>
+<p>The selected date creates these helper columns. They have different meanings, even when their labels look similar.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Derived time fields"><table><caption>Derived time fields</caption><thead><tr><th scope="col">Field</th><th scope="col">Meaning</th><th scope="col">Example</th></tr></thead><tbody>
+<tr><td><code>DOTW</code></td><td>Day of the week, ordered Sunday to Saturday.</td><td>Monday</td></tr>
+<tr><td><code>Month</code></td><td>Month name, ordered April to March; the year is not part of the grouping.</td><td>Apr</td></tr>
+<tr><td><code>Financial_Quarter</code></td><td>Quarter within an April-start financial year; the year is not part of the grouping.</td><td>Q1 (Apr-Jun)</td></tr>
+<tr><td><code>Year</code></td><td>Calendar year from the date.</td><td>2024</td></tr>
+<tr><td><code>Financial_Year</code></td><td>April to the following March.</td><td>2024-25</td></tr>
+<tr><td><code>Year_Quarter</code></td><td>Calendar year and calendar quarter.</td><td>2024 Q2 means April-June 2024.</td></tr>
+</tbody></table></div>
+<p><strong>Month combines the same month across years.</strong> Filter to one financial year if that is your intended comparison. The area views use <code>Year_Quarter</code>, preserving chronological periods. Bar charts select the final ordered period level: March for Month or Q4 for Financial_Quarter, not the latest date observed.</p>
+</section>
+
+<section id="filters">
+<h2>Apply a filter</h2>
+<p>Home supports one filter column with several selected values. Selected values are combined with “or”. Each Apply starts from the full mapped dataset, so changing the column replaces the previous filter; filters do not accumulate across columns.</p>
+<p>Leave the column or its values blank and click Apply to return to all mapped rows. Home <strong>Reset</strong> reloads the whole session, clearing the upload, mapping and pins; it is not just a filter-clear button.</p>
+<p>The filter list uses validated grouping fields. Fields that are empty or almost unique can be absent from this list even when another analysis selector shows them. For several simultaneous conditions, prepare that subset before uploading or use the exported R script.</p>
+<p class="note">Line charts can also show an <strong>All</strong> comparison calculated from the full mapped data before the Home filter. The <a href="statistics.html#lines">statistics guide</a> explains when each comparison appears.</p>
+</section>
+
+<section id="features">
+<h2>Find the right view</h2>
+<div class="table-wrap" role="region" tabindex="0" aria-label="The current analysis views"><table><caption>The current analysis views</caption><thead><tr><th scope="col">View</th><th scope="col">Question it helps answer</th><th scope="col">Read alongside it</th></tr></thead><tbody>
+<tr><td>Frequencies</td><td>How many rows fall into each time/category combination?</td><td>Whether rows represent distinct cases or repeat observations.</td></tr>
+<tr><td>Percentages · 1 / 2 Groups</td><td>How is a category distributed within each period, or within period and another group?</td><td>The counts and the row denominator.</td></tr>
+<tr><td>Averages · 1 / 2 Groups</td><td>What are the mean, median and trimmed mean by period, optionally split by a category?</td><td>Sample size, zero handling and distribution shape.</td></tr>
+<tr><td>Lines · 1 / 2 Groups</td><td>How does a trimmed mean vary over the selected periods?</td><td>The full-data comparison and the eligibility rules.</td></tr>
+<tr><td>Bars · Simple / Stacked / Grouped</td><td>How do group means compare in the final ordered period?</td><td>The selected period and the fact that stacked means are not totals.</td></tr>
+<tr><td>Areas · Stacked / Percentage</td><td>How do group means, or shares of row counts, vary by calendar quarter?</td><td>Which of those two different quantities is being stacked.</td></tr>
+<tr><td>Scatterplots</td><td>How do two measurements vary together, within groups?</td><td>Sampling and the descriptive fitted lines.</td></tr>
+<tr><td>Density</td><td>How do the shapes of group distributions compare in one financial year?</td><td>The pooled trimming and density scale.</td></tr>
+</tbody></table></div>
+<p>Graph pages have Plot/Table controls. Hover for plot values or the full names of shortened table headers. Table searching and sorting help inspection; they do not redefine the Home population used by the analysis. Where offered, y-axis limits change the visible range, not the data used in calculations; Auto clears those limits.</p>
+<p>Count cells use low/medium/high colour bands at 100 and 300. These are display thresholds, not significance tests. The keyboard left/right arrows move between app tabs when you are not typing in an input; use the modal's on-screen arrows to move columns.</p>
+</section>
+
+<section id="dashboard">
+<h2>Build a dashboard and export</h2>
+<p>The pin button saves a graph's type, variable selections, axis settings, title and pin date. The nine graph types can be pinned; the standalone frequency, percentage and average tables currently offer CSV downloads instead.</p>
+<p>Pins are session-local recipes, not saved data snapshots. Preview and export recalculate them against the current dataset and Home filter. Changing an upload can invalidate an old pin: remove it using the trash button and pin the new view. Refreshing or resetting the session clears pins.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Download choices"><table><caption>Download choices</caption><thead><tr><th scope="col">Action</th><th scope="col">Contents</th></tr></thead><tbody>
+<tr><td>Home: Download your data</td><td>The selected, cleaned columns and derived time fields for the applied Home population.</td></tr>
+<tr><td>View: CSV / plot icons</td><td>The view's analysis table, or a PNG of its graph. Some view CSVs have a leading row-number column.</td></tr>
+<tr><td>My Dashboard: Export PDF</td><td>A static graph page for each pin.</td></tr>
+<tr><td>My Dashboard: Export Excel</td><td>A worksheet of analysis data for each pin.</td></tr>
+<tr><td>My Dashboard: Export R scripts</td><td>One commented script per pin, mapped input CSVs, and <code>RUN_SCRIPTS.txt</code>.</td></tr>
+</tbody></table></div>
+<p><strong>Line-chart R exports include the full comparison data.</strong> A ZIP containing lines includes <code>dashboard_all_data.csv</code>, even when Home is filtered. Check that file as well as the filtered CSV when deciding what to share.</p>
+</section>
+
+<section id="r-scripts">
+<h2>Use the R scripts</h2>
+<ol>
+<li>Export from the dashboard preview and extract the resulting dashboard ZIP into its own folder.</li>
+<li>Set R's working directory to that folder. Keep the bundled CSVs beside the scripts.</li>
+<li>Run an individual script with R 4.1 or later and the packages <code>dplyr</code>, <code>tidyr</code>, <code>readr</code>, <code>ggplot2</code> and <code>stringr</code>. The app's restored environment already has these.</li>
+<li>Inspect the new PNG and <code>_data.csv</code>. In RStudio the script also displays the plot.</li>
+</ol>
+<p>Each script has six sections: packages, settings, data preparation, analysis, plotting and saving. Change column names, paths and relevant settings at the top. The scripts use mapped data rather than reimplementing upload cleaning, and do not need Shiny or thegeneral installed.</p>
+<p>The scatter export uses seed 42 to make its sample repeatable; the live app may draw different rows. Matching calculated values does not guarantee pixel-identical styling across exports or machines.</p>
+</section>
+
+<section id="examples">
+<h2>Try a verified example</h2>
+<p><a class="button" href="examples/live_input.csv" download>Download example CSV</a> <a class="button secondary" href="examples/example_export.zip" download>Download nine R examples</a></p>
+<p>This synthetic CSV has 384 rows. Map Event_Date to Date; Value, X and Y to Numerical; Group and Subgroup to Categorical. Apply the Home filter <code>Cat_subgroup = Alpha</code>. Then choose <code>Cat_group</code> and <code>Num_value</code> in the relevant views.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Results verified by the Windows regression run, 23 September 2026"><table><caption>Results verified by the Windows regression run, 23 September 2026</caption><thead><tr><th scope="col">View / selection</th><th scope="col">Expected result</th><th scope="col">Why</th></tr></thead><tbody>
+<tr><td>Simple bar, Month, group 0012</td><td>Mean 226; median 36; n = 5.</td><td>March's eligible values are 16, 26, 36, 46 and 1006.</td></tr>
+<tr><td>Grouped line, Month, group 0012, March</td><td>Trimmed mean 36; n = 5.</td><td>Remove one value from each end, then average 26, 36 and 46.</td></tr>
+<tr><td>Percentage area, Year_Quarter</td><td>Each retained group: 33.33%; period n = 24.</td><td>Three retained groups each contribute eight rows; numeric eligibility is not applied.</td></tr>
+<tr><td>Density, Financial_Year = 2024-25</td><td>100 eligible rows before trimming; 90 retained.</td><td>Pooled cutoffs are 16.95 and 1019.05, inclusive.</td></tr>
+</tbody></table></div>
+<figure><img src="images/bar.png" alt="Verified simple bar example: group 0012 has mean 226, East 231 and West 236." width="2700" height="1650" loading="lazy"><figcaption>Actual R-export output from the verified example. These heights are means, not counts.</figcaption></figure>
+<p>The <a href="examples/evaluation.csv" download>evaluation CSV</a> records all nine exported scripts matching their dashboard calculations. The suite had 48 tests and 328 passing assertions, with no test failures or warnings. This is a recorded validation snapshot, not a guarantee for all datasets or a report of a GitHub CI run.</p>
+</section>
+
+<section id="help">
+<h2>Resolve common problems</h2>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Symptoms and useful checks"><table><caption>Symptoms and useful checks</caption><thead><tr><th scope="col">Symptom</th><th scope="col">Check</th></tr></thead><tbody>
+<tr><td>Download your data is disabled</td><td>Confirm the column review, then click Apply in Filters, even if you want all rows.</td></tr>
+<tr><td>A column is in the wrong role</td><td>Move it on the review board and confirm. Inspect the mapped CSV if its values still look wrong.</td></tr>
+<tr><td>Confirmation is refused</td><td>Keep exactly one Date, at least one Numerical and at least one Categorical selection ticked.</td></tr>
+<tr><td>A filter field is missing</td><td>Empty and almost-unique fields are excluded from validated grouping. Check whether the column is an identifier.</td></tr>
+<tr><td>A bar chart is empty</td><td>Check for eligible rows in March or Q4, depending on the time selector. The current bar rule does not fall back to the latest observed date.</td></tr>
+<tr><td>Two views give different means or counts</td><td>Compare their populations, zero/negative rules, trimming and NA/Other label exclusions in the <a href="statistics.html#eligibility">eligibility table</a>.</td></tr>
+<tr><td>A density curve is missing</td><td>Check the selected financial year and whether the group has enough usable values after trimming.</td></tr>
+<tr><td>A downloaded script cannot find data</td><td>Use the extracted export folder as the working directory, and check <code>data_file</code> and, for lines, <code>reference_file</code>.</td></tr>
+<tr><td>An old pin fails after an upload</td><td>Remove and recreate the pin using the new mapped columns.</td></tr>
+</tbody></table></div>
+<p>For a reproducible report, record the view, mapped variable names, filter, expected result and observed result. Include a small synthetic input when possible. <a href="developer.html#diagnostics">Developer diagnostics</a> explains logs and environment checks.</p>
+</section>
+
+  <footer class="page-footer"><p>Continue reading: <a href="statistics.html">Statistics guide</a> · <a href="developer.html">Developer manual</a></p><p>The General · Documentation snapshot, September 2026</p></footer>
+</main>
+</div>
+</body>
+</html>

@@ -1,0 +1,4162 @@
+/* ==========================================================================
+   Theme migration from R/fresh
+   Single source of truth for app styling
+   ========================================================================== */
+
+/* Global page/background defaults */
+html,
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff !important;
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper,
+.content-wrapper,
+.right-side,
+.content,
+.content-header {
+  background-color: #ffffff !important;
+}
+
+.box,
+.info-box,
+.small-box,
+.card,
+.content-wrapper .box,
+.content-wrapper .info-box,
+.content-wrapper .small-box,
+.content-wrapper .card {
+  background-color: #ffffff !important;
+}
+
+.info-box .info-box-content,
+.small-box > .inner {
+  background-color: #ffffff !important;
+}
+
+/* ==========================================================================
+   Header shell
+   ========================================================================== */
+
+.wrapper > .main-header {
+  background-color: #17a2b8 !important;
+  background-image: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  border: 1px solid #000000 !important;
+}
+
+.wrapper > .main-header .navbar-nav .nav-link,
+.wrapper > .main-header .navbar-nav .nav-link i,
+.wrapper > .main-header .btn,
+.wrapper > .main-header .btn i {
+  color: #ffffff !important;
+}
+
+.wrapper > .main-header [data-widget="pushmenu"],
+.wrapper > .main-header [data-widget="pushmenu"] i,
+.wrapper > .main-header .nav-link[data-widget="pushmenu"],
+.wrapper > .main-header .nav-link[data-widget="pushmenu"] i {
+  color: #ffffff !important;
+  display: flex !important;
+  align-items: center !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* ==========================================================================
+   Sidebar shell
+   ========================================================================== */
+
+.wrapper > aside.main-sidebar,
+.wrapper > aside.main-sidebar.sidebar-dark-info {
+  background-color: #333333 !important;
+}
+
+.wrapper > aside.main-sidebar .sidebar {
+  padding-top: 1.5rem !important;
+}
+
+.wrapper > aside.main-sidebar .nav-sidebar > .nav-item > .nav-link,
+.wrapper > aside.main-sidebar .nav-sidebar > .nav-item > .nav-link p,
+.wrapper > aside.main-sidebar .nav-sidebar > .nav-link .nav-icon,
+.wrapper > aside.main-sidebar .nav-sidebar > .nav-header {
+  color: #ffffff !important;
+}
+
+.wrapper > aside.main-sidebar .nav-sidebar > .nav-item > .nav-link {
+  margin-left: 0.75rem !important;
+  margin-right: 0.75rem !important;
+  padding-left: 1rem !important;
+}
+
+.wrapper > aside.main-sidebar .nav-sidebar > .nav-item > .nav-link:hover {
+  background-color: #555555 !important;
+  color: #ffffff !important;
+}
+
+.wrapper > aside.main-sidebar .nav-sidebar > .nav-item > .nav-link.active,
+.wrapper > aside.main-sidebar .nav-sidebar > .menu-open > .nav-link,
+.wrapper > aside.main-sidebar .nav-sidebar > .nav-item > .nav-link.active:hover {
+  background-color: rgba(23, 162, 184, 0.9) !important;
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.wrapper > aside.main-sidebar .general-sidebar-divider {
+  padding: 0 !important;
+  margin: 0 !important;
+  line-height: 0 !important;
+}
+
+.wrapper > aside.main-sidebar .general-sidebar-divider hr {
+  border: 0 !important;
+  height: 1px !important;
+  margin: 0 !important;
+  background-color: rgba(255, 255, 255, 0.18) !important;
+}
+
+.wrapper > aside.main-sidebar .general-sidebar-divider-after-home {
+  margin-top: 0.15rem !important;
+  margin-bottom: 0.15rem !important;
+}
+
+.wrapper > aside.main-sidebar .general-sidebar-divider-after-home hr {
+  margin-left: 1.75rem !important;
+  margin-right: 1.75rem !important;
+}
+
+/* ==========================================================================
+   Sidebar product name
+   ========================================================================== */
+
+.general-sidebar-logo-shell {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 10px 10px;
+  margin-top: 1.25rem;
+  gap: 24px;
+}
+
+.general-sidebar-name {
+  max-width: 200px;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.35;
+  text-align: center;
+  white-space: normal;
+}
+
+.sidebar-collapse .general-sidebar-logo-shell,
+.sidebar-mini.sidebar-collapse .general-sidebar-logo-shell {
+  display: none !important;
+}
+
+/* ==========================================================================
+   Header navigation chips
+   ========================================================================== */
+
+.wrapper > .main-header .general-header-nav-shell {
+  display: flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  flex-wrap: wrap !important;
+  margin-left: 10px !important;
+  margin-right: 14px !important;
+  padding-right: 14px !important;
+}
+
+.wrapper > .main-header .general-header-nav-shell > :last-child {
+  margin-right: 12px !important;
+}
+
+/* Thin white rounded shape with white text */
+.wrapper > .main-header .general-header-nav-shell .header-chip,
+.wrapper > .main-header .general-header-nav-shell .general-header-chip {
+  font-size: 12.5px !important;
+  padding: 5px 12px !important;
+  line-height: 1.2 !important;
+  border-radius: 999px !important;
+  background: transparent !important;
+  color: #ffffff !important;
+  border: 1px solid #ffffff !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+.wrapper > .main-header .general-header-nav-shell .header-chip:hover,
+.wrapper > .main-header .general-header-nav-shell .header-chip:focus,
+.wrapper > .main-header .general-header-nav-shell .general-header-chip:hover,
+.wrapper > .main-header .general-header-nav-shell .general-header-chip:focus {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+  box-shadow: none !important;
+}
+
+/* Active chip state */
+.wrapper > .main-header .general-header-nav-shell .header-chip.active-chip,
+.wrapper > .main-header .general-header-nav-shell .general-header-chip.active-chip {
+  background-color: #343a40 !important;
+  color: #ffffff !important;
+  border: 1px solid #ffffff !important;
+}
+
+/* Dropdown containers - hugging text content */
+.wrapper > .main-header .general-header-nav-shell .dropdown-menu,
+.wrapper > .main-header .general-header-nav-shell .general-header-dropdown-menu {
+  min-width: auto !important;
+  width: auto !important;
+  white-space: nowrap !important;
+  border: 1px solid #000000 !important;
+  border-radius: 0.75rem !important;
+  overflow: hidden !important;
+  margin-top: 6px !important;
+  padding: 6px !important;
+  background-color: #ffffff !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12) !important;
+}
+
+/* Dropdown items */
+.wrapper > .main-header .general-header-nav-shell .dropdown-item,
+.wrapper > .main-header .general-header-nav-shell .general-header-dropdown-item {
+  display: block !important;
+  width: 100% !important;
+  padding: 0.5rem 0.8rem !important;
+  font-size: 12px !important;
+  color: #212529 !important;
+  border-radius: 0.55rem !important;
+  background: transparent !important;
+  white-space: nowrap !important;
+}
+
+/* Dropdown hover: slightly darker grey */
+.wrapper > .main-header .general-header-nav-shell .dropdown-item:hover,
+.wrapper > .main-header .general-header-nav-shell .dropdown-item:focus,
+.wrapper > .main-header .general-header-nav-shell .general-header-dropdown-item:hover,
+.wrapper > .main-header .general-header-nav-shell .general-header-dropdown-item:focus {
+  background-color: #e0e0e0 !important;
+  color: #212529 !important;
+}
+
+/* Dropdown active: bs4dash info colour */
+.wrapper > .main-header .general-header-nav-shell .dropdown-item.active,
+.wrapper > .main-header .general-header-nav-shell .dropdown-item:active,
+.wrapper > .main-header .general-header-nav-shell .general-header-dropdown-item.active,
+.wrapper > .main-header .general-header-nav-shell .general-header-dropdown-item:active {
+  background-color: #17a2b8 !important;
+  color: #ffffff !important;
+}
+
+/* ==========================================================================
+   Global / Misc extracted UI styling
+   ========================================================================== */
+
+.btn-icon {
+  background-color: #f5f5f5;
+  border: 1px solid #cccccc;
+  color: #000000;
+  padding: 8px 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  line-height: 1;
+  transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.btn-icon i {
+  pointer-events: none;
+}
+
+.btn-icon:hover {
+  background-color: #e0e0e0;
+  border-color: #999999;
+  color: #000000;
+  text-decoration: none;
+}
+
+.dropdown-menu > li > a:hover {
+  background-color: #e0e0e0 !important;
+  color: #000000 !important;
+}
+
+.bootstrap-select .dropdown-menu li.selected a,
+.bootstrap-select .dropdown-menu li.selected a:hover,
+.dropdown-menu.inner li.selected a,
+.dropdown-menu.inner li.selected a:hover,
+.open .dropdown-menu .selected a {
+  background-color: #5c6b3c !important;
+  color: #ffffff !important;
+}
+
+.bootstrap-select .dropdown-toggle:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: #5c6b3c !important;
+}
+
+.bootstrap-select .dropdown-toggle {
+  border: 1px solid #000000 !important;
+}
+
+.bootstrap-select .dropdown-menu {
+  border: 1px solid #000000 !important;
+}
+
+.progress-bar,
+.file-upload-progress .progress-bar {
+  background-color: #5c6b3c !important;
+}
+
+.btn-icon,
+.btn-danger.btn-xs {
+  background-color: #f5f5f5 !important;
+  border: 1px solid #cccccc !important;
+  color: #000000 !important;
+}
+
+.btn-icon:hover,
+.btn-danger.btn-xs:hover {
+  background-color: #e0e0e0 !important;
+  border-color: #999999 !important;
+  color: #000000 !important;
+}
+
+table.dataTable tbody tr.selected td,
+table.dataTable tbody td.selected {
+  border-top-color: #ffffff !important;
+  box-shadow: inset 0 0 0 9999px rgba(92, 107, 60, 0.18) !important;
+  color: #000000 !important;
+}
+
+table.dataTable tbody tr:active td {
+  background-color: rgba(92, 107, 60, 0.18) !important;
+  color: #000000 !important;
+}
+
+:root {
+  --dt-row-selected: transparent !important;
+  --gap: 8px;
+  --neutralHeader: #E0E3E7;
+  --textDark: #333333;
+  --indicatorGreen: #86D37F;
+}
+
+table.dataTable tbody tr:hover,
+table.dataTable tbody tr:hover td {
+  background-color: rgba(92, 107, 60, 0.18) !important;
+  color: #000000 !important;
+}
+
+/* ==========================================================================
+   Tabset Panel Styling (Sub-Tabs) - Aggressive Shading Logic
+   (Scoped to .content-wrapper to protect the main sidebar)
+   ========================================================================== */
+
+.content-wrapper .nav-tabs,
+.content-wrapper .nav-pills {
+  display: flex !important;
+  gap: 8px !important;
+  margin-bottom: 12px !important;
+  border: none !important;
+  border-bottom: 1px solid #cccccc !important;
+}
+
+/* 1. Base Link Style (Unselected state) */
+.content-wrapper .nav-tabs > li > a,
+.content-wrapper .nav-tabs .nav-item .nav-link,
+.content-wrapper .nav-tabs .nav-link,
+.content-wrapper .nav-pills > li > a,
+.content-wrapper .nav-pills .nav-item .nav-link,
+.content-wrapper .nav-pills .nav-link,
+.content-wrapper a[data-toggle="tab"] {
+  display: inline-block !important;
+  background-color: #f5f5f5 !important;
+  border: 1px solid #cccccc !important;
+  border-bottom-color: #cccccc !important;
+  color: #000000 !important;
+  padding: 8px 16px !important;
+  margin-right: 0 !important;
+  border-radius: 6px 6px 0 0 !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+  text-decoration: none !important;
+}
+
+/* Hover State */
+.content-wrapper .nav-tabs > li > a:hover:not(.active),
+.content-wrapper .nav-tabs .nav-item .nav-link:hover:not(.active),
+.content-wrapper .nav-tabs .nav-link:hover:not(.active),
+.content-wrapper .nav-pills .nav-link:hover:not(.active),
+.content-wrapper a[data-toggle="tab"]:hover:not(.active) {
+  background-color: #e0e0e0 !important;
+  border-color: #999999 !important;
+  border-bottom-color: #999999 !important;
+  color: #000000 !important;
+}
+
+/* 2. Generic Active State (Fallback) */
+.content-wrapper .nav-tabs > li.active > a,
+.content-wrapper .nav-tabs .nav-item.active > a,
+.content-wrapper .nav-tabs .nav-item .nav-link.active,
+.content-wrapper .nav-tabs .nav-link.active,
+.content-wrapper .nav-pills > li.active > a,
+.content-wrapper .nav-pills .nav-item.active > a,
+.content-wrapper .nav-pills .nav-item .nav-link.active,
+.content-wrapper .nav-pills .nav-link.active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+  border-bottom-color: #333333 !important;
+}
+
+/* 3. AGGRESSIVE DEFAULT: Force "Plot" to be Dark by default (Fallback on load) */
+.content-wrapper .nav-tabs a[data-value="Plot"],
+.content-wrapper .nav-pills a[data-value="Plot"],
+.content-wrapper a[data-toggle="tab"][data-value="Plot"] {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+  border-bottom-color: #333333 !important;
+}
+
+/* 4. THE SWAP FIX: Force "Plot" back to Light IF another tab is active */
+.content-wrapper .nav-tabs:has(a.active:not([data-value="Plot"])) a[data-value="Plot"],
+.content-wrapper .nav-pills:has(a.active:not([data-value="Plot"])) a[data-value="Plot"],
+.content-wrapper ul:has(a[data-toggle="tab"].active:not([data-value="Plot"])) a[data-toggle="tab"][data-value="Plot"] {
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  border-color: #cccccc !important;
+  border-bottom-color: #cccccc !important;
+}
+
+/* 5. FORCE SPECIFIC TABS DARK when active (High specificity overrides) */
+.content-wrapper .nav-tabs a.active,
+.content-wrapper .nav-pills a.active,
+.content-wrapper a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+  border-bottom-color: #333333 !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Home page upload / mapping / filter cards                                  */
+/* -------------------------------------------------------------------------- */
+
+.general-home-page {
+  overflow: visible;
+}
+
+.general-home-actions {
+  margin-bottom: 12px;
+  display: flex;
+  gap: 8px;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.general-home-page .card {
+  overflow: visible;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-home-page .card-body {
+  overflow: visible;
+}
+
+.general-home-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-home-page .progress-bar,
+.general-home-page .progress-bar-success,
+.general-home-page .bg-success {
+  background-color: #343a40 !important;
+}
+
+.general-home-page .text-success {
+  color: #343a40 !important;
+}
+
+.general-home-page .bootstrap-select > .dropdown-menu,
+.general-home-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-home-page .bootstrap-select .dropdown-menu.inner,
+.general-home-page .bootstrap-select ul.dropdown-menu.inner,
+.general-home-page > .dropdown-menu .dropdown-menu.inner,
+.general-home-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-home-page .bootstrap-select .inner,
+.general-home-page .bootstrap-select .dropdown-menu .inner,
+.general-home-page > .dropdown-menu .inner {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-home-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-home-page .bootstrap-select .dropdown-menu li,
+.general-home-page .bootstrap-select .dropdown-menu li a,
+.general-home-page .bootstrap-select .dropdown-menu li a span,
+.general-home-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-home-page > .dropdown-menu li,
+.general-home-page > .dropdown-menu li a,
+.general-home-page > .dropdown-menu li a span,
+.general-home-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-home-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-home-page .bootstrap-select .dropdown-menu li.active > a,
+.general-home-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-home-page .bootstrap-select .dropdown-menu li > a.active,
+.general-home-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-home-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-home-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-home-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-home-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-home-page > .dropdown-menu li.selected > a,
+.general-home-page > .dropdown-menu li.active > a,
+.general-home-page > .dropdown-menu li.selected.active > a,
+.general-home-page > .dropdown-menu li > a.active,
+.general-home-page > .dropdown-menu li > a.selected,
+.general-home-page > .dropdown-menu a[aria-selected="true"],
+.general-home-page > .dropdown-menu .dropdown-item.active,
+.general-home-page > .dropdown-menu .dropdown-item.selected,
+.general-home-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-home-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-home-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-home-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-home-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-home-page > .dropdown-menu li > a:hover,
+.general-home-page > .dropdown-menu li > a:focus,
+.general-home-page > .dropdown-menu .dropdown-item:hover,
+.general-home-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-home-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-home-page .btn:disabled,
+.general-home-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-home-page .general-home-actions {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.general-home-page .general-download-lock {
+  display: inline-block;
+}
+
+.general-home-page .general-download-lock.is-locked {
+  cursor: not-allowed;
+}
+
+.general-home-page .general-download-lock.is-locked .shiny-download-link {
+  pointer-events: none;
+  cursor: not-allowed !important;
+  opacity: 0.55;
+}
+
+.general-home-page .general-download-lock.is-ready {
+  cursor: pointer;
+}
+
+.general-home-page .general-download-lock.is-ready .shiny-download-link {
+  pointer-events: auto;
+  cursor: pointer !important;
+  opacity: 1;
+}
+
+.general-home-page .general-filter-card-shell .card {
+  margin-bottom: 8px;
+}
+
+.general-home-page .general-filter-actions {
+  padding-left: 7px;
+  padding-right: 7px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Frequencies page card / dropdown / table styling                            */
+/* -------------------------------------------------------------------------- */
+
+.general-frequencies-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-frequencies-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-frequencies-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-frequencies-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-frequencies-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-frequencies-page .general-frequencies-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-frequencies-page .bootstrap-select > .dropdown-menu,
+.general-frequencies-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-frequencies-page .bootstrap-select .dropdown-menu.inner,
+.general-frequencies-page .bootstrap-select ul.dropdown-menu.inner,
+.general-frequencies-page > .dropdown-menu .dropdown-menu.inner,
+.general-frequencies-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-frequencies-page .bootstrap-select .inner,
+.general-frequencies-page .bootstrap-select .dropdown-menu .inner,
+.general-frequencies-page > .dropdown-menu .inner,
+.general-frequencies-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-frequencies-page .bootstrap-select .dropdown-menu li,
+.general-frequencies-page .bootstrap-select .dropdown-menu li a,
+.general-frequencies-page .bootstrap-select .dropdown-menu li a span,
+.general-frequencies-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-frequencies-page > .dropdown-menu li,
+.general-frequencies-page > .dropdown-menu li a,
+.general-frequencies-page > .dropdown-menu li a span,
+.general-frequencies-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-frequencies-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-frequencies-page .bootstrap-select .dropdown-menu li.active > a,
+.general-frequencies-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-frequencies-page .bootstrap-select .dropdown-menu li > a.active,
+.general-frequencies-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-frequencies-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-frequencies-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-frequencies-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-frequencies-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-frequencies-page > .dropdown-menu li.selected > a,
+.general-frequencies-page > .dropdown-menu li.active > a,
+.general-frequencies-page > .dropdown-menu li.selected.active > a,
+.general-frequencies-page > .dropdown-menu li > a.active,
+.general-frequencies-page > .dropdown-menu li > a.selected,
+.general-frequencies-page > .dropdown-menu a[aria-selected="true"],
+.general-frequencies-page > .dropdown-menu .dropdown-item.active,
+.general-frequencies-page > .dropdown-menu .dropdown-item.selected,
+.general-frequencies-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-frequencies-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-frequencies-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-frequencies-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-frequencies-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-frequencies-page > .dropdown-menu li > a:hover,
+.general-frequencies-page > .dropdown-menu li > a:focus,
+.general-frequencies-page > .dropdown-menu .dropdown-item:hover,
+.general-frequencies-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-frequencies-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-frequencies-page .btn:disabled,
+.general-frequencies-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-frequencies-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-frequencies-page table.dataTable.hover tbody tr:hover,
+.general-frequencies-page table.dataTable.display tbody tr:hover,
+.general-frequencies-page table.dataTable.stripe tbody tr.odd:hover,
+.general-frequencies-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-frequencies-page table.dataTable.hover tbody tr:hover > *,
+.general-frequencies-page table.dataTable.display tbody tr:hover > *,
+.general-frequencies-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-frequencies-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+.general-frequencies-page .bootstrap-select .dropdown-menu li a,
+.general-frequencies-page > .dropdown-menu li a,
+.general-frequencies-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-frequencies-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-frequencies-page .bootstrap-select .dropdown-menu li a span.text,
+.general-frequencies-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-frequencies-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-frequencies-page table.general-frequency-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-frequencies-page table.general-frequency-table thead th,
+.general-frequencies-page table.general-frequency-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-frequencies-page table.general-frequency-table thead th:last-child,
+.general-frequencies-page table.general-frequency-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-frequencies-page .dataTables_scrollHead,
+.general-frequencies-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-frequencies-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Proportions 1 Group page card / dropdown / table styling                    */
+/* -------------------------------------------------------------------------- */
+
+.general-proportions-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-proportions-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-proportions-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-proportions-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-proportions-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-proportions-page .general-proportions-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-proportions-page .bootstrap-select > .dropdown-menu,
+.general-proportions-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-proportions-page .bootstrap-select .dropdown-menu.inner,
+.general-proportions-page .bootstrap-select ul.dropdown-menu.inner,
+.general-proportions-page > .dropdown-menu .dropdown-menu.inner,
+.general-proportions-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-proportions-page .bootstrap-select .inner,
+.general-proportions-page .bootstrap-select .dropdown-menu .inner,
+.general-proportions-page > .dropdown-menu .inner,
+.general-proportions-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-proportions-page .bootstrap-select .dropdown-menu li,
+.general-proportions-page .bootstrap-select .dropdown-menu li a,
+.general-proportions-page .bootstrap-select .dropdown-menu li a span,
+.general-proportions-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-proportions-page > .dropdown-menu li,
+.general-proportions-page > .dropdown-menu li a,
+.general-proportions-page > .dropdown-menu li a span,
+.general-proportions-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-proportions-page .bootstrap-select .dropdown-menu li a,
+.general-proportions-page > .dropdown-menu li a,
+.general-proportions-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-proportions-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-proportions-page .bootstrap-select .dropdown-menu li a span.text,
+.general-proportions-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-proportions-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-proportions-page .bootstrap-select .dropdown-menu li.active > a,
+.general-proportions-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-proportions-page .bootstrap-select .dropdown-menu li > a.active,
+.general-proportions-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-proportions-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-proportions-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-proportions-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-proportions-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-proportions-page > .dropdown-menu li.selected > a,
+.general-proportions-page > .dropdown-menu li.active > a,
+.general-proportions-page > .dropdown-menu li.selected.active > a,
+.general-proportions-page > .dropdown-menu li > a.active,
+.general-proportions-page > .dropdown-menu li > a.selected,
+.general-proportions-page > .dropdown-menu a[aria-selected="true"],
+.general-proportions-page > .dropdown-menu .dropdown-item.active,
+.general-proportions-page > .dropdown-menu .dropdown-item.selected,
+.general-proportions-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-proportions-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-proportions-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-proportions-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-proportions-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-proportions-page > .dropdown-menu li > a:hover,
+.general-proportions-page > .dropdown-menu li > a:focus,
+.general-proportions-page > .dropdown-menu .dropdown-item:hover,
+.general-proportions-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-proportions-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-proportions-page .btn:disabled,
+.general-proportions-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-proportions-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-proportions-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-proportions-page table.general-proportions-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-proportions-page table.general-proportions-table thead th,
+.general-proportions-page table.general-proportions-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-proportions-page table.general-proportions-table thead th:last-child,
+.general-proportions-page table.general-proportions-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-proportions-page .dataTables_scrollHead,
+.general-proportions-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-proportions-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-proportions-page table.dataTable.hover tbody tr:hover,
+.general-proportions-page table.dataTable.display tbody tr:hover,
+.general-proportions-page table.dataTable.stripe tbody tr.odd:hover,
+.general-proportions-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-proportions-page table.dataTable.hover tbody tr:hover > *,
+.general-proportions-page table.dataTable.display tbody tr:hover > *,
+.general-proportions-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-proportions-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Proportions 2 Groups page card / dropdown / table styling                   */
+/* -------------------------------------------------------------------------- */
+
+.general-proportions2-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-proportions2-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-proportions2-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-proportions2-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-proportions2-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-proportions2-page .general-proportions2-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-proportions2-page .bootstrap-select > .dropdown-menu,
+.general-proportions2-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-proportions2-page .bootstrap-select .dropdown-menu.inner,
+.general-proportions2-page .bootstrap-select ul.dropdown-menu.inner,
+.general-proportions2-page > .dropdown-menu .dropdown-menu.inner,
+.general-proportions2-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-proportions2-page .bootstrap-select .inner,
+.general-proportions2-page .bootstrap-select .dropdown-menu .inner,
+.general-proportions2-page > .dropdown-menu .inner,
+.general-proportions2-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-proportions2-page .bootstrap-select .dropdown-menu li,
+.general-proportions2-page .bootstrap-select .dropdown-menu li a,
+.general-proportions2-page .bootstrap-select .dropdown-menu li a span,
+.general-proportions2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-proportions2-page > .dropdown-menu li,
+.general-proportions2-page > .dropdown-menu li a,
+.general-proportions2-page > .dropdown-menu li a span,
+.general-proportions2-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-proportions2-page .bootstrap-select .dropdown-menu li a,
+.general-proportions2-page > .dropdown-menu li a,
+.general-proportions2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-proportions2-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-proportions2-page .bootstrap-select .dropdown-menu li a span.text,
+.general-proportions2-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-proportions2-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-proportions2-page .bootstrap-select .dropdown-menu li.active > a,
+.general-proportions2-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-proportions2-page .bootstrap-select .dropdown-menu li > a.active,
+.general-proportions2-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-proportions2-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-proportions2-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-proportions2-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-proportions2-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-proportions2-page > .dropdown-menu li.selected > a,
+.general-proportions2-page > .dropdown-menu li.active > a,
+.general-proportions2-page > .dropdown-menu li.selected.active > a,
+.general-proportions2-page > .dropdown-menu li > a.active,
+.general-proportions2-page > .dropdown-menu li > a.selected,
+.general-proportions2-page > .dropdown-menu a[aria-selected="true"],
+.general-proportions2-page > .dropdown-menu .dropdown-item.active,
+.general-proportions2-page > .dropdown-menu .dropdown-item.selected,
+.general-proportions2-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-proportions2-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-proportions2-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-proportions2-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-proportions2-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-proportions2-page > .dropdown-menu li > a:hover,
+.general-proportions2-page > .dropdown-menu li > a:focus,
+.general-proportions2-page > .dropdown-menu .dropdown-item:hover,
+.general-proportions2-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-proportions2-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-proportions2-page .btn:disabled,
+.general-proportions2-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-proportions2-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-proportions2-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-proportions2-page table.general-proportions2-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-proportions2-page table.general-proportions2-table thead th,
+.general-proportions2-page table.general-proportions2-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-proportions2-page table.general-proportions2-table thead th:last-child,
+.general-proportions2-page table.general-proportions2-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-proportions2-page .dataTables_scrollHead,
+.general-proportions2-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-proportions2-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-proportions2-page table.dataTable.hover tbody tr:hover,
+.general-proportions2-page table.dataTable.display tbody tr:hover,
+.general-proportions2-page table.dataTable.stripe tbody tr.odd:hover,
+.general-proportions2-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-proportions2-page table.dataTable.hover tbody tr:hover > *,
+.general-proportions2-page table.dataTable.display tbody tr:hover > *,
+.general-proportions2-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-proportions2-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Averages 1 Group page card / dropdown / table styling                       */
+/* -------------------------------------------------------------------------- */
+
+.general-averages-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-averages-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-averages-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-averages-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-averages-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-averages-page .general-averages-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-averages-page .bootstrap-select > .dropdown-menu,
+.general-averages-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-averages-page .bootstrap-select .dropdown-menu.inner,
+.general-averages-page .bootstrap-select ul.dropdown-menu.inner,
+.general-averages-page > .dropdown-menu .dropdown-menu.inner,
+.general-averages-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-averages-page .bootstrap-select .inner,
+.general-averages-page .bootstrap-select .dropdown-menu .inner,
+.general-averages-page > .dropdown-menu .inner,
+.general-averages-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-averages-page .bootstrap-select .dropdown-menu li,
+.general-averages-page .bootstrap-select .dropdown-menu li a,
+.general-averages-page .bootstrap-select .dropdown-menu li a span,
+.general-averages-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-averages-page > .dropdown-menu li,
+.general-averages-page > .dropdown-menu li a,
+.general-averages-page > .dropdown-menu li a span,
+.general-averages-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-averages-page .bootstrap-select .dropdown-menu li a,
+.general-averages-page > .dropdown-menu li a,
+.general-averages-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-averages-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-averages-page .bootstrap-select .dropdown-menu li a span.text,
+.general-averages-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-averages-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-averages-page .bootstrap-select .dropdown-menu li.active > a,
+.general-averages-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-averages-page .bootstrap-select .dropdown-menu li > a.active,
+.general-averages-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-averages-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-averages-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-averages-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-averages-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-averages-page > .dropdown-menu li.selected > a,
+.general-averages-page > .dropdown-menu li.active > a,
+.general-averages-page > .dropdown-menu li.selected.active > a,
+.general-averages-page > .dropdown-menu li > a.active,
+.general-averages-page > .dropdown-menu li > a.selected,
+.general-averages-page > .dropdown-menu a[aria-selected="true"],
+.general-averages-page > .dropdown-menu .dropdown-item.active,
+.general-averages-page > .dropdown-menu .dropdown-item.selected,
+.general-averages-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-averages-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-averages-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-averages-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-averages-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-averages-page > .dropdown-menu li > a:hover,
+.general-averages-page > .dropdown-menu li > a:focus,
+.general-averages-page > .dropdown-menu .dropdown-item:hover,
+.general-averages-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-averages-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-averages-page .btn:disabled,
+.general-averages-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-averages-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-averages-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-averages-page table.general-averages-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-averages-page table.general-averages-table thead th,
+.general-averages-page table.general-averages-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-averages-page table.general-averages-table thead th:last-child,
+.general-averages-page table.general-averages-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-averages-page .dataTables_scrollHead,
+.general-averages-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-averages-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-averages-page table.dataTable.hover tbody tr:hover,
+.general-averages-page table.dataTable.display tbody tr:hover,
+.general-averages-page table.dataTable.stripe tbody tr.odd:hover,
+.general-averages-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-averages-page table.dataTable.hover tbody tr:hover > *,
+.general-averages-page table.dataTable.display tbody tr:hover > *,
+.general-averages-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-averages-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Averages 2 Groups page card / dropdown / table styling                      */
+/* -------------------------------------------------------------------------- */
+
+.general-averages2-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-averages2-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-averages2-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-averages2-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-averages2-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-averages2-page .general-averages2-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-averages2-page .bootstrap-select > .dropdown-menu,
+.general-averages2-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-averages2-page .bootstrap-select .dropdown-menu.inner,
+.general-averages2-page .bootstrap-select ul.dropdown-menu.inner,
+.general-averages2-page > .dropdown-menu .dropdown-menu.inner,
+.general-averages2-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-averages2-page .bootstrap-select .inner,
+.general-averages2-page .bootstrap-select .dropdown-menu .inner,
+.general-averages2-page > .dropdown-menu .inner,
+.general-averages2-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-averages2-page .bootstrap-select .dropdown-menu li,
+.general-averages2-page .bootstrap-select .dropdown-menu li a,
+.general-averages2-page .bootstrap-select .dropdown-menu li a span,
+.general-averages2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-averages2-page > .dropdown-menu li,
+.general-averages2-page > .dropdown-menu li a,
+.general-averages2-page > .dropdown-menu li a span,
+.general-averages2-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-averages2-page .bootstrap-select .dropdown-menu li a,
+.general-averages2-page > .dropdown-menu li a,
+.general-averages2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-averages2-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-averages2-page .bootstrap-select .dropdown-menu li a span.text,
+.general-averages2-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-averages2-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-averages2-page .bootstrap-select .dropdown-menu li.active > a,
+.general-averages2-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-averages2-page .bootstrap-select .dropdown-menu li > a.active,
+.general-averages2-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-averages2-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-averages2-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-averages2-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-averages2-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-averages2-page > .dropdown-menu li.selected > a,
+.general-averages2-page > .dropdown-menu li.active > a,
+.general-averages2-page > .dropdown-menu li.selected.active > a,
+.general-averages2-page > .dropdown-menu li > a.active,
+.general-averages2-page > .dropdown-menu li > a.selected,
+.general-averages2-page > .dropdown-menu a[aria-selected="true"],
+.general-averages2-page > .dropdown-menu .dropdown-item.active,
+.general-averages2-page > .dropdown-menu .dropdown-item.selected,
+.general-averages2-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-averages2-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-averages2-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-averages2-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-averages2-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-averages2-page > .dropdown-menu li > a:hover,
+.general-averages2-page > .dropdown-menu li > a:focus,
+.general-averages2-page > .dropdown-menu .dropdown-item:hover,
+.general-averages2-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-averages2-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-averages2-page .btn:disabled,
+.general-averages2-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-averages2-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-averages2-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-averages2-page table.general-averages2-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-averages2-page table.general-averages2-table thead th,
+.general-averages2-page table.general-averages2-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-averages2-page table.general-averages2-table thead th:last-child,
+.general-averages2-page table.general-averages2-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-averages2-page .dataTables_scrollHead,
+.general-averages2-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-averages2-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-averages2-page table.dataTable.hover tbody tr:hover,
+.general-averages2-page table.dataTable.display tbody tr:hover,
+.general-averages2-page table.dataTable.stripe tbody tr.odd:hover,
+.general-averages2-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-averages2-page table.dataTable.hover tbody tr:hover > *,
+.general-averages2-page table.dataTable.display tbody tr:hover > *,
+.general-averages2-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-averages2-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+/* -------------------------------------------------------------------------- */
+/* Lines 1 Group page card / side tabs / dropdown / table styling             */
+/* -------------------------------------------------------------------------- */
+
+.general-lines1-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-lines1-page .general-lines1-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-lines1-page .general-lines1-view-switcher {
+  padding-top: 0;
+}
+
+.general-lines1-page .general-lines1-view-switcher .nav-tabs,
+.general-lines1-page .general-lines1-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 8px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-lines1-page .general-lines1-view-switcher .nav-tabs > li,
+.general-lines1-page .general-lines1-view-switcher .nav-pills > li,
+.general-lines1-page .general-lines1-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-lines1-page .general-lines1-view-switcher .nav-tabs a,
+.general-lines1-page .general-lines1-view-switcher .nav-pills a,
+.general-lines1-page .general-lines1-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-lines1-page .general-lines1-view-switcher .nav-tabs a.active,
+.general-lines1-page .general-lines1-view-switcher .nav-pills a.active,
+.general-lines1-page .general-lines1-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-lines1-page .general-lines1-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-lines1-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-lines1-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-lines1-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-lines1-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-lines1-page .general-lines1-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-lines1-page .bootstrap-select > .dropdown-menu,
+.general-lines1-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-lines1-page .bootstrap-select .dropdown-menu.inner,
+.general-lines1-page .bootstrap-select ul.dropdown-menu.inner,
+.general-lines1-page > .dropdown-menu .dropdown-menu.inner,
+.general-lines1-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-lines1-page .bootstrap-select .inner,
+.general-lines1-page .bootstrap-select .dropdown-menu .inner,
+.general-lines1-page > .dropdown-menu .inner,
+.general-lines1-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-lines1-page .bootstrap-select .dropdown-menu li,
+.general-lines1-page .bootstrap-select .dropdown-menu li a,
+.general-lines1-page .bootstrap-select .dropdown-menu li a span,
+.general-lines1-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-lines1-page > .dropdown-menu li,
+.general-lines1-page > .dropdown-menu li a,
+.general-lines1-page > .dropdown-menu li a span,
+.general-lines1-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-lines1-page .bootstrap-select .dropdown-menu li a,
+.general-lines1-page > .dropdown-menu li a,
+.general-lines1-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-lines1-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-lines1-page .bootstrap-select .dropdown-menu li a span.text,
+.general-lines1-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-lines1-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-lines1-page .bootstrap-select .dropdown-menu li.active > a,
+.general-lines1-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-lines1-page .bootstrap-select .dropdown-menu li > a.active,
+.general-lines1-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-lines1-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-lines1-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-lines1-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-lines1-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-lines1-page > .dropdown-menu li.selected > a,
+.general-lines1-page > .dropdown-menu li.active > a,
+.general-lines1-page > .dropdown-menu li.selected.active > a,
+.general-lines1-page > .dropdown-menu li > a.active,
+.general-lines1-page > .dropdown-menu li > a.selected,
+.general-lines1-page > .dropdown-menu a[aria-selected="true"],
+.general-lines1-page > .dropdown-menu .dropdown-item.active,
+.general-lines1-page > .dropdown-menu .dropdown-item.selected,
+.general-lines1-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-lines1-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-lines1-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-lines1-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-lines1-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-lines1-page > .dropdown-menu li > a:hover,
+.general-lines1-page > .dropdown-menu li > a:focus,
+.general-lines1-page > .dropdown-menu .dropdown-item:hover,
+.general-lines1-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-lines1-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-lines1-page .btn:disabled,
+.general-lines1-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-lines1-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-lines1-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-lines1-page table.general-lines1-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-lines1-page table.general-lines1-table thead th,
+.general-lines1-page table.general-lines1-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-lines1-page table.general-lines1-table thead th:last-child,
+.general-lines1-page table.general-lines1-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-lines1-page .dataTables_scrollHead,
+.general-lines1-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-lines1-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-lines1-page table.dataTable.hover tbody tr:hover,
+.general-lines1-page table.dataTable.display tbody tr:hover,
+.general-lines1-page table.dataTable.stripe tbody tr.odd:hover,
+.general-lines1-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-lines1-page table.dataTable.hover tbody tr:hover > *,
+.general-lines1-page table.dataTable.display tbody tr:hover > *,
+.general-lines1-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-lines1-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+.general-lines1-page .general-lines1-left-rail {
+  --general-lines1-left-gap: 12px;
+  --general-lines1-action-button-size: 54px;
+
+  display: flex;
+  flex-direction: column;
+  gap: var(--general-lines1-left-gap);
+  align-items: stretch;
+  width: 100%;
+}
+
+.general-lines1-page .general-lines1-view-switcher .nav-tabs,
+.general-lines1-page .general-lines1-view-switcher .nav-pills {
+  gap: var(--general-lines1-left-gap) !important;
+}
+
+.general-lines1-page .general-lines1-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-lines1-page .general-lines1-side-actions {
+  padding-top: 2px;
+}
+
+.general-lines1-page .general-lines1-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-lines1-page .general-lines1-side-actions .btn,
+.general-lines1-page .general-lines1-side-actions .btn-icon,
+.general-lines1-page .general-lines1-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Lines 2 Groups page card / side tabs / dropdown / table styling            */
+/* -------------------------------------------------------------------------- */
+
+.general-lines2-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-lines2-page .general-lines2-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-lines2-page .general-lines2-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-lines2-page .general-lines2-view-switcher .nav-tabs,
+.general-lines2-page .general-lines2-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-lines2-page .general-lines2-view-switcher .nav-tabs > li,
+.general-lines2-page .general-lines2-view-switcher .nav-pills > li,
+.general-lines2-page .general-lines2-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-lines2-page .general-lines2-view-switcher .nav-tabs a,
+.general-lines2-page .general-lines2-view-switcher .nav-pills a,
+.general-lines2-page .general-lines2-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-lines2-page .general-lines2-view-switcher .nav-tabs a.active,
+.general-lines2-page .general-lines2-view-switcher .nav-pills a.active,
+.general-lines2-page .general-lines2-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-lines2-page .general-lines2-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-lines2-page .general-lines2-side-actions {
+  padding-top: 2px;
+}
+
+.general-lines2-page .general-lines2-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-lines2-page .general-lines2-side-actions .btn,
+.general-lines2-page .general-lines2-side-actions .btn-icon,
+.general-lines2-page .general-lines2-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+.general-lines2-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-lines2-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-lines2-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-lines2-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-lines2-page .general-lines2-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-lines2-page .bootstrap-select > .dropdown-menu,
+.general-lines2-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-lines2-page .bootstrap-select .dropdown-menu.inner,
+.general-lines2-page .bootstrap-select ul.dropdown-menu.inner,
+.general-lines2-page > .dropdown-menu .dropdown-menu.inner,
+.general-lines2-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-lines2-page .bootstrap-select .inner,
+.general-lines2-page .bootstrap-select .dropdown-menu .inner,
+.general-lines2-page > .dropdown-menu .inner,
+.general-lines2-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-lines2-page .bootstrap-select .dropdown-menu li,
+.general-lines2-page .bootstrap-select .dropdown-menu li a,
+.general-lines2-page .bootstrap-select .dropdown-menu li a span,
+.general-lines2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-lines2-page > .dropdown-menu li,
+.general-lines2-page > .dropdown-menu li a,
+.general-lines2-page > .dropdown-menu li a span,
+.general-lines2-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-lines2-page .bootstrap-select .dropdown-menu li a,
+.general-lines2-page > .dropdown-menu li a,
+.general-lines2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-lines2-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-lines2-page .bootstrap-select .dropdown-menu li a span.text,
+.general-lines2-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-lines2-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-lines2-page .bootstrap-select .dropdown-menu li.active > a,
+.general-lines2-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-lines2-page .bootstrap-select .dropdown-menu li > a.active,
+.general-lines2-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-lines2-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-lines2-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-lines2-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-lines2-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-lines2-page > .dropdown-menu li.selected > a,
+.general-lines2-page > .dropdown-menu li.active > a,
+.general-lines2-page > .dropdown-menu li.selected.active > a,
+.general-lines2-page > .dropdown-menu li > a.active,
+.general-lines2-page > .dropdown-menu li > a.selected,
+.general-lines2-page > .dropdown-menu a[aria-selected="true"],
+.general-lines2-page > .dropdown-menu .dropdown-item.active,
+.general-lines2-page > .dropdown-menu .dropdown-item.selected,
+.general-lines2-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-lines2-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-lines2-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-lines2-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-lines2-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-lines2-page > .dropdown-menu li > a:hover,
+.general-lines2-page > .dropdown-menu li > a:focus,
+.general-lines2-page > .dropdown-menu .dropdown-item:hover,
+.general-lines2-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-lines2-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-lines2-page .btn:disabled,
+.general-lines2-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-lines2-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-lines2-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-lines2-page table.general-lines2-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-lines2-page table.general-lines2-table thead th,
+.general-lines2-page table.general-lines2-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-lines2-page table.general-lines2-table thead th:last-child,
+.general-lines2-page table.general-lines2-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-lines2-page .dataTables_scrollHead,
+.general-lines2-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-lines2-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-lines2-page table.dataTable.hover tbody tr:hover,
+.general-lines2-page table.dataTable.display tbody tr:hover,
+.general-lines2-page table.dataTable.stripe tbody tr.odd:hover,
+.general-lines2-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-lines2-page table.dataTable.hover tbody tr:hover > *,
+.general-lines2-page table.dataTable.display tbody tr:hover > *,
+.general-lines2-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-lines2-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Bars 1 Simple page card / side tabs / dropdown / table styling             */
+/* -------------------------------------------------------------------------- */
+
+.general-bars1-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-bars1-page .general-bars1-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-bars1-page .general-bars1-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-bars1-page .general-bars1-view-switcher .nav-tabs,
+.general-bars1-page .general-bars1-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-bars1-page .general-bars1-view-switcher .nav-tabs > li,
+.general-bars1-page .general-bars1-view-switcher .nav-pills > li,
+.general-bars1-page .general-bars1-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-bars1-page .general-bars1-view-switcher .nav-tabs a,
+.general-bars1-page .general-bars1-view-switcher .nav-pills a,
+.general-bars1-page .general-bars1-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-bars1-page .general-bars1-view-switcher .nav-tabs a.active,
+.general-bars1-page .general-bars1-view-switcher .nav-pills a.active,
+.general-bars1-page .general-bars1-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-bars1-page .general-bars1-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-bars1-page .general-bars1-side-actions {
+  padding-top: 2px;
+}
+
+.general-bars1-page .general-bars1-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-bars1-page .general-bars1-side-actions .btn,
+.general-bars1-page .general-bars1-side-actions .btn-icon,
+.general-bars1-page .general-bars1-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+.general-bars1-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-bars1-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-bars1-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-bars1-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-bars1-page .general-bars1-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-bars1-page .bootstrap-select > .dropdown-menu,
+.general-bars1-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-bars1-page .bootstrap-select .dropdown-menu.inner,
+.general-bars1-page .bootstrap-select ul.dropdown-menu.inner,
+.general-bars1-page > .dropdown-menu .dropdown-menu.inner,
+.general-bars1-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars1-page .bootstrap-select .inner,
+.general-bars1-page .bootstrap-select .dropdown-menu .inner,
+.general-bars1-page > .dropdown-menu .inner,
+.general-bars1-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars1-page .bootstrap-select .dropdown-menu li,
+.general-bars1-page .bootstrap-select .dropdown-menu li a,
+.general-bars1-page .bootstrap-select .dropdown-menu li a span,
+.general-bars1-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-bars1-page > .dropdown-menu li,
+.general-bars1-page > .dropdown-menu li a,
+.general-bars1-page > .dropdown-menu li a span,
+.general-bars1-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars1-page .bootstrap-select .dropdown-menu li a,
+.general-bars1-page > .dropdown-menu li a,
+.general-bars1-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-bars1-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-bars1-page .bootstrap-select .dropdown-menu li a span.text,
+.general-bars1-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-bars1-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-bars1-page .bootstrap-select .dropdown-menu li.active > a,
+.general-bars1-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-bars1-page .bootstrap-select .dropdown-menu li > a.active,
+.general-bars1-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-bars1-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-bars1-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-bars1-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-bars1-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-bars1-page > .dropdown-menu li.selected > a,
+.general-bars1-page > .dropdown-menu li.active > a,
+.general-bars1-page > .dropdown-menu li.selected.active > a,
+.general-bars1-page > .dropdown-menu li > a.active,
+.general-bars1-page > .dropdown-menu li > a.selected,
+.general-bars1-page > .dropdown-menu a[aria-selected="true"],
+.general-bars1-page > .dropdown-menu .dropdown-item.active,
+.general-bars1-page > .dropdown-menu .dropdown-item.selected,
+.general-bars1-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-bars1-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-bars1-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-bars1-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-bars1-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-bars1-page > .dropdown-menu li > a:hover,
+.general-bars1-page > .dropdown-menu li > a:focus,
+.general-bars1-page > .dropdown-menu .dropdown-item:hover,
+.general-bars1-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-bars1-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-bars1-page .btn:disabled,
+.general-bars1-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-bars1-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-bars1-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-bars1-page table.general-bars1-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-bars1-page table.general-bars1-table thead th,
+.general-bars1-page table.general-bars1-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-bars1-page table.general-bars1-table thead th:last-child,
+.general-bars1-page table.general-bars1-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-bars1-page .dataTables_scrollHead,
+.general-bars1-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-bars1-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-bars1-page table.dataTable.hover tbody tr:hover,
+.general-bars1-page table.dataTable.display tbody tr:hover,
+.general-bars1-page table.dataTable.stripe tbody tr.odd:hover,
+.general-bars1-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-bars1-page table.dataTable.hover tbody tr:hover > *,
+.general-bars1-page table.dataTable.display tbody tr:hover > *,
+.general-bars1-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-bars1-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Bars 2 Stacked page card / side tabs / dropdown / table styling            */
+/* -------------------------------------------------------------------------- */
+
+.general-bars2-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-bars2-page .general-bars2-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-bars2-page .general-bars2-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-bars2-page .general-bars2-view-switcher .nav-tabs,
+.general-bars2-page .general-bars2-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-bars2-page .general-bars2-view-switcher .nav-tabs > li,
+.general-bars2-page .general-bars2-view-switcher .nav-pills > li,
+.general-bars2-page .general-bars2-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-bars2-page .general-bars2-view-switcher .nav-tabs a,
+.general-bars2-page .general-bars2-view-switcher .nav-pills a,
+.general-bars2-page .general-bars2-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-bars2-page .general-bars2-view-switcher .nav-tabs a.active,
+.general-bars2-page .general-bars2-view-switcher .nav-pills a.active,
+.general-bars2-page .general-bars2-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-bars2-page .general-bars2-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-bars2-page .general-bars2-side-actions {
+  padding-top: 2px;
+}
+
+.general-bars2-page .general-bars2-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-bars2-page .general-bars2-side-actions .btn,
+.general-bars2-page .general-bars2-side-actions .btn-icon,
+.general-bars2-page .general-bars2-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+.general-bars2-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-bars2-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-bars2-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-bars2-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-bars2-page .general-bars2-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-bars2-page .bootstrap-select > .dropdown-menu,
+.general-bars2-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-bars2-page .bootstrap-select .dropdown-menu.inner,
+.general-bars2-page .bootstrap-select ul.dropdown-menu.inner,
+.general-bars2-page > .dropdown-menu .dropdown-menu.inner,
+.general-bars2-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars2-page .bootstrap-select .inner,
+.general-bars2-page .bootstrap-select .dropdown-menu .inner,
+.general-bars2-page > .dropdown-menu .inner,
+.general-bars2-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars2-page .bootstrap-select .dropdown-menu li,
+.general-bars2-page .bootstrap-select .dropdown-menu li a,
+.general-bars2-page .bootstrap-select .dropdown-menu li a span,
+.general-bars2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-bars2-page > .dropdown-menu li,
+.general-bars2-page > .dropdown-menu li a,
+.general-bars2-page > .dropdown-menu li a span,
+.general-bars2-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars2-page .bootstrap-select .dropdown-menu li a,
+.general-bars2-page > .dropdown-menu li a,
+.general-bars2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-bars2-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-bars2-page .bootstrap-select .dropdown-menu li a span.text,
+.general-bars2-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-bars2-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-bars2-page .bootstrap-select .dropdown-menu li.active > a,
+.general-bars2-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-bars2-page .bootstrap-select .dropdown-menu li > a.active,
+.general-bars2-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-bars2-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-bars2-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-bars2-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-bars2-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-bars2-page > .dropdown-menu li.selected > a,
+.general-bars2-page > .dropdown-menu li.active > a,
+.general-bars2-page > .dropdown-menu li.selected.active > a,
+.general-bars2-page > .dropdown-menu li > a.active,
+.general-bars2-page > .dropdown-menu li > a.selected,
+.general-bars2-page > .dropdown-menu a[aria-selected="true"],
+.general-bars2-page > .dropdown-menu .dropdown-item.active,
+.general-bars2-page > .dropdown-menu .dropdown-item.selected,
+.general-bars2-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-bars2-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-bars2-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-bars2-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-bars2-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-bars2-page > .dropdown-menu li > a:hover,
+.general-bars2-page > .dropdown-menu li > a:focus,
+.general-bars2-page > .dropdown-menu .dropdown-item:hover,
+.general-bars2-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-bars2-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-bars2-page .btn:disabled,
+.general-bars2-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-bars2-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-bars2-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-bars2-page table.general-bars2-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-bars2-page table.general-bars2-table thead th,
+.general-bars2-page table.general-bars2-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-bars2-page table.general-bars2-table thead th:last-child,
+.general-bars2-page table.general-bars2-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-bars2-page .dataTables_scrollHead,
+.general-bars2-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-bars2-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-bars2-page table.dataTable.hover tbody tr:hover,
+.general-bars2-page table.dataTable.display tbody tr:hover,
+.general-bars2-page table.dataTable.stripe tbody tr.odd:hover,
+.general-bars2-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-bars2-page table.dataTable.hover tbody tr:hover > *,
+.general-bars2-page table.dataTable.display tbody tr:hover > *,
+.general-bars2-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-bars2-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Bars 3 Grouped page card / side tabs / dropdown / table styling            */
+/* -------------------------------------------------------------------------- */
+
+.general-bars3-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-bars3-page .general-bars3-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-bars3-page .general-bars3-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-bars3-page .general-bars3-view-switcher .nav-tabs,
+.general-bars3-page .general-bars3-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-bars3-page .general-bars3-view-switcher .nav-tabs > li,
+.general-bars3-page .general-bars3-view-switcher .nav-pills > li,
+.general-bars3-page .general-bars3-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-bars3-page .general-bars3-view-switcher .nav-tabs a,
+.general-bars3-page .general-bars3-view-switcher .nav-pills a,
+.general-bars3-page .general-bars3-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-bars3-page .general-bars3-view-switcher .nav-tabs a.active,
+.general-bars3-page .general-bars3-view-switcher .nav-pills a.active,
+.general-bars3-page .general-bars3-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-bars3-page .general-bars3-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-bars3-page .general-bars3-side-actions {
+  padding-top: 2px;
+}
+
+.general-bars3-page .general-bars3-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-bars3-page .general-bars3-side-actions .btn,
+.general-bars3-page .general-bars3-side-actions .btn-icon,
+.general-bars3-page .general-bars3-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+.general-bars3-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-bars3-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-bars3-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-bars3-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-bars3-page .general-bars3-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-bars3-page .bootstrap-select > .dropdown-menu,
+.general-bars3-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-bars3-page .bootstrap-select .dropdown-menu.inner,
+.general-bars3-page .bootstrap-select ul.dropdown-menu.inner,
+.general-bars3-page > .dropdown-menu .dropdown-menu.inner,
+.general-bars3-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars3-page .bootstrap-select .inner,
+.general-bars3-page .bootstrap-select .dropdown-menu .inner,
+.general-bars3-page > .dropdown-menu .inner,
+.general-bars3-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars3-page .bootstrap-select .dropdown-menu li,
+.general-bars3-page .bootstrap-select .dropdown-menu li a,
+.general-bars3-page .bootstrap-select .dropdown-menu li a span,
+.general-bars3-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-bars3-page > .dropdown-menu li,
+.general-bars3-page > .dropdown-menu li a,
+.general-bars3-page > .dropdown-menu li a span,
+.general-bars3-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-bars3-page .bootstrap-select .dropdown-menu li a,
+.general-bars3-page > .dropdown-menu li a,
+.general-bars3-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-bars3-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-bars3-page .bootstrap-select .dropdown-menu li a span.text,
+.general-bars3-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-bars3-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-bars3-page .bootstrap-select .dropdown-menu li.active > a,
+.general-bars3-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-bars3-page .bootstrap-select .dropdown-menu li > a.active,
+.general-bars3-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-bars3-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-bars3-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-bars3-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-bars3-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-bars3-page > .dropdown-menu li.selected > a,
+.general-bars3-page > .dropdown-menu li.active > a,
+.general-bars3-page > .dropdown-menu li.selected.active > a,
+.general-bars3-page > .dropdown-menu li > a.active,
+.general-bars3-page > .dropdown-menu li > a.selected,
+.general-bars3-page > .dropdown-menu a[aria-selected="true"],
+.general-bars3-page > .dropdown-menu .dropdown-item.active,
+.general-bars3-page > .dropdown-menu .dropdown-item.selected,
+.general-bars3-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-bars3-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-bars3-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-bars3-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-bars3-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-bars3-page > .dropdown-menu li > a:hover,
+.general-bars3-page > .dropdown-menu li > a:focus,
+.general-bars3-page > .dropdown-menu .dropdown-item:hover,
+.general-bars3-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-bars3-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-bars3-page .btn:disabled,
+.general-bars3-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-bars3-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-bars3-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-bars3-page table.general-bars3-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-bars3-page table.general-bars3-table thead th,
+.general-bars3-page table.general-bars3-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-bars3-page table.general-bars3-table thead th:last-child,
+.general-bars3-page table.general-bars3-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-bars3-page .dataTables_scrollHead,
+.general-bars3-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-bars3-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-bars3-page table.dataTable.hover tbody tr:hover,
+.general-bars3-page table.dataTable.display tbody tr:hover,
+.general-bars3-page table.dataTable.stripe tbody tr.odd:hover,
+.general-bars3-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-bars3-page table.dataTable.hover tbody tr:hover > *,
+.general-bars3-page table.dataTable.display tbody tr:hover > *,
+.general-bars3-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-bars3-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Areas 1 Stacked page card / side tabs / dropdown / table styling           */
+/* -------------------------------------------------------------------------- */
+
+.general-areas1-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-areas1-page .general-areas1-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-areas1-page .general-areas1-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-areas1-page .general-areas1-view-switcher .nav-tabs,
+.general-areas1-page .general-areas1-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-areas1-page .general-areas1-view-switcher .nav-tabs > li,
+.general-areas1-page .general-areas1-view-switcher .nav-pills > li,
+.general-areas1-page .general-areas1-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-areas1-page .general-areas1-view-switcher .nav-tabs a,
+.general-areas1-page .general-areas1-view-switcher .nav-pills a,
+.general-areas1-page .general-areas1-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-areas1-page .general-areas1-view-switcher .nav-tabs a.active,
+.general-areas1-page .general-areas1-view-switcher .nav-pills a.active,
+.general-areas1-page .general-areas1-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-areas1-page .general-areas1-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-areas1-page .general-areas1-side-actions {
+  padding-top: 2px;
+}
+
+.general-areas1-page .general-areas1-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-areas1-page .general-areas1-side-actions .btn,
+.general-areas1-page .general-areas1-side-actions .btn-icon,
+.general-areas1-page .general-areas1-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+.general-areas1-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-areas1-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-areas1-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-areas1-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-areas1-page .general-areas1-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-areas1-page .bootstrap-select > .dropdown-menu,
+.general-areas1-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-areas1-page .bootstrap-select .dropdown-menu.inner,
+.general-areas1-page .bootstrap-select ul.dropdown-menu.inner,
+.general-areas1-page > .dropdown-menu .dropdown-menu.inner,
+.general-areas1-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-areas1-page .bootstrap-select .inner,
+.general-areas1-page .bootstrap-select .dropdown-menu .inner,
+.general-areas1-page > .dropdown-menu .inner,
+.general-areas1-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-areas1-page .bootstrap-select .dropdown-menu li,
+.general-areas1-page .bootstrap-select .dropdown-menu li a,
+.general-areas1-page .bootstrap-select .dropdown-menu li a span,
+.general-areas1-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-areas1-page > .dropdown-menu li,
+.general-areas1-page > .dropdown-menu li a,
+.general-areas1-page > .dropdown-menu li a span,
+.general-areas1-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-areas1-page .bootstrap-select .dropdown-menu li a,
+.general-areas1-page > .dropdown-menu li a,
+.general-areas1-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-areas1-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-areas1-page .bootstrap-select .dropdown-menu li a span.text,
+.general-areas1-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-areas1-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-areas1-page .bootstrap-select .dropdown-menu li.active > a,
+.general-areas1-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-areas1-page .bootstrap-select .dropdown-menu li > a.active,
+.general-areas1-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-areas1-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-areas1-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-areas1-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-areas1-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-areas1-page > .dropdown-menu li.selected > a,
+.general-areas1-page > .dropdown-menu li.active > a,
+.general-areas1-page > .dropdown-menu li.selected.active > a,
+.general-areas1-page > .dropdown-menu li > a.active,
+.general-areas1-page > .dropdown-menu li > a.selected,
+.general-areas1-page > .dropdown-menu a[aria-selected="true"],
+.general-areas1-page > .dropdown-menu .dropdown-item.active,
+.general-areas1-page > .dropdown-menu .dropdown-item.selected,
+.general-areas1-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-areas1-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-areas1-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-areas1-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-areas1-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-areas1-page > .dropdown-menu li > a:hover,
+.general-areas1-page > .dropdown-menu li > a:focus,
+.general-areas1-page > .dropdown-menu .dropdown-item:hover,
+.general-areas1-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-areas1-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-areas1-page .btn:disabled,
+.general-areas1-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-areas1-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-areas1-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-areas1-page table.general-areas1-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-areas1-page table.general-areas1-table thead th,
+.general-areas1-page table.general-areas1-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-areas1-page table.general-areas1-table thead th:last-child,
+.general-areas1-page table.general-areas1-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-areas1-page .dataTables_scrollHead,
+.general-areas1-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-areas1-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-areas1-page table.dataTable.hover tbody tr:hover,
+.general-areas1-page table.dataTable.display tbody tr:hover,
+.general-areas1-page table.dataTable.stripe tbody tr.odd:hover,
+.general-areas1-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-areas1-page table.dataTable.hover tbody tr:hover > *,
+.general-areas1-page table.dataTable.display tbody tr:hover > *,
+.general-areas1-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-areas1-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Areas 2 Percentage page card / side tabs / dropdown / table styling        */
+/* -------------------------------------------------------------------------- */
+
+.general-areas2-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-areas2-page .general-areas2-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-areas2-page .general-areas2-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-areas2-page .general-areas2-view-switcher .nav-tabs,
+.general-areas2-page .general-areas2-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-areas2-page .general-areas2-view-switcher .nav-tabs > li,
+.general-areas2-page .general-areas2-view-switcher .nav-pills > li,
+.general-areas2-page .general-areas2-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-areas2-page .general-areas2-view-switcher .nav-tabs a,
+.general-areas2-page .general-areas2-view-switcher .nav-pills a,
+.general-areas2-page .general-areas2-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-areas2-page .general-areas2-view-switcher .nav-tabs a.active,
+.general-areas2-page .general-areas2-view-switcher .nav-pills a.active,
+.general-areas2-page .general-areas2-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-areas2-page .general-areas2-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-areas2-page .general-areas2-side-actions {
+  padding-top: 2px;
+}
+
+.general-areas2-page .general-areas2-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-areas2-page .general-areas2-side-actions .btn,
+.general-areas2-page .general-areas2-side-actions .btn-icon,
+.general-areas2-page .general-areas2-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+.general-areas2-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-areas2-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-areas2-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-areas2-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-areas2-page .general-areas2-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-areas2-page .bootstrap-select > .dropdown-menu,
+.general-areas2-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-areas2-page .bootstrap-select .dropdown-menu.inner,
+.general-areas2-page .bootstrap-select ul.dropdown-menu.inner,
+.general-areas2-page > .dropdown-menu .dropdown-menu.inner,
+.general-areas2-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-areas2-page .bootstrap-select .inner,
+.general-areas2-page .bootstrap-select .dropdown-menu .inner,
+.general-areas2-page > .dropdown-menu .inner,
+.general-areas2-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-areas2-page .bootstrap-select .dropdown-menu li,
+.general-areas2-page .bootstrap-select .dropdown-menu li a,
+.general-areas2-page .bootstrap-select .dropdown-menu li a span,
+.general-areas2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-areas2-page > .dropdown-menu li,
+.general-areas2-page > .dropdown-menu li a,
+.general-areas2-page > .dropdown-menu li a span,
+.general-areas2-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-areas2-page .bootstrap-select .dropdown-menu li a,
+.general-areas2-page > .dropdown-menu li a,
+.general-areas2-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-areas2-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-areas2-page .bootstrap-select .dropdown-menu li a span.text,
+.general-areas2-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-areas2-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-areas2-page .bootstrap-select .dropdown-menu li.active > a,
+.general-areas2-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-areas2-page .bootstrap-select .dropdown-menu li > a.active,
+.general-areas2-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-areas2-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-areas2-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-areas2-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-areas2-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-areas2-page > .dropdown-menu li.selected > a,
+.general-areas2-page > .dropdown-menu li.active > a,
+.general-areas2-page > .dropdown-menu li.selected.active > a,
+.general-areas2-page > .dropdown-menu li > a.active,
+.general-areas2-page > .dropdown-menu li > a.selected,
+.general-areas2-page > .dropdown-menu a[aria-selected="true"],
+.general-areas2-page > .dropdown-menu .dropdown-item.active,
+.general-areas2-page > .dropdown-menu .dropdown-item.selected,
+.general-areas2-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-areas2-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-areas2-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-areas2-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-areas2-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-areas2-page > .dropdown-menu li > a:hover,
+.general-areas2-page > .dropdown-menu li > a:focus,
+.general-areas2-page > .dropdown-menu .dropdown-item:hover,
+.general-areas2-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-areas2-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-areas2-page .btn:disabled,
+.general-areas2-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-areas2-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-areas2-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-areas2-page table.general-areas2-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-areas2-page table.general-areas2-table thead th,
+.general-areas2-page table.general-areas2-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-areas2-page table.general-areas2-table thead th:last-child,
+.general-areas2-page table.general-areas2-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-areas2-page .dataTables_scrollHead,
+.general-areas2-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-areas2-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-areas2-page table.dataTable.hover tbody tr:hover,
+.general-areas2-page table.dataTable.display tbody tr:hover,
+.general-areas2-page table.dataTable.stripe tbody tr.odd:hover,
+.general-areas2-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-areas2-page table.dataTable.hover tbody tr:hover > *,
+.general-areas2-page table.dataTable.display tbody tr:hover > *,
+.general-areas2-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-areas2-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Scatterplots page card / side tabs / dropdown / table styling              */
+/* -------------------------------------------------------------------------- */
+
+.general-scatterplots-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-scatterplots-page .general-scatterplots-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-scatterplots-page .general-scatterplots-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-tabs,
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-tabs > li,
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-pills > li,
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-tabs a,
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-pills a,
+.general-scatterplots-page .general-scatterplots-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-tabs a.active,
+.general-scatterplots-page .general-scatterplots-view-switcher .nav-pills a.active,
+.general-scatterplots-page .general-scatterplots-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-scatterplots-page .general-scatterplots-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-scatterplots-page .general-scatterplots-side-actions {
+  padding-top: 2px;
+}
+
+.general-scatterplots-page .general-scatterplots-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-scatterplots-page .general-scatterplots-side-actions .btn,
+.general-scatterplots-page .general-scatterplots-side-actions .btn-icon,
+.general-scatterplots-page .general-scatterplots-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+.general-scatterplots-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-scatterplots-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-scatterplots-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-scatterplots-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-scatterplots-page .general-scatterplots-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-scatterplots-page .bootstrap-select > .dropdown-menu,
+.general-scatterplots-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-scatterplots-page .bootstrap-select .dropdown-menu.inner,
+.general-scatterplots-page .bootstrap-select ul.dropdown-menu.inner,
+.general-scatterplots-page > .dropdown-menu .dropdown-menu.inner,
+.general-scatterplots-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-scatterplots-page .bootstrap-select .inner,
+.general-scatterplots-page .bootstrap-select .dropdown-menu .inner,
+.general-scatterplots-page > .dropdown-menu .inner,
+.general-scatterplots-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-scatterplots-page .bootstrap-select .dropdown-menu li,
+.general-scatterplots-page .bootstrap-select .dropdown-menu li a,
+.general-scatterplots-page .bootstrap-select .dropdown-menu li a span,
+.general-scatterplots-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-scatterplots-page > .dropdown-menu li,
+.general-scatterplots-page > .dropdown-menu li a,
+.general-scatterplots-page > .dropdown-menu li a span,
+.general-scatterplots-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-scatterplots-page .bootstrap-select .dropdown-menu li a,
+.general-scatterplots-page > .dropdown-menu li a,
+.general-scatterplots-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-scatterplots-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-scatterplots-page .bootstrap-select .dropdown-menu li a span.text,
+.general-scatterplots-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-scatterplots-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-scatterplots-page .bootstrap-select .dropdown-menu li.active > a,
+.general-scatterplots-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-scatterplots-page .bootstrap-select .dropdown-menu li > a.active,
+.general-scatterplots-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-scatterplots-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-scatterplots-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-scatterplots-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-scatterplots-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-scatterplots-page > .dropdown-menu li.selected > a,
+.general-scatterplots-page > .dropdown-menu li.active > a,
+.general-scatterplots-page > .dropdown-menu li.selected.active > a,
+.general-scatterplots-page > .dropdown-menu li > a.active,
+.general-scatterplots-page > .dropdown-menu li > a.selected,
+.general-scatterplots-page > .dropdown-menu a[aria-selected="true"],
+.general-scatterplots-page > .dropdown-menu .dropdown-item.active,
+.general-scatterplots-page > .dropdown-menu .dropdown-item.selected,
+.general-scatterplots-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-scatterplots-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-scatterplots-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-scatterplots-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-scatterplots-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-scatterplots-page > .dropdown-menu li > a:hover,
+.general-scatterplots-page > .dropdown-menu li > a:focus,
+.general-scatterplots-page > .dropdown-menu .dropdown-item:hover,
+.general-scatterplots-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-scatterplots-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-scatterplots-page .btn:disabled,
+.general-scatterplots-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-scatterplots-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-scatterplots-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-scatterplots-page table.general-scatterplots-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-scatterplots-page table.general-scatterplots-table thead th,
+.general-scatterplots-page table.general-scatterplots-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-scatterplots-page table.general-scatterplots-table thead th:last-child,
+.general-scatterplots-page table.general-scatterplots-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-scatterplots-page .dataTables_scrollHead,
+.general-scatterplots-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-scatterplots-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-scatterplots-page table.dataTable.hover tbody tr:hover,
+.general-scatterplots-page table.dataTable.display tbody tr:hover,
+.general-scatterplots-page table.dataTable.stripe tbody tr.odd:hover,
+.general-scatterplots-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-scatterplots-page table.dataTable.hover tbody tr:hover > *,
+.general-scatterplots-page table.dataTable.display tbody tr:hover > *,
+.general-scatterplots-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-scatterplots-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Density page card / side tabs / dropdown / table styling                   */
+/* -------------------------------------------------------------------------- */
+
+.general-density-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-density-page .general-density-layout-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.general-density-page .general-density-left-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.general-density-page .general-density-view-switcher .nav-tabs,
+.general-density-page .general-density-view-switcher .nav-pills {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  border: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.general-density-page .general-density-view-switcher .nav-tabs > li,
+.general-density-page .general-density-view-switcher .nav-pills > li,
+.general-density-page .general-density-view-switcher .nav-item {
+  width: 100% !important;
+}
+
+.general-density-page .general-density-view-switcher .nav-tabs a,
+.general-density-page .general-density-view-switcher .nav-pills a,
+.general-density-page .general-density-view-switcher a[data-toggle="tab"] {
+  width: 100% !important;
+  display: block !important;
+  text-align: center !important;
+  border-radius: 6px !important;
+  border: 1px solid #000 !important;
+  background-color: #f5f5f5 !important;
+  color: #000000 !important;
+  padding: 8px 12px !important;
+}
+
+.general-density-page .general-density-view-switcher .nav-tabs a.active,
+.general-density-page .general-density-view-switcher .nav-pills a.active,
+.general-density-page .general-density-view-switcher a[data-toggle="tab"].active {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+  border-color: #333333 !important;
+}
+
+.general-density-page .general-density-view-switcher .tab-content {
+  display: none !important;
+}
+
+.general-density-page .general-density-side-actions {
+  padding-top: 2px;
+}
+
+.general-density-page .general-density-side-actions > div {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 12px !important;
+  width: 100% !important;
+}
+
+.general-density-page .general-density-side-actions .btn,
+.general-density-page .general-density-side-actions .btn-icon,
+.general-density-page .general-density-side-actions .shiny-download-link {
+  width: 54px !important;
+  height: 50px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+.general-density-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-density-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-density-page .card-body > .row:last-child {
+  margin-bottom: 0 !important;
+}
+
+.general-density-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-density-page .general-density-controls .form-group {
+  margin-bottom: 0.5rem !important;
+}
+
+.general-density-page .bootstrap-select > .dropdown-menu,
+.general-density-page > .dropdown-menu {
+  z-index: 2050;
+  max-height: min(360px, 45vh);
+  border: 1px solid #000 !important;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.general-density-page .bootstrap-select .dropdown-menu.inner,
+.general-density-page .bootstrap-select ul.dropdown-menu.inner,
+.general-density-page > .dropdown-menu .dropdown-menu.inner,
+.general-density-page > .dropdown-menu ul.dropdown-menu.inner {
+  max-height: min(300px, 38vh);
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-density-page .bootstrap-select .inner,
+.general-density-page .bootstrap-select .dropdown-menu .inner,
+.general-density-page > .dropdown-menu .inner,
+.general-density-page .bootstrap-select .bs-searchbox {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-density-page .bootstrap-select .dropdown-menu li,
+.general-density-page .bootstrap-select .dropdown-menu li a,
+.general-density-page .bootstrap-select .dropdown-menu li a span,
+.general-density-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-density-page > .dropdown-menu li,
+.general-density-page > .dropdown-menu li a,
+.general-density-page > .dropdown-menu li a span,
+.general-density-page > .dropdown-menu .dropdown-item {
+  border: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.general-density-page .bootstrap-select .dropdown-menu li a,
+.general-density-page > .dropdown-menu li a,
+.general-density-page .bootstrap-select .dropdown-menu .dropdown-item,
+.general-density-page > .dropdown-menu .dropdown-item {
+  min-height: auto !important;
+  padding: 0.35rem 0.8rem !important;
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-density-page .bootstrap-select .dropdown-menu li a span.text,
+.general-density-page > .dropdown-menu li a span.text {
+  font-size: 1rem !important;
+  line-height: 1.25 !important;
+}
+
+.general-density-page .bootstrap-select .dropdown-menu li.selected > a,
+.general-density-page .bootstrap-select .dropdown-menu li.active > a,
+.general-density-page .bootstrap-select .dropdown-menu li.selected.active > a,
+.general-density-page .bootstrap-select .dropdown-menu li > a.active,
+.general-density-page .bootstrap-select .dropdown-menu li > a.selected,
+.general-density-page .bootstrap-select .dropdown-menu a[aria-selected="true"],
+.general-density-page .bootstrap-select .dropdown-menu .dropdown-item.active,
+.general-density-page .bootstrap-select .dropdown-menu .dropdown-item.selected,
+.general-density-page .bootstrap-select .dropdown-menu .dropdown-item:active,
+.general-density-page > .dropdown-menu li.selected > a,
+.general-density-page > .dropdown-menu li.active > a,
+.general-density-page > .dropdown-menu li.selected.active > a,
+.general-density-page > .dropdown-menu li > a.active,
+.general-density-page > .dropdown-menu li > a.selected,
+.general-density-page > .dropdown-menu a[aria-selected="true"],
+.general-density-page > .dropdown-menu .dropdown-item.active,
+.general-density-page > .dropdown-menu .dropdown-item.selected,
+.general-density-page > .dropdown-menu .dropdown-item:active {
+  color: #212529 !important;
+  background-color: #e9ecef !important;
+}
+
+.general-density-page .bootstrap-select .dropdown-menu li > a:hover,
+.general-density-page .bootstrap-select .dropdown-menu li > a:focus,
+.general-density-page .bootstrap-select .dropdown-menu .dropdown-item:hover,
+.general-density-page .bootstrap-select .dropdown-menu .dropdown-item:focus,
+.general-density-page > .dropdown-menu li > a:hover,
+.general-density-page > .dropdown-menu li > a:focus,
+.general-density-page > .dropdown-menu .dropdown-item:hover,
+.general-density-page > .dropdown-menu .dropdown-item:focus {
+  color: #212529 !important;
+  background-color: #f8f9fa !important;
+}
+
+.general-density-page .btn {
+  border: 1px solid #000 !important;
+}
+
+.general-density-page .btn:disabled,
+.general-density-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-density-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-density-page .dataTables_scroll {
+  border: 1px solid #000 !important;
+}
+
+.general-density-page table.general-density-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 0 !important;
+}
+
+.general-density-page table.general-density-table thead th,
+.general-density-page table.general-density-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+}
+
+.general-density-page table.general-density-table thead th:last-child,
+.general-density-page table.general-density-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-density-page .dataTables_scrollHead,
+.general-density-page .dataTables_scrollBody {
+  border: 0 !important;
+}
+
+.general-density-page .dataTables_scrollBody {
+  border-top: 1px solid #000 !important;
+}
+
+.general-density-page table.dataTable.hover tbody tr:hover,
+.general-density-page table.dataTable.display tbody tr:hover,
+.general-density-page table.dataTable.stripe tbody tr.odd:hover,
+.general-density-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-density-page table.dataTable.hover tbody tr:hover > *,
+.general-density-page table.dataTable.display tbody tr:hover > *,
+.general-density-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-density-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+/* -------------------------------------------------------------------------- */
+/* My Dashboard page card / actions / table styling                            */
+/* -------------------------------------------------------------------------- */
+
+.general-dashboard-page {
+  overflow: visible;
+  margin-top: -8px;
+}
+
+.general-dashboard-page .card {
+  overflow: visible;
+  margin-bottom: 0 !important;
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-dashboard-page .card-body {
+  overflow: visible;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.general-dashboard-page .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-dashboard-page .general-dashboard-actions {
+  margin-bottom: 0.75rem;
+}
+
+.general-dashboard-page .general-dashboard-actions .btn,
+.general-dashboard-page .btn,
+.general-dashboard-page .btn:disabled,
+.general-dashboard-page .btn.disabled {
+  border: 1px solid #000 !important;
+}
+
+.general-dashboard-page .general-dashboard-table-shell {
+  margin-top: 0.25rem;
+}
+
+.general-dashboard-page .dataTables_wrapper {
+  margin-bottom: 0 !important;
+}
+
+.general-dashboard-page table.general-dashboard-table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 1px solid #000 !important;
+}
+
+.general-dashboard-page table.general-dashboard-table thead th,
+.general-dashboard-page table.general-dashboard-table tbody td {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  border-left: 0 !important;
+  border-right: 1px solid #000 !important;
+  vertical-align: middle !important;
+}
+
+.general-dashboard-page table.general-dashboard-table thead th:last-child,
+.general-dashboard-page table.general-dashboard-table tbody td:last-child {
+  border-right: 0 !important;
+}
+
+.general-dashboard-page table.dataTable.hover tbody tr:hover,
+.general-dashboard-page table.dataTable.display tbody tr:hover,
+.general-dashboard-page table.dataTable.stripe tbody tr.odd:hover,
+.general-dashboard-page table.dataTable.stripe tbody tr.even:hover {
+  background-color: #e9ecef !important;
+}
+
+.general-dashboard-page table.dataTable.hover tbody tr:hover > *,
+.general-dashboard-page table.dataTable.display tbody tr:hover > *,
+.general-dashboard-page table.dataTable.stripe tbody tr.odd:hover > *,
+.general-dashboard-page table.dataTable.stripe tbody tr.even:hover > * {
+  background-color: #e9ecef !important;
+}
+
+.general-dashboard-page .general-dashboard-remove-pin {
+  width: 38px !important;
+  height: 34px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 0 !important;
+}
+
+.general-dashboard-preview-modal .card {
+  border: 1px solid #000 !important;
+  border-top: 1px solid #000 !important;
+}
+
+.general-dashboard-preview-modal .card .card-header {
+  background-color: rgba(23, 162, 184, 0.5) !important;
+  color: #1f2933 !important;
+  border-bottom: 1px solid #000 !important;
+}
+
+.general-dashboard-preview-modal .general-dashboard-unsupported-pin {
+  color: #d32f2f;
+  font-weight: 700;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Reusable axis limits control                                                */
+/* -------------------------------------------------------------------------- */
+
+.general-axis-limits {
+  border: 1px solid #000 !important;
+  border-radius: 6px;
+  background-color: #ffffff;
+  padding: 8px;
+}
+
+.general-axis-limits-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #333333;
+  margin-bottom: 6px;
+  text-align: center;
+}
+
+.general-axis-limits .row {
+  margin-left: -4px !important;
+  margin-right: -4px !important;
+}
+
+.general-axis-limits .col-sm-6,
+.general-axis-limits .col-6 {
+  padding-left: 4px !important;
+  padding-right: 4px !important;
+}
+
+.general-axis-limits .form-group {
+  margin-bottom: 8px !important;
+}
+
+.general-axis-limits label {
+  font-size: 12px;
+  margin-bottom: 3px;
+  color: #333333;
+}
+
+.general-axis-limits input.form-control {
+  height: 34px !important;
+  padding: 4px 6px !important;
+  border: 1px solid #000 !important;
+  border-radius: 6px !important;
+  font-size: 13px !important;
+}
+
+.general-axis-limits-reset {
+  width: 100%;
+  border: 1px solid #000 !important;
+  padding: 5px 8px !important;
+  font-size: 13px !important;
+}
+
+.general-lines1-page .general-lines1-left-rail,
+.general-lines2-page .general-lines2-left-rail,
+.general-bars1-page .general-bars1-left-rail,
+.general-bars2-page .general-bars2-left-rail,
+.general-bars3-page .general-bars3-left-rail,
+.general-areas1-page .general-areas1-left-rail,
+.general-areas2-page .general-areas2-left-rail,
+.general-scatterplots-page .general-scatterplots-left-rail {
+  min-height: 552px;
+}
+
+.general-lines1-page .general-axis-limits,
+.general-lines2-page .general-axis-limits,
+.general-bars1-page .general-axis-limits,
+.general-bars2-page .general-axis-limits,
+.general-bars3-page .general-axis-limits,
+.general-areas1-page .general-axis-limits,
+.general-areas2-page .general-axis-limits,
+.general-scatterplots-page .general-axis-limits {
+  margin-top: auto;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Dashboard preview export buttons                                            */
+/* -------------------------------------------------------------------------- */
+
+.general-dashboard-page .general-dashboard-r-scripts-download {
+  border: 1px solid #000 !important;
+}
+
+.general-dashboard-page .modal-footer .shiny-download-link,
+.general-dashboard-page .modal-footer .btn {
+  margin-left: 4px;
+}
+/* Keep the product name at the bottom of the visible sidebar. */
+.wrapper > aside.main-sidebar.main-sidebar-custom {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  height: 100dvh;
+}
+
+.wrapper > aside.main-sidebar.main-sidebar-custom > .sidebar {
+  flex: 1 1 0%;
+  min-height: 0;
+  height: auto !important;
+  overflow-y: auto;
+}
+
+.wrapper > aside.main-sidebar.main-sidebar-custom > .sidebar-custom {
+  flex: 0 0 auto;
+  height: auto !important;
+  padding: 12px 8px 16px;
+  border-top: 0;
+}
+
+.sidebar-custom .general-sidebar-logo-shell {
+  margin-top: 0;
+  padding: 0;
+}

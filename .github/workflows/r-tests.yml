@@ -1,0 +1,93 @@
+name: R tests
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Run test suite
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    env:
+      RENV_CONFIG_AUTO_SNAPSHOT: "FALSE"
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install Linux build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            build-essential gfortran pkg-config \
+            libblas-dev liblapack-dev libcurl4-openssl-dev \
+            libicu-dev libssl-dev zlib1g-dev
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: renv
+          use-public-rspm: true
+
+      - name: Restore renv packages
+        uses: r-lib/actions/setup-renv@v2
+
+      - name: Verify restored versions
+        shell: Rscript {0}
+        run: |
+          # Compare R version objects: e.g. 4.6.0-1 and 4.6.0.1 are equivalent.
+          lock <- renv::lockfile_read("renv.lock")
+          report_dir <- "tmp/cip"
+          dir.create(report_dir, recursive = TRUE, showWarnings = FALSE)
+          same_version <- function(actual, expected) {
+            tryCatch(isTRUE(package_version(actual) == package_version(expected)),
+                     error = function(e) FALSE)
+          }
+          versions <- do.call(rbind, lapply(names(lock$Packages), function(pkg) {
+            expected <- lock$Packages[[pkg]]
+            desc <- suppressWarnings(utils::packageDescription(pkg))
+            installed <- if (is.list(desc)) desc$Version else "<missing>"
+            actual_sha <- if (is.list(desc)) desc$RemoteSha else NULL
+            if (is.null(actual_sha)) actual_sha <- ""
+            expected_sha <- if (identical(expected$Source, "GitHub")) expected$RemoteSha else ""
+            if (is.null(expected_sha)) expected_sha <- ""
+            data.frame(
+              package = pkg, locked = expected$Version, installed = installed,
+              version_matches = same_version(installed, expected$Version),
+              locked_sha = expected_sha, installed_sha = actual_sha,
+              sha_matches = !identical(expected$Source, "GitHub") ||
+                (nzchar(expected_sha) && identical(actual_sha, expected_sha)),
+              stringsAsFactors = FALSE
+            )
+          }))
+          utils::write.csv(versions, file.path(report_dir, "package_versions.csv"), row.names = FALSE)
+          bad <- versions[!versions$version_matches | !versions$sha_matches, , drop = FALSE]
+          r_matches <- same_version(as.character(getRversion()), lock$R$Version)
+          if (!r_matches) {
+            cat("FAIL: R; locked:", lock$R$Version, "; installed:", as.character(getRversion()), "\n")
+          }
+          if (nrow(bad)) {
+            for (i in seq_len(nrow(bad))) {
+              cat("FAIL:", bad$package[i], "; locked:", bad$locked[i],
+                  "; installed:", bad$installed[i], "\n")
+              if (!bad$sha_matches[i]) {
+                cat("  GitHub SHA; locked:", bad$locked_sha[i],
+                    "; installed:", bad$installed_sha[i], "\n")
+              }
+            }
+          }
+          if (!r_matches || nrow(bad)) {
+            stop("Environment does not match renv.lock; see the named differences above and tmp/cip/package_versions.csv.",
+                 call. = FALSE)
+          }
+          cat("PASS:", nrow(versions), "locked package versions match.\n")
+
+      - name: Run tests
+        shell: Rscript {0}
+        run: testthat::test_local(stop_on_failure = TRUE)

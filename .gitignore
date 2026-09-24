@@ -1,0 +1,73 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session data
+.RData
+.Ruserdata
+
+# dev
+dev/
+
+
+# RStudio project settings
+.Rproj.user/
+*.Rproj
+
+# renv library 
+renv/library/
+renv/staging/
+
+# Build artifacts
+/*.tar.gz
+/*.zip
+
+# R CMD check results
+/*.Rcheck/
+
+# Package vignette outputs
+vignettes/*.html
+vignettes/*.pdf
+inst/doc/
+
+# pkgdown site
+/docs/
+
+# data folder
+# /data/
+
+# Logs
+*.log
+
+# Temporary files
+*~
+.*~
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Compiled code
+*.o
+*.so
+*.dll
+*.exe
+
+/tmp/
+
+# Local R credentials and Posit Connect deployment metadata
+.[Rr][Ee][Nn][Vv][Ii][Rr][Oo][Nn]
+.[Rr][Ee][Nn][Vv][Ii][Rr][Oo][Nn].*
+[Rr][Ss][Cc][Oo][Nn][Nn][Ee][Cc][Tt]/
+.[Rr][Ss][Cc][Oo][Nn][Nn][Ee][Cc][Tt]/
+
+# Local environment files and private keys
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx

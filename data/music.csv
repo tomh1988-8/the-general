@@ -1,0 +1,1001 @@
+DATE,genre,format,language, mood ,decade, Label ,EXPLICIT, chartPosBand ,Instrument Focus,Live/Studio, GRAMMY WON ,remastered,PLAYLIST TYPE?,audienceAge,REGION POPULARITY,Streams M,salesK,LISTENERS K, peakPos , weeks charted ,Tour Gross £M,track_length_s,bpm,Key,energy%
+2024-04-20,edm,cd,german,Chill, 90s ,warner,no,Top-100,Piano,live, 0 ,no,missing,adults,us,-999,"15,433",17785,9010,£10196,£17018,976,15764,3525,£18632
+"Mar 30, 2021",CLASSICAL,cd,german,happy,70s,sony,missing,TOP-10,drums,LIVE,8+,yes,Focus,SENIORS,us,17963,NA,NA,£7230,NaN,6648,13480,£10639,18906,NaN
+NA,-999,cd,german,energetic,2000s,warner,no,Top-40,STRINGS,Live, 1-3 ,yes,mood,kids,Latam,13475,8925,,1847,£2214,"18,846","19,111","11,233","16,764",11086
+2024-02-17,,cassette,german,sad,90s,SONY,yes, TOP-10 ,strings,NaN,1-3,No,mood,adults, asia ,6654,£13992,NaN,"19,485",1103,8296,18054,6326,14137,1064
+"Aug 03, 2022",CLASSICAL,live,spanish,chill,2020s,SONY,NO,top-100,GUITAR,-999,1-3,No,Mood, KIDS ,us,NA,629,19380,2294,£15350,17493,£14819,£3660,NA,2135
+"Aug 21, 2022",pop,Streaming,english,Chill,70s,INDIE,no,TOP-10,piano,studio,1-3,no,party,kids,us,£19148,15724,£14642,4142,3663,missing,201,10143,14616,446
+2024-05-17,Rock,vinyl,GERMAN,energetic,NaN,,no, top-10 ,Drums,missing,4-7,Yes,party,, asia ,7198," 8,645",943," 1,400",1535,£12918,14269,10809,NA,-999
+24/05/2021,pop,live,german,ENERGETIC,missing,indie,no,UNCHARTED, drums ,studio,1-3,no,sleep,ADULTS,Latam,NA,12876,NaN,9555,£11861,,£7001,2613,10753," 5,036"
+01/06/2023,Hip-Hop,,ENGLISH,Angry,2020S,universal,no,top-40,strings,studio,0,yes,focus,KIDS, Eu ,9822,10208," 6,851","16,903",2454,missing,10208," 8,276",15859,17700
+"Nov 29, 2022",Classical,streaming,english,SAD, 2020s ,universal,No,uncharted,drums,LIVE,missing,Yes,Mood,seniors,Asia,£5428,£1119,7072,2908,12534,13396,10234,7776,3773,14674
+2024-08-04,,cassette,FRENCH,missing,80s,Warner,YES,top-40,strings,live,8+,no,Party,KIDS,eu,15714,"19,666",£650,£4221,11568,1205,£970,10798,3757,7406
+2024-03-14,Classical,Cd,FRENCH,SAD,90s,indie,yes,TOP-40,guitar,NaN,NA,no,workout,ADULTS,NaN,5032,14485,"10,730",£12696,£1106,1162,19159,12580," 5,318",3625
+2022-05-28,HIP-HOP,streaming,korean,NA, 80S ,NA,yes,TOP-10,synth,LIVE,8+,missing,focus,adults,eu,14621,18363,7631,16867,13799,12550,1656,£6518,11977,11536
+31/10/2024,missing,CD,spanish,NA,80S,universal,missing,top-100,piano,NaN,4-7,yes,mood,teens,us,11740,12913,£12491,£5915,19245,9202,5829,,"18,671",1653
+28/11/2024,NaN,cassette,FRENCH,-999,NaN, Universal ,yes,top-40,guitar,studio,8+,yes,focus,kids,uk,£5223,9679,£18629,"10,705",12639,-999,19289,5897," 3,817",NaN
+"Jun 07, 2021",Jazz,live,Korean,angry,2000s,-999, no ,top-40,,Live,1-3,no,WORKOUT,KIDS,uk," 4,070",-999,4049,NaN,3699,5736,"10,496","19,650",missing,13030
+24/12/2022,classical,Vinyl,GERMAN,happy,missing,-999,Yes,Uncharted,drums,studio,missing,No,focus,adults,us,"19,340"," 1,638",8425,£19099,12427,,4622,8549,19584,"16,222"
+2023-10-23,CLASSICAL,missing,english,angry,2020S, INDIE ,yes,Top-10,PIANO,studio,8+,YES,workout,,latam,7495,9770,£17883,£19399,missing,14688,9947,6009,9278,15910
+2021-02-20,NaN,cd,SPANISH,,NA,indie,Yes,uncharted,drums,STUDIO,4-7,No,Focus,teens,UK,£3941,14232,9522,£4405,14830," 8,084",15971,"17,646",£11112,£11299
+29/07/2022,pop,CASSETTE,FRENCH,ENERGETIC,2000S,sony,no,Top-100,strings,live,4-7,yes,Focus,SENIORS,eu," 5,506",11423,18667,missing,18093,5989,£2699,11707,13461,NaN
+25/06/2024,edm,Vinyl,english,energetic,missing,sony,yes,top-40,piano, Live ,0,No,party,Adults,us,8052," 3,864",2093,310,18531,349,8433,NA,10973,NaN
+28/11/2021,-999,cd,NA,Angry,70s,warner,No,UNCHARTED,missing,live,4-7,yes,focus,kids,NA,10867,13959,5571,5213,£18451,missing,£4194,1203,11281,16029
+22/08/2022,HIP-HOP,cd,spanish,happy,70S,sony,NaN,TOP-40,Synth,live,4-7,no,sleep,Seniors,asia,NaN,12686,,3603,13824,5312,6211,-999,£16560,11056
+31/08/2022,jazz,STREAMING,korean,chill,90s,sony, NO ,Top-40,strings,studio, 8+ ,yes,FOCUS,teens,latam,9046,"10,300",560,£2288,£4046,3410,4142,,17640,15960
+-999,EDM,vinyl,SPANISH,SAD,2000s,warner,no,uncharted,piano,live,4-7,No,focus,seniors,us,1222,10470,3940,18875,13638,3748,16371,337,£10910,-999
+-999,jazz,cassette,Spanish,sad,missing,warner,YES,top-10,SYNTH,live,0,yes,Workout,Adults,Asia,816," 3,793",£10613,£19702,15988,17496,8055,10060," 7,312",9679
+21/09/2023,rock, CASSETTE ,german,Sad,2020s, sony ,no,uncharted,SYNTH,studio,-999,no,party,seniors,latam,15508,£17072,15072,£11072,8906," 5,442",£2470,-999," 4,272",£11636
+15/01/2021,CLASSICAL,cassette,german,sad,90s,universal,no,top-100,guitar,studio,4-7, YES , Focus ,,us,7523," 5,621",10014,-999,," 9,999",15907,13453,"13,229",3184
+27/07/2024,Hip-Hop,streaming,ENGLISH,Energetic,70s,universal,NaN,-999,STRINGS,studio,8+,yes,Mood,teens,uk,11414,"12,132",10462,£7381," 3,773",8915,10432,19728,12409," 9,109"
+07/11/2022,Jazz,vinyl,korean, Happy ,2000s,Indie,yes, top-10 ,synth,NA, 1-3 ,Yes,mood,SENIORS,US,-999,"11,828",£3744,£5969,16274,5813,2993,8115,5524,"18,904"
+2021-12-29,POP,Cassette,korean,angry,80s,sony,Yes,top-10,STRINGS,studio,8+,yes, party ,Teens,asia,missing,19806,15973,4352,missing,3884,£19270,£771,2729,16081
+10/10/2024,, streaming ,spanish,chill,2020s,Sony,NO,top-40,piano,-999,NA,NO,,adults,latam,17510,£3016,"14,028",17402,6573,19957,18991,1906,14978,4697
+2023-04-30,Pop,streaming,FRENCH,NaN,2000s,UNIVERSAL,no,-999,piano,NA,1-3,no, workout ,seniors,LATAM,"14,096",4050,6814,£11797," 8,113"," 5,205",17572,NA,£8179," 9,361"
+02/02/2021,hip-Hop,Cassette,KOREAN,Sad,80s,indie,no,top-100,STRINGS,studio,-999,no,SLEEP,teens,NaN,5488,8013,1755,"13,957",7383,12923,15703,15903,missing,£15699
+2023-09-30,hip-hop,Cassette,korean,sad,2010s,warner,NO,top-40,missing,live, 8+ ,No,focus,ADULTS,Latam,-999,NA,9374,£19328,-999,19629,"17,215",4573,13564,14903
+2024-09-01,pop,vinyl, GERMAN ,NA,2020s,Sony,no,TOP-40,Piano,studio,1-3,yes,Mood,ADULTS,eu," 2,683",16182,5625,,NA,6158," 2,448",8138,11592,8232
+22/03/2021,hip-hop,cassette,-999,,2010s,universal,no,top-40,Guitar,LIVE,NA,no,FOCUS,kids,eu,"17,211","19,264",3884,18766,£11481,missing,19946,£9027,2546,£12249
+2024-09-29,classical,vinyl,spanish,sad,2020s,NaN,Yes,Top-10,drums, studio ,missing,No,party,teens,asia,6510," 4,357",5864,"17,793",5657,1837,NaN,18199,6912,10146
+19/04/2024,missing,live,Korean,happy, 2020s ,universal,NA, uncharted ,guitar,studio,4-7,Yes,party,seniors,UK,1237,NA,-999,661,19463,14231,"11,190",5993,13269,3890
+22/08/2023,jazz,LIVE,Spanish,sad,2000S,warner,No,top-100,SYNTH,studio,missing,,SLEEP,Seniors,uk,"13,602",NaN,16021,NA,18537,16442,1832,1231,11058,NaN
+2024-03-20,edm,NA,Spanish,Energetic,70s,-999,NO,uncharted,GUITAR,Live,8+, no ,PARTY, KIDS ,missing,3388,"16,942",1317,10721,9782,6658,£3501,7619,8039,11865
+2023-02-09,Jazz,live,german, chill ,2010s,indie,yes, top-40 ,piano,Studio,,yes,Sleep,,missing,5024,£19831,-999,"13,119",,-999,10699,18011,885,11527
+2024-08-03,Hip-Hop,,korean,chill,NaN,Indie,No,top-100,NA,studio,1-3,yes,focus,teens,latam,18793,14787,£17108," 7,327",NA,13878,10198,,"15,510",NaN
+2021-08-19,hip-hop,CD,german,ENERGETIC, 2010s ,sony,YES,Uncharted,strings,Live,0,yes,mood,seniors,missing,2272,9508,16419,18516,,8756,"19,605",3420,£14617,11361
+2021-10-14,classical,cd, german ,chill,NA,sony,yes,top-10,,live,4-7,YES,party,seniors,asia,NaN,£10245,14751,4086,£7189,5349,12585," 3,192",NA,3655
+"Nov 05, 2023",classical, Cassette , english ,Energetic,-999,universal, no ,top-100,STRINGS,-999,0,no,missing,seniors,uk," 2,620",NaN,NaN,4461,£6308,10298,"14,752",18522,,£2112
+19/01/2022,Jazz,Vinyl, Spanish ,sad,2000s,-999,Yes, top-100 ,Synth,live,0,no,Workout,SENIORS, UK ,10652,9060,NaN,9558,3100,,£5225,10209,£1894,11682
+,edm,Cassette, german ,energetic,90s,INDIE,YES,Uncharted, synth ,studio, 4-7 , yes ,Focus,ADULTS,us,3082,14151,9470,8048,NaN,19637,8026,£13578,10985,5898
+2023-08-26,JAZZ,cd, french ,NA,80s,-999, yes ,Top-40,PIANO,Live,8+,Yes,party,teens,UK,19356,5418," 3,934","13,177","18,109",£7516,10370,19151,11035,"13,257"
+26/12/2021,Jazz,NaN, FRENCH ,angry,2020s,INDIE,yes,top-40,PIANO,studio,1-3,No,-999,Seniors,asia,3687,£15309,£17783,£6048,"12,905"," 7,567",£1733,£14958,11341,10484
+23/11/2021,NA,Streaming, spanish , Happy ,2010s,missing,NaN,top-40,DRUMS,NA,NA,No,workout,missing,UK," 7,577",10951,"14,014",219," 9,105",3384,£2213,"13,121",£2080,missing
+"Jan 08, 2023",EDM,LIVE,-999,-999,80s,INDIE,No,UNCHARTED,STRINGS,studio,0,yes,workout,seniors,Asia," 6,939",9138,£19849,4325,162,NaN,£16891,"10,396",NaN,19780
+01/03/2022,Edm,live,GERMAN,Sad,NA, sony ,no,top-10,STRINGS,live,1-3,Yes,Sleep,teens,Latam,-999,9655,13349,5732,16398,7206,missing,missing," 2,172"," 4,311"
+2024-06-11,Hip-Hop,LIVE,spanish,sad,2020s,sony,yes, top-10 ,drums,Studio,4-7,yes,focus,teens,asia,2795,"10,852",,18070,£12536,"14,186",NA,£4292,," 1,050"
+-999,NA,streaming,,SAD,90s,,no,Top-100,guitar,live,8+,yes,Party, kids ,eu,8763,18291,15116,"17,703",missing,NA,6267,9476,£15567,£18398
+26/01/2024,jazz,cd,spanish,sad, 80S ,,yes,Top-10,piano, Live ,1-3,-999,party,seniors,eu,16426,12221,15728,£9643,"11,165",£7707,10044,4909,7546,4911
+15/02/2023,hip-Hop,cd,GERMAN, sad ,2010s,universal,no,top-10,piano,Live,,no,NA,adults,us,NaN," 6,393"," 6,042",18542,£5843," 2,772",8959,19322,£4968,1571
+2023-12-13,Pop,Cd, korean ,NA,2010s,sony,yes,TOP-40,strings,LIVE,4-7,no,NA,NA,us," 4,548",18578,NaN,£154,2868,17950,£5080,17001,8703,17730
+30/05/2022,edm,streaming,KOREAN,energetic,2010s,sony,yes,TOP-100,piano,,8+,yes,SLEEP,adults,-999,£16211,"16,482",5998,£16048," 8,143",£11706,£14420,"13,944",11611,-999
+2023-02-22,Edm, cassette ,spanish,happy, 2020s ,indie,YES, top-10 ,piano,live,NA,yes,NaN,missing,asia,14988,12010,16331,15548,NA,missing,£2828,£9126," 5,336",£6374
+missing,Pop,vinyl,SPANISH,NaN,70s,sony,-999,NaN,Strings,live,1-3,NA,mood,adults,Us,15840,13998,7112," 9,612","13,085","18,893",3164,£12177,6157," 2,073"
+2022-02-18,jazz,Cassette,german,happy,2010s,missing,NO,uncharted,drums,NaN,1-3,no, Focus ,seniors,asia,£2273,£6088,£16153,£17839,12106,-999,£9286,19670,£1909,missing
+NaN,ROCK,VINYL,french,SAD,-999,INDIE,,TOP-100,-999,STUDIO,NA,Yes,mood,Seniors,us,1706,5837,-999,14339,3765,16866,£5820,7230,," 3,840"
+09/02/2023,missing,streaming,KOREAN,SAD,2000s,indie, Yes , top-100 ,missing,STUDIO,1-3,yes,party,Kids,eu,9796,£8295,665,-999,12701,146," 1,800",8825,NA,3519
+07/10/2023,jazz,Streaming,german,-999,2000S,Universal,no,top-100,strings,live,1-3,yes,Mood,kids,UK,5186,,701,£17674,6748,11001,15503,£15105,£13749,1718
+09/08/2021,Hip-Hop, streaming ,french,happy,2020s,INDIE,-999, TOP-40 , drums ,studio, 4-7 ,-999,Party,SENIORS, asia ,11018,£4383,NA,£5549,14923,,1590,10923,8159,3538
+15/10/2022,classical,STREAMING,Spanish, happy ,,-999, No ,,drums,studio,8+,no,sleep,Seniors,uk,missing,9548,£11598,7278,6428,1401,13651,£16500,NA,10940
+06/02/2023,edm,Streaming, Spanish ,Happy,70s,sony,NO, top-40 ,Drums,Live, 4-7 ,NaN,party,kids,,4990,5389,£8759,12694,11182,11965," 3,979",9986,18280,1559
+10/06/2022,Pop,vinyl,english,chill,2010s,warner,no,top-100,SYNTH,, 1-3 ,yes,sleep,teens,Us,19752,15435," 6,456",,£10898,-999,5085,missing,11476,6582
+2021-12-21,Pop,vinyl,NA,NaN,2010s,Warner,yes,TOP-10,Drums,studio,missing,yes,SLEEP,SENIORS,asia,"19,126",18479,1758,£2093,18301,7627,£271,17026,   442,4516
+2021-11-23,Classical, Streaming ,german,sad,70s,WARNER, no ,top-40,Strings, live ,NaN,yes,Party,adults,uk,"18,935",8100,NaN,15851,6338,£13184,6481,14763,8896,£1436
+2024-09-24,hip-Hop,cassette,SPANISH,angry,90S, universal ,yes,Top-10,SYNTH,live,4-7, No ,party,kids,,15300,,8142,2907,3677,£5237,NA," 1,558",£15569,954
+2024-06-13,missing,streaming,french,angry,70s,WARNER,no,top-100,-999,studio,1-3,Yes,mood,seniors,Latam,16798,10879,270,3932," 4,406",missing,2522,19641,9002,16416
+2022-09-21,NA,CASSETTE,French,happy,-999,Universal,YES,TOP-100,guitar, STUDIO ,1-3, NO ,party,adults,eu,-999,NaN,"14,032",NA,"10,897",9420," 2,017",3455,£17056,£5559
+07/07/2022,Hip-Hop,streaming,korean,happy,90S,sony,no,NA,,studio,4-7,yes,WORKOUT,KIDS,LATAM,15967,1991,5847,18129,"12,067","16,252",£2123,12108,5963,£10468
+2024-12-24,jazz,cd,french,energetic,70s,SONY,-999,Uncharted,DRUMS,Studio,1-3,missing,party,KIDS,latam," 5,931",£4662,NA,13654,16795,£9927,1380,missing,2512,£5534
+2021-05-23,pop,streaming,SPANISH,missing,2020S,sony,NO,Top-40,strings,live,4-7,NA,sleep,missing,uk,15,2243,£7404,2738,7198,9096,"17,420",£351,3402,4222
+10/06/2024,Classical,cd,korean,ENERGETIC,2010s,WARNER,yes,TOP-40,piano,-999,8+,yes,MOOD,SENIORS,NA,missing,6420,15123,7163,14316,missing,10227,12444,9310,14181
+08/08/2024,,,GERMAN,ENERGETIC,70s,indie, YES ,UNCHARTED,guitar,STUDIO,1-3,yes,sleep,Kids,uk,8139,£7349,4858,11099,-999,2393,"12,592",15531," 8,554",6962
+21/04/2023, hip-hop ,streaming,english,sad, 90s ,NA,yes,TOP-40,guitar,Live,0,no,sleep,Teens, Latam ,12932,4883,£1979," 8,231",," 1,808",8236,7179,16449,12782
+2024-12-19,rock,vinyl, korean ,chill,90s, Warner ,NO,TOP-10,synth,live,0,no, mood ,adults,Latam,9594,8404,£13681,   251,£18808,6477,"16,454",18868,£13604,£11119
+21/08/2022,hip-hop,STREAMING, FRENCH ,chill,70s,Sony,no, top-100 ,guitar,live,1-3,No,workout,Seniors,,13131,11966,3020,19408,18012,5778,10551,185,17739,£3914
+"Aug 05, 2021",POP,,german,Sad,2000S,WARNER,YES,top-100,guitar,live,1-3,yes,workout,missing,uk,6564,11414,18381," 6,586",9859,9948,18921,"15,774",,NaN
+2024-07-11,classical,Streaming, FRENCH ,CHILL,70S,Sony,yes,TOP-10, Drums , studio ,-999,yes,Mood,teens,us,5393,12221,19844,10889,15994,£1493,-999,9455,18943," 8,521"
+30/11/2021,edm,vinyl,spanish,sad,NaN,sony,NO,UNCHARTED, SYNTH ,studio,4-7,no, party ,missing,asia,£18816,12223,-999,10600,£3241,£2443,NaN,NaN,10477,
+"Apr 24, 2022",ROCK,Live,spanish,Energetic,90S,Sony,YES,-999,SYNTH,Studio,4-7,no,workout,adults,UK,13650,NA,17624," 7,471",£12871,"15,895","10,645",6355,-999,missing
+11/07/2022,classical,streaming,German,HAPPY,90s,warner,NO,top-40,STRINGS,STUDIO,0,yes,sleep,seniors,uk,£3660,-999,10766,10436,17209,"10,232",£2955,1308,901,6102
+,pop,NaN,FRENCH,sad,80s,Indie,missing,uncharted,piano,Live,1-3,Yes,Focus,NaN,missing,£2789,£12611,£7434,£10372,1822,18328,18313,10447,£4490,£7767
+29/06/2021,JAZZ,NaN,german,NaN,2010s,universal,yes,TOP-10,Strings,live,NA,yes,sleep,kids,eu,9117,15382,missing,£13850,£925,3705,"18,409","10,669",8759,15079
+15/05/2024,rock,streaming,korean,SAD,,universal,NA,top-10,SYNTH,Live,8+,no,NaN,-999,,"12,435",3936,"13,558",6277," 4,722",£238,NaN,18466,NaN," 8,963"
+11/08/2021,NA,streaming,NaN,sad,2010s,Sony,no,top-100,Synth,studio,0,no,sleep, adults ,UK,£2985,£165,missing,2727,3021,2722,4298,NaN,13428,£18664
+,JAZZ,Cd,German,angry,2000s,warner,NO,top-40,SYNTH,studio,1-3,No,PARTY,seniors,,19443,4903,NA,£1035,11604,£8830,15912,18181,13217,£12920
+"Jun 17, 2024",JAZZ,NA,korean,happy,2010s,NA,NaN,TOP-40,DRUMS,Studio,4-7,yes,sleep,TEENS,eu,£1767,13468,£2551,9127,£13268,11906,14910,5699,9385,18930
+2023-10-15,Rock,CD,NA,HAPPY,80S,WARNER,no,TOP-40,Drums,LIVE,8+,NO,SLEEP,seniors,-999,8183,5698,17468,-999,1458,7316,10133,-999,"15,732",£3938
+2021-03-31,HIP-HOP,Vinyl,french,chill,80s,warner,yes,Uncharted,drums,Studio,8+,NO,mood,TEENS,asia,6804,12095,£9244,535,6977,4796,6519,17214,NaN,2233
+"Sep 10, 2022",POP,vinyl,English,NaN,2000S,sony,yes,Uncharted,piano,studio,8+,Yes,sleep,teens, UK ,12695,17194,13263,£11871,19576,227,-999,11473,"11,565",5812
+06/10/2022,classical,NaN,korean,ENERGETIC,2010s,sony,NA,top-10,,studio,8+,NA, focus ,adults,NA,9285,£14948," 6,005",£17863," 9,326"," 8,709",£13273,11162,£16618,NA
+22/03/2022,Hip-Hop,Vinyl,SPANISH,HAPPY,2000S,,yes,Top-40,synth,studio,0,no,mood,ADULTS,us,missing,"16,050",NA,9858,15902,"12,485","11,252",6568,2545,"13,464"
+2023-02-16,hip-hop,cd,korean,ENERGETIC,70s,sony,no,top-100,Piano,Studio,NaN,yes,SLEEP, Teens ,latam,6468,"18,045",11690,3804,,13910,,8425,4442,£19052
+30/11/2023,pop,CD,korean,-999,90s,sony,no,top-100,Drums,studio,NA,YES,mood,missing,ASIA,11159,"13,977",NaN,19796," 8,921","19,423",£19948,1796,12860,10889
+2022-01-20,HIP-HOP,CASSETTE,FRENCH,energetic,80s,Sony,yes,top-10,-999,LIVE,0,yes,workout,teens,asia,11374,£11419," 2,356",5593,£958,£1000,£4834,16404,£4639,4213
+,Edm,live,Spanish,chill,70s,universal,no,uncharted, synth ,NaN, 0 ,No,Mood,TEENS,latam,1466,11143,£6059,4153,18295,NaN,NaN,£15137,NA,4960
+17/12/2022,NaN,Streaming,FRENCH,sad,70s,sony,no,uncharted,strings,live,0,yes,NaN,Adults,-999,17,£13442,16629,NA,14420,18393,15140," 1,618","10,382",12599
+02/09/2023,POP,CD,NA,sad,70s,,yes,top-40,Strings,live,8+,no,focus,adults,UK," 8,897",18510,7435," 8,600",15389,£8987,"12,047",1961,£2111,15616
+2023-09-24,pop,live,SPANISH,sad,2020s,NaN,no,Top-40,synth,live,0, no ,focus,adults,Uk,15495,£13901,£15935,887,£10406,13004,1174,£777,£8228,3323
+2022-12-15,NA, cd ,NA,ENERGETIC,missing,sony,No,uncharted,missing,studio,0,yes,workout,adults,asia,6606,12502,£14298,4419,5513,"12,872",19216,NA,10769,5928
+"Feb 05, 2023",rock,cassette,french,happy, 2000s ,universal,yes,top-100, strings ,LIVE,8+,NO,mood,teens,NaN,£16622,5585,NA,-999,17374,5537,NaN,12551,2830,2832
+2023-08-25,hip-hop,cd, Korean ,HAPPY,90s,warner,NA,NaN,strings,live,4-7,no,PARTY,seniors,eu," 8,252",2751,10348,15205,3328,10194,9981,12142,6378,-999
+2024-11-07,pop,LIVE,KOREAN, sad ,90s,warner,no,TOP-100,strings,Studio,8+,no,PARTY,ADULTS,latam,NaN,10977,"13,720",8790,18417,8793,11454,"19,045",18551,15900
+15/05/2021,Hip-Hop,cd,english,NaN,70s,Indie,no,uncharted,piano,Live,1-3,yes,NA,TEENS,-999,missing,1190,9442,"12,243",,7950,£620,18339,missing,£1011
+01/01/2022,edm,STREAMING,Korean,angry,2010s, universal ,YES,Uncharted,DRUMS,Live,1-3,yes,mood,kids, EU ,,£15462,2551,15187,£3981,6388," 9,019","15,040",NA,   382
+"May 24, 2024",NaN,STREAMING,german,Energetic,80S,WARNER,yes,NA,piano,Live,0,NO,party,TEENS,Asia,"14,338",19516,£11826,"11,308",9154,5182,-999,2580,"16,437",18714
+2023-09-28,Hip-Hop,streaming,GERMAN,-999,NA,indie,YES, uncharted ,synth,studio,8+,YES,party,ADULTS,NA,    87,"12,856",14874,£2149,£7614,17038,7487,£260,16465,£6900
+2021-07-26,rock,CASSETTE,NaN,ANGRY,90s,WARNER,No,UNCHARTED,piano,live,0,no,workout,kids,Asia,13311,13654,15697,NaN,7264,217,£8165,695,£3685,£3227
+2024-06-06,Pop,Live,spanish,chill,2010s,indie,No,,-999,Studio,4-7,no,,seniors,Asia,15256,£9525,-999,NA,10243,"13,736",£3217,6677," 8,975",18888
+NaN,classical,cassette,french,Energetic,2020s,-999,NaN,top-40, drums ,studio,4-7,Yes,Focus,seniors,uk,819,13889,15801,13012,NaN,1707,14903,18126,£13265,6224
+25/04/2024,edm,vinyl,Korean,Happy,missing,,YES,Top-10,guitar,Studio, 1-3 ,yes,mood,NaN,eu,2028,3904,£3384,3765,8188," 6,256",-999,18949,18457,
+missing,NA,live,SPANISH,sad,2020S,sony,no,Top-40,drums, Live ,1-3,YES,workout,adults,Uk,-999," 1,911",missing,8526,7368,5219,410,17099,13548,£11451
+"Aug 31, 2022",Jazz,STREAMING, korean ,energetic,2000S,Sony,missing,Top-100,drums,LIVE,0,yes,sleep,Teens,Us,12096," 5,501",-999,13300,NA,£19081,4756,19675,2661,7515
+10/07/2021, pop ,NA,english,Happy,2020s,universal,no,uncharted,NA,Live,8+,No,Mood,adults,Us,"19,654",£3099,   231,6341,13608,£2761,£7692,£10900,5537,NaN
+NA,ROCK,STREAMING,German,energetic,70s,Universal,no,top-10,synth,studio,0,no,workout,-999,Latam,"17,602","19,579",18521,14405,9766,10482,£11305,19609," 7,588",£14756
+2024-12-12,hip-Hop, live ,Korean,HAPPY,2000s,SONY,No, top-40 ,Synth,STUDIO,1-3,YES,NaN,Teens,eu,NaN,9448," 6,434",NA,14030,18162,5074,7025,£10053,"19,424"
+09/04/2022,NaN,missing,english,Angry,80s,universal,NA,top-40,NaN,Live,,No, party ,Adults,-999,£18783,"18,466",14449," 6,395",15630,18135,16907,11357,6539,15249
+2022-04-07,HIP-HOP,Streaming,german,sad,70S,sony,NaN,-999,strings,live,4-7,no,Sleep,kids, Eu ,NaN,"12,319",£14375,9123,£10346,"12,461",£15499,1554,"18,923",14037
+2024-02-26, jazz ,-999,spanish,Chill, 90s ,universal,yes, top-100 ,Strings,live,8+,yes,Mood,seniors,missing,11562,£15300,"19,892",£16999,2861,16661,"10,036",13558,£14401,18802
+2024-01-10,,streaming,KOREAN,happy,2020S,UNIVERSAL,YES,TOP-10,guitar,Studio,1-3,NO,WORKOUT,seniors,us,12429,missing,£11087,,2385,£9896,8930,£11780,£3507,missing
+26/01/2024,NaN,Cassette,english,Sad,70s,,YES,Uncharted,synth,Studio,4-7,,NaN,ADULTS,eu," 9,069",missing,19818," 2,319",7500,11283,16744,18619,15024,missing
+"Nov 04, 2022",POP,cassette,english,energetic,90s,NaN,yes,missing,strings,Live,0,no,mood,seniors,latam,16672,1394,13911,£17552,1220,2238,19390,17762,13093,£7647
+2022-10-19,classical,NA,french,happy, 80s ,Universal,NO, Top-10 ,missing,studio,8+,NaN,Sleep,adults,Uk,2052,6960,13848,NaN,10459,-999,,12934,18558,10821
+"Jun 11, 2021",NaN,cd,GERMAN,chill,80s,Warner,NO,uncharted,Synth,Live,4-7,NaN,workout,Kids,latam,£16594,NaN,15078,754,7123,2195,4344,"11,570",NaN,
+2022-10-07,NA,Cassette,english,Happy,90s,Indie, no ,top-100, STRINGS ,studio,0,no,mood,adults,ASIA,947,10406,NaN,NA,16237,15481,15909,missing,£19781,5655
+17/04/2023,rock,VINYL,GERMAN,Energetic,2010S, Warner ,yes,top-100,-999,LIVE,8+,no,PARTY,kids,asia,10805,£7931,14198,2478," 3,374",1257,2768,£3870,£9925,16802
+16/01/2024,edm,live,english,sad,80s,sony,yes,top-10,strings,studio,1-3,no,party,Adults, Eu ,17217,NaN,14459,missing,19199,19502,16554," 8,675","12,027",2869
+2024-05-11,Edm,STREAMING,korean,-999,2010s,Universal,Yes,top-10,drums,live,1-3,No,Workout,kids,us,-999,8501,5497,6825,17632,£12298,16205,11711,15731,10880
+30/04/2024,ROCK,CD, french ,sad,70s,indie, Yes ,TOP-100,drums,studio,8+,yes,sleep,seniors,Latam,NaN,235,8122,922," 4,010",1019," 5,365",12455,31,3468
+2022-09-29,hip-Hop,Live,french,Energetic,2020s,warner,no,top-10,synth,Live, 1-3 ,No,party,TEENS,latam,14966,16879,9578,,missing,£17800,9105,4820,£15704,5457
+19/12/2023,,CD,ENGLISH,sad,80s,Universal,Yes,top-10,drums,Studio,1-3,no,Focus,NaN,latam,NaN,14606,11537,NA,NaN,£11837,19958,,16328,£14165
+2023-05-02,Edm,Cd,korean,Angry,2000S,,YES,NaN,guitar,studio,8+,No,focus,seniors,Uk,,"10,440",NA,£7546,missing,£11264,17237,7736,,-999
+2024-04-18,EDM,streaming, french ,angry,2010s,Indie,No,Top-100,strings, LIVE ,4-7,no,Mood,teens,eu,NaN,19167,,£4210,5836,8761,8666,12895,12176,295
+2024-01-30,pop,vinyl,french,angry,2020s,warner,no,Top-40,DRUMS,NaN,1-3,yes,Party,seniors,uk,7986,£18181,,-999,19434,£8329,15652,1760,16619," 8,801"
+2023-01-02,rock,cd,English,Chill,80s,indie,no,Uncharted,drums,studio,8+, yes ,Party,adults,uk,17833,£2736,11537,missing,6146,15163,-999,£7889,£3857,£11916
+"May 23, 2022",NA,CD,ENGLISH,happy,90s,sony,yes,top-10,missing,live,1-3,No,sleep,Seniors,Latam,15298," 8,475",19051,5006,   693,17041,-999,3222,"16,665",10701
+2023-09-28,rock,cassette,NaN,sad,80s,SONY,Yes,Top-40,strings,LIVE, 0 ,no,PARTY,adults,EU,9968,10270,103,£18632,10259,12484,7590,19190,2295,£2438
+2022-06-16,classical,CASSETTE, german ,angry, 90s ,indie,YES,Top-40,drums,STUDIO,1-3,yes,FOCUS,seniors,latam,15514,16531,£10479,19270,11435,12313,3327,£12071,3093,2098
+27/07/2021,-999,CD,french,Energetic,2000s,sony,Yes,uncharted,piano,Studio,8+,yes,workout,adults,asia,3789,2899,18174,"17,480",19013,8990,14389,7916,,£8424
+2022-12-05,jazz,CD, spanish ,ENERGETIC,80s,NA,-999,top-40,strings,LIVE,4-7,No,NA,seniors,eu,4293,12694,7082,11154,15200,1383,3544,6033,"19,245",   779
+2022-01-07,jazz,cassette,SPANISH,Sad,80s,warner,yes,top-10,drums,studio, 1-3 ,no,mood,kids, Us ,5220,"14,331",6437,3509,   871,6480," 7,827",379,£10014,18629
+2022-10-19,NaN,Live,french,Sad,70s,universal,yes,top-40,guitar,studio,1-3,No, Party ,SENIORS,missing,9037,9717,18346,13296,2337,3807,10965,19182,"17,955",3955
+NaN,hip-Hop,Live,french,chill,2020s,warner,YES,uncharted,Strings,NA,8+,no,Party,KIDS,eu,16966,£15383,NaN,£14177,NA,,-999,6706,1307,£9543
+03/10/2024, HIP-HOP ,STREAMING,spanish,Chill,2020s,Indie,no,top-40,SYNTH,studio,1-3,Yes,NaN,kids,eu,1575,7988,"10,304",10961,NaN,£8963,£221,-999,,£10238
+04/01/2024,edm,Cd,KOREAN,ENERGETIC,80S,indie,yes,-999, Strings , Live ,1-3,yes,Workout,seniors,eu,,9651,£9782,15704,£18065,"16,364",6735,15782,NA,13574
+2022-09-06,EDM,cassette,english,NA,80s,sony, No ,top-10,piano,LIVE,4-7, yes , Party ,seniors, Latam ,£1856,£18149,10537," 4,506",6502,14000,£3757,"10,850",missing,18222
+10/05/2021,,vinyl,english,missing,90s,missing,yes,top-40,GUITAR,Live,missing,Yes,-999,teens, latam ,12087,NA," 2,405",5470,19714,,2530,missing," 9,662"," 5,850"
+"Sep 22, 2021",Pop,NaN,english,sad,2020s, universal ,NA,Top-100,Drums,Studio,4-7,Yes,Party,Teens,eu,12663,NA,9946,14917,"11,513",£12369,7661,11406,14643,2428
+24/11/2022,Edm,streaming,,happy,2010s,INDIE,Yes,top-10,piano,live,4-7,yes,workout,Seniors,us,3445,£15114,10615,,13793,4275,8919,15320,£10440,4304
+2023-02-13,classical,-999,Korean,chill,70s,NA,NA,Top-100,guitar, STUDIO ,0,yes,mood, adults ,UK,,15214,£6203,7535,5877,"11,782",-999,£7951,"12,533",1520
+,JAZZ,NA,french,chill,70s, indie , yes ,Uncharted,piano,live,1-3,NO,workout,ADULTS,eu," 5,479",9793,£3286,18518,"12,033",£2509,18562,," 9,403",9328
+2022-10-13,Hip-Hop, cd ,korean,sad,90s,Warner,no,-999,synth,LIVE,-999,Yes,focus,teens,UK,12912,12810,£205,NA,12044," 7,588",£3457," 3,012",1503,£7206
+14/01/2022,ROCK,cassette,german,energetic,2010S, indie ,yes,UNCHARTED,SYNTH,live,1-3,-999,mood,-999,us,£16482,£17393,2009,"11,003",   236,"11,094",   156,"19,318",987,"15,102"
+"Oct 10, 2023",NaN,CD,english,missing,90s,universal,yes,uncharted,Piano,STUDIO,8+,yes, focus ,teens,NA,1938,NA,4500,10564,£12565,5472,9305,£12563,11556,10641
+NA,edm,Streaming, korean ,happy,80s,sony,NO,uncharted,GUITAR,studio,8+,yes,workout,seniors,,£13980,NA,£13405,1600,missing,missing,£14381,16267," 5,026",8257
+01/01/2023,edm,vinyl,english,energetic,80S,warner,YES,top-40,synth,live, 0 ,Yes,Sleep,Teens,UK,14684,8134,7780,,14102,missing,10200,6965,15943,13583
+26/06/2023, hip-hop ,NaN,spanish,angry,70s,universal, yes ,TOP-10,guitar,live,4-7,yes,workout,kids,-999,"11,119"," 4,075",5553,1832,£11501," 8,462"," 8,392",6023,14086,-999
+03/02/2021,pop,live,english,NaN,2010s,INDIE,No,UNCHARTED,drums,STUDIO,,YES,party,Seniors,Uk,"19,079",-999,£2458,NaN,NaN,83,£1006," 2,625",NaN,"16,262"
+2023-05-26,rock,live,spanish, Happy ,90S,Indie,No, UNCHARTED ,synth,Studio,4-7,NA,party,adults,EU,4692,"14,698","17,834",18033,15097,2211," 7,715",18043,missing,918
+2024-11-13,ROCK,live,Spanish,ENERGETIC,90s,sony,NO,TOP-100,strings,Live,4-7,yes,MOOD,adults,us,8486,17987,   775,£15653,£7703,12743,£1987,£591,"16,035",5909
+09/08/2023,rock,Live,french,Sad,80s,Universal,no, TOP-40 ,drums,live,missing,no,Mood,seniors,latam,17098,missing,13422,19674,9481,6125,missing,-999,£15452,£16157
+2023-10-22,POP,cassette,spanish,happy,80s,Warner,no,NaN,guitar,studio,1-3,no,party,teens,latam,8074,£1516,"16,032",19501,9486,£11516,14205,14180,£7689,7840
+2023-04-01,jazz,NA,GERMAN,ANGRY,2000s,indie,Yes,missing,strings, studio ,1-3,yes,Mood,Kids,eu,14895," 6,343",12030,11519,13524,170,16910,£16060,16237,10721
+2021-04-12,NaN,cd,GERMAN,missing,2010s, INDIE ,missing,TOP-40,piano, LIVE ,4-7, yes ,NaN,kids,latam,8871,13663,6312,2428,14568,4341,£13059,457,8565,£11993
+"Apr 24, 2024", CLASSICAL , cd ,spanish,happy,2020s,warner,no,TOP-10,-999,STUDIO,4-7,No,sleep,Teens,latam,NA,£17611,17398,13946,NaN,17741,14642,NA,missing,"15,552"
+13/11/2024,hip-hop,missing, french ,SAD,NaN,NaN,yes,top-10,Synth,studio,4-7,no,Workout,Teens,latam,"13,657"," 2,283",NaN,missing,£4679,9698,NA,NaN,,"15,517"
+2021-08-19,hip-hop,vinyl,KOREAN,ENERGETIC,2020s,SONY,no,TOP-40,guitar,live,4-7,No,Sleep,teens,Us,,18940,4854,12122,12165,£14204,1081,£6395,8315," 5,335"
+2021-04-07,Classical,vinyl,french,energetic,2000s,NA,,missing,synth,STUDIO,NaN,NO, workout ,Teens, Asia ,,5265,"13,283",11458,7257,,,"11,311",2580,1491
+2022-01-11, edm , CASSETTE ,spanish,chill,NA,warner,yes,Uncharted,strings,live,4-7,yes,SLEEP,adults,missing,£12891,8615,," 9,897",£10447,12452,15746,,£4063,10585
+2021-04-21,classical, Cd ,french,happy, 80s ,indie,NO,top-10,guitar,studio,0,yes,Party,teens,US,9261,£7167,11109,18234,10260,9921,8771,6169,£2515,£19448
+01/09/2024,missing,vinyl,English,sad,90s,indie,NO,missing,-999,LIVE,1-3,NO,WORKOUT,teens,Uk,missing,7265," 7,599",19095,£15063,NaN,14017,£6682,1124,8367
+2021-08-13,JAZZ,cd,FRENCH,ANGRY,2010s,sony,yes,missing,Drums,studio,0,no,MOOD,teens,Eu,8564,10536,5610,17519,£10119,,18092,11018,6184,NA
+2024-03-13,Pop,live,french,happy,2020s,indie,yes,top-10,piano,-999,NaN,yes,Party,NA,us,£14927,7298,6139,,7831,£2831,6160,11371,"10,988",£19723
+14/02/2024,Edm,streaming,korean,happy,2010s,universal,missing,,GUITAR,Live, 1-3 ,yes,FOCUS,TEENS, UK ,-999,4080,-999," 2,168",£14553,8752,19044,£16313,16069,8165
+2024-10-11,classical,STREAMING,korean,energetic, 2020s ,missing,yes,TOP-100,piano,Studio,-999,NA,mood,Kids,US,£5104,"11,854",-999,NaN,£12473,-999," 8,141",£17374," 4,651",18382
+NaN,rock,vinyl,KOREAN,happy, 2020s ,warner,no,top-40,SYNTH, live ,4-7,Yes, sleep ,seniors,Asia,15626,15232,NaN,"18,999",8606,18076,2710,"13,809",3948,15870
+2023-01-15,NA,Live,Spanish,energetic,2010s,UNIVERSAL,yes,-999,guitar,studio,4-7,Yes,NaN,teens,uk,missing,2951," 8,391",2762,£13072,16040,1487,missing,£7883,15472
+2022-09-03,classical,cd,spanish,happy,2010s,Sony,YES,top-10,synth,studio,missing,No,PARTY,kids,Latam,missing,missing,-999,£859,6419,19131," 9,299","14,475",missing,4019
+2022-08-31,rock,cd,german,Sad,70S,missing,YES, Top-100 ,NA,Live,8+,yes,Workout,KIDS,US,13436,£8500,£5103,missing,16698,£9942,NA,18152,1350,11187
+NaN,Jazz,cd,FRENCH,chill,2000s,sony,no,top-100,synth,Studio,8+,no,workout,kids,latam,-999,10273,missing,NA,NaN,,13205,£8182,19352," 6,693"
+25/04/2021,hip-Hop,streaming,KOREAN,angry,,Warner,missing, top-10 ,SYNTH,live,4-7,Yes,sleep,,uk,,£17382,7173,-999,17552,16746,NaN,6512,14886,15845
+2021-06-07,edm,cassette,Spanish,happy,70s, warner ,No,Top-40, piano ,live,1-3,No,NA,KIDS,uk,901,11687,8259,£19181,14072,13921,17076,2453,£13475,16785
+NA,classical,streaming,german,sad,2010S,missing,no,top-100,strings,Studio,4-7,NO,Party,seniors,,14343,£8025,9989,18899,1413,£11266,8618,7275,£17056,3101
+22/02/2024,CLASSICAL,cd,english, happy ,2000S,warner,NA,NA,PIANO,STUDIO,8+,yes,NaN,TEENS,Eu,£4245,3552,NA," 8,610",8661,9135,"15,935",8270,£2989,12019
+2022-07-22,pop,cassette,SPANISH,sad,2000S, universal ,yes,UNCHARTED,PIANO,STUDIO,8+,NA,workout,KIDS,latam," 3,830",17438,16776,£9758," 4,839",18188,8008,15872,10792,5238
+29/10/2024,JAZZ,LIVE,german,energetic,2010s,universal,yes,top-40,,live,missing,no,workout,adults,eu,8095,1368,-999,17,13262,16263,,18282,£17827,missing
+2021-05-20,hip-hop,streaming,English, sad ,NA,-999,no,top-100,Drums,Studio,NA,Yes,sleep,Seniors,LATAM," 9,266",6886,7484,,-999,17967,£3170,3895," 3,651",131
+23/12/2021,hip-Hop,cassette,english,chill,80s,sony,no,uncharted,NA,NaN,-999,YES,MOOD,seniors,eu,-999," 9,111",NA,£15016,"12,608",13221,3149,NA," 8,604",-999
+2021-12-02,JAZZ,VINYL,-999,happy,2000s,-999,no,missing,synth,studio,8+,no,NaN,kids,Us,8114,2788,"12,862",£2236,7468,1499,10343,£5183,£3438,NaN
+missing,pop,Cd, french ,missing,2000s,universal,no,top-10,NA,live,8+,no,mood,kids,Uk,   960,3217,19864,9708,14772,£9766,13886,18436," 5,500",2118
+NA,edm,VINYL,english,chill,70s,missing,YES, top-10 ,piano,studio,8+,yes,FOCUS,Teens,ASIA,£14283,£4769,16216,"15,885",14748,11362,13384,19643,9213,8028
+2023-07-17,pop,vinyl,English,happy,2020S, warner ,no,top-10,synth,Live,0,yes,mood,,Uk,13923,13419,NaN,2643,3687,£13454,5908,6725,NA,3930
+31/07/2023,rock,STREAMING,german,chill,2010s,Universal, no ,top-40,STRINGS,studio,4-7, YES ,sleep,Seniors,Us,NaN,,19922,15848,8701,£17908,£2758,9625,14248,4014
+"Aug 26, 2022",-999, streaming ,english,Angry,80S,Universal,yes,Uncharted,Drums,NA, 1-3 ,no,SLEEP, seniors ,us,missing,1829," 6,145",2507," 4,003",missing,14065,695,18907,4576
+2021-05-01,,Streaming,SPANISH,Chill,80s,Sony,no,top-40,piano,live,0,YES,workout,adults,us,"16,243",3029,19432,17070,4303,10318,NaN,601,£3678,9125
+"Dec 21, 2022",hip-hop,-999,Korean,chill,2000s,INDIE,NA,uncharted,,LIVE,NA,no,SLEEP, TEENS ,us,19734,10109,18479,2,16745,11457,15252,4611," 3,998",£8264
+27/10/2022,rock,cassette,french,happy,-999,sony,-999,NaN, guitar ,-999,1-3,yes,mood,-999,UK," 7,992",12702,missing,4513,£5693," 2,100",11041,5137,£7097,17821
+26/04/2024,-999,Vinyl,NaN, chill ,2000S,universal,missing,TOP-40,NA,studio,1-3,yes,sleep,seniors,,1073,19127,-999,NaN,11388,"13,209",15441,£4102,15738,4602
+2023-10-05,JAZZ,Vinyl,spanish,sad,70s,universal,NO,top-10,strings,live,1-3,no,missing,Kids,ASIA,£7536," 8,121",8345,missing,12461,NA,£19785,14392,-999,6647
+29/12/2024,HIP-HOP,NA,Korean,happy,90s,universal,yes,top-10,synth,Live,0,no,Workout,teens,asia,9983,-999,7182,,missing,17052,12360,NA,545,6989
+"Apr 02, 2023",pop,, korean ,sad, 2010s ,Warner, yes ,NaN,SYNTH,-999,4-7,No,NaN,Adults,eu,1218,"15,120",4523,,9780,6883,-999,£14176,16344,730
+15/11/2022,pop,cassette,spanish,sad,70s,universal,NaN, top-10 ,Piano,live,0,Yes,mood,seniors,Eu,7535,missing,£10938,10924,£8435,£3182,"12,310",344,"17,524",12654
+14/06/2023,rock,vinyl,korean,angry,2000s,missing,NaN,TOP-100, STRINGS ,studio,1-3,NaN,party,kids,asia,6448,285,"16,164",19958,15838,11754,missing,2205,3687,"18,791"
+07/10/2022,JAZZ,,French,CHILL,2000s,Warner, NO ,missing, GUITAR ,-999,1-3,no,focus,ADULTS,latam,2695," 1,269",1446,"11,649",13899,£7146," 3,929",10149,1271,5992
+19/07/2023,rock, cassette ,english,Energetic,2000s, universal ,yes,top-40,STRINGS,,8+,No,workout,Adults,asia,£12014,15467,5326,5589,14378,1577,NA,"19,821",missing,5420
+2022-07-19,hip-Hop,Vinyl,Spanish,sad,80s,UNIVERSAL,yes,NaN,Guitar,live,8+,YES,mood,kids,missing,12960,18958,-999,7681,2110," 8,478",13963,13247,5767,3191
+"Jan 22, 2022",,vinyl,german,ENERGETIC,80s,universal,No,Top-100, SYNTH ,live,4-7,no,Focus,teens,asia,731,17845,7572,9885," 8,017",15580,9939,,£2196,
+2022-03-10,CLASSICAL,Vinyl,GERMAN,happy,2010S,sony,-999,top-40,STRINGS,live,NaN,yes,-999,Teens,ASIA,12434," 5,843",9612,"11,806",9406,9739,3709,£10674,17382,£18623
+2023-05-27,classical,streaming,, ANGRY ,70s,sony,NO,Top-40,Strings,live,4-7,No,mood,adults, asia ,," 7,060",18179,15201,12018,"11,559",13348,18013,3191,£4645
+2024-12-28,classical,CD,korean,sad,90s,indie,no,Top-10,synth,studio,1-3,YES,NA,teens,Uk,9309,£19142,,11422,£8163,£14073,14956,"15,298",5609,£4595
+08/07/2021,NaN,-999,spanish, energetic ,2020s, warner ,NO,top-100,drums,live,1-3,no,Workout,TEENS,EU,15738,£353,11069,3145,2947,7369,NA,16993,missing,
+,missing,cassette,spanish, HAPPY ,80s,universal,no,top-100,,LIVE,4-7,NO,NA,adults,uk,13757,4846,NaN,-999,3709,7574,NA,5877,£16547,£17655
+2022-05-02,-999,, english ,chill,missing,sony,NaN,Top-40,DRUMS,STUDIO,0,YES,FOCUS,kids,Latam,4101,43,£14409,4652,3572,4938,15688,12484,,16299
+27/10/2024,hip-hop,live,korean,ENERGETIC,2020s,INDIE,missing,top-40,piano,studio,4-7,NaN,FOCUS, teens ,US," 7,417",6363,£9131,-999,NA,10244,17446," 4,404",19212,-999
+2024-04-30,edm,STREAMING, spanish ,energetic,90s,universal,no,uncharted,strings,live,8+,YES,focus,seniors,asia,18914,6507,,-999,NA,missing,NaN,11919," 4,807",2798
+2021-02-19,pop,,spanish,energetic,2000s,indie,-999,TOP-40,synth,Studio,8+,yes,Focus,Seniors,us," 2,253",15694,5775,,£15150,£18249,10587,"18,167","14,415","13,042"
+2023-01-07,rock,cd,NA,HAPPY,2000s,universal,yes,top-10,PIANO,NA,8+,Yes,missing,ADULTS,uk,7343," 1,736",16812,17094,15252,19848,14515,£10590,15512,£11670
+06/10/2022,hip-hop,CD,korean,happy,2020s,SONY,Yes,top-100,guitar,,4-7,Yes,MOOD,seniors,latam,"19,067",354,-999,NA,17988," 1,793","15,855",19999,16955,missing
+2022-12-09,classical,streaming,korean,angry,2010s,indie,NO,top-40,piano,Studio, 8+ ,no,sleep,kids,Eu,9410,NaN," 9,679",17433,"19,645","13,313",,"16,855",3822,£3997
+2024-11-14,rock,streaming,korean, energetic ,2010s,-999,yes,Top-10,SYNTH, LIVE , 8+ ,yes,Workout,-999,us,199,15743,4780,4500,7200,£10248,16034,2587,£1418,17588
+"Jun 25, 2024",-999,vinyl,SPANISH,ANGRY,2000s,indie,no,top-100,STRINGS,Studio,1-3,NaN,Mood,kids,-999,10571,"17,430",4980,8008,£13193,NaN,missing,"10,056",3158,£2960
+2021-01-28,Classical,-999,GERMAN,Chill,2000s,UNIVERSAL,no,UNCHARTED,synth, live ,0,YES,workout,ADULTS,EU,19589,18215,NA,6725,9716,-999,2933,5532," 6,040",9195
+24/06/2021,EDM,CD,english, chill ,missing, universal ,no,TOP-100,strings, studio , 1-3 ,No,Sleep,seniors,NaN,3314,,"18,867",missing,7044,£9793,2341,5444,5928,17929
+2022-04-22,jazz,CASSETTE,spanish,ANGRY,2020s,indie, YES ,UNCHARTED,drums,STUDIO,NA, YES ,workout,kids, Latam ,7768,16658,NA,17056,13348,NaN,£18067,£17701,19621,"15,845"
+06/08/2021,jazz,vinyl,korean,Angry,2010s,INDIE,no,Top-40,guitar,Live,4-7,NaN,workout,kids,US,16155,10523,17608,£13818,£4440,£10894,10470,5389,"16,048",8737
+"May 15, 2024",POP,,missing,sad,2010s,universal,YES,missing,synth,Live,1-3,yes,Party,Adults,ASIA,8685,,7372,"10,196",11633,11257,£7796," 2,462",9963,11783
+24/07/2021,rock,vinyl,FRENCH,happy,,indie,no,missing,drums, Live ,NaN,YES,mood,SENIORS,uk,,12956,12169,4238,19995,4849,NaN,£14855,381,missing
+"Oct 16, 2021",JAZZ,missing,korean,Happy,2020S,indie,yes,top-10,synth,Live,1-3,no, mood ,Teens,latam,NaN,missing,18537,13978,£3906,7000," 8,698",17757,17748,1745
+2023-01-31,HIP-HOP,VINYL, English ,,70s,warner,No,top-40, drums ,Studio,NaN,yes,MOOD,,latam,111,2054,£15168,19730,NA,12079,11132,£14764," 3,770",NaN
+25/04/2022,hip-Hop,cd,French,SAD,2020s,universal,no,top-40,Drums,studio,4-7,yes,focus,Kids,uk,19622,NaN,16536,£16504," 5,568",NA,£12158,£7116,11980,15400
+05/12/2022,HIP-HOP,LIVE,SPANISH,chill,70s,universal,no,top-10,missing,Live,8+,yes,Mood,adults,missing,11103,7429,-999,£7915,5077,17996,£1016,"10,575",17329,-999
+2022-08-16,Rock,CD,German, chill ,80s, indie ,NA,top-100,, studio ,1-3,yes,NaN,teens,asia,15160,14239,,missing,£2835,"10,190",£14954,8163,£5207,15293
+2021-04-22, jazz ,CASSETTE,Spanish,ENERGETIC,NaN,sony,no,UNCHARTED,synth,studio, 0 ,NO,NaN,adults,Us,5352,£7934,£19226,14008,6496,£14614,16111,NA,1744,11074
+2021-09-20,HIP-HOP, streaming ,german,chill,NA,indie,yes,Top-10,guitar,Studio,1-3,no,mood,adults,UK,15541,£2974," 5,541",£4458,3837,4825,17278,NA,£10566,
+"Feb 09, 2021",classical, streaming ,German, Chill ,90s, Universal ,NO,,NA,live, 0 ,No,party, SENIORS ,latam," 6,762",15848,5600,6227,15377,8789,5124,17377,16956,£11260
+08/04/2023,pop, STREAMING ,KOREAN,sad,,universal,Yes,top-100,piano,Live,0,YES,mood,SENIORS,EU,15234,6200,4569,14416,11026,£9313,16387,£1292,NA,14375
+03/12/2022, hip-hop , VINYL ,ENGLISH,Angry,2020s,sony,no,Top-40,DRUMS,-999,8+,No,party,teens,us,12282,13591,£13810,9715,"15,811",-999,19648,-999,£18104,"17,628"
+23/10/2023,classical,VINYL,german,Angry,2000s,indie,no,top-10,strings,Live,8+,no,party,Seniors,UK,"16,499",17204,£1852,7217,11755,9740,10943,missing,£18545,6840
+15/10/2024,jazz,Cd,korean,Sad,2020S,Universal,YES,Top-100,DRUMS,studio,0,yes,FOCUS,-999,latam,16955,4271,£1494,NA,£5299,16366,"13,612","18,475",5012,19512
+2021-07-25,pop,cassette,french,angry,70s,missing, YES ,Top-100,guitar, studio ,1-3,no,Sleep,adults,NA,NaN,16814,£9293,19010,4832,2466,3398,-999,16184,7556
+NaN,Rock,missing,english,happy,2020s,-999,yes,top-40,missing,live,0,no,workout,KIDS,uk,17976,NaN,£8166,5512,4134,£13693,£6006,1862,£12529,11021
+"Nov 26, 2022",ROCK, Vinyl ,english,energetic,,NA,YES,top-100,strings,live,4-7,yes,focus,kids,-999,12296,1620,"19,951",-999,11608,missing,16336,10970,2732,£12595
+08/07/2024,Hip-Hop,live,german, Happy ,90s,Universal,no,top-40, DRUMS ,live,NaN,NA,WORKOUT,, EU ,14688,6896," 5,913",missing,15413,1156,"19,173",12687,15278,12516
+14/09/2022,Edm,cd,,chill,90s, universal ,NO,uncharted, guitar ,-999,4-7,NO,FOCUS,,us,£6661,NA,3129,"15,949",NA,17299,14759,2939,"13,887",£11598
+2023-05-01,missing,vinyl, Korean ,ANGRY,2020s,universal,YES,top-40,strings,Live,8+,no,SLEEP,Kids,uk,13177,12772,NA,£3813,NA,6876,-999,15238,4253,9074
+12/08/2022,HIP-HOP, Cd ,NaN,Happy,missing,Universal,no,top-100,,live,NaN,NO,Focus,Adults,Us," 4,500",£6125,12768,2173,£2437,"13,621",948,11321,18541,16270
+2023-03-21,,CD,NA,energetic, 90s ,UNIVERSAL,-999,top-40,piano,studio,4-7,no,SLEEP,adults,UK,9205,missing,3049,£9977,NaN,2747,1227,14077,   207,14574
+2022-10-24,hip-hop, vinyl ,ENGLISH,Chill,80s,indie,,top-100,guitar,live,0,NO,WORKOUT,teens,us,£2798,5593," 8,645",NaN,£16653,£1924,12281,£8207,,10240
+,Rock,cd,NA, Chill ,90s,UNIVERSAL,NO,Top-100,strings,live, 1-3 ,no,mood,adults,Eu,NA,7488,3372,"11,598",15303,missing,13182,244,7558,£10730
+2023-03-10,Edm,vinyl,english,missing,2010s,sony,NO,,strings,live,4-7,,party,Adults,Latam," 3,346",13434,10574,14944,missing,11521,"18,677"," 6,766","12,123",5185
+10/03/2023,Rock,STREAMING,korean,energetic,2000S,indie,NA,top-100, PIANO ,Studio,1-3,no,NaN,ADULTS,NaN,NaN,7929,19133,"11,505",10351,1263,,"10,702",10845,16762
+02/11/2021,NA,CASSETTE,Korean,sad,80s,Indie,no,top-10,strings,studio,1-3,no,mood,Adults,uk,£4189,5635,18971,,£14963,1146,15898,6001,2338,719
+06/02/2021,EDM,Cd,NA,missing,2020s,sony,no,uncharted,guitar,NaN,8+,yes,NA,Teens,Uk," 6,693",7980,15614,£8532,"15,195",£15209,£5562,530,missing,2004
+06/07/2023,Rock,STREAMING,german, Energetic ,2020s,WARNER,yes,top-40,drums,studio,1-3,,WORKOUT,seniors,missing," 2,679",£4447,1446,6282,1487,8817,£7536,5353,947,15199
+01/06/2022,hip-Hop,cd,english,HAPPY,70s,universal,No,uncharted,guitar,Studio,0,Yes,party,kids,Uk,8793,963,£14111,-999,11091,5792,9953,"18,776",4672,13504
+09/05/2023,edm,NA,spanish, sad ,2000s,,missing,top-100,Strings,,4-7,no,sleep,TEENS,Uk,10578,3073,4143,15378,£5880,4400,,"17,967",17081,16746
+14/04/2023,classical,cd,missing,angry,80s,missing,yes,top-10,synth,NA,,Yes,Party,adults,us,12394,10269,6962," 1,789",16337,2516,-999,£142," 4,771",4284
+01/05/2023,edm,LIVE, English , angry ,80S,Universal,yes,top-100, synth ,NaN,8+,YES,focus,adults,uk,11482,-999,12980,£4217,7421,4549,4082,£2235,-999,£9374
+2023-12-23,rock,cd,english,ANGRY,2000s,warner,no,TOP-40,drums,LIVE,4-7,no,NaN,SENIORS,NA,"10,758",209,"13,018",NaN,"16,959","15,943",4117,"18,047",1903,9953
+2021-12-25,rock, Vinyl ,english,sad,NA,universal,NO,NA, guitar ,Live, 0 ,NO,sleep,Kids,EU,16198,£17697,"19,797",9927,2084,£8,11206,"10,183",17095,£14844
+2021-10-24,hip-hop,Live,english,happy,,indie,yes,top-40,Drums, live ,1-3,no, Focus ,Adults, asia ,"17,588",£11334,17672,14400,NaN,,16053,4003,NA,17260
+2023-07-30,EDM,VINYL,korean,Sad,70s,SONY,missing,uncharted,,-999,0,YES,WORKOUT,teens,LATAM,missing,14317,5041,12002,,13643,,14708,£3086,5385
+11/08/2024,Rock, cd ,spanish,chill,90s,sony,Yes,top-10,Guitar,live,4-7,yes, MOOD ,teens,US,£14154,5152,,£19498,£8810,"13,326","19,393",missing,1972,15532
+2022-10-30,classical,Cd,french,ENERGETIC,90s,warner,no,top-100,GUITAR,STUDIO,1-3,-999,Sleep,TEENS,US,15757,10696,"10,269",£2591,9692,£19747,6697,12848,,missing
+06/04/2023,Pop,cassette,korean,energetic,70s,warner,Yes,NA, strings ,Live,1-3,yes,FOCUS,Seniors,NA,1901,3598,16308,missing,4602,,15156,6126,missing,15776
+2022-10-20,hip-hop,NA,german,energetic,2010S,sony,yes,top-10,piano,LIVE,1-3,No, mood ,Adults,Uk,£10654,NA,11993," 6,611",£7262,8389,-999,7293,NA,12612
+20/04/2023,jazz,streaming,korean,chill,80S,universal,yes,top-10,missing,STUDIO, 0 ,Yes,mood,kids, Uk ,10175,"12,404","14,083",5185,£238,14340,11280,"19,760",4671,
+2023-02-12,NaN,CASSETTE,english,chill,2000s,indie, yes ,top-10,PIANO,live,8+,No,SLEEP,Teens,ASIA,7336,£10599,18341,643,£1255,19244,16055,6696,9240,missing
+05/04/2024,pop,cd,German,energetic,2010s,INDIE,no,top-10,Strings,live,1-3,no, workout , SENIORS ,eu,£16889,"18,507",13754,16713,9332,"19,843"," 8,473",12899,16228,£4898
+27/01/2024,JAZZ,CASSETTE,french,Energetic, 70s ,universal,no,uncharted,guitar,studio,8+,yes,mood, kids ,ASIA,19646,16890,2701,1488,7121,1452,6507," 7,604",14198,3939
+"Nov 09, 2021", pop ,Streaming,spanish,angry,2020S,universal,Yes,uncharted,SYNTH, studio ,0,NO,workout,kids,uk,£3962,"12,528",7856,7815,£17987,797,NA,18083,4609,£3109
+02/09/2024, pop ,cassette,English,CHILL,2000s,Universal,No,top-40,PIANO,LIVE,4-7,No,party,Kids,Us,7911,13002,45,16082,-999,£16676,10613,4727,10137,1913
+"Apr 20, 2022",classical,live,korean,chill,2010s,sony,Yes,top-40,Strings, STUDIO ,0,NA,focus,Adults,Asia,6155,3490,388,£10034,missing,missing,3511,NaN,12744,3191
+,NA,live,korean,sad,2000s,,no,TOP-40,synth,STUDIO,8+,,Sleep,Seniors,latam,,6908,11539,missing,-999,£4504,9153,"12,096",6418,10988
+28/03/2024,edm,NaN,GERMAN,energetic,70s,warner,NA,NA,Piano,Studio,0,Yes,party,seniors,ASIA,missing,£12033,4126,   787,11446,4084,,2471,5606,9682
+13/06/2023,pop,vinyl,spanish,Happy,70s,,no,top-10,SYNTH,-999,4-7,no,party,kids,Latam,2059,NaN,794,16878,,17648,NA,9103," 2,287",15368
+2024-10-29,classical,Streaming,german,CHILL,2020s,UNIVERSAL,no,Top-100,drums,missing,NA,no,focus,Adults,,910,7179,-999,3627,2502,2770,"16,766",£5473,1991,£3628
+15/06/2022,Pop,cd,ENGLISH,chill,2010S,sony, no ,,synth,studio,4-7, no ,mood,Seniors,us,"12,840",6080,19158,-999,,2211,"17,908","11,670","13,099",10069
+2024-03-20,hip-hop,live,spanish,happy,2000s,Sony,YES,uncharted,piano,studio,4-7,no,focus,adults,-999,"19,649",17404,16089,£19527," 1,551"," 4,396",£10689,6019," 4,099",11319
+"Jun 13, 2023",Hip-Hop,Live, FRENCH ,happy,2000s,Sony,NO,Top-100,DRUMS,STUDIO,0,YES,FOCUS, kids ,LATAM," 3,496",14410,£8251,6619,,9668,"12,084",£9413," 3,633",£14770
+2023-02-21,-999,cd,korean,angry,2010s,INDIE,No,top-40,,missing,0,no,workout,ADULTS,us,missing,8576,7402,16311,4295,£15256,2615," 9,240",15414,2499
+missing,Jazz,cassette,german,,2000s,indie,No,TOP-40,guitar,studio,1-3,yes,Sleep,SENIORS,latam,6787,6201,16143,"14,611",9529,,"14,671",15147,1912,"11,956"
+2023-05-10, rock ,live,-999,Happy,80S,NaN,no,top-40,synth,studio,4-7,yes,WORKOUT,kids,uk," 6,987","18,432",19265,16632,13089,£8444,"16,491",12738,2909,17459
+missing,Rock,live,-999,-999,2020S,universal,Yes,top-10,piano,live,1-3,Yes, workout ,seniors,Asia,,-999,£14805,£19614,£15182,,14815,5038,"17,952",9916
+2024-05-03,rock,streaming,french,sad,2010s, Indie ,no,top-10,strings,STUDIO,0,no,PARTY,Kids,uk,2609,NaN,14427,17726,£10056,13784,15143,2841,£14312,7449
+NA,pop,Streaming,Korean,Energetic,2010s,warner,NO,Uncharted,missing,Live, 1-3 ,no, Workout ,adults,Uk,11879,£9985,14702,3619,-999,19202,7551,£19289,11524,£5235
+2023-10-20,EDM,CASSETTE,SPANISH,Energetic,2010s,indie,no,Top-100,drums,-999,8+,no,PARTY, teens ,uk,8823,3488,15986,15789,16204,"19,818",9214," 6,387",10935,£6537
+01/01/2022,classical,streaming,french,sad,2000s,warner,yes,,STRINGS,studio,8+,No,MOOD,adults,asia,£5127,9406,11448,2408,3400,3111,5338,7251,,"19,493"
+24/12/2024, JAZZ ,Streaming,-999, HAPPY ,80s,sony,Yes,uncharted,guitar,Studio,1-3,No,sleep,SENIORS,uk,17676,9383,"10,638",6129," 8,705",605,3263,-999,5696,4178
+25/04/2023,pop,missing, KOREAN ,energetic,-999,sony,no,top-10,,-999,1-3,NA,mood,SENIORS,Asia,8629,12756,"13,010",NA,9042,7655,£18148,"16,230",488,1492
+2023-05-21,hip-hop, live ,French,SAD,90s, Universal ,Yes,top-40,drums,Studio,8+,,workout,adults,us,£2517,14413," 4,950",3865,,NA,£15882,"12,396",NA,13189
+28/01/2021,HIP-HOP,cd,french,happy,70S,missing,-999,top-10,Guitar,Live,NA,missing,PARTY,teens,asia,9119,"11,514",4540,19916,760,8537," 2,936",£7754,16732,NA
+11/06/2022,pop,live,NA,ANGRY,2010S,Indie,no,uncharted,piano,Studio,8+,NaN,focus,TEENS,LATAM,14689,1319," 5,978",8454,4206,NaN,1980,£10000,9306," 4,018"
+2022-11-14,classical,Cd,French,missing,missing,sony,missing,TOP-40,guitar,live,1-3,no,party,seniors, Latam ,4847,3385,190,£17090,8689,19903,11404," 2,853",£15953,15708
+16/03/2022,Classical,Cd,english,-999, 2010s ,indie,no,top-10,piano,NaN,8+,Yes,WORKOUT,Teens,latam,8062," 2,473",NaN,10403,£11533,15140,17166,11857,11599,14568
+"May 09, 2021",rock,VINYL,FRENCH,CHILL,90s,universal,,top-40,missing,Live,missing, NO ,PARTY,kids,asia,5830,12886,13697," 3,142",£19938," 9,597",6346,£751,NaN,"12,818"
+"Nov 22, 2023",NA,cd,french,,2020S,-999,missing,top-100,SYNTH,live,1-3,no,mood,Seniors,Eu,5447,1681,12172,£4259," 3,453",missing,19073," 6,630",6302,£10320
+20/07/2023,HIP-HOP,NaN,english,angry,2000S,NA,No,Top-10,Guitar,LIVE,4-7,no,workout,adults,Uk,5740," 8,509","15,657",3744,18219," 2,848"," 1,330",16969,£16502,-999
+2021-05-14,jazz,vinyl,-999,,90s,Indie,no,UNCHARTED,DRUMS,Studio,4-7,,Party, Kids ,NA,£16136,£14643,15455,12991,7140,10759,7804,4497,17156,"19,705"
+20/01/2021,rock,live,Spanish,sad,2000s,Sony,Yes,top-100,guitar,live, 0 ,Yes,mood,TEENS,uk,£6384,12995,16198,"14,952",-999,11142,3692,5109,6895," 6,382"
+"Dec 29, 2024",NaN,Streaming,english,-999, 2000s ,-999,-999,TOP-10,guitar,STUDIO,8+,no,party,seniors,latam,4763," 6,293",8248,NaN,£13339,13841,"17,195",16943,NA,1126
+16/01/2023,pop,cd, french ,energetic,80s,NA, YES ,top-10,synth,Studio,0,NaN,PARTY,SENIORS,us,£6519,11580,14532,8975,7869,7891,7507," 3,963",,10658
+2024-07-25, classical , cd ,korean,happy,2010s,SONY, Yes ,TOP-10,Strings,LIVE,0,No,sleep,TEENS,latam,11217,"17,649",17408,18181,£15354,8728,4305,NA,13853,£14213
+26/08/2024,hip-hop,LIVE,spanish,angry,80s,sony,no,Top-40, synth ,Studio,0,YES,workout, kids ,eu," 7,769",17902,NaN,5688,9792,13761,NA,19026,12032,6013
+2023-06-21,pop,NA,missing,chill,2000s,warner,NO,top-40,Synth,studio,0, yes ,mood,teens,latam,"18,960",14077,£15438,7181,1465,16834,15641,NaN,17585,10850
+"May 23, 2023",Rock,Cd,english,ANGRY,70s,indie,,uncharted,drums,STUDIO,1-3,No,-999,Teens,asia,137,5156,7053,596,12115,14315,NaN,15545,£2182,13026
+27/12/2022,hip-hop,cassette,english,chill,2020S,UNIVERSAL,yes,uncharted, Synth ,live,4-7,No,workout,SENIORS,Asia,"16,125",8663,£1978,£2292,-999," 7,566","15,977"," 4,705"," 4,603",18589
+26/02/2023,Classical,cassette,spanish,happy,90s,Universal,YES,NaN,synth,studio,4-7,no,party, KIDS ,eu,12565,10451,838,£13121,NA,£7475,2048,12310,NA,£13995
+28/08/2021,classical,STREAMING,GERMAN,,2000S,universal,no,top-100,STRINGS,studio,1-3,YES,NaN,-999,us,,13007,-999,£8095,£11668,£17804,6514,659,£5485,£1926
+31/10/2024,classical,-999,KOREAN,happy, 90S ,NaN,YES,TOP-100,DRUMS,STUDIO,4-7,no,FOCUS,KIDS,US,NA,5619," 4,851","16,693",234," 1,460",NA,£258,6619,NaN
+24/06/2021,Rock,LIVE,spanish,,70s,Warner,No,top-100,DRUMS,missing,0,yes,party,kids,eu,-999,13054,1139," 9,053"," 9,899",NaN,12677,"17,158",£1865,16879
+26/09/2021,pop,Streaming,french,chill,2000s,INDIE,no,missing,Drums,studio,8+,no,sleep,adults,eu,18933,"15,298","10,558",16389,NaN,NaN,£11921,£4165,missing,"17,569"
+2023-05-10,POP,cassette,FRENCH,ANGRY,70s,NA,yes,Top-40,STRINGS,live,0, no ,Mood,Teens,NA,12577,missing,3027,£19099,3202,19020,£16616,6580,7265,11708
+2022-06-21,Classical,LIVE,FRENCH,happy,2000s,-999,yes,top-10,Guitar,live,1-3,yes,mood,missing,Latam,£7460,NA,"15,585",missing," 9,097"," 6,801",2295," 7,827"," 3,354",13069
+23/06/2021,hip-hop,,french,Sad,70s,SONY,Yes,top-40,NaN,Live,4-7,yes,focus,teens,-999,NA,497,£3323,,10651,"10,596","15,633","14,503",6069,329
+"Jan 30, 2023",hip-hop,cd,english,happy,2010s,Warner, yes , Top-100 ,Piano,studio,4-7,NaN,sleep, seniors ,Uk,£17112,16664,8901,11620,"19,838",NA,14607,   936,18785,£10774
+2023-01-23,Hip-Hop,NA,german,Chill,2020s,indie,Yes,uncharted,strings,STUDIO,8+,yes,sleep,kids,Latam,12187,1251,11526,£610,,2024,7088,£2281,5260,3898
+01/06/2022,hip-Hop,Vinyl,french,sad,NA,indie,Yes,Top-40,drums,Studio,1-3,No,NA,NA,ASIA,3143,,19820,5965,19335,"11,792",17908,NaN,"12,862",7073
+25/03/2022,jazz,cassette, french ,happy,70s,universal,Yes,top-40,Synth,Live,NA, yes ,,ADULTS,us,"14,406",£7438,12899,8542,£17134,-999,3679,-999,15304,missing
+29/06/2024,Edm,vinyl,,energetic,2000S,UNIVERSAL,yes,uncharted,strings, studio ,1-3,NaN,missing,SENIORS,Asia,,"15,536",13207,10735,15810,NaN,£11800," 2,398",£13662,15696
+2022-03-18,jazz, cassette ,NA,happy,90s,warner,no,Top-10,STRINGS,STUDIO,0,no,party,KIDS, uk ," 6,122"," 3,057",missing,£10959,13893,2810,19951,16776,£6111,3075
+06/03/2024,pop,Cassette,english,missing,2010s,indie,no,,Strings,Live,8+,no, sleep ,seniors,NA,"14,330",3184,5917,NaN,"18,059",missing,4248,"13,267"," 4,439",14729
+2024-09-02,hip-Hop,live,german,happy,90s,Warner,YES,missing,piano,studio,0,yes,Workout,seniors,LATAM,"11,423",1250,6499,11442,4357,2358,19424,£9690,5386,15686
+19/11/2023,hip-Hop,CASSETTE,-999,sad, 2010s ,warner,no,Top-100,guitar,studio,4-7,NO,Mood,TEENS,Uk,13682,5635,NaN,8978,£11076,12872,15120,2982,NaN,£16335
+NaN, CLASSICAL , VINYL ,English, HAPPY ,2020s,indie,Yes,TOP-10, Piano ,,0,YES,workout,teens,eu,£2946,£3303,13774,4991,13511,17283,missing,317,13944,2232
+2024-11-12,rock,Cd,spanish,ENERGETIC,90s,NA,YES,NaN,Strings,live,4-7,yes,PARTY,Adults,Uk," 5,677"," 1,480",£19292,9517,786,,£4374,NA,NA,10632
+NA,rock,cd,ENGLISH,SAD, 80s ,sony,No, TOP-10 ,DRUMS,live,8+,NO,focus, seniors ,eu,18963,8875,5516,7108,1239,"19,287",£17680,19246,"19,053"," 5,843"
+04/07/2021,JAZZ,,french,happy,80s,indie,no,top-10,missing, Studio ,1-3,yes,party,seniors,us,18329,13656,"13,738",130,7612,13541,£8378,14062,£2776,£5916
+"Nov 26, 2023",hip-Hop,streaming,French,sad,90S,WARNER,Yes,TOP-100,drums,Live,1-3,YES,sleep,kids,latam," 2,182",£11450,NA,11822,4374,15774,"10,043",7370,14052,5645
+missing,jazz,live,korean,angry,2000s,warner,NaN,Top-100,synth,studio,1-3,no,NaN,teens,eu,9443,£4559,," 1,949",717,13523,13687," 2,866",£13324,18633
+2024-12-17,pop,cd,spanish,angry,70s,INDIE,Yes,NaN,guitar,studio,4-7,yes,focus,NA,asia,19975,," 2,215",60,13477,£16262,2293,NA," 3,164",13067
+NaN,ROCK,cd,FRENCH,chill,2020s,UNIVERSAL,no,top-10,drums,LIVE,1-3, No ,WORKOUT, SENIORS ,EU,£593,£16886,,NaN,"15,966",15350,13697,4982,14196,6611
+27/02/2024,jazz,live,english,HAPPY,NA,Universal,missing,TOP-10,drums,-999,8+,NO,Party,Adults,EU,4658,2912,2799,17898,   270,5709,19912," 9,907",2525,7136
+17/10/2024, jazz ,vinyl,,,80s,Sony,yes,top-10,strings,STUDIO,4-7,,Sleep,NaN,eu,5755,"17,404",9498,£7170,10538,£7117," 4,661",£7165,5671,
+2023-08-15,hip-Hop,cd,Korean,angry,80s,universal, no ,top-10,synth,live,0,yes,NA,teens,us,2112,£17336,-999,9599,"19,707",1146,15534,1985," 5,526","12,329"
+2021-11-03,classical,cd,french,angry,2010s,,No, TOP-10 ,strings,Live,8+,YES,party,Kids,Eu,£7856,NaN,685,14658," 7,649",11682,10437," 1,035",10304,16162
+"Dec 14, 2022",jazz, Streaming , spanish ,energetic,,universal,YES,,strings,live,8+,No,workout,ADULTS,uk,3449,13614,"16,696",14841,6852,19287,8907,2808,15514,£5294
+17/11/2022,pop,cd,german,Angry,70s,UNIVERSAL,NA,top-40,PIANO,studio,0,yes,Mood,seniors,Uk,5537,£18003,£15335,missing,7726,3262,6152,£18748,15336,15742
+24/11/2023, classical ,Cassette,German, energetic ,missing,indie,YES, Top-100 ,Guitar, live , 0 ,Yes,Mood,kids,uk,£19037,16832,£1348,£11930,15308,£12431," 9,992",18686,5280,581
+"Apr 28, 2022",classical, vinyl ,french,sad,-999,warner,Yes,top-100,STRINGS,LIVE,-999,YES,MOOD,NaN,latam,1182,,4144,missing,213,9486,18898,"12,057",2413,£3739
+05/12/2024,NaN,streaming,english,chill,NaN,universal,NaN,Uncharted,SYNTH,live,8+,NO,sleep,kids,ASIA,16120,6708," 8,946",13515,£18252,8526,missing,"10,054","16,643",£6751
+02/10/2024,Edm,Cd,korean,-999,2010s,Indie,no,top-40,NA,live,0,NO,focus,kids,asia,3032,10648,2026,9682,£6711,9037,£2294,14478,16398,11238
+2024-01-25,classical,Live,spanish,Angry,80s,indie,yes,top-100,drums,studio,0,Yes,missing,-999,uk,£19048,16995,,," 8,142",5682,608,811,NA,8471
+"Jul 24, 2024",ROCK,live,french,SAD,NaN,,YES,,strings,studio,1-3,YES,FOCUS,adults,NA,1675,4526,,50,"12,924",696,,£14957,£6965,17073
+08/07/2024,classical,cd,spanish,NaN,2020s,indie,no,TOP-100,Synth,studio,4-7,no,PARTY,teens,Latam,NaN,11649,11671,missing,£4407,13358,3512,12588,13359,£7987
+23/07/2024,rock, live ,english,Energetic,2020s,Sony,no,top-40, GUITAR ,Live,8+,no,Sleep,seniors,uk,16795,14403,"14,233",£2575,13151,1741,10737,missing,£10915,11087
+"May 17, 2022", Rock ,vinyl,missing,angry,80s,universal,yes,TOP-100,strings,live,0, Yes ,party,adults,LATAM,"17,361",13487,18891,£2479,17921,    88,£11349,missing,4651,18537
+"Apr 17, 2023",pop,cd,spanish, SAD ,2000s,indie,yes,NaN,synth,Live, 1-3 ,no,FOCUS,SENIORS,asia,£12502,15880,15302,missing,£13033,7086,19694,12918,18794,7785
+2021-06-17,classical,missing,korean,happy,90s,, no ,Top-10,strings,live,8+,NaN,NA,SENIORS,-999,9120,16031,2479,1283,£1530,"14,602",6821,11239,16972,11552
+2023-12-01,Pop,,-999,Sad,80s,SONY,no,top-100,piano,live,8+,no,sleep,teens,latam,£16327,901,£12237,10546,10837,9726,£4291," 3,900",13155,4147
+28/07/2022,edm,Live,English,Chill,80s,SONY,No,Uncharted,guitar,LIVE,0,yes,NA,kids,latam,"10,931"," 8,579",3642,8022,missing,7716,13656,5458,18374,£15162
+27/06/2022,hip-hop,missing,German,Chill,90s,universal,YES,TOP-40,-999,studio,0,No,Mood,adults,Us,19868,6561,19525,£8942,18044,12604,18043," 4,049",£8825,1090
+2023-09-21,Rock, vinyl ,english, Sad ,70s,WARNER,No,TOP-40,synth, live ,1-3,no,Focus,ADULTS,Asia,NaN,NA,missing,,3406,10554,4604,£6399,11717," 2,401"
+16/10/2023,classical,Vinyl,KOREAN,angry,70s,indie,NO,uncharted,guitar,NaN,4-7,No,MOOD,adults,uk,16886,13779,5277,"19,263",£3525,," 9,815",,17703,-999
+2023-05-16,missing, live ,missing,happy,70s,warner,no, top-100 ,drums,LIVE,1-3,no,sleep,TEENS,NaN,£14774,5501,11440,NaN,9360,£17836,5163,18702,9321,17004
+2022-08-04,classical,VINYL,KOREAN, sad ,70s,warner,yes,uncharted, drums ,LIVE,4-7,no,focus,Teens, uk ,19230," 8,358",4307," 3,841","17,264",5519,16893,£2038,205,NA
+25/03/2024,NaN,CD,spanish,ENERGETIC,2020s,universal,no,UNCHARTED,Strings,live,8+,yes,MOOD,Seniors,eu,9353,5746,£13225,8694,-999,6252,9959,1474,3981,13246
+29/05/2021,jazz,vinyl,Spanish,energetic,70s,WARNER,Yes,top-100,Drums, live , 1-3 ,YES,MOOD,teens,asia,16898," 9,450",£18713,12836,13586,missing,£3336,17861,15112,NA
+2021-10-12,rock,streaming,spanish,energetic,2010S,INDIE,no,TOP-40,drums,missing,0,NA,sleep,Teens,latam,9945,"11,154",5671,missing,missing," 5,030"," 3,679",4388,746,1379
+2024-06-10,hip-hop,VINYL,German,angry,2020s, Warner ,missing,top-100,missing,live,1-3,missing,focus,Seniors,asia,6613,16117,12626,£11765,2599,£12265,4668,£17328,1501,missing
+"Feb 01, 2022",CLASSICAL,LIVE,english,Happy,2020s,UNIVERSAL,yes,TOP-10,drums,Studio,4-7,No,sleep,teens,ASIA,3104,17775,10008,10909,4028,138,"10,680"," 3,213",7329,2578
+2022-07-12,Pop,vinyl,german,Chill,2000s,Warner,Yes,top-100,drums,live,4-7,no,PARTY,Teens,uk,11871,-999,NA,£14486,14455,13750," 4,682",2087,3938,£13074
+09/11/2023,hip-hop,NA,ENGLISH,CHILL,2020s,SONY,NO,top-100,Guitar,NaN,8+,NO,FOCUS,kids,EU,4916,1643," 8,699",21,9449,NaN,£15031,"12,242",18437,£2707
+03/10/2021,jazz,VINYL,missing,SAD,NaN,Universal,yes,top-10,strings,STUDIO,4-7,yes,workout, adults ,EU,£16897,," 3,054",4370,14944,4001,15979,10262,missing,12356
+28/04/2021,ROCK,vinyl,French,Happy,2020s,sony,NA,uncharted,NaN,live, 8+ ,YES,WORKOUT,ADULTS,us,19138,6627,18457,8281,5594,14466,8225,19917,11937,5892
+-999,pop, Live ,english,chill,90s,indie,YES,missing,strings,STUDIO,1-3,NO,FOCUS,Kids,us,1328,"15,859",12173,NaN,"19,353",18097,NA,-999," 4,918"," 7,867"
+23/07/2022,rock,cassette,Spanish,Angry,2000s,universal,Yes,uncharted,Drums,studio,8+,yes, Party ,Teens,missing,13276,12426,£9784,19487,972,3490,15244,1183,14884,"14,061"
+NA,JAZZ,cassette,english,chill,2000s,sony,no,TOP-100,-999,studio,0,no,,adults,Latam,£4695,5151,£3521,17244,19768,£11109,8930,8192,2819,2878
+2023-12-08, Pop ,Live,English,energetic,2020s,warner,Yes,top-10,guitar,Live,4-7,yes,-999,Teens,Us,NA,"19,683",18741,£537,NA,11367,NaN," 4,226",£11888,£6048
+14/05/2023,hip-Hop,-999,FRENCH,energetic,,INDIE,no,uncharted,GUITAR,live,1-3,no,,TEENS,EU,6684,NaN,7284,5420,11726,£9954,4891,NA,14547,406
+29/12/2024,Pop,LIVE,,Sad,2000S,warner,,-999,Guitar,Live,8+,yes,sleep,adults,us,£19443,13069,,19573,11033,-999,13271," 6,280",11856,
+-999,classical,cd,spanish,Chill,2000s,indie,Yes,top-40,guitar,studio,8+,no,party,missing,Latam,16546," 1,052",13898,missing,3021,15075,missing,£17407,11221,"16,148"
+2021-06-07,pop,Vinyl,Spanish,energetic, 2000s , universal ,Yes,uncharted,piano,studio,4-7,yes,sleep,NA,uk,7397,-999,£924,-999,£7837,£1562,£13677,£13284,18109,£9960
+"Dec 20, 2021",rock,cassette,spanish,energetic,-999,Sony,Yes,UNCHARTED,-999,LIVE,4-7,no,Sleep, seniors ,missing,NaN,18309,19530,19037,"12,484",17238,£13605,4560,£5654,3190
+2021-07-26,Hip-Hop,live,,angry,80s, Universal ,No,top-10,drums,studio,0,,Mood,teens,uk,NaN,2303,7564,,14041,£4897,14498,"18,670",6312,2501
+29/11/2021,,Streaming,spanish,NA,90s, INDIE ,no,top-100,GUITAR,STUDIO,1-3,Yes,mood,TEENS,UK,-999,548,15037,19072,12173,16654,12243,19349,5560," 8,234"
+30/09/2024,rock,Vinyl,French,chill,70s,indie,yes,top-100,missing,Studio,8+,Yes,focus,, asia ,£13315,NA,1965,£14212,"13,712",£15426,18187,11591,"19,369",6318
+06/07/2024,NA,Live,spanish,sad,2020s,UNIVERSAL,no,,guitar,STUDIO,4-7,yes,mood,,UK,-999,£11032,NA,12080,£2423,3881,NA,19648,£1734,3503
+03/03/2021,POP,vinyl,german,angry,2020s,INDIE,NaN,Top-100,strings,live,4-7,no,focus,kids,LATAM,13837,NA,NaN,NA,6270,11373,7382,1258," 9,402",4593
+08/05/2024,hip-hop,live,French,HAPPY,2010S,warner,yes,top-40,Drums,live,1-3,no,NaN,teens,Asia,,,13211,"15,299",10586,£4364,9893,16859," 9,020",NA
+2024-12-01,,CASSETTE,spanish,chill,2020s, Indie , no ,Top-40,synth,LIVE,8+, yes ,focus,adults,uk,£12428,15067,14864,8357,8174,9063,1497,7404,4110," 5,825"
+17/01/2022,classical,cd,french,Sad,90s,sony,NO,top-10,drums,NaN,1-3, Yes ,workout,ADULTS,,1690,3223,3747," 2,658"," 7,201",8924,6302,732,£15108,£3949
+NaN,JAZZ,cassette,ENGLISH,Chill,70s,warner,No,missing,guitar,Studio,8+,,mood,Kids,uk,£17681," 9,065",   246,   630,missing,16844,£73,,14385,missing
+"Feb 26, 2024",ROCK,LIVE,german,happy,2010s, indie ,NO,Top-40,piano,studio,missing,NO,Party,kids,eu,missing," 6,231",14364,7952,"16,002",12347," 1,704",10895,18401," 6,647"
+21/03/2021,jazz,Cd,ENGLISH,happy,80s,sony,NO,Top-100,synth, live ,1-3,missing,SLEEP,Kids,Uk,2176,1647," 5,163","11,052",7595,"11,720",1236,8300,"13,085",11498
+2023-02-26,missing,vinyl,German,angry,90s,sony,no, TOP-100 ,Strings,studio,,NO,mood,,NA,"18,653","15,181",£17169,11365,10129,£6739," 8,181",18661,"18,259",£15754
+2024-01-22, edm ,cassette,-999,energetic,2010s,sony,Yes,uncharted,,NA,0,No,focus,kids,eu," 9,868",10256,9236,9545,17018,12684,4050,"13,723",1248,5439
+"Jan 26, 2021",edm,cassette,FRENCH,energetic,90s,SONY,no,TOP-10,Strings,live,,Yes,Workout,seniors, EU ,5457,9204,missing,14780,9886,9333,977,£10907,£11443,12897
+29/06/2024,Edm,-999,french,sad,90s,Warner,no,-999,Synth,STUDIO,4-7,NO,NaN,seniors,US,3829,NaN,19628,-999,"16,682",17687,18457,14993,9844,£11696
+"Apr 17, 2021",NA,Streaming,SPANISH,angry,2010s,UNIVERSAL,no,Top-100,drums,studio,0,no,Sleep,KIDS,uk,5038,,NaN,308,16237,5758,missing,15264,16452,£4972
+"Nov 11, 2024",jazz,-999,korean,NaN,2010s,missing,yes,top-10,Drums,live,0,no,SLEEP,adults,uk," 5,014",,9754,£9528,-999,1587,13023," 6,586","12,852"," 5,915"
+09/04/2022, CLASSICAL ,cd,NA,,80S,Universal,yes,-999,synth,live,8+,no,workout, seniors ,eu,12702,3460,6145,£17954,10864,14008,£8985,NA,19576,£903
+2023-05-02,jazz,vinyl,french, energetic ,2020s,warner,No, Uncharted ,piano,STUDIO,8+,yes,missing,missing,NaN,9355,9291,"18,475","13,192",missing,4185,£2183,995,NaN,£18590
+07/11/2022,classical,cassette,missing,NaN,2010s,Indie,yes,top-100,guitar,live,,no,Mood,Seniors,UK,10659,NA,NA,missing,1643,   958,NA,£13975,   229,18789
+,classical,cd,ENGLISH,happy,2020s,INDIE,yes,Top-100,drums,-999, 0 ,NO,Mood,SENIORS,missing,£10561,13559,18049,18571,13840,"16,647",,16111,,4749
+30/03/2021,rock,,german,Angry,NaN,universal,no,top-10,Strings,studio,1-3,NaN,focus,teens,asia,14334,"17,928",17886,9715,19552,missing,£2163,NA,£18891,-999
+21/07/2023,EDM,NA,missing,chill,NA,universal,yes, TOP-100 ,synth,studio,1-3,no,party,KIDS,uk,4652,£7424,£9700,-999,£4778,NaN,19135,£6214,13735,13560
+2024-11-08,rock,Cassette,KOREAN,chill,missing,sony,Yes,top-40, GUITAR ,studio,4-7,NO,party,missing,UK,"12,419",13316," 5,687",18780,£6368,£299,12988,£10472,5496,5773
+2021-02-01,edm,vinyl,-999,happy,70s,indie,,top-10,GUITAR,studio,1-3, yes ,party,,NA,19493,6948,"18,900",14063,16313,18568,6450,£18117,-999,5172
+2024-04-30,,streaming,spanish,missing,80s,sony,no,Top-10,GUITAR,live,0,yes,mood,kids,uk,9937,NaN,"14,473","11,025",£1351," 7,641",7371,"12,420",-999,5029
+05/11/2022,CLASSICAL,cassette,german,sad,90s,Indie,no,NA,Synth,Studio,4-7,yes,,NA,latam,2421,10639,£12509,6042,"15,106",£8423,£18515,3877,"12,699",19369
+2023-08-04,rock,vinyl, german ,chill,missing,WARNER, no ,UNCHARTED,STRINGS,Live,4-7,no,party,teens,Us,£9401,,19665,5239,9148,12164,£1236,£15773,5194," 8,813"
+14/06/2023, rock ,STREAMING,spanish, happy ,90S,warner,missing,top-10,drums, studio ,NA, yes ,NaN,kids,Eu,£435,NaN,£15713,£6856,18591,missing,1056,£1706,5648,17118
+10/09/2023,HIP-HOP, Vinyl ,spanish,energetic,80s,Sony, yes ,top-40,Guitar,live,8+,No,sleep,teens,asia,NA,£12399,," 6,164",19476,£12348," 2,843",10080,missing," 6,465"
+20/06/2024,POP,live,german,SAD,2000s,indie,no,Uncharted,STRINGS, studio ,0,yes,sleep,-999,-999,9963,£19776,£11416,838,£2575,"10,556",3618,16921,5670,"15,505"
+missing,jazz,Cassette,Spanish,CHILL, 2010s ,Warner, no ,top-40,guitar,STUDIO,8+,Yes,party,SENIORS, eu ," 8,919"," 5,501",19160,£863," 6,787",NaN,13707,6543,4718,£10905
+2023-05-10,classical,Cd,SPANISH,energetic,2020s, sony ,NaN,Top-100,piano,live,4-7,no,workout,kids,LATAM,16648,-999,NaN,17744,£3736,3078,18359,4420,missing,-999
+2021-11-24,rock,STREAMING,Korean, sad ,, Indie ,no, uncharted ,DRUMS,Live,0,no,SLEEP,Teens,UK,£2287,£1909,8909,10498,10046,"13,044",17016,£6728," 7,755",£2956
+28/12/2022,Pop,Streaming,german,angry, 2010s ,warner,Yes,top-10,Strings,live,NaN,yes,WORKOUT,KIDS,NA,missing,3479," 6,206",-999,3839,"16,719",19471,2825,-999,NA
+23/03/2023,CLASSICAL,VINYL,korean,missing,,warner,no,,GUITAR,live,8+,yes,mood,SENIORS,asia,772,"14,929",17373,£7560,£8475,15847,-999,3132,18226,missing
+12/07/2023,hip-Hop,Cassette,Korean,NaN,,indie,yes,,drums,studio,8+,no,focus,seniors,asia,12517,12242,£19022," 1,575",9177,£10863,"16,045",10892,"12,535",£4247
+"Dec 25, 2021",Classical,,ENGLISH,angry,2000S,Universal,Yes,top-100,piano,studio,NA,NA,Focus,seniors,US,707,10705,-999,527,2039,11400,3751,£12976,£16160,19301
+29/01/2022,classical,streaming,Korean,CHILL,2000s,UNIVERSAL,no,top-100,drums,STUDIO,8+,NO,workout,adults,NA,£7530,6905,"11,023",11758," 8,052",£10864,10601,£11578,,19715
+07/12/2024,Jazz,Cd,German,sad,90s,-999,YES,top-40,strings,LIVE,8+, yes ,Sleep,seniors,eu,12842," 2,955",4802,,£10937,3606,14787," 6,011",6781,2213
+"Oct 14, 2022",NA,LIVE,korean,energetic,80S,Indie,no,TOP-100,Synth,studio,1-3,yes,PARTY,teens, UK ,,NA,missing,9922,12438,£11319," 1,765",NaN,"14,620",£15990
+2022-05-16,missing,cassette,NA,sad,90s,Universal,-999,TOP-40,Guitar,live,8+,yes,party,seniors,NaN,missing,1786,NaN,13573,17876,5721,14062,17742,3920,£9491
+"Mar 21, 2024",edm,live,French,energetic,70s,WARNER,yes,uncharted,strings,live,4-7,yes,Mood,NaN,us,£18465,9871,11614,5833,missing,13183,7087,-999,16473,   362
+2024-01-09,edm,cassette,english,ENERGETIC,70s,NA,NO,top-40,GUITAR, studio ,8+,yes,sleep,teens,uk,10314,8823,-999," 9,508",£13725,"17,673",15217," 2,845",missing,6346
+2022-06-09,Classical,live,,Energetic,2010S,sony,No,top-100,strings,Studio,4-7,yes,sleep,missing,us,2164,-999,NA,£1867,£4222,6053,10598,NA,£17552," 5,590"
+2022-11-19,jazz,vinyl,french,Angry,2020s,Sony,No,top-10,synth,studio,4-7, yes ,FOCUS,seniors,us,£14330,   422,missing,"19,333",£5173,-999," 6,638",16823,15226,missing
+2024-08-06,POP,cassette,FRENCH,-999,2020s,,YES,,piano,studio,0,No,mood,Kids,uk,5357,"10,537",16241,NA,NaN,£7790,,18210,NaN,12813
+"Jul 18, 2024",HIP-HOP,NaN,FRENCH,happy,80S,sony,no,top-100,drums,live,4-7,YES,-999,teens, eu ,18993,3499,13794,£1529," 1,412",19319,1481,4468,£10860," 7,683"
+"Nov 23, 2021",Rock,streaming,French,SAD,2000s,Sony,no,top-10,guitar,Live,0,No, mood ,adults, asia ,6550,18079,19993,,13420,5597,4832,7062,1663,7935
+11/06/2024,rock,vinyl, english ,Angry,2020s,universal,NA,Top-10,GUITAR,Live,0,no,party,NaN,asia,11025,17324,£14549," 9,918",£16536,19583,£11220,18474,NA,NA
+2024-02-28,ROCK,live,korean,SAD,80s,indie,No,top-40,STRINGS,LIVE,4-7,Yes, PARTY ,seniors,Us,7427,1025,-999,16297,2605,10587,£17443,14642,3078,18732
+06/12/2023,hip-hop,missing,german,SAD,NaN,universal,NO,top-10,guitar,live,8+,no,FOCUS,Kids,UK,£16344,£18434,£13275," 7,213",6850,£10141,16908,NA,12571,3942
+"Oct 26, 2023",Pop,live,,chill,70s,indie,yes,UNCHARTED,drums,Live,4-7, yes ,sleep, adults ,LATAM,3960,18714,"10,937",8702,14130,1794,13649,17455," 7,607","17,374"
+2024-07-05,classical,live,french,happy, 70s ,universal,-999,Top-100,guitar,studio,4-7,no,focus,Teens,us,£17876," 2,270","13,168",,£4880,£7048,13556,,," 4,918"
+missing,pop,vinyl, german ,chill, 90s ,warner,no,top-40,synth,,0,yes,NA,adults,US,1304,5753,£5271,8064,2389,£17287,-999,7446,missing,7101
+06/10/2023,-999, STREAMING ,korean,Angry, 2010S ,INDIE,yes,Top-40,drums,NA,1-3,NA,party,kids,NA,missing,£8859,3926,2850,£14689,13012,"10,125"," 4,731",635,424
+2023-04-18,ROCK,CASSETTE,ENGLISH,Energetic,NA,sony,yes,top-10,STRINGS,live,4-7,NO,party,TEENS,US,19320,12236,1059,6756," 9,155",NA,£9581,1540,6669,£7175
+NA,rock,NA,Spanish,ENERGETIC,2010s,Warner,yes,top-100,PIANO,live,1-3,NO,party,KIDS,eu,17525,17982,18632,13720,"13,830",16454,£2830,3048,£990,"10,047"
+2023-09-18,jazz,live,Spanish,,90s,sony,No,top-100,Drums, studio ,1-3,no,workout,-999,missing,NA,3696,15657,"14,567",5485,13551,-999,"10,885",17033,15530
+11/05/2023,jazz, Live ,spanish,chill,2020s, sony ,no,,guitar,studio, 0 ,YES,mood,adults,-999,£19735,£19893,18255,3542,344,£7918,12451,12898,£18038,17955
+16/10/2023,Rock,Live,missing,chill, 2010s , warner ,yes,TOP-10,PIANO,STUDIO,4-7,no, MOOD ,ADULTS,NaN,NA,"16,198",£7044,-999,"16,425",11110,6340,"13,545",358,18781
+,HIP-HOP,CD,english,-999,2020S, indie ,no,top-10,-999,Live,1-3,No,focus, Seniors ,Eu,"12,555","16,433",11883,£2495," 8,701",18324," 9,253",£17405,16892,-999
+30/12/2022,Hip-Hop,live,,ANGRY,2020s,Indie,yes,uncharted,-999,Studio,4-7,yes,focus,Seniors,eu,17584,£2059,4469,"17,104",14671,4205,2247,14831,19636,£2012
+"Jul 29, 2023",edm, LIVE ,Korean,Angry,2000s,NA,yes,UNCHARTED, DRUMS ,NaN,8+,NA,Mood,-999,latam,7259,-999,18869,missing,5832,NA,6000,8139,13208,4177
+2023-10-30,Jazz,live,german, Angry , 80s , universal ,NO,top-40,piano,studio,missing,no,workout,ADULTS,Asia,-999,10940,£17794,11157,"19,364",19027,18732,"16,609",NA," 6,203"
+,-999,vinyl,NaN,,2000s,indie,yes,TOP-10,piano, studio ,-999,no,focus, adults ,LATAM,£5051,15346,-999,16504,16915,14845,4724,NaN," 1,089",3218
+"Sep 10, 2021",Edm,Cassette,english,sad,2020S,universal,Yes,uncharted,piano,missing,8+,yes,PARTY,,uk,£8437,17698,15316,   316," 2,541","12,522",£7270,£2351,10019,NA
+NaN,classical,live,spanish,happy,2010s,universal,yes,UNCHARTED,Piano,studio,4-7,-999,party,seniors,latam,,missing,17761,2113,16998,£19403," 3,065",5405,19517,17428
+2024-04-09,rock,streaming, korean ,happy,2000s,indie,YES,TOP-10,-999,Live,1-3,NA,workout, adults ,EU,£15473,7559,"13,771",£8249," 2,217"," 8,606",8051,2574,"15,086"," 1,174"
+2024-04-27,-999,Live,french,missing,2010s,indie, no ,TOP-10,Synth,LIVE,8+,no,focus,ADULTS,US,missing,missing,1664,18668,1601,£2754,"11,230",missing,5004,14525
+12/01/2023,rock,streaming,korean,Chill,80s,Sony,-999,Top-10,synth,studio, 1-3 ,No,party,seniors, UK ,"16,559",6102,10746,476,£8826,16138,9797,NaN,£12155,1185
+2021-08-18,ROCK,Vinyl,ENGLISH,energetic,90s,NaN,missing,uncharted, drums , studio ,0,no,party,seniors,EU,19318,357,13108,13987," 8,123",3859,NaN,7320,   600,13813
+"Mar 31, 2021", pop ,,German,Sad,2010S,indie,no,TOP-40, guitar ,Studio,8+,YES,focus,Adults,eu,2296,1088,£3267,missing," 7,713",£6395,"19,815",£6663," 2,191",4045
+missing,rock,live,KOREAN,angry,2000s,sony,YES,uncharted,drums,Live,1-3,yes, MOOD ,teens,Uk,3111,17857,16448,"17,788",missing,NA,1687,5452,18304,£2139
+17/12/2023,hip-Hop,,-999,SAD,2020s,Universal,yes,uncharted,piano,live,-999,no,WORKOUT,TEENS,uk,3592,11259,£5181,117,-999,£11001," 6,272",19864,£12001,7560
+2021-12-11,POP,live,french,energetic,2020s,universal,no,top-100,missing,Live,0,no,mood,seniors,eu,"11,684"," 2,478",£5831,16508,-999,7150,missing,NA,5447,3401
+"Oct 12, 2022",rock,CD,NaN,chill,90s,universal,no,top-40,piano,LIVE,1-3,NA,party,TEENS,ASIA,"13,958",7951,-999,3051,59,5237,12961," 2,974","12,775",4500
+24/04/2024,edm,,english,ANGRY,80s,sony,NO,NaN, DRUMS ,live,NA,no,sleep,seniors,us,missing,13196,7531,13686,12796,8565,15047,"15,540",3976,NaN
+15/07/2024,edm,Vinyl,spanish,happy,90s,universal,-999, TOP-40 , Synth ,LIVE,NA,NA,,teens,uk,,13063,"11,229",10736,7184,"13,253",8724,6396,5416,£4372
+21/09/2021,edm,live,spanish,happy,NaN,sony,yes,TOP-10,piano,STUDIO,8+,yes,sleep,SENIORS,NaN,£2009,7439,18326,11378,£10580,£19683,7457,14235,19629,£896
+2021-09-25,ROCK,vinyl,french,angry,80s,NA, no ,top-10,guitar,Studio, 4-7 ,no,sleep,SENIORS,,15241,19393," 2,936",NA,6541,,NaN,-999," 2,033",NaN
+15/04/2022,NA,streaming,spanish,energetic,80s, Indie ,YES,TOP-10,synth,live, 8+ ,no,PARTY, Kids ,Eu,12678,£15592,£746,"10,010",18815,10304,12252,19453,19792,-999
+13/01/2021,pop,Cd,French,energetic,2010s,sony,No,top-40,synth,STUDIO,4-7,no,sleep,adults,us,9597,£17699,NA,17021,NA,19262,"12,884",17444," 2,170",-999
+2023-01-29,pop,Cd,spanish,happy,90s,sony,yes,top-100, drums ,live,4-7,no,,SENIORS,UK,£2752,"17,702",16955,,10797,16626,15085,3363,3683,1357
+06/12/2022, HIP-HOP ,streaming,GERMAN,angry,2020s,universal,no,top-10,NA,,1-3,NaN,mood,Teens,ASIA,£11061,"10,204",1467,£8144,13639,8255,2247,13684,   956,£8827
+NA,jazz,streaming,Korean,Chill,70s,indie,NO,Top-100,Drums,Studio,0,-999,focus,seniors,eu,7045,"18,963",13992,11279,"13,943"," 8,665",15331,£14854,2398,£15767
+-999,Rock,cassette,english,chill,-999,UNIVERSAL,Yes,Uncharted,NaN,studio,1-3,yes,Mood,kids,Us,1046,12632,11830,16640,17,"16,647",7442,4871," 4,939"," 6,610"
+2021-11-17,Jazz,vinyl,SPANISH, Chill ,80S,WARNER,Yes,UNCHARTED,synth,Live,4-7,no,Mood,seniors,NA,3431,9879,18792,£5862,13972,£3036,£19310,7724,"10,361",19845
+"Mar 02, 2021",rock,Vinyl,spanish,CHILL,90s,indie,yes,TOP-40,SYNTH,studio,4-7,yes,sleep,Teens,asia,missing,14767,9966,6383,8374,£7250,12628,19240,18201,"14,238"
+27/09/2024,NA,cassette,NA,sad,80S,universal,no,top-10,PIANO,, 0 ,Yes,focus,TEENS,eu," 6,350",,£12951," 9,515",1709,1890,19888,£10623,16184," 6,621"
+2021-02-06,edm,live,KOREAN,missing,-999,sony,yes, TOP-100 ,missing,STUDIO,1-3,yes,mood,adults,eu,108,"16,286",NaN,8931,15690,13290,"15,223","16,273",NaN,£6779
+"Jun 26, 2024",rock,live,spanish,Chill,2010s,sony,yes,top-10,PIANO,live,4-7,yes,FOCUS,teens,eu,£10522,£2945,£5760,"13,308",NaN,"17,604",£6754,£6861,13786,18759
+13/12/2024,hip-Hop,NA,French,sad,2020s,missing,No,-999,strings,studio,8+,yes, FOCUS ,adults,eu,7981,2175,£13767,13876,10008,3651,1299,744,£8588,£19383
+2021-10-10,jazz,cd,NA,Angry,70s,Indie,yes,top-100,NA,,1-3,no,,adults,Us,,7745,10194,12349,12853,423,16147,-999,5003,£6047
+2023-06-16,edm,NA,Spanish,sad, 70s ,sony,yes,TOP-40,synth,missing,0,No,mood,Teens,ASIA,"17,075",9573,3039,2349,14585,594,14318,15137," 6,038",17757
+"Apr 28, 2023",jazz,-999,Spanish,HAPPY,80s,sony, no ,uncharted,GUITAR,Studio,1-3,yes,workout,seniors,NaN," 6,829",10046,13834,12458,5233,-999,£13604,16669,2923,£18252
+2024-12-01,hip-hop,streaming, english ,happy,2010s,indie,no,top-100,synth,,4-7,missing,MOOD,kids,Us,£3215,"10,380",£16216,£11982,"14,535",,3763,14983,14019,NaN
+missing,edm,cassette,german, Energetic ,2020s,SONY,YES,TOP-100,drums,live,8+,yes,focus,adults,NA,£7852,9454,NA,19449,8459,"13,047",-999,12536,14301,NA
+15/09/2024,pop,streaming,french,Happy,2020s,INDIE,NO,NA,Guitar,Live,4-7,No,sleep, kids ,UK,£1985,13362,3850,£7175,£13744,£17199,"17,400",£11900,5152,NaN
+08/03/2024,CLASSICAL,-999,-999, happy , 70s ,Warner,yes,top-100,NaN,Studio,0,yes,Workout,Kids,uk,4632,7087,19194,9016,£6485,£10262," 5,351",1837,£19175,511
+2021-05-30,POP,Cassette, german ,chill, 90s ,Indie,yes,top-10,piano,Live,0,yes,mood,NaN,us,£5202,NA,14559,14340,12343,4055,£11725,7704,-999,9904
+10/08/2023,JAZZ,-999,English,chill,-999,indie,NO,Top-10,missing,NaN,1-3,NA,sleep,KIDS,Us,NA,10969," 2,409",10148,missing,-999,£10146,£9114,19674,£19819
+25/11/2023,hip-Hop,cd,KOREAN,HAPPY,NA,Sony,NaN,top-10,SYNTH,live,,No,sleep, adults ,Uk,£9361,£13958,missing,14818,£14491,10490,13958,9001,15489,£9507
+29/09/2021, pop , vinyl ,german,happy,80s,Warner,no, top-100 ,synth,studio,0,yes,PARTY,ADULTS,latam,£10667,12908,-999,9980,NA,15055,3392,missing,8881,5668
+2023-07-30,classical,live,SPANISH,chill,80s,universal,yes,uncharted, Synth ,live,4-7, no ,-999,kids,Latam," 6,964",6664,£10064,16471,19830,missing," 3,959",934,," 2,693"
+missing,jazz,CD,French,missing,2020s,Indie,no,Top-40,strings,Studio,,yes,NaN,adults,-999,1924,8199,£8138,6912,"18,400",15988,6832,11748,14242," 4,550"
+2024-03-18,NA, cd ,spanish,happy,,indie,-999,Uncharted,strings,Studio,4-7,NO,WORKOUT,KIDS,US,3449,1627,11647,,13865,£17940,8069,14348,£7321,12120
+2023-06-05,Classical,vinyl,French,Angry,90s,warner,yes,top-10,piano,live,1-3,yes, MOOD ,teens,uk,NA,18543,£10209,£139,£18156,1529,£5960,£18895,4821," 7,555"
+2023-06-09,edm,Cd,spanish,Energetic,80S,universal,no,Top-100,SYNTH,Studio,4-7,yes,focus,kids,asia,NaN,"16,294",3853,15042,9563,£6056,16238,"10,583",£10175,£7888
+2023-09-23,Jazz,,spanish,Happy,2000s,indie,yes,top-40,Drums, Live ,0,yes,focus,teens,asia,£10609,6263,11540,£11638,6196,£5198,"12,903",NA,4220,18421
+2023-10-02,NaN,Live,missing,angry,NA,WARNER,,NA,DRUMS,Studio, 0 ,yes,Workout,TEENS,latam," 1,961",1333,1347,,14617,1168,19366,7315,missing,5384
+26/05/2022,classical,cd,korean,angry,80s, Sony ,no,Top-10,,Live,1-3,yes,NaN,adults,us,"18,726",16831," 7,285",13853,"11,588",missing,12167,10880,   717,"16,017"
+19/09/2021,,CASSETTE,korean,energetic,2000S,-999,Yes,uncharted,piano,Studio,4-7,yes,SLEEP,teens,eu," 8,304",£19065,"17,948",£5698,"17,785"," 2,620","14,079",NaN,11632,14168
+2021-03-28,pop,Live,German,energetic,-999,sony,yes,uncharted,Drums,missing, 4-7 ,NO,focus, Kids ,uk,17610,14643,-999,NaN,5707,3062,2848," 1,637","11,956","13,348"
+"Mar 21, 2024",ROCK,cd,German,NaN,80s,WARNER,missing,UNCHARTED,strings,live,4-7, no ,Sleep,adults, us ,17843,-999,11437,12797,5803,5446,   229,-999,10890,15260
+NaN,Rock,NA,english, angry ,80s,INDIE,no,top-10,piano, Studio ,0,Yes,WORKOUT,NA,eu,9805,10424,16494,missing,11840,-999,5654,15203,16216,1190
+15/11/2024,classical,cd,spanish,-999,2000s,UNIVERSAL,no,uncharted,synth,studio,0,no,,kids,Us,missing,£13795,5441,NA,£8521,6554,15836,19411,6271," 9,473"
+02/05/2024,Jazz,Live,SPANISH, happy ,missing,sony,NO,Top-10,guitar,studio,1-3,NA,party,seniors,NaN,15636,NaN,£7860,NaN,13316,£13403,14103,-999,NaN,2730
+2023-03-23,hip-Hop,Live,english,missing,2010s,UNIVERSAL,yes,top-100,synth,STUDIO,1-3,no,sleep,adults,NaN,11930,14428,"17,948","13,702",£2113,6023,3170,5277,2860,£5713
+2024-04-10,,streaming,german,sad,90s,warner,No,,piano,studio,0,yes,mood,Seniors,EU,18811,9905,£9639,9014,1284,£14680,"11,770"," 3,653",£18570,17192
+2021-03-09,NA,Live,korean, sad ,NA,universal,yes,top-40,missing,live,NaN,no,party,adults,uk,14643,"12,731",6567,13667,£2004,414,19135,   208,£8087,17552
+24/07/2023,pop,VINYL,-999,energetic,70s,universal,no, top-40 ,strings,studio,1-3,-999,mood,teens,eu,10006,47,£17764,missing,13116,11757,-999,£7573,£15875,£8667
+NaN,jazz,cd,spanish,CHILL,NaN, warner ,Yes,top-10,,Studio,0,no,PARTY,adults, us ,10283,15087,5892,9336,7078,1094,missing,"10,449",18391,19458
+23/08/2024,Pop,cd,german,chill,90s,WARNER,NA,UNCHARTED,guitar,STUDIO, 4-7 ,NO,mood,NA,asia,1622,5573,10559,16570,16067,9219,17114,£9912,13254,-999
+20/07/2023,pop,-999,spanish,Energetic,2020S,sony,yes,top-100,drums,Live,0, yes ,workout,SENIORS,asia,NaN,8818,£4627,18753,1409,,3592,-999,-999,NaN
+"Jan 20, 2021",hip-Hop,Vinyl,korean,,80s,universal,no,top-40,Drums,live,8+,No,Mood,,Us,NaN,"12,789",9619,2764,2510,£18202,13090,3258,169,-999
+2023-02-23,,NA,FRENCH,sad,2000s,Sony,-999,Top-40,strings,LIVE,1-3,,Workout,adults,,1150,,1253,£13021,16980,£15756,missing,NaN,17506,5328
+"Mar 11, 2023",jazz,vinyl,korean,angry,,universal,yes,top-40,missing,LIVE, 1-3 ,Yes,FOCUS, kids ,LATAM,13316,7754,,£6558," 1,216",5253,,12590,18537,19534
+29/03/2023,,live,english,Angry,70s,sony,No, UNCHARTED ,synth,STUDIO,0,no,focus,Teens,Uk,10164,£9508,17754,7833,£16480,   763,2093,15969,£10920,15585
+2023-09-22, jazz ,Streaming,FRENCH,CHILL,70s, sony ,Yes,Top-100,guitar,studio,4-7,yes,,adults,us," 5,068"," 4,124",17627,5297,£8319,17576,19909,,10191,14123
+29/11/2021,Edm,Cd, SPANISH ,angry,80s,Sony,,top-10,drums, live ,8+,no,Sleep,Kids,latam,870,£4954,2094," 1,533",£7380,1865,8571,£9500,-999,11191
+29/02/2024,Rock,Live,French,,2020s,INDIE,no,top-40, Guitar ,studio,8+,No,Workout,KIDS,Us,missing,13217,NA,£11847,1786,£2211,15829,19166,"15,077",16311
+29/01/2021, pop ,missing, spanish ,chill,80s,universal, yes ,top-40,strings,Live, 1-3 ,yes,workout,adults,uk,£1191,19872,8332,," 6,805",16644,14408,14817,17441,5570
+2024-01-20,Hip-Hop,cassette,french,happy,2000s,Sony,yes,UNCHARTED,strings,live,-999,YES,workout,kids,Asia,8382,19056,216,£12307,8668,"11,225",9111,18667,£10696,686
+07/10/2024,edm,LIVE,korean,happy, 80s ,universal,Yes,top-100,synth,studio,1-3,NO,mood,seniors,Us,£11369,9558,9287,£10323,4883,3787,4371,£18549,12090,13072
+06/07/2021,classical,CD,,CHILL,90s, indie ,yes,TOP-40,Drums,live, 4-7 , No ,workout,SENIORS,latam,£16011,2850,8520,1494,£15431,13548,NA,15955,12061,8354
+2023-10-16,pop,streaming,English,HAPPY,2020s,Warner,yes,uncharted,Piano,NA,0,yes,workout,kids,eu,1258,3347,6349,£4800,19625,18603,£11382,£17222,8203,NA
+NA,hip-Hop,cassette,Korean,CHILL,90s,universal,NO,top-100,piano,live,1-3,yes,Workout,Kids,uk,2182,£2608,1242,6293,4798,4181,NA,missing," 3,438",13609
+2021-11-17,Hip-Hop,streaming,NaN,angry,90S,,missing,top-10,piano,live,0,YES,mood,seniors,uk,£3791,5385,£11226,16492,12647,9573,£8258,NA,13597,"10,727"
+14/06/2024,JAZZ,live,english,,70s,universal,NA,top-100,,studio,8+,yes,missing,NaN, latam ,-999,12553,£13839,11928,10446,NaN,17520,15159,missing,NA
+22/01/2021,JAZZ,cassette,korean,SAD,70s,universal,YES,Uncharted,piano,NA,4-7, Yes ,missing,adults,us,£8602,11675,7707,£563,6348,"18,252",11325,12552,£19727,
+NaN,Edm,vinyl,english,Chill,80s,-999,Yes,top-100,Strings,,4-7,no,sleep,teens, Eu ,10904,1585,"10,034",15786,9571,19864,4708,15307,10674,-999
+05/02/2021,edm,Cassette, FRENCH ,HAPPY,2020S,indie,YES, top-100 ,Strings,live,0,Yes,sleep,teens,eu,£18051,£8624,9890,15703,1405," 1,729",13081,120," 1,316","12,032"
+missing,rock,streaming,Spanish,happy,90s,universal,no,top-10,guitar,studio,0,missing,mood,adults,us,NaN,19232,13134," 7,066",59," 8,040",,,£1014," 4,647"
+2022-04-13,jazz,cd,French,happy,80S,Universal,no,missing,synth,studio,4-7,no,workout,kids,eu,,11309,-999,"12,128",19063,£17434,19724,19712,£810,6493
+2021-04-13,rock,cd,spanish,angry,90s,universal, no , TOP-40 ,Piano,live,4-7,NO,FOCUS,adults,us,"10,140",8847,   447,missing,£10644,3352,£18316,14323,12093,
+"Nov 14, 2022",classical,cassette, korean ,energetic,2000s,universal,no,top-40,Synth,,4-7,missing,sleep,SENIORS,us,£16660,19804,15809,17918,£2058,"13,374",NA,930,"10,400",14775
+20/05/2021,hip-Hop,vinyl,french,angry,2010s,NaN,yes,TOP-10,piano,Live,0,no,focus,Seniors,us,-999,6448,3570,12405,1643,"15,475",91,£7801,"14,178",2541
+2023-01-15,EDM,Vinyl,ENGLISH,missing,-999,indie,no,uncharted,STRINGS,-999,8+, no ,mood,Adults,Uk,121,15192,14364,14406,3415,NA,7990,£14653,7035,£4497
+"Jul 22, 2023",Jazz,Cassette,Korean,SAD,70s,UNIVERSAL,No,top-40,DRUMS,studio,4-7,NO,Mood,teens,latam,NA,£13107,"17,876",14754,17675,9850,16211,£1673,14211,4042
+2022-10-08, Jazz ,live,english,angry,90s,, Yes ,top-40,guitar,Live,4-7,NO,SLEEP,KIDS,eu,994,3313,15093,   177,1989,6751,12792,missing,3188,5364
+21/03/2024,hip-hop,cassette,french,angry,2010s,indie,no,TOP-40, strings ,live,8+,no,focus, Kids ,EU,11931,"16,005",4976,-999,£3103,16383,12761,£9330,18096,477
+missing,rock,CASSETTE,FRENCH,Sad,2000s,SONY,no,uncharted,synth,studio,1-3,no,MOOD,Kids,Eu,,£1341,14038,8263,£6355,£14433,9832,"14,944",11949,9997
+07/04/2023,classical,LIVE,English,energetic,2020s,sony,-999,top-40,synth,Live,1-3,yes,FOCUS,adults,asia,2222,£17655,-999,"11,641",997,957,8353,-999,5233,9656
+06/04/2021,edm,streaming, german ,CHILL,NA, warner ,no,Top-40,DRUMS,live,0,NO,focus,Teens,us,£14007,16256,12192,£17916,13097,£364,6296,8192,13055,19212
+2022-11-05,Pop,cassette,german,chill,2020s,Universal,missing,TOP-10,synth,live,0,yes,focus, seniors ,Asia,"10,164",12964,3465,    60," 9,841",10180,5453,-999,10857,NaN
+"Aug 15, 2023",Classical,cd,English,angry,70s, indie ,NO,Uncharted, drums ,studio,1-3,Yes,PARTY,seniors,eu,7182,£19673,1709,£6271,1087,11371,11781,-999,1114,"12,329"
+2023-11-07,jazz,STREAMING,English,angry,-999,SONY,yes,top-10,piano,live,8+,NO,PARTY, seniors ,asia,14863,14557,15500,16002,£2970," 6,980",5345,4440,NaN,
+03/09/2021,classical,Cassette,French,NaN,90S,universal,yes,Top-40,Guitar,Live,NaN,NO,Sleep,adults,eu,11005,5796,11541," 8,760",,16199,18289,£1583,£17599,£10472
+09/06/2024,edm,Cassette,,angry, 2000S ,UNIVERSAL,missing,UNCHARTED,STRINGS,studio,1-3,No,party,adults,LATAM,14958," 7,493","13,346",18239,11850," 8,892",£11593,missing,16330,18842
+2023-04-23,rock,Live,English,happy,90s,warner,No,NaN,Strings,NaN,4-7,No,PARTY,TEENS,ASIA,18671,8247,16760,3391,8313,£13702,-999," 4,753",8962,2757
+"Feb 12, 2024",hip-hop,vinyl,spanish,SAD, 2020s ,universal,Yes,Top-40,synth,live,8+,YES,mood,Kids,uk,1080,-999,£8895,8794,9056,missing,missing," 6,365",2829,2829
+11/09/2022,Rock,cd,french,chill,90S, Sony ,yes,TOP-40,guitar,studio,0,no,sleep,Teens,us,2826,"16,344",8746,-999,£8024,19100,5964,£17554,480,£202
+16/07/2023, POP ,LIVE,spanish,energetic,NaN,universal,NO,top-100,Guitar,STUDIO,missing,No,focus,teens,Asia,9369,"18,845",4828,2138,£11608,13563,NaN,19064,16687,missing
+-999,jazz,vinyl,German,missing,2000s,Universal,yes,top-100,-999,LIVE,1-3,yes,SLEEP,Seniors,US,£8196," 9,324",19701,£1608,17181,5497,8089,14332,£18736,£17383
+11/06/2021,CLASSICAL,cassette,missing,Happy,-999,Warner,NO,,PIANO,Live,1-3,no,workout,,latam,12441,£13350,399,19855,251,7816,2083,missing,7331,£16013
+"Mar 13, 2022",CLASSICAL,streaming,SPANISH,energetic,2000S,SONY, No ,top-10,synth,-999,4-7,no,Focus, kids ,Eu,16133,11155,NA," 5,039",1956,£11192,£7400," 1,111",12192,11015
+"Oct 15, 2021",edm,cassette,english,CHILL,70s,indie,Yes,top-40,strings,Studio,4-7,no,SLEEP,-999,Asia,"12,122",£502,NaN,16455,"12,922",10311," 4,115",£9594,6205,7080
+"Apr 23, 2021",Edm,CASSETTE,korean,SAD,NA,Universal,no,top-100,guitar,Live,1-3,NO,mood,seniors,uk," 5,718","17,994",-999,NaN,8018,£19162,£12255,10347,£2326,5300
+2024-02-02,jazz,Streaming,KOREAN,SAD,2000S,universal,YES,Top-40,guitar,live, 4-7 ,yes,mood, adults ,uk,18629,14277,13968,-999,"10,061",£2185,14804,12299,7096,£3649
+NA,pop,vinyl,KOREAN,Chill, 90s , universal ,Yes,top-100,-999,STUDIO,4-7,yes,mood,seniors,EU,£3399,missing,1213,2945," 3,162","19,281",14833,£1636,£2915,£520
+19/11/2023,jazz, vinyl ,spanish,HAPPY,90s,universal,yes, top-100 ,PIANO,STUDIO,0,yes,Focus,ADULTS,Eu,369,16551,"18,666",£2214,16547,2158,6199,6447,£949,£7866
+2021-09-30,jazz,LIVE,SPANISH,missing,70S,INDIE,Yes,uncharted,strings,Studio, 1-3 , NO ,Sleep,Seniors,us,10677,4064,17360,11397,£2353,1988,2065," 2,689",£18094,£15492
+16/03/2021,Pop,streaming,spanish, SAD ,2020s,universal,YES,top-100,drums,NaN,0,yes,Workout, kids ,-999,3643," 3,905",missing,NaN,18115,£11816,1981,"19,793",£7449,18801
+2022-12-12,jazz,missing,-999,happy,90s,SONY,yes,top-40,synth, Studio , 4-7 ,-999,mood,adults,asia,4519,14021,2259,119,£10196,17655,£2307,8861,18464," 9,562"
+"May 18, 2023",hip-hop,cassette,english,HAPPY,90s,sony,YES,Top-10,strings,live,8+,no,focus,missing,uk,1983,£942,14349,19623,13016,£9098,14999," 2,338",£19951,-999
+27/10/2023,pop,CD,french,chill,2010s,-999,yes,,GUITAR,live,1-3,,MOOD, adults ,asia,£5875,-999,"14,956",NaN,3338,£17959,17952,,9101,-999
+2022-02-21,POP,cd,german,angry,2000s,warner,no,TOP-10,Synth, live ,8+,Yes,PARTY,NA,eu," 3,856","14,625",14966,"10,874",NaN,£18368,19488," 7,194",405,-999
+2023-09-02, jazz ,CASSETTE,french,chill,2020s,SONY,missing,top-10,synth,Studio,8+,yes,Sleep,seniors,asia,8771,2687," 4,692",missing," 4,556",NaN,£10219,441,18585,8834
+2021-09-25,Rock,cd,KOREAN,NaN,70s,indie,no,UNCHARTED,guitar,live,NaN,no,WORKOUT,seniors, UK ,"10,130",6210,13037,"16,151","14,535",£10209,7383,NaN,4008,8339
+05/04/2023,Hip-Hop,streaming, Spanish ,HAPPY,70S,INDIE,missing,top-40,drums,,,NO,focus,teens,us,16385,15152," 9,322",£19965,-999,9706,£5232,15135,2938,"13,290"
+2024-11-29,ROCK, cassette ,german,sad,90s,universal, Yes , top-100 ,SYNTH, studio ,8+,no,workout,seniors,UK,£4715,-999,19022,8065,7477,"14,273",£19805,NA,,9284
+2023-02-09,missing,cassette,KOREAN, SAD ,-999,sony,No,uncharted,Guitar,studio,1-3, YES ,SLEEP,kids,missing,£9348,NaN,9078,13999,12052,-999," 8,246",£16135,10623,8129
+01/05/2022,NaN,cd,spanish,sad,2010s,sony,yes,top-10,synth,Live,4-7,no,mood,Kids,-999,17438,£13626,16514,9737,2206,14628,1923,£5069,4789,10272
+-999,edm,cassette,SPANISH,happy,70s, sony ,Yes,NA,Synth,live,1-3,no,mood,adults,UK,9534,11995,2711,9518,15375,6599,£3886,16438,,£13195
+23/09/2021,POP,Cassette,french,happy,2010s,UNIVERSAL,yes,top-40,DRUMS,LIVE,8+,missing,SLEEP,,LATAM,NaN,11948,6701,NA,12103,6513,NaN,17953,9121,5041
+09/12/2024,, vinyl ,german,chill,2020s,universal,no,UNCHARTED,Piano,live,8+,yes,party,teens,us,1189,12075,10450,1370,9086,13632," 9,488",3333,"19,034",NaN
+2021-08-11,Pop, Live ,korean,Chill,90s,WARNER,no,NaN,Synth,Studio,0,yes,NA,SENIORS,us,3227,9609,3930,£17325,   159,3364,11259,4096,-999,"16,467"
+26/09/2023,classical,missing,korean,SAD,2010s,indie,no,uncharted,Piano,LIVE,0,YES,mood,teens,uk,"11,565",11831,"12,193",5408,18423,,NaN,3923,NaN,£14689
+2024-07-13,rock, streaming ,spanish,Angry,90S, sony ,yes,top-40,piano,NA,0,yes,workout,teens,uk,£17709,2386,£13923,2508,£19738,£16512,12233,15445,8975,8262
+11/04/2023,Hip-Hop,streaming,Korean,Angry,2010s,Warner,No, top-10 ,Drums,Live,-999,yes,workout,SENIORS,asia,16392,10246,9332,£6505,£2584,NA,2638,1466," 2,038",9553
+2022-08-12, Edm ,Cassette,NaN,angry,80s,universal,NA,Top-10,synth,live,1-3,,mood,,eu,missing,3261,£5689,9873,£11961,"19,482",£3188," 3,234",£12047,£14523
+2024-05-03,NaN,cassette, english ,ANGRY,70s,Universal,yes,top-100,strings, studio ,1-3,Yes,WORKOUT,kids,latam,12292,3251,126,4517,13635,"15,614"," 6,206",17057,14447,NaN
+2022-10-17,rock,cd,french,energetic,2020s,sony,no, UNCHARTED , GUITAR , studio , 0 ,yes, Sleep ,kids,latam,NA,4889,6353,£15363,19063,827,£11500,18726," 5,250",£13546
+2021-09-11,pop,streaming,german,CHILL,80s,warner,yes,TOP-40,Guitar,LIVE,missing,yes,party,Kids,US,missing," 1,284",missing,-999,"11,704",935,10388,12815,"13,136",NA
+2023-12-25,Rock,Live,-999,sad,2010s,universal,No,Top-10,synth,Live,4-7,NO,party,KIDS,us,£2204,6452,£4121,£14202,7762,£4319,£10849,£16631,17777,5717
+2024-08-27,classical,NaN,french,energetic,80s,SONY,no,uncharted,drums,live,4-7,NO,focus,Kids, us ,8871,£5760,9746,"14,461",10656,£12688,1456,,5129,£10619
+23/12/2022,ROCK,cd,French,Sad,2000S,UNIVERSAL,no, UNCHARTED ,NA,live,1-3,NO,SLEEP,teens,uk,-999,9177,3253," 4,292",16772,1311,"17,889",3230,missing,671
+2023-09-30,hip-hop,vinyl,NA,energetic,90s,SONY,No,NaN,Piano,live,8+,yes,workout,NA,uk,17989,2814,10589,£6814,NaN,-999,150,," 8,547","12,590"
+NaN,ROCK,Streaming,KOREAN,NA,2010s,indie,no,TOP-10,drums,STUDIO,1-3,no,party,SENIORS,us,8467,£15340,6535,£16776,9993,£10784,£8879,3704,£11615,
+2023-01-30,JAZZ,CD,english,ENERGETIC,2010s,sony,no,uncharted,guitar,studio,4-7,No,MOOD,KIDS,Asia,,12173,"17,291",£14787,10670,£18615,943,19268,£5643,7904
+11/11/2024,missing,STREAMING,-999,energetic, 2020s ,INDIE,no,TOP-10,drums,STUDIO, 4-7 ,yes,Party,teens,eu,NaN,13642,15552,5510,£6707,£7198,9670,4410,2798,"11,607"
+2024-02-20,CLASSICAL,Cassette, english ,Sad,90s,warner,yes,top-100,drums,Studio,8+,yes,WORKOUT,adults, EU ,£5700," 4,434",15252,9223,12329,13849,"12,581",,18526,£15537
+"Jan 11, 2021",POP,CD,,NA,70s,warner,yes,top-100,drums,studio,1-3,Yes,FOCUS,TEENS,UK,4116,£7581,7255,1650,17288,6135,£9593," 5,777",511,18766
+2023-07-03,Hip-Hop,Live,SPANISH,energetic,,Sony,yes,TOP-40,PIANO,NA,,NO,Workout,teens,latam,NaN," 7,021",missing,£13625,NaN,missing,8748,5834,2835,11935
+18/12/2021,HIP-HOP,LIVE,Spanish,-999,2020s,sony,no,top-100,synth,live,8+,yes,PARTY,NaN,US,2449,7423,17249,17022,17700,£4519,6199,   645,-999,15138
+-999,CLASSICAL,CD,ENGLISH,angry,70s,Sony,YES,top-40,guitar,STUDIO,0,yes,workout,,us,2827,"13,769",13523,9492,£16208,£18212,,13113,1601," 3,602"
+2021-05-31,Hip-Hop,LIVE,SPANISH,chill,-999,Indie,Yes, top-100 ,strings,studio,8+,No,party,adults,Uk,NaN,10977,3728,17716," 4,444",4834,10084,18324,missing,NaN
+07/09/2021,Edm,vinyl, SPANISH ,sad,80S,universal,NO,top-40,guitar, live ,4-7,no,sleep,-999,-999,12272,11160,£16547,£13262,£11251,6502,"17,661",323,8128,19585
+24/10/2023,Rock,missing,german,ENERGETIC,2020S,NaN,NO,UNCHARTED,strings,Studio,0,no,Focus,adults,eu,968,8504,NaN,"17,830",£12319,£12059,2250,18193,"19,066",-999
+NA,Classical,live,spanish,ENERGETIC,70s,sony,yes,TOP-100,drums,live,1-3,no,PARTY,kids,Asia,8806,4911,£13822,18865,£17555,missing,4284,£7895,18631,4437
+2022-05-16,rock,live,NaN,energetic,90s,Universal,NO,top-40,drums,live,8+,no,NaN,Kids,us,13213,£17647,7024,£14124,2870,5165,5615,£11454,7597,£18897
+27/08/2023,JAZZ, CASSETTE ,english,Happy,2010S,Warner,No,Uncharted,strings,live,4-7,no,mood,kids,Uk,2807,6665,missing,£14560,NaN," 3,915",2103,7592,7348,£2605
+2022-06-28,JAZZ,NaN,french,-999,90s,Warner,yes,top-40,synth,live,0,no, FOCUS ,teens,UK,"10,667",£15004,,£16726,£3530,17048,18185,3251,NA,19074
+2023-07-17,Classical,vinyl,german,Sad,2010s,universal,no,uncharted,STRINGS,live,0,NaN,mood,missing,uk," 1,745",18520,8124,£8841,   829,13059,,£18441,129,"18,298"
+19/11/2024,edm,live,korean,chill,2020s,sony,no,TOP-100,piano,live,1-3,-999,MOOD,ADULTS,missing," 2,301",18869,£10561,£18314,5705,£2943,£2350,8323,12850,3433
+"Aug 05, 2024",HIP-HOP,NaN,French,-999,70s, Sony , yes ,NA, Strings ,live,NaN,-999,-999,KIDS,UK,,NaN,7192,NA,NaN,3007,5255,NA,12894,12162
+29/09/2021,edm,CD,Spanish,sad,2000s,indie,yes,TOP-100,synth,live,0,No,focus,seniors,Us,"13,851",NA,9019,14266,13831,1541,14487,NaN,5102,10822
+-999,NaN,streaming,,sad, 70s ,missing,YES,uncharted,guitar,live, 4-7 ,no,mood,KIDS, Asia ,2774,missing,17445,NA,"15,426",10418,"13,811",14391,3704,NA
+2021-09-17,pop,,german,happy,2020s,Sony,missing,top-100,synth,-999,4-7,YES,Focus,seniors,asia,10803,"15,321",8830,2348,11142,NaN," 3,627",£11958,19814,13037
+14/12/2023,EDM,vinyl,GERMAN,chill,2010s,WARNER,Yes,Top-10,Synth,-999,1-3,no,party,Kids,uk,19820,3714,16233," 6,699",17293,17768,6484,2100,13103,11809
+2022-12-27,,streaming,Korean,SAD,2000s,indie,Yes,top-100,,Studio,4-7, YES ,focus,Adults,US,7326,11531,1815,£17439,missing,18981,NaN,missing,11390,8282
+"Nov 05, 2022",pop,STREAMING,ENGLISH,,2010s,indie,-999,uncharted,Drums,Studio,0,YES,PARTY,teens,EU,10734,missing,£14947,NA,8337,8220,5743,19478,£1292,2761
+26/09/2023,pop, vinyl ,korean,sad,2000s,warner,no,top-40,synth,studio,4-7,yes,workout,adults,EU,4211,"18,875","16,377",14341,11319,8624,£17640,"12,651",£18743,-999
+2022-09-06,pop,Cd,korean, CHILL ,2020s,indie,no,top-10,Strings,Studio,4-7,,mood,teens,us,,6630,£286,6148," 4,941","14,283",£2246,6194,-999,"13,047"
+29/06/2022,jazz,cd,spanish,CHILL,2000s,NA,YES,top-100,Synth,studio,-999,no,workout, teens ,,2877,1036,10673,10180,7046,8785,"18,177",NA,£18620,2868
+2021-12-29,missing,NA,english,angry,2020s,warner, NO ,Uncharted,DRUMS,studio,4-7,YES, workout ,seniors,asia,16121,16198,NaN," 7,354",18000,19611,-999,-999,NA,15544
+2023-10-19,jazz,cd,spanish,sad,-999,universal,missing,top-100,DRUMS,,,no,MOOD,TEENS,asia,NA,,£1874,8758,£18592,NA,-999,16897,2854,NA
+2023-07-27,Jazz, CD ,french,ANGRY,80s,-999,YES,top-100,DRUMS,live,1-3,no,-999,seniors,Eu,10480,13," 8,586"," 4,596",9600,2077,£18726,986," 6,312",7435
+07/12/2022,pop,streaming,french,Angry,70s,indie,NaN,top-10,GUITAR,Live,1-3,NO,focus,Seniors,asia,19635,15774,18199," 2,274",16894,14511,£19126,£14690,5574," 7,214"
+21/05/2022,,vinyl,french,chill, 70s ,warner,no, top-100 ,synth,studio,4-7, No ,workout,ADULTS,ASIA,missing,6638,"19,484",6669,13138,£11337,   343,£11514,-999," 3,158"
+2022-12-07,pop,,english,CHILL, 2020s ,universal,No,top-100,,Live,1-3,no,party,Teens,asia,3648," 3,854",,"14,472",18784,£7426,13645,15784,,NaN
+25/02/2023, edm ,cd,english,sad,2000s,warner,yes,Top-40,STRINGS,studio,1-3,yes,focus,kids,ASIA," 8,964",£8949,13113,"15,013",9704,missing,18231,-999,£19426,9534
+2023-02-23,edm,vinyl,korean,sad,missing,Indie,NaN,top-10,Strings,studio, 4-7 ,YES,mood,TEENS, uk ,5503,NA,11781,18498,£1577,7956,3305,11096,£14427,3124
+2024-09-30,ROCK,CD,korean,chill, 90s ,universal,no,top-10,Guitar,Live,1-3,no,focus,seniors,latam,£2846,NA,16588," 8,979",5868,12773,£5013,missing,6776,12042
+2023-01-08, hip-hop ,STREAMING,french,ANGRY, 2020s ,NA,Yes,uncharted,Piano,live,0,No,WORKOUT,adults,asia,17443,NA,6358,NaN,£12309,13979,,2356,3273,10952
+"Jun 21, 2023",hip-hop,streaming,Korean, angry ,80s,Universal,-999,top-40, drums , studio , 1-3 , no ,party,kids,latam,19024,"13,125",9450,"17,719",15720,16106,18458,-999,£14318,"17,112"
+2022-01-05,POP,vinyl,spanish, angry ,-999,universal, no ,Top-10, strings ,live,1-3,yes,SLEEP,adults,EU,,1560," 5,112",87,10918,13064,-999,4996,10438,£15136
+"Oct 18, 2022",classical,live,english,angry,2020s,sony,No,top-10,,studio,8+,yes,Sleep,kids, latam ,15783,4534,8566,15262,11970,NA,£420,9705,17238,£5709
+01/09/2023, jazz ,cassette,german,Happy,2020S,Sony,NO,missing,Piano,live,4-7,no,SLEEP,,uk,11571,15486,4642,missing,4495,7818,14662,7693,2440,£12108
+"Jun 18, 2023",pop,cassette,SPANISH,Angry,2020s,warner,missing,Uncharted,synth,live,1-3,NO,workout,ADULTS,asia,£2412,17736,1762,12007,10087,11748,missing,3108,12455,"11,524"
+2024-04-29,hip-hop,streaming,SPANISH,-999,70S,WARNER,no,uncharted,strings,Studio,1-3,yes,mood,adults,Uk,£16768,,14809,10501," 5,461",NA,19628,4377,6194,missing
+2024-10-28,Pop,Streaming,KOREAN,SAD,2020s,sony,NaN,top-100,GUITAR,studio, 8+ ,yes,sleep,kids,asia,6568,£18857,NA,9043,NA,6621,"10,323",1739,9296,672
+2021-11-29,pop,,english,-999,2000s,universal,no,top-100,DRUMS,live,4-7,yes,Mood,-999,NA,"11,929",£16324,5473,18424,10283,18896,13294,NaN,1325,634
+2023-12-26,hip-hop,live,spanish,SAD,2010s,Sony,no,Top-40,guitar,studio,4-7,Yes, party ,teens,Asia," 5,980",17882,5805,£1822,10524,3902,14546,14460,£3365,19276
+2023-03-10,hip-hop,vinyl,german,chill, 2010s ,UNIVERSAL, no ,-999,synth,Studio,4-7,missing,sleep,teens,uk,£16793,NA,£4526,15978,924," 6,901",1701,12948," 5,319"," 7,932"
+06/04/2022,rock,Cassette,english, Happy ,2000s,-999,yes,top-10,guitar,missing,4-7,NO,PARTY,KIDS,asia,"14,197"," 1,877",12731,14629,£3474,14066,9512,missing,-999,£8737
+03/02/2021,classical,cd, ENGLISH ,missing,70s,INDIE, NO ,UNCHARTED,PIANO,LIVE,0,no,party,Seniors,latam,18777,£13644,13709,12657,,15962,£2358,9941,NA,"13,740"
+"Aug 24, 2024",rock,cd,SPANISH,happy,NA,warner,NO,TOP-100,Synth,STUDIO,0,no,party,Kids,eu,8661,£776,,6804,"17,916",15268,£1639,6968," 8,539",£12698
+"Jul 23, 2024",Pop,VINYL,french,Sad,70s,,Yes,top-10,GUITAR,LIVE,0,no, SLEEP ,kids,Asia,£17163,9300,£5009,,£3543,£12445,2406,NaN,missing,£7780
+19/07/2023,Pop,cassette,german,Happy,2000S, sony ,NO,-999, drums ,studio,1-3, no ,sleep,KIDS,NA,4128,NA,8335,15491,8228,2289,2067,missing,5030,"17,069"
+NA,-999,Live,german,chill,2000s,Sony,YES,NA,NaN,LIVE,4-7,NaN,Workout,missing,latam,"19,038",19659,5765,8294,"18,946",15765,9741,1929,£2865,4902
+08/09/2023,pop,missing,english,energetic,70s,sony,NO, top-10 ,piano,STUDIO,0,yes,focus,kids, uk ,"17,617","18,156",£14070,4695,£12858,4566,missing,9111,4391,   848
+04/10/2024,POP,CASSETTE,spanish,,70s,sony,,top-10,synth,NA,4-7,no,workout,kids,latam,1707," 9,323"," 4,760",5631,11924," 6,816",NaN,7962,14172,£5559
+15/07/2022,Rock,cassette,spanish,Happy, 80s ,warner,YES,top-100,strings, live ,0,NA,Sleep,adults,Asia,9509,13323,6185,"16,180",4049,19919,3272,7753,£514,"19,453"
+2021-01-13,EDM, CASSETTE ,french, HAPPY ,90S,universal,no,top-100,SYNTH,live, 0 ,yes,Mood,kids,-999,"17,198",15929,9040,£9296,14620,£3808,missing,12272,8766,-999
+"Oct 11, 2021",classical,cd,GERMAN,energetic,70s,SONY,no, UNCHARTED ,drums,live,8+,yes,Workout,SENIORS,NaN,£7677," 5,728",16887,17327,£15566,"18,595",16456,19801,10038,1667
+22/06/2024,pop,LIVE,French,ENERGETIC,2000s,-999,NO,top-40,guitar,, 4-7 ,YES,Workout,kids,uk,NaN,11910,1950,£11254,18722,13549,5218,NaN,£15949,11558
+01/12/2024,classical,streaming,english,NA,70s,-999,-999,NA,missing,live,4-7,-999, mood ,SENIORS,latam,£19838," 4,763"," 4,570",£11123,364,12028,9541,NA,£1218," 1,056"
+06/02/2022,rock,vinyl,german,Energetic,2010s,Sony,No,top-100,strings, STUDIO ,0,NO,Workout,TEENS,Us,NaN,14290,£3895,"18,853",19704,7281,13995,989,16538,missing
+,hip-hop,cd,spanish,Chill,80s,missing,no,top-40, guitar ,studio,missing,NO,party,teens,Latam,686,-999,14098," 1,059",,2307,13241,"11,437",missing,8580
+"Nov 26, 2022",pop,vinyl,korean,Energetic,80s,Sony,NO,,PIANO,LIVE,8+,No,missing,kids,eu," 8,522",missing,11248,10417,£5607,10065,17929," 7,401",£574,3302
+03/03/2024,classical,Cassette,French,CHILL,70s,missing,yes,Top-40,piano,LIVE,4-7,Yes,Mood, TEENS ,NaN,4206,"19,232",19583,1366,13121,13018,"17,915",1463,11780,£3867
+-999,NA, cd ,english,HAPPY,70s,warner,yes,TOP-10,piano,LIVE,-999, Yes ,NA,seniors,eu,"18,744","16,046",1154,18185," 5,721",9453,,NaN,£10676,£18569
+2021-01-21,jazz,live,german,sad,90s,Indie,NO,UNCHARTED,strings,STUDIO,8+,YES,sleep,teens,asia,7861,11336,missing,£16135,5350,"13,439",235,NA,127,£1690
+08/03/2022,rock,streaming,korean, chill ,2020s,warner,Yes,TOP-40,piano,studio,8+,yes,sleep,KIDS,asia,"17,304",,"16,462",3634,5243,8900,,£14130,19240," 5,328"
+2021-04-10,hip-Hop,VINYL,German,angry,2020s,NA,yes,top-10,GUITAR,,0,No, sleep ,adults,US,"13,182",12508,£9590,16245,7031,"18,477",6831,17414,60,"17,179"
+2024-04-07,pop,cd,English,happy,2010s, universal ,no,TOP-100,Piano,studio,4-7,NO,sleep,Kids,LATAM,£18185,17783,missing,,14611,6528,£5736,"10,538",£501,515
+06/10/2023,jazz,cd,german,-999,70s,universal,yes,top-40,STRINGS,missing,NaN,no,workout,seniors,NaN," 6,021",NA,"10,964",NaN,13983,£18579,15154,£4226,9063,NaN
+"Feb 15, 2021",NaN, Cd ,spanish,sad,90s,sony,yes,-999,Guitar,STUDIO,1-3,no,party,adults,us,13135,16048,1066," 8,604",NaN,7739,NaN," 1,776",16548,10014
+19/12/2021,hip-Hop,cd,korean, energetic ,80s,NaN,No, top-40 ,GUITAR, studio ,4-7,no,WORKOUT,NaN, asia ,19621,5451,4726,15259,"12,333"," 9,984",-999,£14930,2525,NaN
+19/03/2023,Hip-Hop,vinyl,french,happy,2020s,,missing,top-40,synth, live , 8+ ,NO,missing,missing, latam ,£460,11394,missing,1419,9261,missing,£4641,£11449,4509,12418
+29/05/2024,rock,Vinyl,german,CHILL,70s,Sony,YES,top-10,drums,Studio,1-3,yes,mood,ADULTS,eu,1255,£1105,missing,2130,3677,13491,"12,007","12,693","17,160",5717
+08/11/2022,Jazz,cassette, korean ,energetic,2020s,INDIE,yes,uncharted,,studio,8+,NO,workout,Adults,missing,13288,,14839,18699,15734,,19385," 2,348",9999,£12010
+06/04/2024,rock,vinyl,French,missing,2020s,NA,yes,top-40,DRUMS,live,8+,Yes,party, kids , asia ," 9,032",£18658,6701,-999," 4,344",19431,,NA,£15397,missing
+"Aug 20, 2024",rock,Streaming,german,,NA,warner,no,Uncharted,Drums,live,8+,yes,sleep,teens,us,3134,17571,4697,NaN,12767,18083,£3604,missing,13685,-999
+2024-01-15,-999,cassette,french,sad,80s, Universal ,,-999,strings,studio,0,yes,party,seniors,missing,8411,16227,£2874,3891,£5992,1674,"13,791","11,037",8452,777
+2024-04-08,hip-hop, vinyl ,English,CHILL,90S,Warner,yes,TOP-40,Drums,studio,8+,no,sleep,adults,UK,7858,-999,14023,£16901,53,11584,8090,missing,"15,202",£8683
+01/07/2022,jazz,CASSETTE,korean,ANGRY,70s,missing,NO,Uncharted,synth,LIVE,NA,no,Sleep,Teens,latam,10018,11321,18405,2568,347,"15,364",104,1198,15191,3710
+2023-09-18,rock,vinyl,korean,CHILL,2000s,Universal,NO,top-40,drums,Studio,0,yes,mood,Kids,asia,"10,766",5744,13808,3865,12569,2425,£17436,£14956,2369," 8,392"
+2022-10-02,missing,vinyl,spanish,happy,90s,indie, yes ,top-10, strings ,Live,1-3,No,focus,kids,ASIA,£1234,9339,"12,924",11731,18336,3933,12473,,£14024,£9027
+2021-07-01,EDM,Cassette,ENGLISH,NA,90s, universal ,no,Top-40,, STUDIO ,1-3,yes,sleep,KIDS,eu,17130,-999,   570,"16,522"," 8,051",17277,9382,15230,10221,19127
+2022-09-07,CLASSICAL,Streaming,English,angry,2000s,warner,no,top-40,piano,studio,8+,yes,workout,TEENS,-999," 8,661",11654,10030,18978,£13099," 6,044",5650," 1,619",14445,"17,955"
+29/12/2022,hip-Hop,VINYL,spanish,-999,70s,sony,no,missing, synth ,Live,4-7,NO,SLEEP,SENIORS,uk,12373,9844,3412,missing,17195,£1140,7282,18535,2247,NA
+08/12/2024,HIP-HOP,STREAMING,french,ANGRY,2020s,universal,yes,uncharted,-999,studio,missing,no,mood,KIDS, Asia ,769,120,4223,£18807,11573,7091,11720,£16638,15714,-999
+11/12/2023,NA,CD,spanish,NA,2000s,indie, YES ,top-100,GUITAR,live,0,YES,focus,Adults,uk,missing," 4,443"," 5,644",13260,NaN,NaN,10060,NA,631,£16241
+09/04/2024, CLASSICAL ,live,english,chill,2000S,UNIVERSAL,no,top-100,drums,STUDIO,-999,YES,SLEEP,seniors,Eu,£18889,,NA,5252,£3514,19893,8749,£7938,6150," 1,356"
+21/03/2023,rock,Vinyl,,Sad,80s,, NO ,Uncharted, Guitar ,-999,NA,NO,Workout,teens,asia,"13,177",17571,£13532,9837,18977,£184,11044,5546,17956,£7803
+04/02/2021, jazz ,CASSETTE, spanish ,SAD,2000s,warner,YES,Top-100,strings,studio,8+,Yes,party,Kids,Us,16608,6931,10569,,£11598,13377,12611,,"11,147",
+2024-09-11, rock ,cd,korean,energetic,2020S,universal, No ,top-10,strings,studio,8+,YES,mood,ADULTS,asia,7519,missing,"16,948",2643,350,NA,10102,13308,NaN,missing
+16/09/2022,missing,cassette,spanish,-999,70s,SONY,no,uncharted,strings,studio,4-7, no , party ,SENIORS,UK,missing,19885,£10747,"10,238",347,998,£19736,12998,3212,
+2022-08-28,hip-Hop,LIVE,english,happy, 2010S ,sony,no,top-10,drums,Studio,8+,no,party, Seniors ,eu,-999," 6,056",NA,,18746,NA,7005,10943,£16290,9451
+2024-06-26,classical,NA,German, sad ,90s,warner,yes, UNCHARTED ,SYNTH, studio ,,No,MOOD,KIDS,latam,5585,missing,5436,18754,1480,,10179,,18628,NaN
+04/08/2021,NaN,cassette,german,Energetic,80s,Indie,no,Uncharted,drums,live,NA, No ,party,seniors,asia,5055,9543,"12,708",15173,14349," 6,168",3944,41,15665,13968
+2023-03-12,rock,vinyl,english,energetic,90s,sony,YES,top-10,Strings,STUDIO,4-7,Yes,Party,KIDS,latam,14918,946,8102,"13,012",11789,18339,9163,3296,£4427," 3,537"
+2022-09-15,Pop,NaN,korean,HAPPY,2020S, universal ,no,missing,synth,,1-3,yes,PARTY,adults,uk,13792,-999,£12700,7031,14141,£19348,NaN,-999,9258,12810
+17/09/2024, pop ,cassette,korean,Happy,2010s,UNIVERSAL,yes,Top-100,SYNTH,LIVE,0,YES,Mood, adults ,asia,£18686,5661,NA,£9681,NaN,£14840,18070,19194,14885,7749
+2022-04-08,pop,streaming,French,Energetic,80s,-999,yes,-999,strings,LIVE,0,No, Workout ,adults,Asia,18673,16163," 9,149",£15959,"15,876",12646,16252,8894,11196,15630
+08/05/2024,EDM, Vinyl ,spanish,HAPPY,2020s,indie,No,Top-10,strings,studio,4-7,no,party,adults,eu,6584,NaN,,13433,NA,16377," 4,669",7328,17333,19371
+2023-04-10,ROCK,Cd,french,sad,80s,universal,yes,uncharted,strings,live,1-3,no,SLEEP,,Asia,"10,640",2658,9608," 3,017"," 5,978",18797,9656," 6,065",14707,8610
+2022-06-30,CLASSICAL,CD,Korean,angry,-999,universal,yes,uncharted,PIANO,Live,1-3,yes,Workout,seniors, asia ,   869,   326,7442," 8,934",4855,missing,NaN,18327,14900,
+2022-04-01,jazz,vinyl,english,-999,NaN,WARNER,yes, top-40 ,strings,STUDIO,4-7,no,MOOD,adults,us,18115,,13663,13706,7857,NA,£14479,"19,731",missing,19713
+2022-05-13,edm,vinyl,English,energetic,90s,indie,no,top-40,DRUMS,LIVE,1-3,missing,mood,Seniors,eu,3994,£12429,4527,£6356,18658,8776,15477,NA,7803,15718
+05/07/2024, Rock ,vinyl,german,CHILL,80s,UNIVERSAL,no,top-100,STRINGS,STUDIO,8+,Yes,WORKOUT,adults,eu,£2660,"17,928",19596,310,14396,2323,7929,6907,3498,18433
+2024-08-13,HIP-HOP,STREAMING,ENGLISH,chill,2020s,sony,YES,missing,Piano,live,8+,YES,MOOD,teens,EU,£14223,NA,13469,14479,3070,£17557,3413,4219,,18646
+20/03/2022,Jazz,Cd,korean,-999,90s,warner,-999,top-10,drums,studio, 0 ,no, focus ,SENIORS,asia,6349,16165,"11,312",NA,1407,18336,-999,2132,"15,317",£9420
+NaN,Pop,cassette,french,Energetic,2000S,INDIE,NO,Top-10,piano,Studio,4-7,No,workout, Teens ,us,6137,8712,"18,979",7749,8472,£14257,£19895," 9,012",4161,£11420
+2021-02-08,Classical,vinyl,spanish,NA,NaN,INDIE,YES,uncharted,Drums,LIVE,1-3,yes,Sleep,seniors,latam,16753,18038,"10,199",9717,6359,2311,15326,£18285,16844,NA
+2024-07-01,jazz, streaming ,french,HAPPY,2000s,universal,yes, uncharted ,drums, live ,4-7,no,missing,Kids,us,£5509,8489,13715,,£14989,10353,NaN,NA,14720,392
+,hip-hop,live,korean,energetic,2010s,NA,no,uncharted, piano ,studio,8+,YES,MOOD,NaN,UK,10103,4768,11556,-999,17077,"18,960",£3294,9828,18171,£6430
+14/07/2021,-999,streaming,NA,Happy,90s,indie,YES,top-40,Piano, Studio ,1-3,Yes,sleep,kids,us,£5751,6740,17401,17429,14033,NaN,10325,10826,15388," 6,787"
+26/05/2021,edm, Vinyl ,ENGLISH,chill,2020S,sony, yes ,top-10,Piano,studio,1-3,yes,workout,adults,-999,16433,517,"10,377","12,956",13394,£14988,£19013,16902,£14574,5671
+31/03/2023,classical,Cd,korean,happy,NA,Sony,no,uncharted,Guitar,LIVE,4-7,yes,Party,,latam,703,-999,7118,£869,18581,4296,1888,474,£10394,15059
+2023-04-22,classical,Streaming, German ,ENERGETIC,70s,NaN,yes,top-10, synth ,,4-7,no,MOOD,seniors,eu,2405,missing,17458,"14,334",£6851,8645,£5336,8589,6774,17248
+-999,Edm,LIVE,KOREAN,chill,2020s,sony,YES,TOP-40,GUITAR,live,4-7, No ,WORKOUT,teens,asia,£7771,-999,15269,19115,£16142,£18669,14304,NaN,£3072,17145
+2022-11-24,NaN,cassette,missing,ANGRY,NaN,universal,,top-100,synth,missing,1-3,yes,PARTY,seniors,NA,3547,11399,NaN,17971,19211,£9413,"17,011",8641,£16975,-999
+10/12/2022,edm,cassette,spanish,,70s,universal,yes,top-40,guitar,NA,0,no,mood,Teens,eu,7052,9752,13287,14555,£5132,19976," 4,459"," 9,126",8238,3899
+2022-11-26,Jazz,LIVE,,sad,90S,UNIVERSAL,no,top-40,piano,live,0, yes ,party,adults,,17142,£9148,2226,14181,10583,2535,4427,NA,13158,3161
+"Aug 29, 2023",JAZZ,cd,french,sad,2020S,Universal,NO,top-10,missing,STUDIO, 0 ,no,FOCUS,kids,LATAM,8497,,8017,5974,17123,8458,NaN,9490,missing,16359
+NaN,jazz, cassette ,NA,angry,90s,UNIVERSAL,YES,uncharted,Synth,live,4-7,NO,NaN,-999,NaN,1812,missing,14110,10747,-999,6651,17970,£17850,£1396,10539
+2024-08-23,POP,live,spanish,CHILL,2000s,sony,NO,top-100,drums,studio,0,yes,workout,Seniors,latam,NA,7252,7432,NaN," 1,028",9496,14692,-999,£15143,NA
+13/12/2022,jazz,Cassette,spanish, sad ,2010S,universal,YES,top-10,strings,,1-3,Yes,PARTY,teens,latam,NA,£7928,18043,£19165,11324,14607,9808,£7945,7606,-999
+NaN, classical ,cd, spanish ,happy,2020s,sony,Yes,top-100,Strings,Studio,0,missing,workout,NA, Us ,-999,£13722,   730,15468,16078,18454,11312,£14821,7943,"11,885"
+19/01/2023,POP,cassette,ENGLISH,angry,90s,Sony,yes,Top-10,Guitar,live,1-3,yes,WORKOUT,teens,Asia," 5,428",12920,13479,19313,14469,NaN,4104,£544,6329,17379
+"Nov 09, 2021",Hip-Hop, live ,english,sad,80s,Indie,Yes,Top-40,Synth,studio,0,no,Focus,adults,uk,"10,423"," 2,813",7421,19839,"14,444",-999,8787,11003,NA,8390
+"Mar 28, 2021",Rock,LIVE,NaN,Angry,70s,WARNER,no,Top-10,drums,studio,8+,Yes,mood,missing,,17648,9585,3648,£17028,13855,£14894,7247,NaN,57,9565
+"Jul 19, 2022",Classical,NA,,Angry,70s,universal,NO,top-100,synth,NaN,8+,-999,PARTY, teens ,us,£19330," 8,044",6977,£10723,"13,486",£16887,1309,17460,£19648,9375
+2024-10-05,Pop,STREAMING,german,Angry,2000s, INDIE ,yes,top-10,Drums,NaN,1-3,No,PARTY,Adults,us,13325,-999,NaN,£2024,6815,5382,£8591,£1001,12960,
+2021-06-17,Jazz,cassette,ENGLISH,sad,2010s,warner,yes,TOP-40,Strings,Studio,,yes,sleep,seniors,ASIA,-999,£18767,10226,"11,234",£9227,NA," 6,116",19742,15030,6914
+2021-01-18,Pop,vinyl,German,angry,2000s,Universal,no, top-10 ,piano,missing, 1-3 ,yes,NaN,seniors,eu," 2,042",NaN,5108,£353,3516,£6490," 6,493",6277,9645," 1,700"
+26/01/2021,jazz,Cassette,korean,angry,80s,Sony,yes,NaN,drums,Live,4-7,NA,Workout,adults,-999,5726,12575,11874,18724,13040,   910,£12315,"11,603",19486,18806
+2022-12-13,,cd,english, sad ,2020s,sony,yes,top-100,GUITAR,live,NA,YES,Workout,adults,Asia,11755,202,5172,7439,13563,£15107,11640,5190,16053,4233
+30/10/2021,HIP-HOP,LIVE,KOREAN, sad ,70S,,no,TOP-40, Drums ,live,4-7,No,party,kids,-999,NaN,NA,11493,19487,17892,£15753,2070,6239,10418,18138
+30/08/2024,rock,Cassette,NA,happy,2020s,warner,Yes,top-100,SYNTH,-999,,-999,sleep,teens,EU," 2,454",NaN,£14870,£15059,missing,£5565,missing,-999,-999," 2,187"
+2022-01-18,-999,Vinyl, English ,angry,2010s,sony,yes,top-40,strings,LIVE,8+,no,NaN,Teens,,NA,"15,353",6842,NaN,19483,12331,16713,NaN,5375,2670
+2022-03-28,Rock,vinyl,spanish,happy,2000s,Universal,YES,TOP-100,,NA,NaN,-999,missing,seniors,Latam,9791,18618,13019,£10,,14221,12129,11042,11897,12918
+2022-03-23,ROCK,cassette,english,happy,,warner,NO,Top-40,GUITAR,studio,1-3,NO,workout,SENIORS,,NaN,7580,15076,4466,13788,6285,3005,2671,17883,6071
+16/01/2021,,streaming,english,SAD,2010s,sony,NO,Top-40,strings,live,NA,NaN,,Teens,us,£5396,£15070,3973,18448,4851,6970,16776,6026,9638,8818
+20/05/2022,classical,Cd,french, sad ,90S,INDIE,no,uncharted,NaN,live,8+,NaN,NaN,seniors,uk,"18,663"," 8,487",3286,"19,974",17420," 6,575",450,11887,18868,£7357
+13/09/2021,Pop,live,french,ENERGETIC,2000s,sony,yes,top-100,drums,-999,1-3,yes,focus, teens ,eu,£1078,£8387,2787,1784,-999,396,"18,946",missing,NA,NaN
+22/05/2024,Rock,vinyl,KOREAN,ENERGETIC,NA,indie,yes,NA,SYNTH,live,0, no ,sleep,seniors, us ,18359,,NA,5678,"16,600",£17315,NaN,,NaN,NaN
+07/12/2021,edm, streaming ,Spanish,sad, 80s ,Indie,NaN,TOP-100,PIANO,NaN,8+, yes ,sleep,seniors,LATAM,19087,5601,15216,£9961,446,£16667,"16,891","17,881",,5511
+2023-11-21,jazz,streaming,french,HAPPY,2000s,warner,Yes,TOP-100,Guitar,studio,4-7, yes ,NA, SENIORS ,asia,6795,16036,9952,£15503,"12,135",3379,6204," 3,391",1943,-999
+,rock,vinyl,korean,sad,2000s, UNIVERSAL ,no,top-100,piano,-999,1-3,yes,workout,seniors,NA," 9,952",5275,,£6092,18451," 3,430",10486,11897,4049,7384
+01/12/2022,jazz,Cd,korean,NaN,90s,universal,Yes,-999,guitar,Studio,0,yes,Mood,ADULTS,latam,NaN,£4124,missing,11647,,,"18,350",£12854,19661,£12359
+NaN,Jazz,live,English,angry, 2020s ,Sony,Yes,top-100,guitar,studio,NA,YES, party ,seniors, EU ,14360,,£13303,missing,410,6646,16209," 9,439",16486,3665
+-999,Jazz,-999,ENGLISH,happy,70s,universal,yes,top-10,SYNTH,studio,8+,No,mood,teens,asia," 7,814",9822,19819,17430,11148,£11266,"12,331",77,missing,7503
+"May 27, 2023",jazz,,English,SAD,80s,Universal,No,top-100, piano ,live,8+, NO ,focus,kids,NA,6627,-999,3572,28,16144,13065,14519,£11407,NA,NA
+07/11/2023,pop,CD,english,sad,2020s,warner,no,uncharted,NaN,-999,NA,YES,WORKOUT,adults,Latam,£19787,,NA,"10,464"," 8,488",17107,£2374,NaN,18718,NaN
+2023-10-18,pop,vinyl,FRENCH,happy,2020s,SONY,Yes,Top-100,strings,Live,8+,no,Focus,Kids,NA,NA,NaN,"11,221",6905,6182,13861,,7087,19520,7197
+2023-06-29,edm, vinyl ,german,HAPPY,90s, universal ,missing, TOP-100 ,Synth,LIVE,8+,no,focus,kids,-999,NA,£4212,-999,3877,"12,850"," 5,760",14590,6406,,
+2022-09-26,Rock,Vinyl,German,missing,70s,warner,No,TOP-100,Drums,studio,4-7,yes,-999,missing,eu,£9211,17044,6163,"13,198","19,222",£13302,13537,12786,11292,"17,767"
+08/06/2024, POP ,missing,Korean,ENERGETIC,2000s,Indie, yes ,uncharted, Piano ,-999,4-7,no,NaN,kids,uk,3842,£9362,NaN,£10448,12057,13559,"19,138",11950,2806,£11666
+26/06/2022,POP,-999,french,chill,2000s,NA,no,top-10,strings,LIVE,NA,yes,SLEEP,Kids,uk,£6476,£15681,£11043,   902,18578,17591,,6307,12749,8472
+"Mar 14, 2024",classical,cassette,GERMAN, ENERGETIC ,70s,warner,NaN,uncharted,Guitar,live,4-7,No,sleep,Seniors, us ,£5495,4539,4908,2979,,£7911,9226,8481," 5,401",258
+2023-12-31,pop,vinyl,Spanish,energetic, 2000s ,Universal,Yes,uncharted,synth,studio,1-3,NO,FOCUS,kids,Eu,6818,4755," 6,719",14137,£19339,£786,12637,£12083," 3,331",£3802
+2022-10-31, EDM ,cd,korean,,2010s, UNIVERSAL ,yes,top-100,guitar,studio,0,yes,sleep,adults, us ,"11,938",16220,955,19160,£6953,14129,missing,12504,£19298,£15623
+22/08/2023,pop,cd,french,chill,80s,indie,-999, top-10 ,drums,studio,4-7,YES,Mood,teens,uk,555,19162,14924,9176,14129,7787," 7,813",£1683,6668,£899
+"Sep 07, 2024",Edm,vinyl,german, Sad ,90s,missing,Yes,TOP-40,GUITAR,studio,NaN,no,party,adults,US,"19,838",4419,"14,290",1872,£4431,"13,873",12662,18870,£18361,NA
+2023-03-28,pop,NA,german,energetic,-999,indie,Yes,top-10,strings,live,8+,YES,PARTY,KIDS,Asia,18523,19435,missing,11376,1417,£5687,-999,£14605,10766,   477
+23/04/2021,jazz,-999,german,SAD,90s,UNIVERSAL,NO,UNCHARTED,drums,Studio,0,NA,Sleep,NaN,Uk,5580,8942,1535,£18778,7725,3066,3079,NaN,14739,12369
+NA,pop, live ,english,sad,70S,Sony,No,NaN,guitar,live,,YES,workout,SENIORS,US,10526,£3466,7526,7578,2647,9259,6511,19298,2514,£6284
+2021-10-10,rock,cd,French,Energetic,80s,sony,yes,top-40,guitar,-999,0,yes,Sleep,teens,LATAM,450,NaN,£17246,NaN,£14497,14245," 1,150",15352,16792,£8466
+2023-09-25,hip-hop, CD ,korean,sad,2000S,universal,yes,top-40,-999,studio,1-3,no,NA,missing,NaN,£9893," 6,552",11540,NaN,13134,8540,13737,£17387,1988,£7668
+07/10/2022,hip-hop,VINYL,FRENCH,chill,80s,warner,yes,top-100,SYNTH,live,1-3,no,sleep,adults,Latam,-999,3971,14570,6814,915,15896,NA,NaN,"17,700",£13259
+2021-08-25,rock,NA,korean,happy,2020s,Warner,yes,top-40,-999,live,8+,no,Sleep,kids,NaN,7266,2230,3539,9943,4442,17749,8309,18632,18443,176
+"Apr 14, 2024",jazz,streaming,SPANISH,sad,80s,universal,No,TOP-10,DRUMS,NA,1-3,yes,Focus,-999,eu," 5,630",NA,16652,NA,5731,£15707,6959,£13445,14396,14613
+"Mar 08, 2021", ROCK ,cd,english, angry ,NA,warner,Yes,top-40,NaN,live,8+,No,focus,seniors,LATAM,8048,£14856,10146,486,6349,missing,£9019,,"10,845",16951
+2023-08-17,ROCK,cassette,ENGLISH,energetic,70s,,Yes,TOP-100,synth,live,8+, Yes ,mood,TEENS,us,5253,8471,1306,3670,10554,10798," 3,065",-999,17954," 5,444"
+"Jun 25, 2024",NA,STREAMING,NA,happy,missing,NaN,No,top-10,drums,Live,1-3,no,WORKOUT,seniors,asia,"11,306",£19813,17160,8952,NaN,,NA,6142,5673,£716
+2024-11-19,Edm,cd,german,-999,80S,indie, yes ,top-40,DRUMS,NA,1-3,YES,Mood,seniors,eu,5374,8087," 9,014",11909,569,10931," 5,087",7511,1959," 3,343"
+02/03/2023,classical,missing,english,Happy,2020s,universal,NO,NA,strings,Studio,0,no,NA,-999,NA,12659,2963,NaN,2739,NaN,14012,NaN,NA,851,5664
+30/04/2023,jazz,Cassette,spanish,happy,2020s,universal,no,TOP-100,Piano, live ,0,yes,NA,SENIORS,NA,£9222,19795,14405,516,1826,14354,missing,£16963,NA,5430
+NaN,edm,cd,spanish,CHILL, 70s ,UNIVERSAL,no, top-10 ,missing,studio, 1-3 ,NO,sleep,teens,us,6690,-999,5339,£13528,," 6,497",14172,£8574,10802,£8218
+05/03/2024, edm ,cassette,GERMAN,,90S,INDIE,yes,top-10,synth,studio,8+,yes,Party,seniors,-999,NA,5421,NA,8555,16631," 9,961",10374,16574,£3440,£14490
+16/05/2021,jazz,cd,KOREAN,Happy,2000s, universal ,no,uncharted,piano,studio,0,yes,party,Kids, Latam ,£17820," 3,012",NaN,17541,,9965,19609,11734,£9324,£12049
+2021-08-26,pop,LIVE,spanish,angry,80s,sony,no, uncharted ,piano,Live,1-3,yes,mood,TEENS,asia,£5425,,15301,14315,£18316,7488,£17190,310,,-999
+2023-05-08,Hip-Hop,live,spanish,chill,2010s,indie,Yes,top-40,Piano,studio,NaN,YES,SLEEP,seniors,us,12502,NaN,19797,12653,"18,696",NaN,19534,£7015,£7802,"17,044"
+2022-08-24,NA,cd,NA,angry,2010s,Universal,Yes,Top-10,Synth,missing,8+,no,SLEEP,KIDS,ASIA,missing," 8,141",NA,-999,-999,10067,missing,£11920,NA,8645
+2023-04-14, edm , STREAMING ,SPANISH,chill,80s, warner ,NO,NaN,Guitar,,1-3,No,SLEEP,TEENS,latam,15101,£9865,10350,11147,"11,740",15858,"19,321",missing,19025,5881
+11/01/2022,classical,Cd,SPANISH,energetic,missing,Universal,yes,top-40,strings,live, 8+ ,yes,sleep,kids,Uk,10611,819," 9,399",1423,10771,NaN,327," 6,100",4553,"12,406"
+05/11/2024,JAZZ,streaming,ENGLISH,Angry,80s,Warner,NA,,strings,STUDIO,1-3,YES,mood,NaN,,"14,330",,16164,19835,13182," 6,011",10936,£6681,£16088,1535
+09/07/2022,classical,Streaming,korean,sad,NaN,universal,yes,top-100,strings,live,4-7,no,sleep,Teens,latam,,711,5075,£5470,8182,£3559,7136,655," 6,519",£11480
+2024-12-14,NA,cd,german,chill,missing,NaN,No,top-100,-999,live,1-3,no,mood,adults,uk,10190,£14848,615,4794,"14,164",,6497,11316,3515," 1,871"
+"Nov 24, 2023",rock,cassette,Spanish,chill,2020s,indie,Yes,NaN,piano,live,1-3,,MOOD,kids,US,"11,839",7098,9943,19858,"12,689",-999,-999,£3993,4922,12953
+07/08/2023,POP,vinyl,french,Happy,NA,sony,no,TOP-10,piano,,4-7,yes,NaN,missing,eu,1301,4938,18220,8406,7351,"13,987",£17632," 3,669",£2901,2415
+30/08/2022,classical,missing,FRENCH,sad,2020s,Indie,No,top-40, Guitar ,studio,0,no,sleep,Adults,uk,17790,,14453,"18,338",2405,"13,212"," 8,510",NaN,£7398,"11,041"
+12/03/2021,EDM,vinyl,german,energetic,2000S,warner,missing,top-100,Piano,studio,4-7,no,WORKOUT,SENIORS,Asia,NaN,"14,994",NaN,£14166,18273,11210," 5,137",-999,17478,NA
+2022-09-01,hip-hop,-999,KOREAN,,90s,Warner,yes,uncharted,guitar,Studio,1-3,NO,party,seniors,latam," 2,582",8299,NaN,2917,NaN,13066,7410,14636,8545,1169
+2023-03-12,NaN, vinyl ,french, Energetic ,80s,-999,Yes, TOP-10 ,PIANO,missing,0,yes,party, seniors ,,NaN,19625,15457,"19,932",4586,17445," 7,590",NaN,8367,7991
+2023-09-13,missing,live,german,sad,90s,UNIVERSAL, yes ,TOP-100,piano,live,NA,yes,focus,seniors,uk,£19407,-999,19484,3171,817,11858,10133,£2255,2275,missing
+09/08/2023,Pop,LIVE,korean, chill ,80s,NaN,no,top-100,DRUMS,studio,0,yes,workout,Seniors, ASIA ,7800,6457,missing,£7437,1390,NA,,17016,13420,10045
+08/09/2022,Rock,,French,Sad,2020S,NaN,NO,uncharted,Synth,STUDIO,4-7, yes ,-999,Kids,Latam,615,12042,2468,NaN,NaN,NaN,£16152,18443,NA,missing
+NA,Edm,,french,energetic,-999,indie,NA, Uncharted ,piano,live,0,,Mood,KIDS,LATAM," 2,432",384,NaN,£12672,   613,£629," 4,987",15810,17265," 9,731"
+06/12/2024,Pop,cassette,spanish,energetic,2020s,universal,yes,uncharted,drums,live,missing,yes,SLEEP,adults,ASIA,4146,"19,499",NaN,£4381,9888,3282,3029,6651,15983," 8,786"
+"Sep 04, 2021",Jazz,vinyl,SPANISH,Chill,NaN,UNIVERSAL,NA,top-100,strings,studio,1-3,yes,NA, Kids ,ASIA,7571,£15890,6662,£4914,£16713,£10041,£16144,NA," 7,485",£11546
+NaN,POP,Vinyl,french,Sad,80s,SONY,no,top-40,Synth,Live,,NO,mood,adults,uk,£19182,NA,9536," 8,237",   505,"12,621",£9122,£1897,11176,NA
+04/05/2024,pop,cd,french,HAPPY,2010S,universal,yes,TOP-100,Guitar,studio,4-7,NaN,Party,Seniors,eu,9868,£13443,£10119,£4419,2487,5128,371,NaN,£15575,11238
+17/07/2024,pop,vinyl,korean, angry ,90s,universal,yes,TOP-100, strings ,studio, 1-3 ,NO,party,adults,Uk,17417," 7,259",7823,,14524,NaN,17592,3658," 3,024","15,924"
+"May 02, 2023",, Cd ,spanish,CHILL,2020s,universal,NO,UNCHARTED,strings,studio,8+,yes,Mood, Teens , latam ,£9216,10508,15309,,£185,17955,17289,3711,18457,5681
+2022-07-14,pop,live,ENGLISH,NA,80s,Universal,yes,top-10,STRINGS,Live,1-3,YES,Focus,KIDS,eu,4802,16502,missing,,£5194,7376," 9,477",1103,£5544,7946
+23/05/2023,Pop,STREAMING, english ,SAD,80s,indie,no,top-10,,live,1-3, yes ,PARTY,adults,US,"13,590",3961," 4,661",1925,£710,£3894,"13,206"," 7,023",9977,6338
+2022-11-07,pop,VINYL,korean,SAD,2000s,universal,YES,TOP-40,PIANO,Live,8+,No,MOOD,teens,US,6203,£13783,£3218,14227,"17,019",£154,11849,£1913,1845,£11128
+missing, jazz ,cd, french ,energetic,NaN,warner,,Top-40,synth,STUDIO,1-3,YES,Party,Kids,Asia,19958," 5,636",1406,12780," 7,893",1073,£8948,12276,7038,13346
+2024-05-05,hip-hop,missing,korean,CHILL,70s,indie,yes,uncharted,,studio, 0 ,NaN,mood,seniors, LATAM ,£13256,12757,10995,17074,2151,2667,NaN,8805,8178,£9836
+"May 11, 2021", ROCK ,,-999,sad,2010s,indie,NA,top-10,guitar,live,1-3, No , workout ,Kids,Latam,8830,£3609,8753,£6713,£2867,15961,14008," 4,395",£3664,1825
+08/11/2023,edm, cd ,french,energetic,2010s,sony,NO,Top-100,Guitar,Live,0,no,party,adults,uk,-999,16264," 1,160",   868,NA,," 5,274",£13504,10705,£1806
+13/01/2024,edm,cd,french,Happy,-999,indie,NA,-999,Piano,studio,NA,no,FOCUS,teens,EU,"15,742",12362," 9,145",14368,554,NA,9386,4254,15766,6056
+2024-07-16,pop,Live,english,sad,90S,WARNER,YES, top-10 ,guitar,STUDIO,NA,no,focus,Kids,Asia,£15096,14234,NA,"13,429",17200,19123,15646,8410,13113,8167
+15/01/2024,HIP-HOP,cassette,GERMAN,NaN,70S,Warner,YES,top-40,synth,missing, 1-3 ,no,PARTY,seniors,LATAM,"15,188","19,395",£195,"10,626",-999,12043,£12008,15294,    29,18932
+25/09/2021,,missing,GERMAN,sad,90s,warner, no ,top-10,Guitar,Studio,0,no,workout,adults,latam,£4319,8077,£17936,15109,347,11006,2148,13490,£15583,"14,038"
+2024-08-11,classical,live,french,happy,2010S,universal,No,UNCHARTED,missing,live,NA,yes,Mood,ADULTS,Latam,£12207,missing,19189,NA,16832,£7014,13890,16309,12679,£7221
+09/02/2024,pop,STREAMING,German,angry,70s,warner,yes,top-100,DRUMS,studio,0,yes,WORKOUT,teens,Us,NaN,,5331,£13412,6061,,NA,"16,330",4851,-999
+NaN,hip-hop,LIVE,Korean,happy,2000S,,yes,top-10,DRUMS,LIVE,1-3,NO,mood,SENIORS,-999,"19,602",5190,£10245,missing,2479,15081,6559,18157,£2244,10247
+NA,edm,NA,missing,ANGRY,2020s,sony,no,NA,Strings,studio, 8+ ,Yes,workout,teens,EU,"17,741",9660,missing," 1,016",17356,8687,6994,£8945,"14,763",NaN
+2022-11-12,Pop,vinyl,English,NA,90s,universal,no,TOP-10,synth,Live,0,yes,mood,kids,uk,13110,864,£15944,19290,£2284,7604,10927,10055," 5,048"," 8,744"
+2024-07-09,pop,CASSETTE,english,energetic,90s,indie,yes,top-10,STRINGS,,4-7,YES,mood,adults, Latam ,4184,18545,8977,-999,4003," 9,282",5269,£5717,£44," 4,817"
+2021-08-18,Edm,live, english ,Sad,NaN,Warner,No,top-40,guitar, studio ,0,no, workout ,adults,-999,"18,026",NaN,£19745,£16831,NA,,£12590,-999," 8,801",6823
+2024-08-04,classical,,english,Happy,70S,INDIE,No, uncharted ,Piano,studio,0,yes,sleep,seniors, us ,"14,798",£5725,£14646,4663,NaN,£13482,£4631,£3133,13399,£15724
+2024-08-02,HIP-HOP, Streaming ,,sad,90s,UNIVERSAL,Yes,,guitar,live,1-3,No,mood,kids,Latam," 4,485","15,826",15819,"14,498",17453,8352,4131,"12,130",971,3725
+12/11/2021,rock,vinyl,Spanish,angry,70s,Indie,no,top-10,GUITAR,LIVE,0,no,Party,seniors,EU,18924,11738,15097,£7282,2394,2564,14096,"16,609",£9442,15394
+23/11/2023,hip-Hop,CASSETTE,German,Sad,2010s,warner, no ,top-40,drums,LIVE,-999,yes,sleep,teens,uk," 4,260",13429,   757,7683,352,306,£5119,3794,missing,£14987
+2023-09-18,Jazz,,SPANISH,angry,2010s,Sony, YES ,uncharted, strings ,studio,1-3,NA,party,adults,NaN,1062,8319,12386,4691,6744,10861,13006,14099," 3,644",11696
+-999,Classical,cd,-999,energetic,80S,WARNER, yes ,top-10,Synth,Live, 1-3 ,yes,mood,KIDS,latam,18134," 8,882",6142," 3,311",18970,4201,7026,3098,2390,£4188
+"Jan 25, 2022",rock,live,ENGLISH,missing,80s,indie,yes,NA,piano,LIVE,0,yes,mood,seniors,-999,3107,6933,NA,missing," 2,119",£10540,1595,£5372,missing," 7,266"
+17/09/2024, rock ,vinyl,English,sad,80s, sony ,yes,top-40,Strings, live ,8+, yes ,FOCUS,NA, uk ,6094,missing,2965,17332,12309,18186,£8786,4291,NaN,5413
+2022-07-01,classical,streaming,english,Sad,80s,WARNER,Yes,top-100,Strings, LIVE ,8+,yes,focus, Teens ,ASIA,18218,1050," 7,754",18590,9917,£5441,£13071," 4,944",£12787,4802
+05/12/2023,jazz,streaming,korean,energetic,2020s, SONY ,yes,top-40,piano,NaN,4-7,YES,mood,teens,eu,17010,7263,11362,14374,17761," 5,626",14910,13704,19495,17744
+-999,classical,streaming,missing,Sad,2000s,Sony,no,-999,guitar,Studio,-999,no,missing,teens,Eu,NaN,£3050,£13327,7609,14154,£2053,18500,,7440,£7619
+2022-04-13,NA,VINYL,German,angry,2000s,INDIE,No,NaN,strings,studio,0,Yes,Workout,teens,Asia,£1241,2891,£7993,12721,£11916,NaN,17628,7204,2107,11604
+17/07/2022,EDM,vinyl,GERMAN,energetic,2010s,indie,no,TOP-10,NA,live,8+,YES,NA,adults,us,"17,085",6703,15237,1351,1320,3368,NA,10419,14452,£8682
+30/12/2023,-999,STREAMING,english,Energetic,2010s,warner,no,top-100,Strings,Live,8+,No,party,Adults,eu,£13308,5829,328,7649,£17779,13253,10121," 5,072",4191,13295
+2023-03-29,,vinyl,korean, chill ,2000s,warner,Yes,Top-100,strings,live, 8+ ,yes,sleep,seniors,Asia,9344,"18,975",£13360,£13146," 4,816","10,751",16685,,£1518,£2584
+"Oct 20, 2023",NA,CD, ENGLISH ,NaN,90s,indie,yes,top-100,synth,studio,4-7,NO, MOOD , kids ,eu,13556," 8,052"," 6,222",14052,2424,missing,8442,1783," 7,997",£18257
+"Mar 29, 2024",hip-Hop,VINYL,English,HAPPY,80s,WARNER,Yes,UNCHARTED,,Studio,NaN,no,Focus,adults,Eu,15823,7137,£5023,13081,£8377,10435," 2,498",£16527,14609,1736
+"Feb 20, 2024",edm,STREAMING,french, HAPPY ,2020S,universal,NO,top-10, guitar ,-999,8+,no,WORKOUT,adults,-999,7011,11836,,7713,"19,171",-999,10687,   612,9304,"11,720"
+09/09/2024,jazz,VINYL, french ,happy,90s,Sony,no,TOP-10,Synth,NaN,8+,YES,NaN,ADULTS,uk,£2536,NA,86,9665,,"12,228",5166,12081,18051,9157
+17/10/2022,hip-hop,vinyl,English,sad,70S,sony,No,top-100,Piano,studio,4-7,YES,MOOD,teens,Latam,13807," 2,780",NaN,16191,NA,13214,12014,1150,2649,10193
+2024-04-19,ROCK,Vinyl, Korean ,Happy,80s,-999,No,top-40,guitar,,0,yes,sleep,,eu,9146,11921,NA,11266,16752,11401,£5789,4895,17946,£9112
+"Sep 21, 2022",classical,cd,FRENCH,ENERGETIC,80s,Warner,yes,-999,guitar,live,4-7,No, mood ,-999,asia,14518,17675,£17991,5239,6575,10241,11771,6860,NaN,NaN
+13/05/2021,NaN,streaming,english,happy,2010s,indie,no,uncharted,strings,live,0,yes,Sleep,adults,us,NA,10007,£3349,4644,NA,15146,NaN,,£9632,10220
+"Mar 03, 2023",rock,streaming,german,SAD,2010s,indie,YES,top-100, Strings ,live,8+,Yes,workout,kids,UK,"16,021",£19022,8670,9055,15443,7747,NA,£8871,missing,£622
+15/03/2022,edm,cassette,missing,SAD,70S,universal,no,Top-40,Drums,Studio,1-3,yes,PARTY,adults, us ,"11,778",17268,13077,-999,£9743,6168,NA,12244,£4769,£716
+2023-05-20,Classical,LIVE,ENGLISH,CHILL,2000s,Indie,NO,,synth,studio,8+,no,mood,teens,ASIA,19157,missing,NA,NaN," 4,227",18367,6052,"13,627",NA,11809
+2021-08-27,classical,Vinyl,german,angry,2000S,,No, Uncharted ,strings,Live,0,no,mood,Seniors,US,6994,NA,£19969,£10822," 3,851"," 3,523",£6554,15978,15360,£15646
+"Aug 26, 2023",hip-hop,vinyl,German,ANGRY, 2010S ,,yes,top-40,piano,studio,4-7,yes,workout,adults,Us,15525,£4265,2920,3063,14042,9838,,5995,19031,NA
+11/01/2021,edm,Vinyl,korean,angry,2000s,UNIVERSAL,NO,uncharted,guitar,Live,8+,Yes,PARTY,Seniors,latam,19312,£6858,931,8290,£16812,18941,17229,3896,1623,8512
+22/10/2021,pop,live,english,Energetic,80s,warner,yes,top-100,strings,live,4-7,Yes,party, seniors ,asia,,6276,missing,14341,missing,17406,£18986,£735,missing,19064
+NA,classical, streaming ,german,NaN,70s,WARNER,no,top-40,Drums,studio,8+,Yes,Party,kids,-999,13549,7048,missing,4678,-999,1051," 1,666",£15119,NA,8464
+"Sep 29, 2021",edm,live,Spanish,happy, 70s , warner , Yes ,NaN,strings,live,8+,yes,mood,seniors,uk,15036,"11,121"," 8,978",1603,5091,17549,10665,18389,"18,518",   425
+NaN,rock,CD,KOREAN,-999,2000s,NA,yes,Uncharted,strings,missing,,yes,party,adults, uk ,17972,"19,395",153,9086,13251,18709,£13360,7757,4385,12378
+-999,ROCK,STREAMING,french,Angry,2010s,Indie,yes,Top-10,Synth,live,1-3,NA,party,Kids,eu,4732,14983,4027,missing,16047,5637,10022," 7,097",£2630,8577
+04/06/2022,CLASSICAL,Vinyl,Korean,chill,2000s,NaN,yes,Top-40,guitar,STUDIO,0, no ,missing,seniors,us,£1889," 5,100",9753,15480,4357,"17,548",,,17480,missing
+2021-11-21,Rock,Streaming,German,chill,2020s,WARNER,NO,Top-100,strings,studio,0,yes,Focus,KIDS,latam,£646,3447," 9,623","17,127",16137,1278,19676,9249,14568,"14,606"
+30/03/2022,rock,NaN,german,CHILL,80s,Universal,no,NaN,NaN,,8+,-999,MOOD,teens,uk,1163,17168,£3108,"14,485",5587,,13549," 9,262",-999," 7,255"
+21/06/2023,pop,missing,german,chill,2010s,,NO, top-40 ,Piano,studio,0,no,NA,kids,Eu,missing,£901," 5,940",NA,14792,3593,7062,£1696,NaN,£12882
+2023-08-13,NA,streaming,spanish,ENERGETIC,80s, Universal ,NaN,top-40,guitar,NaN,4-7,no,party,seniors,asia,3250," 2,567",5108,5789,2439,6449,12103,9582,15115,1008
+10/02/2021,Jazz,streaming,German,Sad,70S,Sony,no,Uncharted,synth,studio,4-7,no,party,kids,NaN,,8759,NaN,15652,-999,5930,19297,18144,£16128,2366
+2021-04-16,-999,Cassette,KOREAN,chill,70s,SONY,No,TOP-40,piano,studio,1-3,yes,focus,Teens,eu,19300,8085,5540,,9234,1984,18468,17910,3140,13917
+2024-07-27,hip-hop,LIVE,french,energetic,2010s,sony,no,uncharted,missing,STUDIO,0,yes,missing,teens, us ,17008,£12453,"15,858"," 5,393",4464,15,,14786,4483,6664
+2024-01-05,EDM,missing,,energetic,2010s,sony,YES,top-100,,live,8+,no,NA,NaN,us,3979,15258,18669," 6,152",15473,7926,16929,NaN,"15,630",14460
+17/10/2024,Jazz,vinyl,korean,sad,2020s,universal,No,TOP-10,GUITAR,live,1-3,Yes,party,Adults,eu,12280,11812,"18,421",13051,16594,8620,£16763,11115,-999,missing
+,Classical,Cd,german,angry, 2010s ,sony, YES ,top-40,piano,live,1-3,missing,MOOD,ADULTS,US,,"17,982",18004,6777,16167,1560,723," 6,453",9935,19832
+"Feb 14, 2024",rock,Live,korean,energetic,2020s,Indie,NA,top-40,piano,NaN,0,yes,Workout,kids,uk,£12262,14772,£6544,7909,3782,15626,3895,£1751,,277
+19/01/2023,classical,LIVE,german,chill,80s,SONY,yes,Top-40,strings,LIVE,1-3,Yes,party,teens,Latam,2868,18669,4009,-999,£28,3304,£2366," 6,120",missing,13960
+11/06/2024,edm,cd,french,HAPPY,2010s,,NO,NaN,guitar,NaN,1-3,no,Party,ADULTS,eu,£3950," 2,388",9099,6444,18789,£15925,928,15726,£11631,"16,769"
+2024-01-01,classical,streaming,GERMAN,happy,2020s,UNIVERSAL,no,TOP-10, drums ,NaN,NA,No,-999,Kids,NaN," 2,880",£10638,-999,19910,18936,5742,16598,8887,7488,12635
+2022-11-09,edm, CD ,missing,chill,70s,universal,yes,TOP-10,synth,live,1-3,yes,mood,Kids,LATAM,19064," 1,557",8196,"12,692",646,4521,19237,missing,£9097,NaN
+21/11/2024,CLASSICAL,VINYL,german,-999,2010s,missing,Yes,TOP-10,Drums,studio,0,Yes,mood,adults,Eu,8248,"12,246",12396,4028,£9590,," 2,365",17199,18888,NA
+-999,pop,CASSETTE,french,Energetic,2000s,missing,YES,top-40,synth,live,0,YES,focus,seniors,,11611,1998,2626,£14231,15562,£9526,NA,11246,NaN,missing
+"Jan 22, 2023",edm,cassette,-999,Angry, 90s ,UNIVERSAL,NaN,top-10,-999,studio,0,no,Focus,seniors,LATAM,£11284,2245,,£598,10725,£18594,"10,667",2418,4677,9089
+"Apr 21, 2024",hip-hop,NaN,NaN,energetic,90s,Warner, No , TOP-100 ,drums,live,1-3,NA,sleep,Adults,eu,2701,"15,719",143,£3380,8254,8668,5396," 8,201",9653,19096
+08/06/2024,Rock, vinyl ,english,Energetic,90s,universal,yes,TOP-100,NaN,studio,1-3,NO, party ,teens,UK," 9,834",18890,4495,8562,2264,13765,-999,3200,10778,
+30/12/2024,hip-Hop,cassette,SPANISH,sad,2000s,indie,NA, uncharted ,piano,live,1-3,YES,Focus,ADULTS,asia,15047,£16954,"13,040",16544,£19507,12259,8766,," 2,884",£12386
+17/06/2021,NaN, LIVE ,English,-999,2000s,INDIE,missing,top-100,piano,STUDIO,missing,missing,SLEEP,TEENS,-999,15309," 6,138"," 6,672",3720," 4,833",£12901,£11007,£17946,4705,"17,679"
+"Apr 16, 2024",edm,cassette,NA,chill,80s,WARNER,YES,Uncharted,guitar,live, 0 ,no,mood,teens,eu,7839,£9665,7640,4919,3118,NaN,11867,5214,"12,044",4088
+2023-01-31,Classical,streaming,Spanish,Energetic,80s,WARNER,Yes,Uncharted, strings ,live,8+,Yes,Workout,adults,NA,missing,11307,17816," 5,028",   342,£15721,1765,£1541,£5821," 5,333"
+2023-04-18,edm,CD, french ,NA,70s,Universal,no,,SYNTH,missing,4-7,Yes,,KIDS,us,1850,9631,£17214," 9,932",12259,11762,10080," 8,698",   968,"14,945"
+08/07/2022,Pop,Live,,Chill,missing,sony,NA,top-100,synth,studio,4-7,yes,focus,kids,eu,18720," 2,672",missing,9356,15098,12968,£12549,NA,"15,343",
+2024-06-02,-999,cassette,german,happy,70S,Warner,no,Top-40,synth,Live,missing,yes,workout,kids, uk ,£14098,18984," 5,320",£3909,NA,14501," 5,609",4191,18506,13179
+"Mar 02, 2021", EDM ,Cassette,SPANISH,sad, 2010s ,indie, no ,top-100,Guitar,Studio,4-7,NO,NA,adults,us," 3,207",£10894,NA,5863,£16298,11362,13424,£19770,8725,   817
+10/08/2022,pop,cd,french,CHILL,2010S,warner,yes, top-10 ,piano,STUDIO,8+,no, PARTY ,missing, EU ,13502,missing,"15,438",£8813,12988,5478,5176,17433,,3305
+-999,edm,-999, SPANISH ,NaN,2020S,universal,NO,Uncharted,DRUMS,live,missing,no,workout,adults,us,767,£16886,,£16064,10907,19709,£19138,5195,7353," 1,962"
+07/09/2021, Jazz ,live,german,happy,2020S,indie,yes,,Piano,Live,0,NO,FOCUS,teens,-999,3663,"14,850",4913,10968,"13,124",14277,11588,£17246,14745,£12598
+31/05/2022,Edm,Cd,german, energetic ,90s,missing,yes,TOP-10,guitar,studio,4-7,no,sleep,ADULTS,Uk,1791,15987,£19508,-999,"18,977",1262,," 6,184",NA,£14842
+"May 14, 2022",HIP-HOP,NaN,english,angry,2020S,universal,yes,missing,Drums,STUDIO,1-3,yes,NA,KIDS,EU,5775,8955,7691,12277,16507,£18935,1912,7686,£14248,6495
+2022-09-16,jazz,Streaming,spanish,chill,80s,indie, no ,NA,strings,missing,8+,yes,Workout,adults,asia,629,missing,NaN,NaN,12297,11003,£17025,6253,13764,15638
+19/03/2022,pop,vinyl, french ,HAPPY,90s,Indie,NA,TOP-40,guitar,studio,1-3,Yes,NaN, SENIORS ,NA,1629,18254,9439,16969,11962,"14,900",10796,11346,£2673,6903
+08/04/2023,JAZZ,Streaming,German,energetic,missing,indie,yes,top-40, piano ,,1-3, yes ,sleep,kids,missing,missing,15056,17901,NA," 7,958",14213,16818,16496,7485,17832
+19/06/2022,Edm,missing,english,SAD,70s,Indie,,TOP-10,synth,LIVE,4-7,no,WORKOUT,teens, eu ,NaN,£4253,1552,17163," 3,701",£7521,9396,101,NA,missing
+2022-03-25,CLASSICAL,streaming,Korean,happy,2020s,Warner, NO ,NA,DRUMS,live,NA, YES ,Party,KIDS,Us,£875,3930,£1433,11821,£4848,-999,17948,11354," 3,081",
+2024-07-01,edm,cassette,GERMAN,energetic,80s, warner ,No,Top-100,PIANO,live,0,no,focus,Adults,latam,24,18564,17102,3423,£3127,14226,18289,£14107,missing,"19,699"
+2022-07-08,rock,VINYL,KOREAN,Happy,2000s,Indie,yes,uncharted,Piano,missing,1-3,yes,workout,seniors,uk,£10484,£11265,   430,,£14754,NA,£6474,2565,13253,17923
+missing,classical, cassette ,french,angry,90s,INDIE,YES,top-40,Guitar,studio,0,YES, party ,adults,uk,£12295,-999,£6007,5545," 9,959",NaN,£17762," 9,912",11734,8624
+22/12/2024,Jazz,Cassette, spanish ,HAPPY,2020s,INDIE,Yes,TOP-100,synth,live,NaN,yes,focus,seniors, Uk ,NaN,"14,000",£13125,13592,NA,16533,   585,,15251,15234
+2021-01-06,hip-hop,streaming,korean,SAD,2020s,universal,NO,UNCHARTED,STRINGS,NaN,0, yes ,Focus,Seniors,latam,missing,3393,NA," 3,045",17777,9345,17745,NaN,8189," 4,115"
+02/04/2021,rock,Live,french,NaN,2020s,warner,yes,top-40,Synth,live,missing,Yes,focus,kids,,13914,-999,3287,3334," 9,487",7331,,NaN,16647,19746
+16/05/2023,classical,NA,spanish,sad,90s,warner,yes,Top-10,Piano,LIVE,0,no,sleep,adults,asia,-999,-999,"13,530",16279,6400,3098,8824,3829,"11,529","14,974"
+2023-11-18,-999,live,german, Angry ,2000s,Universal,yes,uncharted,synth,studio,0,yes,workout,seniors,uk,missing,£9337,£3730,13988,6109,   302,"19,049",11027,£18042,5911
+2022-05-30,edm,vinyl,korean,chill,80s,indie,missing,uncharted,GUITAR,live,1-3,No,sleep, kids , latam ,£6088,15004,11609,£9024,   969,9948,4155,-999,missing,£14456
+12/11/2022,pop,live,Spanish,NA,2020s,sony, Yes ,top-100,synth,live,1-3,no,mood,adults,eu,7811,,3371,,6091," 2,521",5802,11621,£8398,£8567
+,Hip-Hop,streaming, GERMAN ,angry,2000s,universal,no, top-10 ,strings, STUDIO ,1-3,NA,mood,teens,latam,15059," 1,936",17117,14176,NaN,missing,3422,19560,8647,-999
+2024-11-12,Classical, Streaming , FRENCH ,angry,70s,,yes,UNCHARTED,Guitar,studio,0,no,Workout,adults,uk,812," 8,326",-999,," 8,923",5626,£9515,"16,823",2455,"17,728"
+missing,rock,NaN,Korean,chill,2010s, UNIVERSAL ,no,top-10,STRINGS,studio,0,YES,mood,teens,,9546,"10,327",2371,£2606,"15,810"," 7,334","17,691",-999,"14,850",17299
+2021-02-09,classical,cd,german,ENERGETIC, 70S ,indie,YES,top-100,guitar,Studio,1-3,,party,-999,latam,£8921,6066,11,£6968,,11119,7770,1129,"17,916",13161
+2022-11-17,HIP-HOP,NaN,German,ENERGETIC,90s, INDIE ,YES,TOP-10, piano ,live, 8+ ,Yes,missing,kids,uk,"11,763",NA,6144,NA,1491,6354,10616,-999,8000,341
+"Dec 25, 2021",-999,live,english,chill,,Warner,no,TOP-40,drums,studio,1-3,no,focus,adults,us,13041,£1486," 2,937",11721,£9351,1402,"11,519",122,   716," 5,021"
+20/01/2023, JAZZ ,vinyl,SPANISH,ENERGETIC,2020s,Warner,no,-999,STRINGS,LIVE,4-7,YES,mood,teens,US,19983,6817,,13390,492,17183,13893," 4,678"," 7,861",
+01/12/2023,,cd,english,NaN,90s,sony,no,TOP-100,synth,Studio,8+,yes,party,NA, asia ,£6182," 1,106",18456,9930,6782,NA,17587,£15695,"18,310",NA
+2022-12-12,JAZZ,cd,english,angry,70s,indie,NaN,top-40,strings,live,1-3,,sleep,seniors, Asia ,,£16200,"18,945",9984,£12238,16138,£14778,NaN,10800,£16840
+14/09/2022,EDM,STREAMING,german,NaN,80s,SONY,Yes,Top-100,SYNTH,live,8+,No,Focus,Kids,uk,6795,9212,,1839,14987,19839,7320,£15353,11834,14262
+05/09/2024,jazz, live ,FRENCH,angry,2000s,Indie, yes , Top-100 ,guitar,live,0,YES,sleep,adults,us,missing,4946,£1683,15099,16588,8394,4802,6173,9513,17885
+2021-11-24,, cd ,,Angry,2010s,WARNER,no,top-10,STRINGS,studio,8+,NO,mood,kids,eu,11792,-999,6655,11533,15335,11888,6540,£9871,11597,19678
+18/04/2021,hip-hop,Cd,english, Chill ,2020s,universal,YES,uncharted,synth,LIVE,0,no,FOCUS,TEENS,eu,9518,8545,missing,"11,133",12111,£5510,1094,13047," 6,191","19,547"
+2022-06-12,missing,live,-999,chill,70s,universal,yes, uncharted ,strings,Studio,missing,Yes,mood,Adults,uk,4291,£19015,15416,13338,17078,2251,11871,2710,NA,NA
+2023-08-27,pop,Streaming,GERMAN,chill,80s,Indie,no,UNCHARTED,guitar,STUDIO,8+, NO ,mood,-999,latam,"12,203",6507,£7901,£3870,3020,£2108,NaN,missing," 9,025",11877
+"Dec 26, 2023",Jazz,Live,GERMAN,sad,90s,WARNER,yes,TOP-40,Drums,Live,8+, no ,NaN,teens,Us,9047,"10,851",9182,10596,3290,£7373,1782,£5418,9323,723
+24/08/2023,edm,cassette,German,Happy,2010s,indie,no,,GUITAR,, 1-3 ,yes,party,adults,ASIA,4466,£7064,1061,£16298,18160,14285,776,1981,235,12173
+18/12/2024, jazz ,CD,german,angry,90s,missing,No,TOP-100,strings,NaN,4-7,no,workout,ADULTS,ASIA,17682,10810,2596,17453,19359,,15670,18253,19538,12824
+11/03/2024,-999,Streaming,korean,chill,2010S,INDIE,no,top-100,Strings, live ,0,NA,SLEEP,Teens,uk,3705,17099,11678,10317," 3,769",2253,3162,-999,13139,471
+26/07/2021,edm,live,korean,ENERGETIC,70s,warner,,Top-100,drums,NA,4-7,no,mood, Adults ,NaN,19000,5186,missing,15680,£12704,18894,247," 8,610",6334,10769
+2023-07-22, pop ,vinyl,spanish,ENERGETIC,90s,sony,yes,NA, strings ,studio,8+,YES,focus,teens,asia,NA,2318,£5982,£7160,12912," 7,780",,5818,NA,14053
+22/04/2023,Edm,CASSETTE,English,happy,70S, INDIE ,no,NA,strings,,missing,no, focus ,TEENS,Latam,546,18238,19274,5984,,£12905,11892,18334,8974,£12715
+28/10/2023,classical,cd,german,Sad,90S,universal,NA,, drums ,Studio,-999,yes,focus,Seniors,uk,£16719,"19,699",7664,"17,600",12784,5888,10291,2613,9724,14704
+21/05/2023,rock,missing, korean ,SAD,70s,warner,yes,-999,guitar,LIVE,0,No,WORKOUT,teens,Uk,9461,1994,"11,999",15796,NA,7581,14723,12481,10577,3304
+2021-01-05,pop, cd ,-999,Energetic,2020s,warner,Yes,Top-100,piano,live, 1-3 ,no,WORKOUT,Kids,Eu,6404,"14,732",17383,12397,"13,896",   354,,10335,19728,16723
+"Apr 29, 2023",-999,-999,french,-999,2020S,Indie,yes,NaN,Strings, STUDIO ,8+,NO,focus,Teens,uk,NA,8112,12389," 1,170",£8870,7442,£4418,£6209," 8,443","13,379"
+06/09/2022,POP,cassette,GERMAN,Angry,2020s,Sony,yes, top-10 ,PIANO,live,1-3,no,Mood,Kids,NA,"12,928",2410,NA,,   730,£17450,NA,9356,9469,6751
+2022-06-29,CLASSICAL,streaming,English,chill,2020S,Warner,NaN,TOP-10,drums,,1-3,NaN,party,kids,US,19864,13869," 4,050",3641,11511,"11,860",18746," 8,533",2254,£18880
+NaN,hip-hop,Live,ENGLISH,sad,90S,Sony,Yes,TOP-100,-999,studio,1-3,no,focus,seniors,uk,17439,"12,130",17795,9602,£157,£17005,12351,13046,882,4430
+"Sep 27, 2024",NaN,live,FRENCH,chill,2020s,sony,no,missing,drums,STUDIO, 1-3 ,NO,NA,Adults,eu,16110,,3458,14981,-999,£18620,12346,13797," 7,118",£6252
+"Apr 04, 2021",pop,,SPANISH,HAPPY,2020S, Sony ,no,top-10,Guitar,-999,0,No, WORKOUT ,seniors,eu,9170,£16932,£14161,"10,680",17071,,   328,10991,missing,£13694
+NA,edm,Cd,korean,Angry,NaN,universal,NO,top-100,strings,studio,8+,No,SLEEP,kids,us,4875,15066,3664,12056,13562,£2868,NaN,,9945,13633
+"Aug 05, 2023", hip-hop ,vinyl,korean,energetic,80S,, no , TOP-40 ,guitar,live,4-7,no,party,kids,,,7684,2408," 2,664",392,"14,689",£761,," 6,139"," 9,535"
+2021-03-07,Rock,CASSETTE,ENGLISH,missing,70s,warner,Yes,top-100,SYNTH,studio,missing,yes,mood,SENIORS,,"11,473",missing,£5801,3548,17349,4312,missing,2979,944,16293
+2021-09-12,NaN,Cassette,SPANISH,sad,90s,indie,yes,Uncharted,strings,NaN,8+,,Party,Kids,uk,17674,19348,-999,2715,   156,"15,331",£18012,1034,8670,£17157
+2022-09-09,NA,CASSETTE,english,angry,90s,sony,NaN,Top-10,guitar,Live,8+,No,party,,Uk,4465,"16,878",3902,83,12257,missing,6149,16734,19147,258
+28/11/2023,rock,streaming,spanish,ANGRY,2000S,indie,No,Top-40,Guitar,studio,1-3,yes,PARTY,Kids,eu,NaN,£18033,14236,2834,NaN,missing,19707,£5825,2107,
+2022-09-17,EDM,live,English,Energetic, 90s ,sony,YES,uncharted,DRUMS,live,missing,yes,NA,missing,-999,3187,£16290,14,7280,17007,9518,missing,9713,"18,436",£17433
+,edm,vinyl,GERMAN,ENERGETIC,,universal,no, top-40 ,drums,Live,0,YES,party,KIDS,latam,NaN,10590,7133,missing,"18,137",-999,£19972,16127,£5314," 4,433"
+2023-11-23,HIP-HOP,cd,FRENCH,NaN,90s, universal ,yes,UNCHARTED,NA,studio,,no,workout, seniors ,NaN,£3857,"15,487",19489,5627,£12750,15197,12596,5771,"11,600",£19362
+16/03/2022,hip-hop,cassette,french,happy,2000s,sony,missing,top-40,drums,studio,8+, Yes ,workout,Adults,ASIA,6306,NA,£1599," 2,644",11963,13848,"15,193",17335,"17,910",£12698
+2023-01-19,edm,streaming,,HAPPY,2010s,indie,yes, top-40 ,Guitar,live,4-7,no,focus,kids,Latam,missing,14161,12403,10501,1080,10679,2393," 5,258",17810,NA
+15/01/2024,NaN,cassette,spanish,happy, 2010s ,indie,yes,Top-40,Piano,live, 4-7 ,NA,party,Adults,US,16353," 7,711",£14817,11284,12345,9467,-999,NaN,8671,11574
+07/07/2022,classical,-999,korean,angry,80s,universal,NO,top-100,Guitar,live,4-7, YES ,party,seniors,latam,"18,457",12605,6632,£18676,14248,6387,£11561,-999,14043,19426
+07/05/2021,classical,CD,SPANISH,chill,,Universal,no, TOP-10 ,Drums,STUDIO,missing,no,party,-999,LATAM,NaN,"16,414",19048,13934,£4037,14507,1340,1083,13461,2900
+2022-09-28,EDM,Cd,english,sad,70s,Warner,no,TOP-100,synth,live,4-7,NO,party,seniors,Us,18345,13932,1685,9653," 2,284",8240," 7,129",missing,   996,16827
+2021-07-01,EDM,VINYL,french,, 2020s ,sony,yes,Top-100,drums,NaN,4-7, no ,party,kids,,10207,14351,£8725,6569,£6010," 3,232",10982,NA,3986,£16796
+missing,rock,CASSETTE,,chill,missing,sony,yes,Uncharted,strings,Studio,4-7,no,focus,KIDS,eu,7883,9015,193,16371,"13,849",£5856,"15,269",-999,2875,10064
+2023-07-05,classical,streaming,spanish,chill, 2010s ,Warner,no,NaN,Synth,,0,no,party,TEENS, eu ,-999,NA,£18426,12893,14368,£6923,97,18320,4317,"13,265"
+2021-05-07,hip-hop, Vinyl ,spanish,chill, 80S ,warner,yes,-999,guitar,live,0,yes, Mood ,NaN,uk,10029,1098,"14,939",12324,NaN,12172,£11119,£16659,2304,1161
+"Feb 05, 2021",Hip-Hop,CD,Korean,ENERGETIC,70s, indie ,yes,top-100,piano,live,8+,yes,PARTY,Teens,eu,4487,"18,325",17432,2146,70,9849,15039,£10145,16519,
+"Feb 25, 2023", rock ,cassette,French,happy,2000s,Indie,no,NaN,drums, studio ,8+,NA,workout,seniors,uk,2919,£4991,19515,"19,955",16743,"15,941",£17107,11162,£15697,14887
+2024-12-09,edm,VINYL,English,happy,NA,missing,yes,TOP-40, Guitar ,studio,4-7,No,PARTY,Teens,Eu," 7,957",19164,17171,10313,6503,10442,12540,8944,4819,£10330
+19/04/2024,classical,cassette, korean ,Energetic,70s,NA,No,top-40,strings,live,4-7,NA,focus,TEENS,eu,13166,"13,471",12152,£4761,3485,19458,18180,"10,265",15043,NA
+07/01/2023,Jazz,live,korean,angry,2020s,indie,yes,top-100,GUITAR,studio,0,yes,Sleep,seniors,EU,£4373,NaN,£3268,3119,12520,17626,9466,NaN,-999,£3281
+2023-08-02,classical,live,korean, chill ,2010s,warner,yes,-999,drums, studio ,8+,yes,focus,teens,asia," 3,081",NA,£6633,4932,£6755,£5298,10534,9156," 9,580",2407
+2021-07-20,-999,NaN,English,SAD,2010S,indie,NaN,top-40,piano,live,4-7,missing,missing,KIDS,uk,1637,18152,8641,13073," 2,644",£2937,17333,1772,15127,10631
+28/03/2022,pop,missing,spanish,ANGRY,2020s, universal ,no,Uncharted,guitar,Studio,-999,yes,,TEENS,,£11524,7321,7042,9526,3194,£6183,£12895,13216,£11334,-999
+2024-11-17, rock ,CASSETTE,english,ENERGETIC,80s,UNIVERSAL,no,missing,Piano, STUDIO , 0 ,YES,party,Adults,NA,missing,18597,,£16475," 3,311","15,893",5213,16741,1852,16386
+2023-11-05,Rock,VINYL,English,chill,2020S,Sony,NO,top-10,strings, studio ,8+,yes,focus,kids,missing,13236,"19,124",£19075,£1392,£10938,12303,"19,500",£19664,2148,£8388
+29/03/2022,CLASSICAL,VINYL,french,angry,70s,INDIE,NaN,top-100,Drums,Studio,0,yes,focus, teens ,ASIA,16980,NA,4374,1368,"11,796",£18422,6746,   477,-999,£9336
+19/03/2023,edm,cd,spanish,NA,2010s,Sony,YES,UNCHARTED,piano,live,1-3,Yes,workout,,Uk,5667,10736,8843,NaN," 7,703",missing,£13641,NaN,£13365," 1,259"
+"Dec 13, 2022",-999,cd,english,HAPPY,90s, warner ,yes,top-100,Synth,-999,0,yes,workout,teens,asia,1028,4570,£7574,19967,NaN,17046," 8,694",11335,18462,2608
+"Jan 21, 2023",hip-hop, live ,Korean,Sad,80s,universal,yes,Top-40,Strings,live,8+,NO,party,SENIORS,us,£6780,16682,£16998,missing,-999,£9433,NA,3775,1713,18789
+2021-09-21,classical,,english,HAPPY,2020s,universal,yes,NA,PIANO,live,0,YES,mood,kids,UK,"12,860",13698,4377,2079,16360,4937,NA,14978,18937,£2766
+18/04/2021,Pop,Cd,NaN,energetic,80s,indie, yes ,top-40,strings, studio ,1-3,yes,sleep,,latam,8058,"19,911",9742,16349,19529,NaN,17040,15758,8647,15770
+2022-12-26,hip-hop, streaming ,french,angry,2020s,universal,Yes,top-40,GUITAR,Studio,,yes,sleep,Kids,latam,"18,955",£8261,NaN,8395,1472,"19,555",18223,2392,14347,£4066
+07/04/2023,hip-hop,cd, KOREAN ,sad,2020s,warner,no,TOP-100,missing,studio,1-3,no,SLEEP,SENIORS,asia,14884,9305,£18721,13090,£6007,17219,10913,12204,3312,£12708
+"Jul 11, 2023",Classical,VINYL,spanish,happy,2020s,Indie,No,top-40,PIANO,Live,8+,no,NA,adults,EU,1281,4973,,9809,14516,11234,£6373,17069,10453,16434
+21/03/2024,hip-hop,Cassette,korean,energetic,2000s,universal,no,UNCHARTED,synth,LIVE, 1-3 ,yes,focus,seniors,asia,3101,,3191,£8127,NA,£16242,5574,"18,209",11852,£6493
+2022-09-26,rock,,spanish,energetic, 90s ,Universal,yes,Uncharted,strings,studio,8+,yes,Sleep,Teens,Asia,£13699,8002,7541,17317,£18230,£7011,12142,312," 7,139",
+01/08/2022,classical,streaming,spanish,angry,90s, sony ,NO, uncharted , guitar ,Studio,1-3,no,workout,SENIORS,-999,£495,13679," 8,312",10307,£1865,"17,486",7372,£3090,10620,505
+08/05/2021,Jazz,CD,FRENCH,happy,2020S,WARNER,yes,Top-40,synth,studio,NA,No,Sleep, kids ,-999,9274,14916,,-999,NaN,10616,£18544,13923,18937,2864
+01/04/2023,JAZZ,CD,german,NA,,universal, yes ,TOP-10,STRINGS,studio,0,yes,mood,-999,us,12789,missing,13654,"16,497",NaN,£1775,NaN,£9022,12728,13494
+31/10/2024,NA,cd,spanish,happy,NA,sony,NaN,TOP-10, guitar ,live,0,yes,focus,Kids,missing,NaN,,15949,missing,2537,£2269,17658,12533,£15138,2800
+2023-03-08,pop,CASSETTE,english,ANGRY, 70s ,Indie,no,-999,piano,live,4-7,yes,WORKOUT,teens,asia,missing,missing,733,2129,"11,205",2693,11464,"10,307",6019,7289
+24/01/2023,hip-hop,live,KOREAN,energetic,2000s,UNIVERSAL,YES,Uncharted,guitar,NA,1-3,yes,MOOD,teens,UK,19162,4808," 2,444",2674,£18485,8585,,1551,14378,
+-999,missing,vinyl,german,sad,2020s,Universal,no,,Drums,studio,8+,no,party,kids,US,NaN,5574,£10444,850,18733,17122,NaN,7247,£4748,19652
+2022-12-05,pop,live,french,ENERGETIC,2010s,universal,,TOP-40,drums,missing,4-7,yes,Party, teens ,Asia,17781,598,13811,6574,-999,3443,," 4,018",1739,18020
+,CLASSICAL,cassette,spanish,chill,80s,indie,no,missing,guitar,studio, 0 ,no,focus,Adults,Eu,7580,NA,15319,"19,724",2919,£6226,10835," 1,274",-999,   900
+2024-12-07,,CD,GERMAN,SAD,2020s,indie,yes,Top-10,SYNTH,, 8+ ,YES,workout,seniors,LATAM,missing,7493,"16,833",757,1006,3690,7936,9503," 3,047",£9814
+17/07/2024,rock,NaN,korean,-999,NA, Warner ,No,Top-40,Piano,live,8+, YES ,Focus,TEENS,eu,11205,£12254,-999,12568,1279,£18236,12637,4586," 4,907",9270
+2022-10-03,NA,Vinyl,korean,SAD,80S, sony ,yes,uncharted,piano,STUDIO,1-3,NO,workout,NA,eu,NaN,£499,£14563,6355,£8425,11838,11776,15399,missing," 3,126"
+NA,classical,VINYL, korean ,Chill,80s,Sony,Yes,uncharted,-999,LIVE,8+,no,Party,Teens,uk,1119,"11,988",1387,£16866,18678,707,12438,10467,,£10770
+"Jun 23, 2024",jazz,Streaming,english,SAD,90S,universal,no,UNCHARTED,Guitar,studio,4-7,yes,Focus,ADULTS,ASIA,15773,"13,614"," 9,706",3944,7701,8379,£8719,16208,14563,4202
+"Sep 08, 2021",Pop,live,-999,HAPPY,80S,missing,NaN,Top-40,guitar,Live,4-7,yes,missing,,uk,14814,£11912,£12431,11777,4737,£18526,15461,16245,9079,1846
+2023-12-14, hip-hop ,cassette,korean,happy,2020s,indie, No ,top-40,NA,studio,8+,NO,SLEEP,adults,UK,6811,£7154,11490,-999,11385,8677," 5,179",NA,,£2160
+missing,classical,vinyl,FRENCH, angry ,2010s,Sony,yes,Uncharted,SYNTH,-999,0,no, focus ,seniors,us,18121,14893,2569,14698,130,18867,"11,796",355,8178,14575
+31/05/2023, Classical ,VINYL, SPANISH ,energetic,80s,universal,yes,missing,SYNTH,Studio, 1-3 ,-999,NA,kids,uk,4226,6199,£19621,19323,NA,"13,521",6593,£7164,"13,544",18516
+2023-12-07,jazz,vinyl,french,chill, 70s ,Indie,NO,uncharted,guitar,studio,1-3,no,WORKOUT,,latam,16861,14379,15939,4271,£10348,-999,3875,NA,4824,17956
+2024-11-29, edm ,cd,english,happy,70s,indie,yes, Top-100 ,Strings,-999,1-3,no,Party,seniors, asia ,£2267,"14,258",£10091,NaN,,£9041,13623,13066,3181,7683
+2022-08-16,Pop,cassette,english,happy,-999,UNIVERSAL,NO,top-40,PIANO,live,0,NO,mood,KIDS,us,13542,10621,16491,14348,NaN," 4,683",6303,8999,5834,12958
+31/12/2022,hip-hop,NaN,english,Sad,90s,universal,Yes,Uncharted,drums,NA, 1-3 ,no,workout,, latam ,4493,19414," 8,430",£18719,19164,7062,9192,"12,737",8247,£16687
+05/06/2023,JAZZ,,french,sad,80s,Sony,no,-999,piano,Live,8+,No,workout,missing,Uk,"14,942",2676,,9756,18137,17015,NA,£9262,10381,£7680
+24/02/2023,hip-Hop,CD,english,angry,NaN,universal,no,top-10,, STUDIO ,missing,yes,party,kids,missing,"18,422",8410,NA,16813,10779," 7,606"," 3,599"," 6,970",13849,19161
+21/07/2023,pop,live,spanish, CHILL ,2020s,universal,yes,uncharted,PIANO,live,4-7,Yes,sleep,Seniors,latam,2440,17695,"17,100",6025,18349," 1,750"," 6,830",16599,£17847," 9,488"
+2023-11-05,rock,vinyl,FRENCH,angry, 2010s ,indie,YES, Uncharted ,synth,Live,4-7,YES,focus,ADULTS,latam,NaN,5905,£1200,11911,£17224,2752,15290,7116,3884,399
+2021-07-25,jazz,live,french,chill,2020s,indie,yes,top-40,synth,NaN,8+,no,focus,teens,latam,8705,4196,9599,NaN," 8,150",18398,16797,10414,NA,1845
+09/06/2022,edm,Cd,french,chill,70s,Sony,no,Uncharted,piano,live,0,-999,mood,SENIORS,,488,6,4132,2987,15557,"11,682",8849,-999," 8,461"," 2,627"
+02/05/2021,rock,live,spanish,-999,2020s,sony,yes, Uncharted ,piano,studio,8+,no,PARTY,adults,LATAM,8514,16758,297,10604,9163,16108,12214,2141,"11,124",-999
+"May 18, 2022",Edm,cd,german,happy,80s,sony,no,Uncharted,guitar,STUDIO, 8+ ,no,SLEEP,NA,latam,12961,-999,9936,5822,"13,170","17,642"," 8,081",4834,10171,£2089
+2023-07-31,CLASSICAL, cassette ,Korean,missing,2010s,sony,missing,-999,drums,LIVE, 1-3 ,YES,focus,kids,uk,19386,6299," 5,510",15383,£13892,£8403,11211,£17619,"17,143",£4625
+2024-01-17,CLASSICAL,vinyl,english,chill,2020s,warner,yes,,PIANO,LIVE,8+,,party,ADULTS,-999,4067,1417,17162,"16,220",15703,425,"15,209",£6239,£18096,NaN
+12/09/2024,hip-hop,Vinyl,spanish,chill,90s,Universal,NO,Top-40,guitar,LIVE,8+,No,workout,adults,Asia,NA,NA,17130,NA,15876,12545,18439,9845,NA,1649
+2021-08-27, JAZZ ,LIVE,NA,happy,90s,Universal,missing,top-40,Drums,live,1-3,no,MOOD,seniors,eu,-999,£1164,£5664,16110,11446,missing,£3827,"15,684",£15702,£17276
+2022-11-27,edm,cassette,korean,sad,90S,indie,yes,NA,Guitar,LIVE,0,yes,WORKOUT, ADULTS ,uk,6576,"19,482",4307,15635,missing,7037,17857,,996,9992
+01/01/2021,JAZZ,Cd,-999,angry,NA,sony,YES,uncharted,,studio,0,yes,NA,teens,Latam,-999,6927,"17,660",14902,-999,NaN,£6255,394,£6795,"15,958"
+missing,rock,Live,english,Chill,2000S,,Yes,top-100,NA,Studio,NA,-999,FOCUS,adults,eu," 5,074",6607,8010,9891,15285,9385,10381,17944,6798," 1,765"
+01/10/2024,rock,streaming,NaN,energetic,70s,SONY,yes,TOP-40,NaN,LIVE,4-7, yes ,sleep,adults,us,17392," 7,378",£16201,19033,14132,15697,14803,19336,14983,£14004
+27/04/2021,rock,NaN,German,angry,2000s,indie,yes,TOP-40,GUITAR,live,-999, no ,Mood,Seniors,UK,17435," 9,755",NaN,-999,9521,1469,9833,18502,7616,17557
+,Rock, vinyl ,german,Energetic,90s,sony,yes,uncharted,guitar,Studio,1-3,Yes,MOOD,SENIORS,latam,813,4055,£19374,£13188,-999,missing,17812,12611,missing,7461
+14/08/2024,rock,cassette,korean,happy,2020s,indie,no,uncharted,strings,Live,0,yes,party,TEENS,asia,£15154,19572,"12,065",13978,464,-999,19608,NA,9385,missing
+2023-02-18,HIP-HOP,Live,english,energetic,80s,Universal,no,top-100,Guitar,studio,8+,no,MOOD,adults,us,£3913,£5307,11776,£10161,5460,£5449," 1,583",17235," 2,488",£8550
+NA,Rock,Vinyl,Spanish,sad,70s,universal,no,TOP-100,drums,LIVE,4-7,yes,party,kids,Eu,3985,6022,7214,£14012,"17,969",£16446,£10336,9291,707,19687
+,jazz,CASSETTE,korean,sad,2020s,Sony,YES,NaN,drums,missing,4-7,no,party,adults,US,16256,£19633,missing,19889,19827,NaN,8444,2339,7455,9720
+17/12/2023,jazz,vinyl,english,energetic,2010s,Indie,NO,top-40,synth,studio,0,no,focus,missing,eu," 3,575",6678,18854,10441,-999,missing,£8369,11601,11201,17264
+08/07/2022,missing,vinyl,english,sad,80s,missing,Yes,top-10,GUITAR,missing,8+,missing,MOOD,Seniors,asia," 3,029",-999,3728,10428,NaN,,£7324,14600,NaN,11773
+2022-03-28,POP,vinyl,german,ANGRY, 2000s ,sony,no,TOP-10,NaN,Live,4-7, yes ,Mood,kids,uk,2565," 2,118",£5783,6122," 5,865",18650,"13,606",-999,   661,NaN
+08/06/2022,jazz,live,German,Sad,80s,warner,NO, uncharted ,synth,Studio,4-7,no,Workout,ADULTS,UK,,17506,-999,9265,£3404,NA,3164,£9997,5006,

@@ -1,0 +1,10 @@
+type,script,lines,analysis_rows,matches_dashboard,png_written,csv_written
+line_single,01_line_single.R,118,8,TRUE,TRUE,TRUE
+line_grouped,02_line_grouped.R,121,16,TRUE,TRUE,TRUE
+bar_simple,03_bar_simple.R,104,3,TRUE,TRUE,TRUE
+bar_stacked,04_bar_stacked.R,109,3,TRUE,TRUE,TRUE
+bar_grouped,05_bar_grouped.R,108,3,TRUE,TRUE,TRUE
+area_stacked,06_area_stacked.R,104,12,TRUE,TRUE,TRUE
+area_percent,07_area_percent.R,100,12,TRUE,TRUE,TRUE
+scatter,08_scatter.R,92,140,TRUE,TRUE,TRUE
+density,09_density.R,88,90,TRUE,TRUE,TRUE

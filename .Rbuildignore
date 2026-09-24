@@ -1,0 +1,7 @@
+^renv$
+^renv\.lock$
+^thegeneral\.Rproj$
+^\.Rproj\.user$
+^data$
+
+^tmp$

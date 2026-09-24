@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Definitions, populations and limitations, with worked examples from the verified app exports.">
+  <title>Statistics guide | The General</title>
+  <link rel="stylesheet" href="docs.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">G</span><span>The General<span class="brand-sub">Documentation</span></span></a>
+    <nav aria-label="Guides"><a href="index.html">User guide</a>
+<a href="statistics.html" aria-current="page">Statistics guide</a>
+<a href="developer.html">Developer manual</a></nav>
+  </div>
+</header>
+<div class="layout">
+<aside class="contents">
+  <p class="eyebrow">In this guide</p>
+  <nav aria-label="On this page"><ol><li><a href="#choose">Choose a statistic that fits the question</a></li>
+<li><a href="#counts">Counts, percentages and denominators</a></li>
+<li><a href="#averages">Means, medians and trimmed means</a></li>
+<li><a href="#eligibility">Which rows each view uses</a></li>
+<li><a href="#lines">Read line charts and their All comparison</a></li>
+<li><a href="#bars-areas">Read bars and areas</a></li>
+<li><a href="#scatter">Read scatterplots and fitted lines</a></li>
+<li><a href="#density">Read density plots and percentile trimming</a></li>
+<li><a href="#limits">Known limitations to consider</a></li></ol></nav>
+  <p class="contents-note">Works offline.<br>Use Ctrl+F or Cmd+F to find a topic.</p>
+</aside>
+<main id="main" tabindex="-1">
+  <div class="page-heading">
+    <p class="eyebrow">Guide 02 / 03</p>
+    <h1>Statistics guide</h1>
+    <p class="subtitle">Know what each view calculates.</p>
+    <p class="intro">Definitions, populations and limitations, with worked examples from the verified app exports.</p>
+    <p class="version">Reviewed 23 September 2026 · Column review board &amp; readable R exports</p>
+  </div>
+  <section id="choose">
+<h2>Choose a statistic that fits the question</h2>
+<p>These are descriptive analyses of the rows supplied. They do not establish causation, correct a biased sample, account for repeated observations, or perform significance tests. The app has no weighting control and does not display standard errors, confidence intervals or regression p-values.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="What the main quantities mean"><table><caption>What the main quantities mean</caption><thead><tr><th scope="col">Quantity</th><th scope="col">Interpretation</th><th scope="col">Useful when</th></tr></thead><tbody>
+<tr><td>Count / frequency</td><td>Number of included rows in a cell.</td><td>You need volume and the data has a well-defined unit of observation.</td></tr>
+<tr><td>Percentage</td><td>100 × category count / the relevant row total.</td><td>You need composition within a period or group; show the denominator too.</td></tr>
+<tr><td>Arithmetic mean</td><td>Sum of eligible values / number of non-missing eligible values.</td><td>Values have meaningful numeric spacing and extremes are relevant to the average.</td></tr>
+<tr><td>Median</td><td>Middle of sorted values; the mean of the two middle values for an even number.</td><td>You want a typical value less affected by a few extremes.</td></tr>
+<tr><td>20% trimmed mean</td><td>Average after removing the lowest and highest 20% of values separately.</td><td>You want a centre less affected by extremes, while retaining more information than the median.</td></tr>
+<tr><td>Kernel density</td><td>A smoothed distribution shape; each group's curve integrates to one.</td><td>You want to compare spread, skewness and possible multiple peaks.</td></tr>
+<tr><td>Fitted scatter line</td><td>A separate straight-line fit of y on x within each group.</td><td>You want to inspect an association alongside the individual observations.</td></tr>
+</tbody></table></div>
+<p>Do not average category identifiers. For ordinal ratings, check that treating steps as equally spaced is defensible, and compare the distribution or median. When comparing two outputs, first check that they use the same rows and the same statistic.</p>
+</section>
+
+<section id="counts">
+<h2>Counts, percentages and denominators</h2>
+<p><strong>Frequencies</strong> is a cross-tabulation of the selected time and categorical fields. Missing values in either field are omitted by its counting method. Factor levels can appear as zero-count combinations. A repeated person or event is counted again unless the input has already been deduplicated.</p>
+<p><strong>Percentages · 1 Group</strong> calculates each category's share within a time row. <strong>Percentages · 2 Groups</strong> calculates the second category's share within each combination of time and the first grouping category. These are row percentages, not shares of the whole dataset.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="A denominator example"><table><caption>A denominator example</caption><thead><tr><th scope="col">Within one period and group</th><th scope="col">Count</th><th scope="col">Row percentage</th></tr></thead><tbody><tr><td>Category A</td><td>30</td><td>30 / 40 × 100 = 75%</td></tr><tr><td>Category B</td><td>10</td><td>10 / 40 × 100 = 25%</td></tr></tbody></table></div>
+<p>Do not average percentages from different-sized groups as if their denominators were equal. Combine the counts and divide by the combined denominator when the populations are comparable and non-overlapping.</p>
+<p>The percentage helpers can retain missing categories as NA-labelled rows or columns, unlike Frequencies. They complete missing combinations with zero counts. The one-group percentage table reports zero percentages for empty completed rows; the two-group version can retain <code>NaN</code> from a zero denominator. An empty row is no evidence of a true zero population share.</p>
+<p><strong>Percentage areas</strong> count rows within each Year_Quarter after removing missing groups and the NA/Other labels described below. Their <code>n</code> is the period total repeated for each category, so do not sum it across categories. Displayed percentages are rounded to two decimals and may total 99.99 or 100.01.</p>
+</section>
+
+<section id="averages">
+<h2>Means, medians and trimmed means</h2>
+<p>The Averages tables calculate the arithmetic mean, median, <code>Trimmed.Mean.20</code> and <code>n()</code> by time, optionally split by another category. Missing measurements are removed when calculating these statistics. Ordinary uploaded measurements are first filtered to values different from zero; negative values remain.</p>
+<p>For a 20% trimmed mean, sort the non-missing eligible measurements, remove <code>floor(0.2 × n)</code> observations from each end, and average what remains. With fewer than five eligible values, no observations are removed. This is trimming of observations, not replacing extremes with cutoff values.</p>
+<div class="example"><h3>Why 226 and 36 are both correct</h3><p>The verified March sample is <strong>16, 26, 36, 46, 1006</strong>.</p><ul><li>Arithmetic mean: 1130 / 5 = <strong>226</strong>.</li><li>Median: the middle value is <strong>36</strong>.</li><li>20% trimmed mean: remove 16 and 1006; (26 + 36 + 46) / 3 = <strong>36</strong>.</li><li>The displayed row count remains <strong>5</strong>, even though the trimmed mean uses three values.</li></ul></div>
+<p>An extreme value may be a valid observation. A trimmed mean changes the quantity being summarised; it does not prove the removed values were erroneous. Compare the ordinary mean and distribution before choosing what to report.</p>
+<p>Most summaries round numeric results to two decimals. Counts describe rows after the view's initial filters, before trimming; in legacy exceptions that retain missing measurements, <code>n()</code> can exceed the number used by a mean. Missing-value handling for medians also differs between those exceptional paths.</p>
+<p class="source">Definitions: <a href="https://stat.ethz.ch/R-manual/R-patched/library/base/html/mean.html">R mean()</a> and <a href="https://stat.ethz.ch/R-manual/R-patched/library/stats/html/median.html">R median()</a>. The eligibility rules below come from this repository, not from statistical requirements.</p>
+</section>
+
+<section id="eligibility">
+<h2>Which rows each view uses</h2>
+<p>This table describes the current implementation for ordinary uploaded measurements. A row's eligibility in one view does not imply eligibility in another.</p>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Population and exclusion rules"><table><caption>Population and exclusion rules</caption><thead><tr><th scope="col">View</th><th scope="col">Measurement rule</th><th scope="col">Grouping / time rule</th></tr></thead><tbody>
+<tr><td>Frequencies</td><td>No numeric measurement needed.</td><td>Current Home population; missing time or category omitted.</td></tr>
+<tr><td>Percentage tables</td><td>No numeric measurement needed.</td><td>Current Home population; counts by time and category; missing labels can be represented.</td></tr>
+<tr><td>Averages tables</td><td>Exclude zero and missing values; keep negatives.</td><td>Current Home population; no NA/Other substring exclusion for grouping labels.</td></tr>
+<tr><td>Single line</td><td>Positive measurements; 20% trimmed mean.</td><td>By selected time; may add the full mapped population for comparison.</td></tr>
+<tr><td>Grouped lines</td><td>Positive measurements; 20% trimmed mean.</td><td>Remove missing groups and NA/Other labels from group series. All uses the full mapped population, including those labels.</td></tr>
+<tr><td>All bar types</td><td>Positive measurements; ordinary mean.</td><td>Final ordered period; remove missing groups and NA/Other labels from each selected grouping field.</td></tr>
+<tr><td>Stacked areas</td><td>Positive measurements; ordinary mean.</td><td>By Year_Quarter; remove missing groups and NA/Other labels.</td></tr>
+<tr><td>Percentage areas</td><td>No numeric eligibility filter.</td><td>By Year_Quarter; remove missing groups and NA/Other labels before calculating shares.</td></tr>
+<tr><td>Scatterplots</td><td>Keep complete x/y pairs, including zero and negative values.</td><td>Remove missing groups; keep NA/Other text labels; sample at most 1,000 rows.</td></tr>
+<tr><td>Density</td><td>Positive measurements, then pooled 5th–95th percentile trimming.</td><td>Selected financial year, complete group/value pairs; keep NA/Other text labels.</td></tr>
+</tbody></table></div>
+<p><strong>NA/Other is a broad substring rule.</strong> A case-insensitive match anywhere in a label removes it from the affected views. It can therefore remove a genuine label such as “Canada”, as well as “Other group” or “NA team”. This rule is documented here so it can be evaluated; it is not a recommendation for cleaning categories.</p>
+<p><strong>Legacy measurement-name exceptions are case-sensitive.</strong> Single lines retain non-positive values for the exact name <code>Num_Surplus</code>; several other helpers use the exact name <code>Surplus</code>. Current mapping normally creates names such as <code>Num_surplus</code>, so naming an uploaded column “Surplus” does not reliably activate an exception. Compare the code and exported settings before using these paths.</p>
+</section>
+
+<section id="lines">
+<h2>Read line charts and their All comparison</h2>
+<p>Both line views display a 20% trimmed mean, even though the result column is called Mean. The single-line view is by time only. It adds Filtered and All series when the numbers of eligible rows in the filtered and full mapped datasets differ; it does not compare the row identities.</p>
+<p>The grouped-line view calculates one series per retained group in the Home population and always adds an All series from the full mapped dataset. All is an independently calculated trimmed mean over its eligible rows, not the average of the visible group means. A genuine category named “All” can collide with that comparison label.</p>
+<p>Month and Financial_Quarter combine matching periods across years. For example, April 2024 and April 2025 contribute to the same Month group unless the Home population is restricted. The April–March ordering is a seasonal sequence, not a chronological multi-year time series.</p>
+</section>
+
+<section id="bars-areas">
+<h2>Read bars and areas</h2>
+<p><strong>Simple and grouped bars</strong> compare arithmetic means. The current period rule takes the final factor level: March for Month and Q4 for Financial_Quarter. It does not search for the most recent period with data. If that level has no eligible observations, the result can be empty.</p>
+<p><strong>Stacked bars and stacked areas</strong> add subgroup means visually. Their top edge is a sum of means, not a sum of raw measurements or a pooled mean. If groups have different sizes, those are especially different quantities. Use grouped bars or lines when the question is a comparison of group means rather than their sum.</p>
+<p><strong>Percentage areas</strong> show group shares of row counts within each calendar quarter. They do not show the shares of a monetary amount or any other numeric measurement. A larger area band can result from changes in either the numerator or the other groups in its denominator.</p>
+<p>Exported stacked-area scripts complete absent group/period combinations with display zeros to draw the stack. Their saved analysis CSV preserves the observed summaries. A display zero is not a measured zero. Lines and filled areas between observed periods are visual connections, not estimated observations or forecasts.</p>
+<p>Changing y-axis limits zooms the view. It does not recalculate means, remove rows from the underlying summary, or make scales comparable across separate figures. Use consistent scales when making visual comparisons.</p>
+</section>
+
+<section id="scatter">
+<h2>Read scatterplots and fitted lines</h2>
+<p>Each point is a complete x/y observation coloured by group. If there are more than 1,000 complete rows, the app samples 1,000 without replacement before plotting. The fitted line therefore also uses that sample. The live app does not fix the sample seed; the exported script sets seed 42 for repeatable results.</p>
+<p>The dashed line is an ordinary least-squares fit of y on x within each group. It describes an association and is not evidence that x causes y. The graph hides confidence bands and does not report coefficients, p-values or model diagnostics.</p>
+<p>Check for non-linearity, outliers, small groups and repeated observations. A nearly constant x or very small group may not support a useful line. Perform a separate model assessment if you need inference, prediction or adjustment for other variables.</p>
+<p class="source">Method reference: <a href="https://ggplot2.tidyverse.org/reference/geom_smooth.html">ggplot2 geom_smooth()</a>. The sample limit and fixed export seed are application choices.</p>
+</section>
+
+<section id="density">
+<h2>Read density plots and percentile trimming</h2>
+<p>Select one Financial_Year, a grouping column and a measurement. The app removes missing group/value pairs, applies the measurement rule, calculates the 5th and 95th percentiles across all eligible groups together, then retains values between those cutoffs inclusive. It uses R's default quantile method, type 7.</p>
+<p>The trimmed rows feed one kernel density curve per group. Each curve has area one: a taller peak means values are more concentrated near that location, not that the group has more observations. The bandwidth controls smoothing, and the curve can extend beyond the observed range.</p>
+<p>The percentile cuts are pooled, so different groups can lose different proportions of their rows. Ties at the cutoffs can change the fraction retained, and some large values can remain. Do not assume this removes exactly 10% of every group or eliminates every outlier.</p>
+<figure><img src="images/density.png" alt="Verified density export showing distributions for 0012, East, Na Team, Other Group and West; some large values remain after pooled trimming." width="2700" height="1650" loading="lazy"><figcaption>The verified example retains 90 of 100 eligible rows using cutoffs 16.95 and 1019.05. NA/Other text groups are retained in this view, unlike the bars.</figcaption></figure>
+<p class="source">Method references: <a href="https://stat.ethz.ch/R-manual/R-patched/library/stats/html/quantile.html">R quantile()</a> and <a href="https://ggplot2.tidyverse.org/reference/geom_density.html">ggplot2 geom_density()</a>.</p>
+</section>
+
+<section id="limits">
+<h2>Known limitations to consider</h2>
+<div class="table-wrap" role="region" tabindex="0" aria-label="Current limitations and their scope"><table><caption>Current limitations and their scope</caption><thead><tr><th scope="col">Issue</th><th scope="col">What it affects</th><th scope="col">Practical response</th></tr></thead><tbody>
+<tr><td>Legacy Year conversion</td><td>The percentage-area helper's Year path calculates integer Year + 2018. A modern 2024 value becomes 4042. Export tests preserve this legacy behaviour.</td><td>The current area UI offers only Year_Quarter. Do not expose or reuse the Year path without correcting and testing its semantics.</td></tr>
+<tr><td>Different exclusion rules</td><td>Zeros, negatives, missing groups and NA/Other labels are handled differently between views.</td><td>State the population and rule with a result; review the eligibility table before comparing views.</td></tr>
+<tr><td>Final-level bars</td><td>A month or quarter label can exist as a factor level without observations.</td><td>Check the resulting table and input period coverage; do not describe it as “latest observed”.</td></tr>
+<tr><td>Small samples</td><td>Unstable means, regressions and density estimates. n is not a measure of representativeness.</td><td>Show counts and underlying data. The count colours (≤100, 101–300, &gt;300) are display bands only.</td></tr>
+<tr><td>Automatic cleaning</td><td>Ambiguous dates, number formats, missing tokens and case-folded labels can change interpretation.</td><td>Inspect the mapped CSV and resolve unit or coding ambiguities before analysis.</td></tr>
+<tr><td>Structural validation is limited</td><td>A “safe for summary” measure only needs at least one finite numeric value. That is not a complete statistical data-quality assessment.</td><td>Check the remaining values and the analysis context, especially non-finite values and invalid codes.</td></tr>
+</tbody></table></div>
+<p>This guide records the implemented methods, including their limitations. The 23 September 2026 tests verified exporter agreement with those methods; agreement is not proof that every existing method is appropriate for a new question.</p>
+</section>
+
+  <footer class="page-footer"><p>Continue reading: <a href="index.html">User guide</a> · <a href="developer.html">Developer manual</a></p><p>The General · Documentation snapshot, September 2026</p></footer>
+</main>
+</div>
+</body>
+</html>

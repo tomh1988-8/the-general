@@ -1,0 +1,1001 @@
+DATE,make,model/,fuel_type?,transmission,Body Style, colour ,Drive Train,Trim Level,reg state, Emission Std ,Segment?,ownership type,insuranceGroup,warranty_status,MARKET REGION, ENGINE CC , horsepowerBhp ,TORQUE NM,co₂G/Km,Range Km,0-60 MPH S,fuelTankL,Boot L?,KERB WEIGHT KG,list_price_£?
+10/06/2024,tesla,model3,electric,DUAL-CLUTCH,,blue, Awd ,luxury,-999,ulez,NaN,demo, 45 ,in-warranty,NA,£12434,9902,£18105,£4466,£15046,NaN," 2,784",NA,7669,missing
+09/01/2021,missing,A4,diesel,cvt,Estate, blue ,,Premium,USED,euro_4, b-supermini , DEMO ,33,in-Warranty,us,,10405,168,"16,723",£7361,18535,6664,19501,10809,10513
+21/02/2022,ford,a4,diesel,automatic, coupe ,GREY,4wd,luxury,imported,NA,C-Compact,PRIVATE,26,out-Of-Warranty,mea,5801,£19242," 8,572",,,1191,NA,5398,2655,"11,517"
+2023-03-17,ford,NA,electric,MANUAL,estate,grey,AWD,sport,NEW,ulez,E-Exec,hire,39,In-Warranty,mea,8472,16232,"10,819",6004,NaN,5291,15312,16092,4165,"18,312"
+21/06/2024,honda,golf,HYDROGEN,manual,suv,Silver, 4wd ,luxury,IMPORTED,EURO 5,B-SUPERMINI, demo ,missing,In-Warranty,eu,"19,660",16396,4664,2656,6,4399,12963,,2490,4076
+"Jun 07, 2024",honda,s60,HYDROGEN,manual,-999,grey,missing,-999,ex-Lease,euro5,c-compact,fleet,6,Out-Of-Warranty,Uk,10289,,£5195,£9363,£16433,2220,11118,11016,16185,£16620
+2024-11-28,volvo,-999,electric,DUAL-CLUTCH,suv,BLUE,RWD,missing,new,ulez,NA,Hire,8,EXTENDED,EU,11934,17608,1679," 8,092",1181,-999,10441,13376,NaN,14128
+2024-01-12,Volvo, 320i ,hydrogen,Dual-Clutch,ESTATE,red,4WD,performance,USED,euro_4,c-compact,demo,NaN,Out-Of-Warranty,eu,8962,4149,£9459,14121,"18,981",19696,13166,5619,5803,2994
+,vw,s60,diesel,automatic,saloon,Blue,4wd,,ex-lease,euro5,B-SUPERMINI,hire,17,IN-WARRANTY,uk,NA,16537,9655," 3,991",14375,16113,4489,19391,11592,9799
+31/10/2022,vw,Golf,hydrogen,automatic,SALOON,White,awd,premium,used,euro 4,A-City,fleet,28,in-warranty,APAC,19791,8697,£17807,"18,422",19905,2661,5008,15547,8433,7496
+11/11/2022,Volvo,S60,hybrid,NaN,saloon,NaN,FWD,PREMIUM,new,,d-Mid-Size,hire,20,Extended,,18378,13336,6710,,£17724,17747,9391,3609,-999,£1229
+2022-09-30,vw,focus,Electric,Dual-Clutch,suv,RED,Awd,SPORT,used,ulez, b-Supermini ,DEMO,7,out-of-warranty,Uk,NaN,3541,10075,15933,8146,14834,14577,19,£13039,1289
+2021-05-25, honda ,A4,electric,automatic,SALOON,-999,4wd,base,imported,EURO 6,missing,fleet,37,out-Of-Warranty,eu,14792,909,    74,4007,"17,255",1166,5117,-999,-999,NaN
+2023-04-09,-999,civic,Hybrid,NA, coupe ,NA,Rwd,Base,NA,Euro 4,c-compact,Hire,47,in-warranty,apac,NaN,11218,806,13111,8743,13582," 8,626",6798,3822,13093
+26/08/2024,toyota,NaN,hybrid,missing,coupe,red,awd,SPORT,imported,ulez,C-COMPACT,demo,6,NaN,Eu,19902,7595,13588,2914,," 1,104",9612,"16,109",13185,5556
+07/03/2024,vw,FOCUS,diesel,MANUAL,saloon,black,rwd,base,imported,NA,b-supermini,HIRE,-999,in-warranty,NaN,"17,998",18724,4763,£15129,10292,11629,5391,,3427,9539
+22/07/2021,NA,COROLLA,hydrogen,manual,SUV,BLUE, awd ,sport,,Euro 6,a-city,hire,50,IN-WARRANTY,apac,"11,375",,"13,152",18837,"16,504",9524,"19,882",1798,NA,£6689
+2023-05-31,honda,civic,-999,automatic,SALOON,White, Awd ,premium, ex-Lease ,EURO 6,missing,fleet,40, EXTENDED ,NaN,7127,18194,11280," 5,962",£17890,"16,938"," 3,083",13196," 2,586"," 6,766"
+2021-07-27, Vw ,Golf,hybrid,Manual,NA,black,4wd,PERFORMANCE,used,NaN,e-Exec,DEMO, 44 ,in-warranty,us,,£11772,12045," 1,797",NaN,11760,NaN,"11,410",1241,14579
+2022-01-25,bmw,320i,petrol,manual,saloon,red,,-999,Imported,euro 4,A-City,Hire, 25 , In-Warranty , mea ,£18230,NaN,13034,-999," 2,417",15603,"14,180",missing,-999,£634
+10/09/2023,ford,,diesel, MANUAL , Coupe ,GREY,FWD,PERFORMANCE,used,EURO 6,e-exec,demo,8,IN-WARRANTY,UK,17827,£15399,7447,16097,4034,£8186,12933,£10898,2905,NA
+2024-03-03,HONDA,COROLLA,PETROL,cvt,estate,black,-999,performance,NEW,EURO 4,b-supermini, PRIVATE ,30,in-Warranty,EU,£9301,12174," 8,581",16985,5079,NA,8391,18711,£3606,18186
+2022-09-24,NaN,s60, electric ,Automatic,COUPE,white,missing,Sport,imported,euro5,d-mid-size,private,27,In-Warranty,uk,£14794,12229,£15490,13922,NaN,£6747," 8,442","13,745",2707," 3,700"
+2023-11-17,,focus,PETROL,NA,-999,WHITE,4WD, premium ,missing,Euro 6,c-compact,fleet,7,In-Warranty,uk,NA,5832,NA,13425,18284,12423,£3830,"17,494",NA,"14,486"
+"Jul 07, 2024",Audi,GOLF,Electric,automatic,saloon,silver,awd,sport,used,NaN,a-city,hire, 37 ,Extended,mea,"19,669",6157,13808,13129,18533,"10,645",15708,19097,£16827,missing
+2023-07-05,TESLA, 320i ,hydrogen,automatic,HATCHBACK,SILVER,4WD,premium, NEW ,euro 5,C-COMPACT,hire,44,EXTENDED,NaN,12378,18468,160,"12,665",NA,3180,10256,11637,-999,£19196
+2021-02-27,BMW,s60,hybrid, Automatic ,NA,grey,awd,performance,ex-Lease,Euro 5,E-EXEC,fleet,24,Extended,MEA,£16234,14115,£16259,9310,£15,17337,200,"10,154",-999,17374
+2024-08-13,Toyota,Golf,diesel, cvt ,Saloon,Red,-999,premium,used,ulez,D-MID-SIZE,private,33,EXTENDED,UK,4015,NA,NaN,13546,8906,10797,15823,£11972,6956,16439
+2022-04-27,bmw,model 3,Petrol,manual,suv,silver,4WD,sport,USED,Euro 6,B-SUPERMINI,FLEET,1,Out-Of-Warranty,eu,£891,£14162,18663,93,11589,9501,NA,"18,842",14536,2678
+23/08/2023,TESLA,s60,ELECTRIC,cvt,coupe,grey,awd,Premium,imported,euro_5,b-supermini,private,48,out-of-warranty,uk,15965,19532,6302,£15461,15463,NA,2059,£18998,"15,985",NaN
+NaN,missing,A4,ELECTRIC,manual, hatchback ,-999,4wd,premium,ex-lease,euro_4,d-Mid-Size,FLEET,18,out-of-warranty,APAC,12823,5987,1919,-999,3257,16125,-999,£18359,5126,£1767
+"Dec 12, 2024",VW,model 3,DIESEL,MANUAL,saloon,Red,fwd,SPORT,ex-lease,ULEZ,missing,-999,13,missing,eu,13896,16584,4130,18675,17120,13317,missing,5259,15521,12945
+2024-12-01, volvo ,a4,-999,CVT,HATCHBACK,grey,fwd,premium,missing,Euro 6,a-city,Private,45,in-warranty,mea,NaN,£7336,18569," 6,018",7171,£18351,16179,12436,2291,7382
+2023-08-05,AUDI,focus,DIESEL,Manual,estate,SILVER,AWD,luxury,NEW,ulez,b-supermini,private,4,IN-WARRANTY,eu,19058,3459,£18328,7387,missing,£5919,1591,-999,12355,5983
+NaN,volvo,missing,electric,manual,HATCHBACK,Grey,4wd,sport,imported,EURO 6,d-mid-size,fleet,50,out-of-warranty,eu,99,5499," 9,510",114,"11,589",4690," 2,779",12514,1685,£19199
+31/10/2024,VOLVO,320i,diesel,dual-clutch,suv,RED,RWD,base,used,EURO 4,E-EXEC,missing,22,In-Warranty,APAC,£18168,13016,349,7659,£14835,missing,16576,7679,£17238,14740
+2021-11-03,Toyota, Focus ,PETROL,manual,Hatchback,white,4wd,luxury,USED,euro4,B-Supermini,hire,21,extended,mea,4006," 4,941","12,685",,17112,17517,£12665,-999,£454,9064
+15/02/2023,Toyota,Golf,diesel,Manual,Suv,Silver,fwd,BASE, new ,,C-Compact,fleet,42,in-warranty,eu,missing,15890,18153,5439,"12,929"," 4,762"," 1,804",£7754,13089,5286
+2021-10-08,bmw,golf,DIESEL,Manual, estate ,White,,performance,-999,EURO 4,C-Compact,fleet, 38 ,extended,eu,8810,£11566,NaN,"10,380",14947,,14168,£1047,18319," 3,776"
+09/08/2021,honda,NA,Hybrid,MANUAL,saloon,silver,missing,base,missing,euro_5,E-EXEC,PRIVATE,43,IN-WARRANTY,uk,NaN,£9923,6238,9391,£18223,£16167,16701,,£11069,1088
+2023-09-16,Vw,s60,electric,Automatic,saloon,NaN,awd,BASE,ex-Lease,Ulez,D-Mid-Size,demo, 1 ,NA,-999,NA,14912,15933,5002,£9779,17827,17052,7649," 9,297",NA
+26/05/2021,BMW, Model 3 ,electric,NaN,coupe,NA,missing,Luxury,Imported,Euro 6,E-Exec,DEMO,20,extended,us,5448,4756,2672," 6,823",16290,£695,16106,missing,14595,18620
+2024-12-03,TOYOTA,civic,hybrid,Dual-Clutch,ESTATE,Black,Rwd,Base,imported,euro_4,,Demo,4,in-warranty,US," 7,611",19729,," 4,425"," 7,330",NA,6513,17895,£700,£7021
+,NaN,NaN,Electric, MANUAL ,Coupe,blue,rwd,sport,NaN,ulez,E-Exec,Fleet,21,EXTENDED,missing,17132,3491,4608,2947,15626,13368,18069,14075,£8179,-999
+23/07/2024,Tesla, A4 ,hybrid,automatic, coupe ,NA,Awd,performance,ex-lease, Euro 5 ,d-mid-size,NA,32,extended,apac,17148,£12181,16862,"14,634"," 1,703",£3088,£14738,,4348,NaN
+2022-10-15,VOLVO, focus ,electric,DUAL-CLUTCH,Estate,,4wd,premium,New, Ulez ,d-mid-size,demo,34,in-warranty,Us,-999,19490,5009,£8226,NaN,4738,16817,8246,NaN,-999
+2022-09-13,NaN,a4, petrol ,manual,Saloon,Red,awd,luxury,imported, euro 6 ,NaN,Demo,30,extended,Mea,,7744,£14100,13920,14705,NaN,2583,1259,12429,
+2024-02-06,bmw,S60,diesel,dual-clutch,hatchback,white,missing,premium,imported,ULEZ,B-SUPERMINI,DEMO,-999,EXTENDED,apac," 7,829","18,471",541,£2273,£15810,   529,9095,NaN,"11,216",£3395
+24/02/2024, VW ,NaN,petrol,NaN,coupe,BLUE,4wd,Premium,new,euro6,a-city,fleet,39,in-Warranty,US,18833,17374,-999,1036," 8,686",8365,£14062,12468,6757,1521
+2021-08-06,vw,NaN,petrol,missing,saloon,Silver, rwd ,luxury,NEW,EURO 5,NA,demo, 49 , extended ,us,5537,10039," 1,081",17043,,2077,   444,3185,403,missing
+26/02/2024,NaN,GOLF,diesel,Automatic,hatchback,blue,rwd,premium,new,euro5,D-Mid-Size,private,29,extended,apac,missing,19407,16014,7156,6044,14803,1298,14745,8198,£6837
+"Oct 11, 2024",vw,s60,PETROL,manual, Suv ,white, AWD ,LUXURY,new,NaN,d-Mid-Size, private ,37,missing,APAC,2526,£2057,NA,816,5822,1409,NA,missing," 3,670",3599
+13/07/2024, FORD ,s60,petrol,Manual,saloon,white,-999,missing,USED,euro 6, c-compact ,fleet,30,Out-Of-Warranty,mea,NA,-999,17884,6801,NA," 4,927","19,821","10,157",10791,£16731
+30/07/2024,Tesla,model 3,NA,Automatic,coupe,red,rwd,premium,ex-Lease,ulez,a-city,DEMO,50,in-warranty,apac,10563,£7782,£2305,16558,13977,missing,"16,067",5704,5134,6845
+"Oct 12, 2023", volvo ,civic,diesel,-999,Estate,GREY,4wd,sport,new,euro5,A-CITY,fleet,1,, Us ,3281,missing,,2584,missing,3005,19792,£16152,17945,8332
+24/05/2022,NA,NaN,Hydrogen,Automatic,missing,NaN,FWD,luxury,imported,NA,c-compact,demo,-999,In-Warranty,,,407,6251,5684,2992,19409,5916,9768,1151,16960
+"Apr 27, 2024",honda,Golf,Electric, cvt ,suv,black,Awd,performance,New,euro4,e-exec,-999,34, extended ,eu,680," 4,605",18488,15817,-999,13434,£6938,9754,,"12,402"
+2023-07-24,tesla,model3,HYBRID,CVT,SUV, silver ,awd,sport,Ex-Lease,Euro 5,b-supermini,Private,43,OUT-OF-WARRANTY,Mea,£12088,3848,,6729,£1807,12030,12505,£11846,11502,1854
+14/12/2024,vw,a4,Hybrid,manual,hatchback,NA,FWD,base,ex-lease,NaN,A-CITY,hire,3, extended ,Eu," 7,476",£13424,£14946,11816,missing,£13805,6983,8201,NA,18653
+02/01/2022,Audi,missing,hybrid,AUTOMATIC,coupe,GREY,awd,NaN,NEW,euro 5,c-Compact,hire,47,OUT-OF-WARRANTY,Eu,7760,,NaN," 9,601",missing,17395,4090,"10,489",missing,9801
+14/04/2023,NA,focus,diesel,AUTOMATIC,-999,white,awd,Performance,new,Ulez, D-MID-SIZE ,FLEET,13,extended,eu,,7678,£12199,10006,6160,£13246,8262,16019,11842," 2,276"
+"Feb 05, 2022",Toyota,-999,hybrid, MANUAL ,NaN,red,4WD,Premium,-999,-999,c-compact,demo,1,NaN,apac," 3,613",15937," 5,077",NA,10613,1360,£148,1243,678,7264
+"Apr 03, 2023",tesla,Focus,missing,DUAL-CLUTCH,hatchback,red,fwd,premium, imported ,,c-compact,NaN,28,out-Of-Warranty,-999,,12790,£1169,6782,£11040,£19060,17945,17821,,16377
+21/11/2021,toyota,golf, hydrogen ,manual,saloon,blue,fwd,base, new ,euro4,b-Supermini, DEMO ,27, Out-Of-Warranty ,Uk,16204,-999,11153,69," 6,297",12495,£17402,"10,495",4137,16694
+2022-06-14, HONDA ,S60,-999,cvt,COUPE,black,fwd,base,ex-lease,missing,E-EXEC,Fleet,36,out-of-warranty,us,12186,14183,12335,2087,12637,17682,£5163,£13949,NaN,NA
+2024-03-26,Bmw,Corolla,hydrogen,dual-Clutch,SUV,RED,4wd,premium,used,ULEZ,d-mid-size,DEMO,8,EXTENDED,us,8593,326,1727,16834,5228," 8,730","14,875",£13455,£836,£2738
+03/10/2021,toyota,missing,diesel,manual,suv,blue,Rwd, base ,imported,euro_5,C-Compact,hire,15,Out-Of-Warranty,eu,£3337,15186,4730,£3902,416,337,10848,£8114," 4,739",11671
+26/02/2024,volvo, model 3 ,Hybrid,cvt,Estate,silver,FWD,premium,ex-lease,EURO 6,a-city,demo,43,Extended,MEA,"18,049",12221,£3407,NA,7302,missing,14710," 5,575",3836,14937
+"Jan 29, 2022",tesla,NA,petrol,DUAL-CLUTCH,estate,red,awd,base,imported,euro4,A-CITY,hire,26,out-of-warranty,Eu," 7,206",19427,NaN,"14,151",840,5905,11301,18920,£4274,434
+2024-02-27, volvo , Corolla ,HYBRID,Cvt,suv,NaN,,performance,used, euro 4 ,b-supermini,FLEET, 37 ,extended,apac,NaN,17177,"11,073",£17735," 2,099",£19993,£518,NA,£4592,NaN
+"Jan 22, 2023",Honda,320I,diesel,manual,NA,red,4wd,sport,ex-lease,NaN,C-Compact,FLEET,NA,in-warranty,NaN,4275,12364,"17,585",3045,"19,058",17649,2706,18395,18741,4761
+2023-01-20,FORD,GOLF,HYDROGEN,manual,missing, white ,4wd,SPORT,imported,euro_6,B-Supermini,hire,24,IN-WARRANTY,apac,   439,"19,205",1511,12255,NA,£12263,14726,£6682,,13744
+2021-11-04,VOLVO,Focus,electric,AUTOMATIC,SUV,grey,fwd,Base,used,EURO 4,e-Exec,demo,8,EXTENDED,us,9340,£1266,7872," 5,019",£7553,"15,997",12738,16500,8035,16322
+10/11/2022,NaN,S60,Hydrogen, DUAL-CLUTCH ,NaN, blue ,awd, premium ,new,euro 6,e-exec,private,8,Extended,EU,NA,17798,7599,NaN,18158,7663,£17857,14589,2891,-999
+-999,bmw,civic, hydrogen ,cvt,-999,red,RWD,BASE,NEW,euro6,e-exec,private,27,out-of-warranty,us,19143,2197,£9019,-999," 9,434",-999,13680,,-999,missing
+"May 06, 2022",missing,NA,NA,manual,Estate,WHITE,awd,premium,imported,ulez,NA,hire,16,extended,eu,13638,5157,7245,£16585,£6861,7086,8484,NaN,"11,655"," 5,681"
+2022-01-26,TESLA,a4,petrol, manual ,saloon, Black ,Rwd,sport,,euro5,c-compact,Fleet, 44 ,Extended,MEA,4061,16020,7004,£14261," 4,780"," 3,649",1790," 5,934","19,986",NaN
+2022-05-09,audi,a4,petrol,AUTOMATIC,coupe,blue,RWD,base,imported, ulez ,E-Exec,hire,8, IN-WARRANTY ,apac,£3374,8170,8325,"14,858",13205,7394,8962,NA,17487,3827
+2022-11-11,volvo,Model 3,diesel,automatic,NaN,Red,Fwd, SPORT ,imported, euro6 ,missing,NaN,4,in-Warranty,us," 1,986",7510,£5587,10244,6241,"18,022",4991,19950,£15810,£3438
+2022-10-08,,MODEL 3,electric,manual,coupe,SILVER,awd, SPORT , ex-Lease ,euro 4, b-supermini ,HIRE,25,Out-Of-Warranty,US,504,-999,18813,,missing,2376,4333,"18,571",NaN,£3031
+13/03/2024,bmw,320i,hybrid, Cvt ,saloon,Black,missing,luxury,used, EURO 6 ,b-Supermini,NaN,41,EXTENDED,Apac,£4667,£17225,£165,11250,4741,"10,002",3872,15050,NA,8144
+"Sep 11, 2023",toyota,model_3,hydrogen,dual-Clutch,HATCHBACK,black,,luxury,Imported,NaN,C-Compact,DEMO,39,in-Warranty,eu,4797,£17520,£8305,"13,975",2167,," 9,630",£9769,1550,6029
+19/11/2022,BMW,golf, petrol ,automatic,coupe,silver,NA,LUXURY,used,euro 5, C-COMPACT , FLEET ,3,Extended,NA,19374,17290,10514,"14,175",14324,£1908,-999,£10981," 7,820",18499
+"Dec 11, 2022",bmw,S60,electric, DUAL-CLUTCH ,SUV,WHITE,Rwd,Base,ex-lease,EURO 5,e-Exec,Fleet,38,extended,Apac,"16,895",16407,2454,5621,4345,13435," 8,614",10601,,3312
+13/01/2022,honda,Model 3,hydrogen,missing,Estate,blue,fwd,sport,ex-Lease,EURO 4,B-SUPERMINI,DEMO,30,Extended,EU,14490,£3814," 7,451",-999,11262," 9,282","15,669","11,717",18824,£9673
+22/06/2023,honda,FOCUS,Diesel,manual,estate,black, FWD ,sport, new ,euro 5,e-exec,NaN,35,extended,Uk,11105,NA,1055,11813,10717," 7,292","19,247",£4123,10728,-999
+19/01/2021,honda,,NA,Automatic,coupe,Silver, Fwd ,premium,ex-Lease,euro 4,e-exec,Demo, 6 ,In-Warranty,uk,£16645,£7561,£6950,2298,19947,"11,512",1539,8681,5842," 9,191"
+18/04/2023,honda,golf,hydrogen,,COUPE,black, Fwd , Base ,New,euro_4,C-Compact, PRIVATE ,36,Out-Of-Warranty,Uk,11573,£12497,£15606,14153,NA,"18,240",NaN,4237,£7050,10220
+19/04/2024,FORD,FOCUS,NaN,Cvt,saloon,blue,rwd, luxury ,Imported,ULEZ,D-MID-SIZE,private,28,out-Of-Warranty, US ,£18547,10286,-999,10507,1170,12159,12762,2872,4099,11886
+2021-08-15,toyota,A4,petrol,MANUAL,SALOON, silver ,fwd,performance,ex-lease,euro_4,E-Exec,fleet,6, in-warranty ,NaN,£357,5444,9954,-999,9844,12848,10115,2103,18561,14986
+03/10/2022,bmw,a4,HYDROGEN,Cvt,Estate,grey,awd,luxury,Used,ulez,A-City, hire ,43, Out-Of-Warranty ,eu,"19,502",16743,3378,2395,8856,£4582,11454,£15537,12491,2299
+NA,Toyota,civic,Electric,CVT,hatchback,Red,rwd, sport ,imported,euro6,d-mid-size,fleet,43,out-of-warranty,," 2,284",16073,17843,NaN,"15,303",2269,15630,NaN,13187,13800
+2023-09-01,Volvo,s60,hybrid, Dual-Clutch ,estate,red,rwd,Premium,IMPORTED,euro_4,b-Supermini,hire,28,Extended,mea,£3365,5233,"18,057",14347,16434,10473," 7,145",2104,-999,8678
+2023-07-22,vw,focus,hybrid,Dual-Clutch,HATCHBACK,white, rwd ,,used,euro5,C-Compact,private,20, out-of-warranty ,Uk,12376,£15666,2451,NA,£4689,£2569,£13814,4620,4609,£19670
+2023-11-09,volvo, model 3 ,NA,dual-clutch,NaN,Blue,4WD,base,NEW,Ulez,d-mid-size,private,32, Out-Of-Warranty ,UK,17824,8216,14373,"18,684",13576,,£13338,£1633,4867,11447
+2021-09-15,AUDI,MODEL 3,hydrogen,cvt,suv,red,rwd,premium,imported,euro5,-999,,40,out-of-warranty,apac,£12766,5005,missing," 3,702",12192,£8864,£18708," 5,661",153,"16,406"
+2024-07-02,-999,focus,ELECTRIC,AUTOMATIC,suv,silver,4wd,Performance,Ex-Lease,ULEZ,NaN,fleet,2,in-warranty,Us," 6,493",6329,NaN,"16,617",7710,9553,17991,8533,missing,NaN
+2023-01-03,toyota,Model 3,Diesel,Cvt,estate,grey,Awd,NaN,new,ulez,C-Compact,private,46,missing,us,16040,18749,11289,10132," 4,476",15345,4339,7554,"18,759",8506
+22/08/2022,toyota,S60,HYDROGEN,dual-Clutch,Saloon,blue,fwd,base,-999,NaN,b-supermini,hire,27,In-Warranty,uk,2735,£3801,1870,463,15825,14131,1036,14708,180,£5557
+"Oct 11, 2023",ford,corolla,petrol,-999,ESTATE, Blue ,NA, base ,ex-lease,euro5,B-Supermini, Demo ,43,NA,uk,13919," 7,106"," 2,606",-999,£18879,11624,14638,   842,9184,11605
+19/02/2024, vw ,,hydrogen,cvt,estate,missing,4wd,SPORT,NaN,Euro 6, d-Mid-Size ,fleet,23,out-Of-Warranty,apac,19658," 4,610",10009,£19808,10188,19465,"13,413",6642,1468,£15732
+05/05/2022,ford,Corolla,diesel,automatic,SALOON,RED, FWD ,performance,New, euro 4 ,B-Supermini,hire,14,-999,Apac,£16637,3643,14820,8079,8133," 7,247",1074,£18406,7651,12700
+07/10/2022,BMW,focus,-999, automatic ,NaN,red,4wd, premium , Ex-Lease ,Euro 5,e-exec,HIRE,31,IN-WARRANTY,APAC,15878,missing,13411,2789,-999,"17,315",9453,3242,9169," 6,069"
+2024-01-19,honda,focus,hydrogen,manual,hatchback, RED , rwd ,premium,imported,Euro 6,c-Compact,NA,44,extended,US,£10862,15593,-999,8216,"12,280",NaN,"15,647",8428,£4293,15295
+2021-08-30,TOYOTA,A4,Electric,cvt,suv,WHITE,4wd,performance,USED,euro_5,b-supermini,fleet,7,out-of-warranty,UK,£17896,,NaN,1017,15460,2229,8074,18212,5462,£3608
+2024-10-23,Bmw,model 3,Electric,AUTOMATIC,suv,BLUE,AWD,luxury,new,euro 6, B-SUPERMINI ,missing,48,out-Of-Warranty,eu,£3576,4785,9887,15774,   978,£4061,13389,£16666,NA,311
+2024-02-08,bmw,golf,hydrogen,manual,Coupe,silver,4wd,LUXURY, IMPORTED ,euro 6, D-MID-SIZE ,DEMO,5,in-warranty,MEA,"12,145",£5690," 6,736",8040,6053,missing,-999,NA,£7180,£19263
+2021-06-22,bmw,320i,hydrogen,automatic,suv,black,NaN, base ,Used,euro 6,E-EXEC,fleet,5, IN-WARRANTY ,Eu,19548,5870,-999,12463,2796,7136,19066,10093,5236,3646
+05/12/2023, ford ,golf,Diesel,cvt,coupe,NaN, Fwd ,Luxury,imported,euro5,-999,PRIVATE,28,NA,apac,4292,-999,"19,300",£10500,NaN,"18,578",5071,"14,661",4550,NA
+2022-11-06,VOLVO,S60,petrol,cvt, SUV ,BLUE,awd,performance,missing, euro 5 ,c-Compact,fleet,33,extended,us,15511,2858,11586,12684,12098,NaN," 4,815",15713,9326,11606
+2023-11-24,-999,model3,HYBRID,dual-clutch,saloon,NaN,AWD,performance,used,Euro 6,D-Mid-Size,Private,missing,in-warranty,Uk," 9,477",3452,7593,10224,9984,NA,5808,£179,2077,14532
+01/02/2024,NA,Golf,ELECTRIC,Cvt,Suv,silver,Rwd,PREMIUM,ex-lease,euro4,b-supermini,private,5,NA,mea,£18259,   166,17069,NaN,10986,7489,"17,602","19,785",12802,12183
+26/05/2021,FORD,corolla,hybrid,dual-clutch,NaN,WHITE,NA,base,New,Euro 6,a-city,NaN,31,In-Warranty,mea,"18,593",NaN,19316,-999,£7940,1127,NA,6692,13505,2296
+08/07/2021, Honda ,320I,petrol,dual-clutch,suv,-999,rwd,sport,,-999,e-exec,Hire,6,in-warranty, apac ,£6177,,-999,   837,£1746,4221,"10,042",4964,3072,2674
+2022-06-07, ford ,golf,,cvt,ESTATE,red,awd,sport,Imported,ulez,e-Exec,Private,48,Extended,Mea,894,12756,NaN,4640,missing,3662," 6,856","14,170",6008,16273
+12/07/2021,tesla,a4,hydrogen,automatic,coupe,GREY,Rwd,PERFORMANCE,imported,ulez,e-exec,fleet,31,Out-Of-Warranty,eu,3179,missing,14811,£13354,-999,10811,£18527,18847,3881,7663
+08/11/2023,Vw,FOCUS, ELECTRIC ,AUTOMATIC,coupe,BLACK,fwd, Premium ,new,Euro 4,D-MID-SIZE,NA, 25 ,NaN,Uk," 5,815",£18334,12589,10394,11878,19,,"17,131",2170,9096
+28/12/2023,bmw, model 3 ,hybrid,Cvt,Saloon,GREY,4wd,premium,used,euro_4,e-Exec,private,5,out-of-warranty,uk,17718,16562," 3,916",11632,13913,17368,missing,6150,14971,£6006
+"Aug 21, 2021",Honda,Corolla,ELECTRIC,manual,coupe, silver , 4wd ,base,new,EURO 5, b-Supermini ,private,35,Extended,UK,565,"18,815",£11193,NA,14512,£9661,missing," 6,316",£19650,5682
+2021-05-03,tesla,,Hydrogen,CVT,estate,NaN,fwd,BASE,imported,euro6,c-compact,hire,45,OUT-OF-WARRANTY,-999,NaN,168,657,10113,£10698,"15,700",14559,NaN,193,8112
+21/11/2023,toyota,-999,PETROL,dual-Clutch,coupe,blue,Rwd,PREMIUM,NEW,euro 6,b-supermini,missing,15,NaN,mea," 8,220",£308,£16879,-999,NA,"12,362",19983,1146,10970,7956
+2023-09-21,Audi,COROLLA,,Manual,suv,blue,Fwd,,New, ulez ,b-supermini,hire,33,IN-WARRANTY,UK,"12,335",17152,7747,NaN,NaN,12487,"12,551"," 1,177",-999,1516
+24/03/2024,volvo,corolla,hybrid,Automatic,Estate,red, 4WD ,PERFORMANCE,new,euro_4,NA,private,19,Out-Of-Warranty,Us,NA,14095,2153,£13067,11913,£13978,17533,16609,-999,missing
+09/05/2024,audi,320i,hydrogen,Automatic,,blue,fwd,base,ex-lease,EURO 4,b-Supermini, demo ,40,EXTENDED,uk,14731,,-999,1466,,£18852,-999,5311,£3081,343
+12/10/2024,Tesla,CIVIC,petrol,dual-clutch,SUV, Silver ,4wd,performance,imported,euro 4,C-Compact,Private,35,extended,apac,NaN,3582,11671,10080,11381,£12958,19208,"10,935",,4837
+24/10/2023,volvo,missing,diesel,automatic, saloon ,Grey,Rwd,luxury,ex-Lease,EURO 4,a-city,FLEET,46, in-warranty ,-999,12745,14391,£2328,1676,missing,£44,-999,8005,5403,14554
+2023-11-28,NA,model 3,ELECTRIC,automatic,missing,NaN,awd,performance,used,euro_4,,private,3,EXTENDED,uk,,"15,910",£6235,NA,8071,-999," 3,693",11798,£14204,13575
+missing,NA,golf,diesel,Cvt, Estate , black ,Awd,performance,used,ulez,b-Supermini,private,48,extended,Uk,2319,1920,,17215,4436,NA,,"14,824",£12045,18573
+09/01/2022,toyota,-999,HYDROGEN,manual,estate, black ,FWD,performance,ex-lease,EURO 5,d-mid-size,private,42,out-of-warranty,us,2038,£14950,16515,13979,£6726,missing,£19831,11948,£9180,6437
+03/08/2024,volvo,Civic,electric,NA,SUV,black,Awd,BASE,ex-lease,euro 6,d-Mid-Size,missing,4,OUT-OF-WARRANTY,Us,£9044,£12963,NA,"15,366",missing,9635,15870,missing,17915,8608
+24/08/2021,AUDI,a4,missing,AUTOMATIC,hatchback,WHITE,AWD,Luxury, Imported ,ulez,b-supermini,private,25,extended,uk,8688,"18,836",4956,2253,£15094," 2,512",1295,11650,16485,4608
+09/10/2023,NaN,civic,hydrogen,dual-clutch,saloon,white,4wd,sport,new,ulez,C-COMPACT,private,11,Extended,NA,£15423,£11187,-999,£590,-999,18705,12209,"16,898",£568,14362
+30/06/2021,vw,Focus,electric,Dual-Clutch,saloon,BLACK,4wd,premium,Imported,euro_4,c-compact,FLEET,31,extended,UK,£5013," 2,065","14,809",5966,£4215,11605,£12320,"11,644","13,760",2595
+"Feb 27, 2024",audi,FOCUS, Petrol ,dual-Clutch,saloon,WHITE,NaN,SPORT,new,ulez,C-Compact,NaN,16,-999,eu,6995,4577,"13,695"," 7,270","16,202",12767,5640,1720,12303,missing
+-999,AUDI,COROLLA,electric,Automatic,coupe,blue,rwd,sport, imported ,NaN,a-city,,47,in-Warranty,US,7348,15056,12678,11166,NaN,-999,,"18,755",NaN,14307
+23/03/2024,missing,s60,HYDROGEN,Cvt,saloon,black,-999,premium,ex-lease,EURO 6,e-exec,FLEET,9,in-Warranty,Mea,7072,18745,15318,,£15499,8809,"19,071",£17499,4610,10285
+2021-09-17, honda ,CIVIC,hydrogen,Manual,hatchback,BLUE,awd,base,New,euro 6,b-supermini,Demo,25,out-of-warranty,UK,424,15435,4928,1119,"15,320",10989,6272,13882,"10,435",13693
+"May 03, 2022",TESLA,golf,ELECTRIC,CVT,COUPE,white,rwd,performance,ex-lease,EURO 4,c-compact,demo,34,extended,eu,19963,15819,544,£3770,8606,£4108,17032,"16,273",11666,NA
+2024-10-15,Bmw,focus,DIESEL,manual,hatchback,BLUE,4wd,base,USED,ulez,d-Mid-Size,FLEET,4,missing,us,11642,5043,5903,1792,14669,7400,£4456,10708,NA,NaN
+02/04/2024,Volvo,NA,Hydrogen,cvt,HATCHBACK,,Fwd,Performance,imported,Euro 5,d-mid-size,demo,36,extended,mea,NaN,NaN,£15745,"19,529",16847,"17,662",£13022,"12,587",13998,7830
+2023-06-23,Ford,GOLF,diesel,cvt, saloon ,BLACK,4WD,sport,used,EURO 4,A-CITY,fleet,28,out-of-warranty,eu,16327,£3787,2576,"10,950",15643,1749,11113,19522,£13022,2073
+14/01/2024,NA,320i,hybrid,cvt, suv ,BLUE,4WD,Sport,new,Euro 6,D-Mid-Size,Hire,1,In-Warranty,eu,6361,9858,-999," 1,811",7216,17384,£3629,"10,186",11987,2823
+"Jun 21, 2022",TESLA,s60,PETROL,cvt,ESTATE,SILVER,rwd,Luxury,ex-lease,euro5,c-Compact,hire,31,OUT-OF-WARRANTY,eu,1148,16874,1138,£927,1300,£7831,£19534,5464," 5,658",
+04/10/2021,Vw,320i, DIESEL ,-999,saloon,BLACK,Fwd,premium,Imported,euro_4,d-Mid-Size,FLEET,1,IN-WARRANTY, Uk ,"16,835",9450,3421,-999,10531,missing,missing,-999,£14411,17720
+,volvo,a4,hybrid,Automatic,HATCHBACK,red,RWD,Base,NEW,Euro 4,D-MID-SIZE,fleet,8,out-of-warranty,-999,£7950,"10,208",3545,7460,£8825,2921,807,7051,2415,489
+18/05/2022,Bmw,a4,hybrid,cvt,estate,red,missing,SPORT,Ex-Lease,, a-City ,hire,31,in-warranty,mea,11966,1523,-999,14361,6154,19991,NaN,£3049,709,£4506
+2021-09-21,volvo,-999,diesel,-999,Hatchback,Grey,fwd,base,NaN,ulez,NA,private,43,NA,mea,4720,8256,"16,699",19987,£15667,£13613," 2,746",£3046,3433,"17,381"
+03/07/2024,,model3,hybrid,CVT,hatchback,grey,awd,premium,EX-LEASE,ULEZ,A-CITY,Demo,16,out-of-warranty,mea," 9,962",16919," 4,616",10885,11005,£6481,17150,3838,1813,18042
+16/03/2022,tesla,Civic,hydrogen,NaN,Suv,black,NA,sport,imported,EURO 6,a-city,-999,24, extended , uk ,£14926,£1064,"17,254","12,823",£1872,20,6810,13092,,missing
+2024-10-02,Ford,S60,petrol,cvt,estate,grey,awd,Premium,imported,Euro 6,c-compact, Fleet ,45,IN-WARRANTY,mea,9878," 3,978",8603,10684,18648,9332," 1,494",£7034,19248,
+2024-11-03,ford,corolla,electric,cvt,SUV,white,NaN,performance,ex-lease,euro4,b-supermini,Fleet,49, out-of-warranty ,APAC,4478,"13,129",8230,9196,£7406,17284,14938,19431," 3,317","11,022"
+missing,Tesla, a4 ,DIESEL,missing,coupe,silver,rwd,SPORT,ex-Lease,Euro 6,e-exec,NaN,34,extended,apac,7933,missing,18585,NaN,2013,16458,10089,NA,17475,6436
+2023-01-06,audi,Civic,hybrid,automatic,saloon,silver,Awd,-999,ex-lease, Euro 5 ,A-CITY,fleet,7,out-of-warranty,Us," 9,120",16910,14650,15888,NA,£374,18935,£4729,11485,£14634
+2024-09-29,toyota,a4,diesel,Automatic,NaN,GREY,Awd,performance,used,euro 4,NA, demo ,37,IN-WARRANTY,MEA,NA,"15,114","17,541",72,6931," 5,130",6635,17124,£18360,11289
+2021-04-08, volvo ,S60,Hybrid, dual-clutch , SUV ,Blue,awd,premium,imported,Euro 6,d-mid-size,HIRE,21,Out-Of-Warranty,eu,NA,-999,£8886,19357,9047,5455,£2998,3203,7077,10791
+2021-04-16,ford,golf,PETROL,manual,estate,Grey,4wd,-999,Used,-999,d-Mid-Size, private ,37,extended, APAC ,missing," 1,575",1136,£1685," 2,552",1660,£19385,16377,    37,7097
+11/08/2022,Bmw,a4,petrol, DUAL-CLUTCH ,coupe,silver,4wd,PREMIUM,EX-LEASE,euro 6,c-compact,Demo,19,extended,US,£16982,1870,10678,7437,4572,10810,680,8773,-999,£11623
+05/11/2022,Tesla,golf,hybrid,dual-clutch,Suv,grey,Fwd,PREMIUM,imported, euro4 ,D-Mid-Size,HIRE,7,in-Warranty,Us,NA,"12,870",£15447,£13702,5894,7163,193,5548,14134,
+"Nov 13, 2023",honda,,Hybrid,automatic,ESTATE,White,missing,NA,ex-lease,ULEZ,C-Compact,private,21, out-Of-Warranty ,Uk,478,1169,NA,15307,1789,18841,17028,2861,£10752," 7,448"
+"Jun 26, 2023",honda,focus,-999,automatic,hatchback,BLUE,4wd,BASE,USED, Euro 4 ,c-compact,Hire, 47 , extended , us ,15598,£5140,13971,12678,10115,£5906,11924,15229,10542,13265
+"Mar 20, 2021",Ford,MODEL 3,diesel,cvt,hatchback,BLUE,awd,LUXURY,new,euro_5,D-Mid-Size,FLEET,41,in-warranty,apac,2284,NaN,1002,13408,7111,missing,16859,17326,missing,14364
+25/08/2024,toyota,s60,petrol,dual-clutch,Saloon,grey,fwd,LUXURY,new,missing,B-Supermini, DEMO ,30,missing,Eu,,"12,452",missing,212,805,-999,"15,224",1196,19000,missing
+04/10/2021,toyota,NA,hybrid,,saloon,BLACK,4wd,Sport,imported,ULEZ,E-Exec,private,12,out-of-warranty,apac,-999,19342,13910,16960,NaN,"10,101",£8768,3740,6073," 5,655"
+2024-12-20,TESLA,A4,hybrid,manual,estate,WHITE,missing,Performance,NEW,EURO 5,d-Mid-Size,fleet,8,NaN,EU,missing,15558,15535,,17465,,7285,282,11328,19729
+2021-05-23,ford,a4,hydrogen,manual,SUV,blue,fwd, Performance ,ex-lease,EURO 6,-999,private,missing,in-warranty,us,3712,12867,9566,£2568,13294,14101,8933,£9764,7282,missing
+2021-02-11,NA,focus,Hybrid,NaN,COUPE,blue,,NaN, Imported ,-999,B-Supermini, DEMO ,7, IN-WARRANTY ,uk,"13,423"," 4,737",17881,143,missing,14373,2071,3773,£18917,missing
+08/01/2023,TOYOTA,focus, Electric ,Manual,estate,red,awd,NaN,imported,euro5,b-supermini,demo, 44 ,OUT-OF-WARRANTY,US,10587," 4,177",£7993," 8,214",4151,-999,13457,NA,NaN,827
+23/02/2022,BMW,model3,petrol,Manual,Estate,NA, 4wd ,NaN,new,ulez,C-COMPACT,hire,30,extended, mea ,8053,3067,5905,8237,2262,15340,1594,6187,,1418
+03/09/2022, honda ,model_3,PETROL,automatic,estate, White ,-999,missing,EX-LEASE,euro_6,b-supermini,fleet,46,extended,us,6837,£15140,17446,,£458,£19988,9722,3022,£14548,9703
+2021-04-30,VW,CIVIC, hybrid ,dual-clutch,hatchback,blue,rwd,sport,new,euro_6,B-Supermini,FLEET,26,in-warranty,uk,6925,14165,19943,£3987,15843,15464,14729,£17948,"14,781",19906
+2023-01-31,tesla,model 3,Diesel,Manual,NaN,silver,Fwd,luxury,imported,EURO 5, b-Supermini ,private,32,NA,Mea,2730,16312,1411,7899,3414,11241,12403,£17366," 6,530",203
+NA,AUDI,A4,electric,manual,Suv,blue,rwd,premium,ex-Lease, Ulez ,b-Supermini,,8,in-warranty,eu,£7306,NaN,14557,2579,19265,£1261,£2834,NA,missing,3877
+"Apr 05, 2023",NA,S60,diesel,NA,ESTATE,red,rwd,premium,ex-lease,Euro 5,-999,private,26,In-Warranty,apac,£2988,NaN,9897,1243,16390,12680,8560,"19,128",13031,16249
+NA,,a4,NaN,CVT,coupe,blue,awd,BASE,NA,euro5,e-exec,private,42,Extended,NaN,17581,£19126,£4783,NaN,£19293,11621," 3,616",271,£15512,18681
+-999, Ford ,320i,hydrogen,cvt,saloon,silver,4wd,SPORT,NA, Euro 4 ,NaN,hire,NaN, EXTENDED ,NA,-999,£7842,£10914,5264,1274,5663,NA,7985,18547,"10,255"
+"Nov 29, 2021",FORD,model_3,hybrid,dual-clutch,SALOON,RED,fwd, PREMIUM , Imported ,euro 4,missing,NaN,26,NA,UK,,11293,10547,18144,NaN,-999," 7,813",£11876,,237
+26/06/2021,TESLA,-999,hydrogen,CVT,saloon,Red, RWD ,Performance,New,euro 4,e-exec,,39,extended,uk,6104,17914,£2547,18701,5182,7775,£13953,7377,13121,18898
+2023-09-02,Volvo,civic,missing,automatic,hatchback,Blue,4wd,LUXURY,USED,euro_5,a-city, fleet ,6,in-Warranty,mea,8097,5284,16004,628,16323,12675,11162,18136,£13667,5093
+19/06/2021,vw,CIVIC,DIESEL,automatic,estate,NaN, Awd ,performance,New,EURO 4,c-compact,FLEET,30,Extended,apac,2468,2052,11147,"14,825",9817,9614,2073,1016,4161,4707
+07/11/2022,tesla,corolla,Hybrid,cvt,estate,black,-999,LUXURY,new,EURO 4,missing,FLEET,50,in-Warranty,apac,16363,19959,7943,10746,11256,NaN,,2159,13832,4072
+21/08/2023,vw,S60,,automatic,estate,black,4WD,SPORT,Used,EURO 4,B-SUPERMINI,fleet,34,in-warranty,eu," 8,081",10947," 3,591",£5399,"11,803",15167," 2,834",17780,17360,9097
+22/05/2022,Toyota,model3,Hydrogen,Dual-Clutch,saloon,white,rwd,missing,,EURO 5,NA,private,27,out-Of-Warranty,Uk,3957,missing,-999,16535,7719,14308,6412,"17,524",£19942,2701
+2023-08-11,bmw,golf,petrol,automatic,saloon,NaN,rwd,sport,NEW,Ulez,E-Exec,Hire,13,IN-WARRANTY,,"11,498",338,7923,4676,2529,NA,13138,"13,143",15898,NaN
+05/03/2022, Audi ,corolla,NaN,manual,coupe,silver,awd,NA,used,euro6,NaN,private, 45 ,OUT-OF-WARRANTY,-999,11384,12314,£16426,14447,£2256,4639,10234,£13453,missing," 1,462"
+"Apr 19, 2023",vw,, hybrid ,CVT,coupe,grey,NA,PREMIUM,NEW,ULEZ,C-Compact,Hire,41, In-Warranty ,-999,7210,1670,5577,18510,missing,1454," 1,056",17737,503,£17973
+2023-05-28,VOLVO,A4,diesel,,suv,blue,4wd,luxury,new, ulez ,B-SUPERMINI,fleet,13,NA,uk,12575,13710,12242,£9106,10705,NaN,10146,12468,-999," 9,512"
+"Mar 26, 2022",vw,civic,petrol,MANUAL,-999,NaN,awd, performance ,Used,ulez,a-city,hire,2,NaN,uk,"11,656"," 3,599",4990,£4091,266,722,NA,-999,NA,10926
+09/01/2021, BMW ,320I, diesel ,Dual-Clutch,estate, red ,awd,sport,imported,Euro 4,D-MID-SIZE, fleet ,22,,MEA,19373,£2030,9383,£9344,8577," 9,449",9082,£19596,£6897,3447
+"Sep 29, 2024",audi,golf,electric,dual-clutch,estate,silver,RWD,sport,-999,Euro 6,E-Exec,hire,41,NaN, UK ,17247,9692,2524,£4411,NA,4280,19943," 1,898",1979,6371
+27/09/2024,AUDI,GOLF,hydrogen,cvt,suv,NA,4WD,luxury,EX-LEASE,EURO 4,D-MID-SIZE,Fleet,5,in-warranty,Apac,6997,£9630,18494,18843,£1532," 2,134",£12648,7452,£16518,7954
+25/12/2024,NaN,,ELECTRIC,dual-Clutch,hatchback,red,fwd,sport,Used,-999,C-Compact,HIRE,41,extended,uk,"16,578",5991,3844,7900,"19,391",£7023,£18790,8853,16331,9612
+18/09/2024,NA,-999,diesel,automatic,saloon,silver,awd,performance,ex-lease,euro 4,B-SUPERMINI,private,11, In-Warranty ,APAC," 9,778",12524,NaN,10024,3631,NaN,£8409,NA,8568,3041
+14/07/2022,vw,NaN,diesel,cvt,estate,Grey,Fwd,sport,-999,euro 6,C-Compact,Private,NaN,, APAC ,131," 6,652",£18940," 3,349","18,929",missing,12259," 3,954",1967,£17617
+01/06/2022,bmw,A4,electric,cvt,SALOON,,rwd, Premium ,used,euro4,B-SUPERMINI,-999,13,NaN, eu ,£11036,£4313,14910,£7585," 9,267",5021,18496,7460,578,
+05/06/2023,tesla,golf,diesel,manual,Saloon,BLACK,4wd,SPORT,used,EURO 4, e-exec ,private,34,extended, uk ,14394,£1624,2552,NaN,£2121," 2,738",NaN,£15499,15059,9272
+2021-03-12,VW,a4,petrol,Dual-Clutch,Saloon,silver,fwd,sport, EX-LEASE ,NaN,d-mid-size,private, 45 ,in-warranty,uk,NA,missing," 5,747",NaN,£1007,£10942,10464,NA,16093," 3,593"
+21/11/2024,honda,FOCUS,petrol, Manual ,,BLUE,missing,PERFORMANCE,Ex-Lease,EURO 5,e-Exec,private,8,extended,us,9227,,2637,missing,"16,704",£12142,8498,-999,6739,missing
+07/05/2021,toyota,model3,electric,Dual-Clutch,saloon,Grey,-999,PREMIUM,used,euro6,,PRIVATE,19,extended,Mea,1456,19173,"16,279",15091,£10222,"15,171",£11273,5858,£10354,£4011
+17/10/2023,toyota,a4,diesel,NA,COUPE,blue,RWD,base,USED,euro_6,E-Exec,Hire,9,extended,UK,4487,   422,missing," 8,521",,2330,3691,£11557,19631,4545
+11/02/2023,Ford,FOCUS,HYBRID,automatic,saloon, black ,AWD,sport,Used,EURO 4, D-Mid-Size ,fleet,40,IN-WARRANTY,NaN,-999,3942,£17018,-999," 9,398",16701,,"19,343","14,821",959
+27/08/2021, tesla ,GOLF, hybrid ,Automatic,suv,Blue,4wd,sport,imported,NA,d-Mid-Size,PRIVATE,27,out-Of-Warranty,us,-999,4900," 5,066",missing,18194,17159,13111,18024,"11,584",15763
+2021-12-06,bmw,s60,HYDROGEN,-999,estate,white,NA,luxury,ex-Lease,euro 4,e-exec,fleet,13,Extended,uk,-999,4440," 4,472",17657,£12506,"14,911",,14285,£6282,5903
+16/07/2023,missing,a4,missing,cvt,Hatchback,white,Rwd,Base,imported,euro_6,C-COMPACT, hire ,35,in-warranty, APAC ,£9959,missing,,2057," 2,786",6196," 4,434",5353,£4589,NaN
+2024-07-04,missing,320i,NaN,cvt,SUV, WHITE ,4wd, LUXURY ,imported,euro 4,e-exec,missing,50,In-Warranty,MEA,3254,NA,14561,5244,£13852,£18508," 5,097",£16551,"17,546",£10022
+2022-12-03,tesla,Golf, Petrol ,Automatic,Estate,silver,NA,performance,USED,missing,A-City,hire,9,In-Warranty,Us,7013,13606," 4,549",£17570,NaN,3845,14076," 7,631",5558,18155
+NA,FORD,civic,electric,Cvt,saloon,grey,awd,SPORT,EX-LEASE,Euro 4,E-EXEC, private ,27, EXTENDED ,eu,15461,missing,"18,382",8642,£17238,,£824,5938,14770,9450
+2024-04-10,NaN,MODEL 3,ELECTRIC,dual-clutch,ESTATE,black,4wd,base,New,Euro 6,b-supermini, hire ,47,extended,uk,1119,12611,8202,£10301,-999,11219,missing,£9959,£3451,14716
+"Jun 21, 2024", tesla ,CIVIC,Hybrid,Manual, hatchback ,Black,rwd,-999,imported,Ulez,a-city,DEMO, 30 ,out-Of-Warranty,apac,12987,"15,755",9804,£4223,16120,9829,1683,£19691,343,6844
+2021-03-23,audi,focus,hybrid,automatic,estate,RED,rwd, performance ,Ex-Lease,Euro 6,b-Supermini,demo,40,in-Warranty,,NaN,11918,NA,"12,262",106,18485,£13739,2444,NA,£8739
+2023-10-17,audi,Civic,petrol,Dual-Clutch,estate,BLUE,awd,premium,ex-lease,euro5,b-supermini,private,2,in-Warranty,US,1313," 4,331",£15679,722," 2,322",£7292,18667,"12,219",2990,19942
+2023-12-06,vw,s60,electric,cvt,coupe,black,4wd,premium,new, euro4 ,D-Mid-Size,demo,43, in-warranty ,us,2324," 8,514","17,999",1591,14904,missing,-999,3590,6030,-999
+20/02/2021,NA,MODEL 3,HYDROGEN,cvt,HATCHBACK,,4wd, sport ,NA, euro_6 ,E-Exec,HIRE,10,out-of-warranty,NaN,13384,10813,12225,15515,£10594,8854,NaN,3104,19347," 1,387"
+2023-07-03,bmw,model 3,DIESEL,Cvt,Hatchback,RED,FWD,NaN,new,euro_5,B-SUPERMINI,fleet,3,in-Warranty,APAC,"18,530","17,809",£15016,3599,432,17858,£5835," 2,364",6765,3761
+25/09/2024,audi,Corolla,Petrol,Cvt,Coupe,black,rwd,Luxury,NEW,Euro 5,B-SUPERMINI, Demo ,29,OUT-OF-WARRANTY,Apac,missing,"14,532",15706,NA,4547,£8037,2197,19855,15855,13072
+13/08/2023,tesla,S60, petrol ,MANUAL,Estate,blue,,base,used,euro 6, A-CITY ,missing,missing,in-Warranty,Us,6798,£15179,15393,"14,071",12677,16114,15834,12896,10511,9159
+20/08/2022,bmw,Model 3,diesel,manual,Suv,WHITE,Fwd,luxury,EX-LEASE,NaN,e-Exec,demo,14,Out-Of-Warranty,apac,7187,£3080,3692,NA,£16792," 9,257",missing," 7,808",5991,£3939
+2023-02-02,bmw,320i,missing,dual-clutch,SALOON,black,RWD,PERFORMANCE,EX-LEASE,euro4,NaN,hire,13,Extended,Apac,19508,£2649,£4277,5082,19306,15436,73,NA,£8881,£2397
+07/05/2024,vw,-999,hybrid,NaN,hatchback,BLUE,4WD,LUXURY,imported,ulez,d-mid-size,fleet,23,In-Warranty,mea,missing,£1873,£12978,8038,17888,£4564,1333,18691,18907,15859
+09/12/2022,,s60,ELECTRIC,-999,estate,black,awd,luxury,used,euro6,b-Supermini,missing,32,extended,APAC,7633,6833,6246,19888,18233,7890,NA,150,18328,11839
+24/03/2023,audi,model 3,diesel,AUTOMATIC,HATCHBACK,BLUE,4wd,-999,ex-Lease,euro5,a-City,private,24,extended,Eu,19517,6735,"15,844",NaN,8904,4774,"15,668",8732,5599,£5430
+20/02/2024,volvo,-999,Hydrogen, dual-clutch ,SUV,red,AWD,luxury,Imported,euro 6,-999,fleet,-999,OUT-OF-WARRANTY,uk,6496,£12199,-999,2437," 6,173"," 4,861",13987,8333,£12829,2345
+2021-09-30, audi ,golf,Electric,dual-Clutch,Coupe,NA,rwd,BASE,New,euro 6,b-supermini,fleet,43,In-Warranty,mea,4184,£18367,14191,15830," 7,713"," 2,084",9192,   629,13652,18923
+25/08/2023,tesla,model3,hybrid,manual,coupe,white,rwd,performance,missing,Euro 6,e-Exec,hire,32,extended,Apac,"18,629",-999,16662,£8509,997,£4032,NaN," 5,080",13937,£7985
+03/09/2022,bmw,NaN,Electric,Automatic,hatchback,SILVER,4wd,performance,NEW,euro 4,e-exec, demo ,32,Extended,APAC,3970,5026,4694,,"17,077",17962,15357,£14221,8267,14210
+NA,honda,S60,hybrid,,estate,red,Awd,LUXURY,USED, Ulez ,d-mid-size,,7,out-Of-Warranty,NaN,2349,£8411,16361,11010,18460,5788,£10202,£831," 9,557",8156
+22/08/2024,vw,model_3,Diesel,,-999,grey,4wd,sport,imported,NA,-999,private,12, EXTENDED ,APAC,6170,,10813,3540,16301,3782,"15,914",NaN,13128,11474
+28/10/2023,BMW,a4,petrol,manual,saloon,Blue, awd ,sport,new,euro6, D-Mid-Size , Demo ,5, Out-Of-Warranty ,-999," 1,390","16,675",10859,3555,15662,," 6,243",17073,13893,5589
+18/12/2023,tesla,A4,Petrol,-999,saloon,grey,RWD,Base,ex-lease,euro 4,a-city,Private,37,in-warranty,eu,12952,17418,13777,7892," 6,917",missing,13465,2249,4637,14327
+02/11/2023, audi ,corolla,petrol,dual-clutch,SALOON,missing,fwd,sport,new,euro 6,e-Exec,FLEET,NaN,extended,eu,5703,NaN,15910,15337,4915," 9,558",NaN,2593,18954,16954
+31/10/2022,Volvo,Golf,HYBRID,automatic,saloon,grey, 4wd ,luxury,new,euro5,b-supermini,PRIVATE,39,in-Warranty,uk,13111,19411,3424,£3297,12087,10366,   497,5016,NaN,4225
+2022-08-15,toyota,s60,hybrid,MANUAL,-999,NA,Awd, Performance ,ex-Lease,euro 4,C-COMPACT,private,4,OUT-OF-WARRANTY,eu,11582,14480,1185,10160,12380,12797,£12234,£19231,£18432,12825
+2021-05-28,honda,missing,HYBRID,Cvt,hatchback,blue,Fwd,Performance,new,Ulez,D-MID-SIZE,fleet, 12 ,out-of-warranty,Apac,10790,missing,1571,15278,"14,259",12231,10776," 4,310"," 9,120",missing
+13/05/2022,Honda,CIVIC,NA,manual,estate,BLUE,AWD,performance,Ex-Lease,Euro 6,missing,hire,33,out-of-warranty,Eu,£4198,2246,13281,19308,2822,6302,1727,11850,18664,7857
+2024-04-04,audi,S60,electric,cvt,,blue,rwd,premium,,euro 4,c-Compact, demo ,5,EXTENDED, UK ,,"19,290",2760,5161,681,   768,NaN,89," 8,703",£17941
+2022-05-07,TESLA,focus,petrol,Dual-Clutch,-999,red,fwd,Base, imported , EURO 4 ,a-City,HIRE,36,out-of-warranty,APAC,9803,14595,"12,420",1470,8567,£1708,19455,missing,   768,
+2022-12-28,vw, s60 ,Hybrid,cvt,estate,SILVER,missing,SPORT,new,ulez,b-supermini,hire,5,in-Warranty,Uk,NaN,6054,7242,NA,4248,,£17653,"16,202",16348,2478
+04/12/2023,NaN,320i,diesel,DUAL-CLUTCH,saloon,Silver,4wd,sport,new,Euro 6,a-city,hire,NA,in-warranty,mea,9601,3996," 3,141",14137,19360,13455,7275,,7840,14823
+2023-03-09,honda,golf,Hydrogen,,NA,WHITE,awd,premium,IMPORTED,EURO 4,a-city,private,missing,,apac,-999,£573,17701,11060," 9,325","17,579",4924,£6896,3978,£19587
+2024-11-30,audi,civic,hydrogen,Manual, saloon ,silver,4wd,base,used,ulez,C-COMPACT,demo,NaN,In-Warranty,apac,-999,£8813,missing,1895,8332,7145,15248,£15387,£19417,12803
+06/10/2024,vw,-999,-999,Cvt,estate,black,AWD,sport,used,Euro 6,a-city,demo,NA,Out-Of-Warranty,uk," 4,460",11674,5903,£18934,7957,NA,£12326,1043,missing,-999
+02/11/2021,-999,GOLF,diesel,CVT,suv,black,fwd,sport,ex-lease,Euro 5,c-Compact,demo,42,OUT-OF-WARRANTY, eu ,13636,9908,missing,10987,"18,895",10322,-999,12239,NaN,11408
+2024-03-12,Bmw,320i,hybrid,NaN,Saloon,White,FWD,Performance,EX-LEASE,Euro 4,E-EXEC,DEMO,31,extended,,£7699,7209,"11,797",6265,11020,12828,6138,£9892," 6,938",4645
+2021-07-19,,NaN,HYDROGEN,AUTOMATIC,coupe,blue,,PREMIUM,NA,Euro 6,A-City,Demo,8,extended,eu,6590,"12,007",£5074," 6,407",missing,12997,5619,£15390,£1898,
+missing,vw,golf,NaN,dual-Clutch,suv,SILVER,awd,premium,EX-LEASE,euro_5,B-SUPERMINI,demo,49,In-Warranty,MEA,4587,NaN,£14550,16,2887,14023,6127,£10460,7383,"16,973"
+2024-08-06,audi,civic,Petrol,cvt,Hatchback,silver,FWD,base,USED, ulez ,a-city,FLEET,missing,NaN,eu,19978," 2,545",£2512,NA,10660,15895,9662,10239,£1893,missing
+2024-08-11,missing,s60,Hybrid,NA,, WHITE , fwd ,premium,Imported,euro 5,NaN,fleet,22,in-Warranty,US,-999,16015,14176,1393,18489,7501,1300,£13932,   411,9411
+03/11/2023,BMW, s60 ,diesel,AUTOMATIC,suv,BLUE,4wd, performance ,EX-LEASE,ulez,a-city, hire ,8,NA,eu,17440,15087,£11890,£4927,510,£10704,,2456,9593,1398
+"Oct 25, 2021",NA,,electric,manual,hatchback, grey ,FWD,SPORT,Imported,-999,A-CITY,private,40,NA,Eu,   117,5513,NA,10195,NA,£5102,18112,£6548,5947," 4,527"
+"Jun 24, 2023",ford,golf, diesel ,Automatic, coupe ,-999,NaN, base ,USED, ulez ,a-city,fleet,,missing,Uk,NaN,95," 9,247",13670,83,£19318,-999,17967,missing,4491
+2023-01-26,toyota,320i,Hydrogen,dual-Clutch,suv,grey,NA,-999,Used,,A-City,DEMO,missing,Out-Of-Warranty,mea,£1496,missing," 3,439",2178,17224,£17369,693,12601,17503,7543
+11/01/2022,TESLA,COROLLA,ELECTRIC,dual-clutch,hatchback,blue,RWD, luxury ,-999,ulez,e-exec,hire,21,Out-Of-Warranty,EU,897,    99,14297,8678,£779,6607,6485,£17563,19125,11618
+31/07/2024,honda,Focus,hydrogen,DUAL-CLUTCH, estate ,blue,4wd, SPORT ,Imported,ulez,,demo,18,out-of-warranty,US,3577,£4457,7832,£2516,"15,461",15369,7673,4762,NA,"17,188"
+07/09/2021,FORD, corolla ,Hybrid,dual-clutch,Suv,blue,4wd,luxury,new,euro6,d-mid-size, fleet , 19 ,In-Warranty,US,   921,19222,NA,2516,15205,£11598,13556,"15,042"," 1,757",2214
+2024-09-25,Ford,320i,electric,automatic,Suv,Silver, rwd ,performance,USED,euro 5,B-SUPERMINI,fleet,,extended,uk,£19112,missing," 5,941","14,198",8896,8735,£15918,8723,8169," 8,342"
+03/05/2021,,320i,NA,manual,saloon,silver,awd,premium, new , euro_6 ,c-Compact,Private,26,-999,-999,17972,missing,8453,"18,860",14055,"19,758",11497,14146,1524,5852
+22/06/2022,Vw,A4,HYBRID, AUTOMATIC ,Suv,RED,fwd,luxury,imported,Euro 5,B-Supermini,demo,17,out-Of-Warranty,us,NaN,13187,"10,873",missing,16772,4508,9595,7586,10051,13421
+18/06/2021,VW,Corolla,petrol, manual ,NaN,silver,rwd,NA,NA,euro_6,c-compact,hire,missing,NaN,NA," 8,676",15634,£14125,NA,10621,7739,10983,3262,14199,527
+"Feb 19, 2021",VW,civic,-999,NA,Suv,Black,FWD,base,Imported,NaN,A-CITY,hire,8,Extended,us,10965,£17165,10759,£16333,19271,£3745,7747,690,"17,349",-999
+29/10/2023,NA,Golf,petrol,cvt,Hatchback,silver,Awd,LUXURY,New,EURO 6,A-City,fleet,44, EXTENDED ,NA,£5840,14382,12623," 3,449","12,371",NaN,£6405,8882,8290,£12830
+21/07/2024,volvo,model3,NA,automatic,ESTATE, blue ,-999,base, new ,euro5,c-compact,PRIVATE, 30 ,Out-Of-Warranty,Eu,£14133,130,"15,352"," 7,961",8472,1395,£7020,"15,413",NA,3906
+"Mar 11, 2021",tesla, S60 ,Petrol,DUAL-CLUTCH,suv,NaN,Fwd,base,new,,c-compact,fleet,46,out-of-warranty,uk,17131," 1,180","12,466",£11038,959,£19408,13634,,,9511
+2024-02-23,audi,NA, DIESEL ,Automatic,Coupe,silver,4wd,SPORT,ex-Lease,EURO 4,a-city,PRIVATE,34,extended,mea," 3,092"," 7,042",9655,7440,£11255,18979,15219," 1,796",16868,9024
+27/12/2024,vw,focus,diesel,NaN,suv,Grey, rwd ,PERFORMANCE,new,ulez,c-compact,fleet, 47 ,IN-WARRANTY,apac,9240," 9,291",15845,£9426,17161,missing,4485,13443,NaN,2944
+2024-03-10,missing,-999,hydrogen,manual,coupe,grey,fwd,base,imported,Euro 5,missing,missing,36, Extended ,,£8753,7162,4447,,£16878,,9292,7967,-999,8601
+16/01/2024,missing,a4,diesel,cvt, suv ,Silver,4wd,premium,New,euro_4,c-Compact,NA,1,out-of-warranty,eu,missing,NA,£952,6186,£997,17216,11920,NaN,16526,£7617
+18/03/2021,vw,S60,DIESEL,DUAL-CLUTCH,hatchback,BLACK,rwd,premium,imported,euro_5,c-compact,demo,NA,out-Of-Warranty,Apac,NA,17077,1629,6052,£16266,2236,3329,   814,6049,14981
+29/12/2024,toyota,S60,hybrid,dual-clutch,suv,grey,4wd,base,new,ULEZ, b-supermini ,demo,3,OUT-OF-WARRANTY,NaN," 8,724",13302,6205,3584,9141,19697,-999,NaN,1485,6154
+13/02/2021,volvo,A4,Hybrid,dual-clutch,NA,white,4wd, PREMIUM ,Used,euro 5,B-SUPERMINI,demo, 16 ,Extended,Us,15612,£11360,13984,4311,3160,£8151,missing,1204,8050,NaN
+"Oct 09, 2021",Tesla,Civic,hydrogen,dual-clutch,hatchback,Silver,awd,PERFORMANCE,New,euro6,a-city,private, 11 ,in-Warranty,us,-999,11988,17464,16128,19203,NA,17154,NaN,13782,13252
+24/08/2024,,-999,petrol,dual-clutch,NaN,black,Rwd,sport,imported,Euro 4, b-supermini ,Private,38,in-Warranty,apac,"18,931",NA,"12,791",4918,,4201,"10,134",1269,£13527," 4,081"
+18/02/2024,bmw,FOCUS,ELECTRIC,cvt,NaN,-999,awd, performance ,,ULEZ,d-mid-size,demo,50,In-Warranty,us,12530," 9,971",£18572,10573,£16748,missing," 5,958",15846,17901,16611
+26/11/2023,-999,civic,electric,cvt,COUPE,blue,Awd,,NEW,euro_5,B-SUPERMINI,Private,1,extended,Eu," 4,852",7256,18282,5192," 9,707"," 5,657",-999,1090,888,missing
+15/10/2021,Audi,corolla,NaN,NA,COUPE,grey,4wd, sport ,ex-lease,ulez,B-SUPERMINI, hire ,28,EXTENDED,apac,£19292,4798,£18376,£3044,£13771,15585,9764,5173,"11,198",
+2023-11-17,FORD,MODEL 3,ELECTRIC,dual-clutch,hatchback,WHITE,fwd,BASE,Ex-Lease,euro5,d-mid-size,hire,2,in-Warranty,EU,£12803,-999,3886," 1,747"," 3,291",6565,£5041,NA,1710,"16,534"
+2022-01-24,tesla,-999, electric ,cvt,suv,black,awd,Sport,NaN,euro_4,e-Exec,demo,25,missing,NaN,"11,930",19925,1729,£2219,16542,£10345,£18808,£5323,£10382,
+2021-04-01,toyota,Golf,HYDROGEN,AUTOMATIC, saloon ,-999,RWD,luxury,-999,Euro 5,b-supermini,demo,50,out-of-warranty,us,-999,"12,410",4160,-999,NA,6387,£4482,18635,£12582,11432
+19/04/2021,vw,corolla,hydrogen, manual ,Suv,White,AWD,sport,USED,euro6,b-supermini,private, 32 ,out-of-warranty,Uk,"13,518",3717,12518,"18,058","13,230",16583,1903,10536,£17014,NaN
+22/03/2021,audi,MODEL 3,HYDROGEN,automatic,missing,GREY,4wd,missing,ex-lease,,E-Exec,private,-999,IN-WARRANTY,apac,8975,£10318,18053,1264,17799,14681,19836,£11728,NaN,-999
+2021-03-24,bmw,A4,HYBRID,Cvt, HATCHBACK ,black, AWD ,performance,ex-lease,NA,B-Supermini,missing,47,In-Warranty,uk,19250," 8,181",7660," 3,843",7267,4409,13908,8307,9388,9241
+21/05/2024, volvo ,NA,DIESEL,cvt,COUPE,BLUE,fwd,premium,EX-LEASE,euro 5,d-mid-size,demo,37,out-of-warranty,eu,996,NA,4659,7549,missing,£11497,missing,£9333," 4,188",£10301
+2021-10-07,audi,S60, Diesel ,dual-clutch,suv,silver,-999,performance,NEW,euro6,c-compact,NA,44,in-Warranty,Us,£18032,5011,£18242,"18,865",£6363,"12,276"," 5,185",12279,5934,£5676
+2023-11-06,TOYOTA,civic,missing, MANUAL , hatchback ,silver,awd,premium,used,ulez,a-city, Private ,36,,uk,£60,£6326,14689,18220,£12469,missing,£12420,4866,4105,19059
+16/06/2022,audi, S60 ,electric,missing,NaN,grey,,luxury,New,Ulez,d-mid-size,fleet,20,,MEA,NaN,"13,718",NA,£13451,13135,"14,846",155,"16,206",15861,18914
+18/09/2021,honda,320i,NaN,-999,saloon,Red,FWD,base,imported,euro_6,E-EXEC,Fleet, 16 ,OUT-OF-WARRANTY, Eu ,£6323,8397,NaN,17638,NaN,-999,14977,2021,£16387,17095
+"Feb 14, 2021",toyota,Model 3,petrol,manual,HATCHBACK,Black,NA,premium,Ex-Lease,missing,d-Mid-Size,Demo,6, out-Of-Warranty ,mea,£4500,1241,1267,-999," 6,979"," 2,886"," 1,885",£19640,10003,17342
+2022-04-16,FORD,corolla,diesel,DUAL-CLUTCH,missing,Grey, rwd ,LUXURY,imported,EURO 5,c-Compact,private,missing,Extended,us,16905,13378,938," 5,759",5363,6890,16506,£11009,4756,10894
+08/04/2022,Tesla,golf,NA,cvt,ESTATE,blue,4wd,-999,New,,missing,-999,18,extended,-999,,4553,£14795,£16336,10689,16588,2249,NaN,-999,13803
+20/05/2023,Honda,Corolla,petrol,AUTOMATIC,suv,NaN,4wd,premium,ex-lease,euro_6,a-City,,,Extended,eu,NA,"12,977",missing,4534,15722,18815,-999,£12793,6032,£4508
+25/07/2022,,model_3,electric,cvt,Suv,WHITE,4wd,premium,imported,ulez,D-MID-SIZE,HIRE,49,missing,MEA," 4,078",14435,6687,£8254,£8191,-999,19642,11431,"10,875",-999
+missing,AUDI,,hybrid,MANUAL,NA,White,4wd,-999,Imported,euro_4,d-Mid-Size, hire ,13,IN-WARRANTY,mea," 4,047",19925,1141,13042,£4032,"12,943","14,287",4927,14930,£3714
+14/07/2021,VW,-999,NA,NA,saloon,, rwd ,sport,imported,ulez,d-mid-size,private,3,in-warranty,MEA,3911,4388,NA,£13053,,£1997,8768,£4574,£6040,14830
+11/01/2024,HONDA,focus,-999,cvt,coupe,WHITE, awd ,base,NaN,euro6,B-Supermini,private,2,extended,Uk,4443,4527,2046,-999,5848,   616,"13,263",8848,"17,908"," 8,644"
+01/09/2024,Vw,-999,HYBRID,automatic,coupe,NA,RWD,BASE, used ,EURO 4,D-Mid-Size,DEMO,44,OUT-OF-WARRANTY,eu,"18,145"," 7,880",5324,£3181,,17735,£13162,6437,£3873,5724
+21/06/2023,honda,a4,HYBRID,DUAL-CLUTCH,saloon,red,rwd,luxury,ex-lease,Euro 4,E-Exec,Demo,46,extended,UK,"12,393",£8982,NaN,7723,£5883,12307,NaN,£4345,14192,3556
+-999,honda,S60,electric,cvt,COUPE,NA,4WD,PERFORMANCE, ex-lease ,euro 5,d-Mid-Size,fleet,,out-of-warranty,apac," 2,549"," 2,779",NA,"19,565",15095,9720,NA,17226," 2,963",NaN
+2024-09-13,ford, golf ,diesel,Cvt,suv,Silver,Fwd,missing,ex-Lease,euro4,b-Supermini,fleet,7,extended,UK,"14,412",15273,6557,16927,NaN,1425,"18,952",£11188,£19745,17888
+"Aug 28, 2024",audi,S60,PETROL,AUTOMATIC,SALOON,White,awd,premium,,euro_6,d-mid-size,Hire,missing,out-Of-Warranty,NaN,NA,"19,847",13339,£10491,14592,NA,2343,12098,3035,£5920
+2024-06-09,ford,model 3,hydrogen, manual ,estate,-999,AWD,performance,imported,EURO 6,B-Supermini,fleet,46,out-of-warranty,Mea,14345," 3,374",11796,,5837,NA,"16,498",14713,3216,
+"May 26, 2022",missing,focus,Electric,automatic,Coupe,red,Rwd,PERFORMANCE,new,ulez,e-exec,fleet,23,in-warranty,EU,£10897,11495,missing,17664,£10019,10337,£9182," 9,348",," 4,147"
+"May 12, 2022",Vw,model_3,hydrogen,automatic,estate,grey, rwd ,Premium,imported,euro6,A-CITY,private,49,Out-Of-Warranty,APAC,14986,1786,19924,10577,-999,,900,4176,11162,7760
+2024-02-03,bmw,missing,hydrogen,automatic,SUV,grey,rwd,BASE,EX-LEASE,euro 6,-999,,35,in-warranty,Us,15985,11602,£8565,6142,1092,14242," 8,504",19371,"10,367",9224
+08/05/2022,vw,civic,Hybrid,NaN,suv,grey,awd,base,used,euro5,b-supermini,Demo,13,IN-WARRANTY,Uk,2755,19785,17884,£13818,£6080,"11,192",15898,14582,15714,"11,161"
+"Sep 29, 2022",bmw,320i,Hydrogen,-999,hatchback,NaN,4wd,performance,Ex-Lease,EURO 6, B-SUPERMINI ,fleet,42, EXTENDED ,Us,6792,4149,17404,1174,14236,NA,-999,£5480," 4,809","10,300"
+11/08/2022,honda,focus,Electric,cvt,suv,blue,NA,,NEW,ULEZ,C-Compact,HIRE,29,out-of-warranty,eu,19206,£15615,10717,2078,-999,NA,13691,3035,3438,£1364
+2023-02-23,Tesla,a4,PETROL,cvt,Suv,blue,4WD,PREMIUM,Imported,ulez,e-exec,demo,39,extended,APAC,£10322,426,5777,,9585,£4961,"16,530","11,743",£1596,6971
+13/01/2022,volvo,model 3,HYDROGEN, MANUAL ,Coupe,Grey,rwd,,EX-LEASE,euro 4,c-Compact,Private,49,in-warranty,us,NA,NA,£12550," 9,665"," 8,702",,15587,15046,9981,11382
+03/05/2022,Audi,civic,hybrid,CVT,Estate,red,Fwd,Premium,new,euro_6,D-MID-SIZE, fleet ,40,In-Warranty,uk,74,NaN,,11184,NaN,"17,116",missing,16810,14305,"14,219"
+07/02/2023,tesla,GOLF,petrol,cvt,Suv,WHITE,awd,sport,NA,ulez,a-city,Fleet,3,NaN,NaN,£5151,£3987,168,9396,£8931,17932,NA,,8196,£2668
+2022-06-25,Tesla, 320i ,PETROL,automatic,saloon,missing,fwd,performance,Ex-Lease,euro 4,D-Mid-Size,fleet, 16 ,extended, eu ,£10579,9235,NaN,7130," 2,695",14601,-999,15847,3371,£11523
+2021-06-28,Volvo,320i,HYDROGEN,automatic,Estate,grey,AWD,premium,Imported,euro_5,c-compact,fleet, 5 ,In-Warranty, uk ,190,-999,14133,7521,16833,2684,£16131,4306,19198,3290
+19/07/2024,-999,focus,-999,manual,suv,missing, fwd ,PERFORMANCE,USED,euro_5,, hire ,35,in-warranty,mea,8075,missing,14505,1015,2441,19795,3964,2605,"15,238",NaN
+2024-02-25,toyota,Golf,petrol,automatic,COUPE,silver,4wd,Sport,imported,euro 5,b-Supermini,FLEET,46,in-warranty,us,19119,NaN,12923,16737,11871,£19438,7545,NA,8143,17157
+2022-07-29,, civic ,Diesel,missing,hatchback,white,fwd,Luxury,Ex-Lease,euro 6,-999,hire,39,OUT-OF-WARRANTY,UK,   770,15768,£14711,9586,£18604,5995,4580,17751,17704,12090
+2024-10-03,,civic,electric,MANUAL,coupe,Grey,Awd,base,Imported,EURO 5,b-supermini, private ,37,in-Warranty,UK,14956,-999,£15674,£7644,15828,missing,19385,12825,£14709,£16101
+2021-06-14,TESLA,CIVIC,HYDROGEN,manual, Suv ,red,awd,premium,NA,euro5,b-Supermini,Fleet,27,IN-WARRANTY, apac ,4550,3166,13276,11195,4574,£10880,4668,3547,2977,£1015
+23/01/2021,toyota,S60,electric,,-999, black ,4wd,base,new,euro 5, C-Compact ,fleet,38,EXTENDED, mea ,18970,£9156,17892,£13068,15167,,6103,£2281,7309,£9954
+05/01/2021,BMW,model3,NA,Manual,coupe,, awd ,,used,ulez,C-COMPACT,,missing,extended,MEA," 7,752",10140,£5296,NaN,4472,3463,5535,NaN," 3,317",7824
+01/04/2022,honda,s60,petrol,manual,coupe,BLUE,Fwd, base ,EX-LEASE, ulez ,b-supermini,fleet,42,out-Of-Warranty,mea,17962,£4900,£4979,9393," 9,680",18503,11894,£13727,2297,11470
+"Apr 17, 2024", tesla ,a4,ELECTRIC,AUTOMATIC,ESTATE,Black,AWD,Base,imported,euro4,a-city,fleet,14,EXTENDED,us,12328,17169,NA,£16570,£16990,6329,11698,," 5,477",£12173
+11/02/2022,vw,NA,hybrid,cvt,SALOON,silver,4wd, Luxury ,NEW,ulez,D-Mid-Size,hire,46,extended,-999,7731,3126,5198,9190,5799,9569,£1725,6496,missing,7615
+19/08/2022,vw, 320i ,electric,DUAL-CLUTCH,saloon,silver,rwd,sport,IMPORTED, EURO 6 ,,private,3,extended,Uk,"11,247",NaN,NaN,,£3145,NaN," 7,388",13361,"19,345",12057
+2023-03-19,Tesla,model3,HYDROGEN,CVT,estate,blue,, luxury ,imported,Euro 4,E-Exec,DEMO,48, OUT-OF-WARRANTY ,APAC,"18,691",4665,3751,16619,11663,9868,,3143,£136,12697
+09/10/2024, bmw ,corolla,hybrid,missing,HATCHBACK, blue ,awd,performance,used,euro5,E-EXEC,NaN,36,extended,mea,3126,£17812,8731,9747,NA,3532,"13,394",NA,"15,233",   980
+26/12/2021,vw,focus,Hybrid,dual-clutch,HATCHBACK,grey,Fwd,base,used, ulez ,D-MID-SIZE,hire,37,in-Warranty,Mea,£14104,1009,17292,£17215,14359,£16711," 5,119"," 2,376",13783,18988
+28/10/2021,Tesla, GOLF ,Hydrogen,manual,suv,BLUE,fwd,performance,imported,ulez, A-CITY ,demo,28,Extended,APAC,£14583,5258,11099,14114,"16,141",19043,14504,£9329,11242,-999
+2021-07-17,bmw,CIVIC,,-999,ESTATE,blue,4wd, luxury ,imported,NaN,b-supermini,HIRE,6,,missing,7262,NaN," 3,614",19635,12602,5413,12700,NaN,10987,"12,229"
+2024-08-24,toyota,Model 3, hybrid ,dual-clutch,saloon,Black,awd,premium,EX-LEASE, ULEZ ,c-compact,demo,8,Out-Of-Warranty,apac,9604,£5100,"19,979",1073,-999,NA,11311,15419,£5825,9793
+"Jul 15, 2024",audi,a4,electric,CVT,missing,Black,awd,Base,used,Ulez,E-Exec,PRIVATE,11,extended,Mea,NA,£13430,"15,371",-999,1941,14410," 2,007",5468,3980,6222
+"Dec 08, 2022",missing,MODEL 3,DIESEL, manual ,suv,silver,-999,performance,Imported,Ulez,d-mid-size,private,38,in-warranty,apac,missing,7182,10110,"15,465",6155,£5682,3731,£19241,4178,11468
+2024-06-16,toyota,s60,hydrogen,dual-clutch,SUV,blue,4WD,Premium,ex-Lease,euro 6,e-Exec,fleet,35,IN-WARRANTY,Uk,NA,12067,11596,NaN,5496,NA,8388,2232,"13,974",19821
+10/04/2021,tesla,focus,electric,automatic,Suv,,Rwd,base,ex-lease, ulez ,d-mid-size, Private ,35,Extended,Uk,12259,19359,,9101,9994,4077,"13,945",19044,missing,£11604
+2024-10-23,NA,corolla,HYBRID,automatic,SUV,silver,awd,performance,used,EURO 5,missing,DEMO,35,In-Warranty,Uk,£18145,6718,4578,NaN,," 9,746",5066,11420,10692,-999
+"Sep 03, 2024",TOYOTA,FOCUS,petrol,manual,saloon,Red,fwd,-999,ex-lease,ULEZ,,PRIVATE,18,OUT-OF-WARRANTY,Apac,10232,14," 9,140","14,988",16165,9475,14829,16840,12183," 6,262"
+2022-02-24,tesla,NaN,Hybrid,manual,Hatchback,blue, Fwd ,BASE,,euro 4, e-exec ,Demo,24,NaN,eu,NaN,£7612,£10047,"10,673","16,138",14546,6861,NaN,10585,19798
+22/10/2022,volvo,Golf,Petrol,Dual-Clutch,SUV,,4wd,NaN,-999,euro_6,a-city,private,30,extended,apac,15030,17779,10496,9994,169,£17282,,missing,"15,211",19624
+13/09/2021,TESLA,civic, diesel ,Cvt,SALOON, BLACK ,Rwd,luxury,new,euro6,A-CITY,Hire,-999,EXTENDED,us,£4227,8315,2746,1811," 2,431"," 6,330",£5385,1842,£19538,12837
+30/05/2021,FORD,Civic,-999,Dual-Clutch, coupe ,white,4wd,premium,missing,euro 4,d-Mid-Size,fleet,20,IN-WARRANTY, eu ,£19283,15860,16746,13867,£12035,,1142,£2825,NaN,4166
+24/02/2021,,MODEL 3,diesel,manual,coupe,Red,awd,LUXURY,new,NA,c-Compact,FLEET,47,IN-WARRANTY,Mea,18902,2739,-999,16039,8025,18611,10007," 2,945",12822,2115
+2022-09-19,Audi,A4, petrol ,dual-clutch,missing,red,awd,Sport,imported,Euro 6,D-MID-SIZE,demo,37,extended,Eu,£1498,8334,14919,-999,-999,1770,14525,missing,11458,10940
+2021-11-27,BMW,A4,-999,Dual-Clutch,Suv,silver,rwd,premium,new,euro_4,a-city,fleet,31,Extended,uk,£1922,19387,£17430,16611,13661,£11929,13653,£8358,"14,146",£7462
+2021-10-28,AUDI,Focus,petrol,automatic,saloon,white,fwd,SPORT,imported,Euro 6,a-City,Private,5,in-warranty,EU,4571,,-999,2213,19059,17477,2042,950,12298,3449
+01/08/2023,Ford,Golf,electric, Manual ,Saloon,silver,FWD,sport,USED,euro_4,D-Mid-Size,Fleet,8,in-warranty,uk,£1853,,missing,15052,10135,15538,14611,16982,6297,
+2022-12-12,TESLA,model 3,Electric,dual-Clutch,suv,RED,awd,PREMIUM,Ex-Lease,euro 4,b-supermini,private,5,-999,eu,8871,5496,missing,18823,"14,923",11504,-999,11948,2677," 8,306"
+2022-06-04,audi,s60,hybrid,Automatic,SUV,silver, Fwd ,premium,IMPORTED,ulez, b-supermini , PRIVATE ,39,out-of-warranty,uk," 5,987",6475,1645,missing,5035,,NaN,£19477,7713,"15,313"
+2023-05-29,tesla,focus,hydrogen,CVT,hatchback,white,4wd,luxury, EX-LEASE ,euro4,c-compact,private, 4 ,in-Warranty,eu,1755,"10,346",£14406,6964,1927,5742,266,8934,"19,373",7727
+2023-04-21,tesla,Golf,Petrol,dual-Clutch,COUPE, Silver ,4wd,Premium,,NaN,D-Mid-Size,Private,7,in-warranty,us,1460,1241,10988,8712,2939,13402,£17875,"14,215",15287,4913
+15/10/2022,honda,a4,HYDROGEN,dual-clutch,,BLACK,awd,NaN,imported,Euro 4, c-compact ,FLEET,46,Out-Of-Warranty,eu,17707,1615,£19772,15895,8438,missing,7904,16745,19595,£19883
+"May 24, 2022",vw,a4,diesel,CVT,hatchback,black,RWD, performance ,used,euro5,c-compact,private,2,extended,EU,missing," 2,507",7764,"16,722",1520,£11230,9697,8726,2092,10934
+"Jul 12, 2021",BMW,NaN,HYDROGEN,dual-Clutch,hatchback,blue,FWD,Luxury,ex-lease,euro_6,A-CITY,fleet,14,in-warranty,-999,563," 1,776",£11236,NaN,16469,13536,NaN,-999,17702,£12363
+08/08/2023,ford,Model 3, petrol ,automatic,estate,Red,Fwd,Performance,used,EURO 6, D-MID-SIZE ,private, 40 ,OUT-OF-WARRANTY,EU,18102," 8,511",NaN,"11,477",12583,14551,2287,£8223,"13,644",£8172
+2023-08-14,AUDI, s60 , diesel ,missing,Coupe,blue,4wd,base,new,euro6,-999,demo,,OUT-OF-WARRANTY,apac,missing,-999,11858," 2,202"," 8,401",£10697,14145,missing,5174,NA
+2021-01-07,ford,NaN,hydrogen,cvt,HATCHBACK,BLACK,AWD,sport,ex-lease,ULEZ,E-EXEC,DEMO,24,extended,APAC,14685,14081,12910,17514,£6998,"15,907",£17934,,£13862,missing
+07/05/2022,VW,s60,diesel,missing,ESTATE,silver,missing,sport,imported,Euro 5,A-City,fleet,31,in-Warranty,MEA,13981,£1192," 6,152",16816,10154,"14,584",6577,missing,10329,8340
+2021-10-08,TESLA,a4,NA,CVT,estate, grey ,4wd,PERFORMANCE,New,Ulez,A-CITY,hire, 5 ,in-warranty,NaN," 5,196",£8168,NA,5819,6873,14778,7150,10527,15353,16532
+11/03/2023,vw,civic,Hybrid,manual,NaN,Grey,4wd,performance,imported,euro 6,A-CITY,fleet, 26 ,extended,US,missing," 2,409","18,862",NaN,14232,13399,18202,15194,19372,1420
+2022-04-06,volvo,Focus,diesel,automatic,Suv,silver,FWD, LUXURY ,imported,euro4,a-City,demo,31,extended,Uk,9924,NaN,10617,£10107,18069,11805,19638,313,NA,8033
+03/04/2024,Toyota, MODEL 3 ,petrol, MANUAL ,Suv, Black ,FWD,sport,imported,euro4,a-city, private ,40,Extended,Us,10808," 9,975","18,089",178,£9208,£3506,3878,£3045,7128,19706
+2023-08-03,TESLA,COROLLA,electric,manual,Estate,grey,4WD,SPORT,ex-Lease,ulez,a-city,-999,40,Extended,US,6903,16268,£2646,1447,"11,621",14835,11377,14387,11979,3025
+2024-10-26,vw,s60,DIESEL,AUTOMATIC,NaN,black,NaN,base, used ,euro_5,b-supermini,hire,NA,EXTENDED,Us,18076,£15417,5489," 5,845",18475,5384,7373,£5179,18567,£11110
+2024-04-12,Vw,model 3,diesel, automatic ,COUPE,Silver,awd,base,used,euro4,d-mid-size,hire,47,NaN, APAC ,6671," 3,879",3357,18907,£7592,734,17316,£18748,8880,8226
+"Oct 27, 2021",TOYOTA,corolla,diesel, cvt , ESTATE ,NA,missing,BASE,imported,euro_4,a-city,HIRE,NA,OUT-OF-WARRANTY,Apac,£764,13739,13100,19634,3168,15944,£1590,5564,19194,NA
+14/01/2021,vw,civic,hydrogen,manual, Estate ,NaN,4wd, base , EX-LEASE ,NA, E-Exec ,private,43,NaN,uk,5488,£5432,NaN,£3293,6118," 8,576",1855,1054,14658,-999
+2023-05-22,Bmw,corolla,-999,Dual-Clutch,Suv,missing,4WD,luxury,New,euro_4,A-City,FLEET,28,IN-WARRANTY,NA,missing,19059,NaN,18838,13375,7279,NaN,19176,£7098,14777
+01/12/2023,ford,focus,HYBRID,manual,suv,Grey,rwd,PREMIUM,used,euro 4,A-CITY,FLEET,4,missing,APAC,£8819,9911,15317,17481,-999,NaN,17431,£10071,NA,6503
+2021-04-14,Honda,civic,diesel,cvt,Suv,grey,4WD,missing,used,-999,D-MID-SIZE,demo,47,extended,apac,"10,158",£10915," 1,335",6357,missing,£17154,6647,,missing,£13549
+2024-12-12,vw,320i,PETROL,cvt, HATCHBACK ,Silver,Awd,performance,new,-999,d-mid-size,hire,7, extended ,eu,£15742,-999," 5,358",7611,-999,10396," 1,113",£6490,NA,missing
+2021-09-11,VW,civic,Electric,automatic,Coupe,black,Fwd,sport,new,Euro 4,d-mid-size,hire,48,extended,eu,"14,271",5037,12683,5891,4762,NaN,£2771,£4539,12726,£15356
+13/08/2022,Toyota,-999,NA,dual-clutch,estate,NA,awd,sport,ex-Lease,euro_5,b-Supermini,HIRE,7,, Eu ,"12,067",13629,7877,2037,   546,11056,7681,11557,£19894,1451
+2021-03-21,Audi,civic,Hybrid,automatic,-999,Silver,4wd,sport,new,EURO 4,-999,FLEET,NaN,NaN,us,2813,NaN,18013,£2346,£7284," 7,957",17855,19325,13068,£14470
+05/07/2024,ford,model_3,Petrol,dual-clutch,HATCHBACK,black,4wd,PERFORMANCE,New,Euro 4,a-city,HIRE,42,out-Of-Warranty,,   124,£1455,6807," 9,234"," 9,871",11715,£10667,NaN,-999," 2,343"
+08/03/2023,bmw,320i,diesel,MANUAL,hatchback,Blue,Awd,Base, new ,Euro 6,c-Compact,demo, 37 ,Out-Of-Warranty, us ,," 2,979",8337,15307,222,8444,"17,836",15250,8735," 5,220"
+NaN,vw,missing,hydrogen,dual-Clutch,suv,white,rwd,missing,new,euro 6,d-mid-size,HIRE,-999,in-warranty,Us,15279,£14535,missing," 5,108",6304,,£18733,missing,-999,£8960
+25/05/2023,BMW,s60,Electric,MANUAL,Saloon,,4wd,luxury,ex-Lease,EURO 6,b-Supermini,fleet,28,out-of-warranty,UK,18699,16329,£9577,"10,644",12067,14716,£148,"11,177",6447,12905
+2021-06-18, ford ,Focus,diesel,manual,estate,blue,RWD,base,used,Ulez,D-Mid-Size,hire,1,in-Warranty,eu,16487,2687,10012,5533,1568,NaN,missing,2251,9008,NaN
+2024-06-12,bmw,GOLF,,AUTOMATIC,Estate,Grey,4wd,base,Ex-Lease,euro4,E-Exec, fleet ,42, In-Warranty ,apac,-999,6206,275,10130,13282,£5402,2805,"13,574","15,108",16040
+,honda, A4 ,diesel,manual,estate, Grey ,awd,base,used, euro 6 ,d-mid-size,FLEET,NaN,missing,us,1253,£7549,3763,missing,1237,3457,£18855,19912,"12,098",1622
+24/09/2024,Honda,Model 3,hybrid,manual,Estate,Black,Fwd, luxury ,Imported,euro_5,e-Exec,private,8,extended,EU,NA,missing,£9531,missing,NaN,9321,£8992,NA,10090," 7,086"
+01/05/2021,NA, Focus ,electric,cvt,HATCHBACK,black,awd,PREMIUM,imported,EURO 4,E-EXEC,DEMO,46,EXTENDED,NA,12890,NaN,12447,6810,7749,£5714,11266,7574,4571,£6934
+09/11/2022, bmw ,missing,diesel,DUAL-CLUTCH,Coupe,white, awd ,LUXURY,Used,Euro 4,b-Supermini,fleet,missing,in-warranty,mea,"18,288",£19887,£15625,4065,11218,5859," 9,077"," 9,220",£8366,missing
+12/02/2024,Audi,GOLF,hydrogen,Manual,ESTATE,Black,4wd,NA,imported,Euro 6,D-MID-SIZE,fleet,NaN,extended,us,6615,"19,039",10261,£12416," 2,178",4349,16891,,£4852,594
+2022-04-22,audi,A4,petrol,dual-Clutch,COUPE,blue,Fwd,SPORT, ex-lease ,euro_6,c-Compact,NA,19,out-of-warranty,APAC,17994,NaN,12586,"14,085",18066,17843,-999,7185,"17,582",
+09/10/2021,honda,a4,Hybrid,manual,Estate,blue,NaN,Sport,missing,ulez,d-mid-size,demo,22,,uk,15562,12728,625,713,-999,6772,£5978,,£1841,£15182
+2024-04-06,audi,CIVIC,diesel,automatic,saloon,red,Fwd,Luxury,NEW,EURO 5,d-mid-size,-999,21,NA,mea,3739,£13427,£1850,-999,5326,missing,9783,9718,£5504,£14475
+12/01/2023, honda ,Focus,electric,dual-clutch,hatchback,red, 4wd ,performance,NaN,,-999, Demo ,46,extended,EU,£8555,3318,785,£2124,18957,3365,249,19113,£8801,5929
+2024-07-17,AUDI,A4,missing,manual,coupe,black,4wd,premium,used,ulez, e-Exec ,hire,33,extended,EU,999,£3511,10165,£11096,2776," 4,365",£11080,4748,15787," 6,468"
+2023-09-24,Audi,320I,diesel,manual,ESTATE,blue,Rwd,Base, Imported ,NaN,e-exec, private ,50, out-of-warranty ,Apac,"14,225",12094,"10,122",10818," 1,582",18670,2614,5615,11365,6560
+21/08/2022,Vw,S60,HYBRID,cvt,SALOON,BLACK,fwd, Luxury ,new,EURO 4,e-exec,demo,13,in-warranty,-999,18903,£7324,16049,£10781,"16,575",3172,£5654,£7529,NA,£9139
+16/05/2021,Tesla,focus,HYBRID,Dual-Clutch,coupe,grey,rwd, PREMIUM ,IMPORTED, Euro 4 ,-999,FLEET,NA,In-Warranty,us,1423,16432,11349,17541,17528,missing,16816,18310," 4,255",
+22/05/2023,volvo, A4 ,,-999,estate,grey,4wd, premium ,imported,Euro 5,C-COMPACT,,27,EXTENDED,us,NaN,18884,1787,18435,NA,3457,3684,1885," 9,015",NA
+2021-07-04,,s60,NA,dual-Clutch,coupe, Black , fwd ,,Used,NA,E-Exec,HIRE,41,OUT-OF-WARRANTY,apac,NA,£14572,missing,1497,8416,," 7,188",NaN,18580," 8,545"
+13/11/2022,volvo,,hybrid,Dual-Clutch,Estate,WHITE,fwd,performance,new,euro 4,B-Supermini,Hire,NaN,in-warranty,missing,,5492,£9293,253,17556,17081,£6585,3996,15381,NA
+2022-03-01,,s60,diesel,automatic,saloon,NaN,4WD,performance,NEW, euro_6 ,b-supermini,demo, 40 ,out-of-warranty,apac,9349,"11,390",2916,missing,"11,662",7433,10140,1166,17722,NaN
+2021-10-04,VOLVO,a4,Hydrogen,Manual,Saloon,RED,,luxury,imported, ulez ,C-Compact, demo ,22,OUT-OF-WARRANTY,Eu,17775,8148,6916,missing,£18724,10241," 1,011",£8989,-999,12946
+2024-07-06,missing,missing,petrol,DUAL-CLUTCH,suv,silver,4wd,Base,used,euro5,D-Mid-Size,FLEET,9, extended ,apac,,£4498,"19,806",NaN,-999,9415,9447,£11962,15161,12797
+2022-10-11,audi,golf,DIESEL,DUAL-CLUTCH,SALOON, Red ,Rwd,luxury,ex-lease,euro4,A-CITY,missing,4,extended,apac,6756,£19450,18398,1092,15717," 8,216",NA,13354,,12361
+2023-10-20,ford,320i,ELECTRIC,NaN,coupe,white,AWD,NA,used,euro4,b-supermini,NaN,24,NA,mea,,£4110," 8,405",£11799,2635,£4404,2963,£15707,14409,17296
+2023-09-01,Bmw,a4,diesel,automatic,suv,red,fwd,performance,,NA,,NaN,38,Extended,us,NaN,£5422,16840,-999,NaN,£13826,18763,18113,18712,NaN
+NaN,honda,missing,diesel,dual-clutch,-999,GREY, 4WD ,missing,New,EURO 4,b-Supermini,-999,-999,in-warranty,uk,10992,18215,7295,-999,12248,,missing,5172,8454,11955
+2022-04-27,ford,civic,Diesel,automatic,SALOON,Black,fwd,luxury,Used,euro4,b-supermini,hire,missing,extended,MEA,NaN,,"17,403",NA,17114,"17,299",15601,5395,2719," 5,429"
+11/09/2021,bmw,focus,petrol,cvt,Saloon,Red,RWD,Premium,new,NA,E-EXEC,Private,46,extended,NaN,8504,   627,NA,3882,8190,19668," 1,338"," 5,046",£3684,3820
+"Nov 08, 2024",FORD,Corolla,petrol,NaN,coupe,white,AWD,Sport,ex-lease,ULEZ,c-compact,Hire,33,In-Warranty,uk,"19,804",£2188,12797,9105,-999,10934,,NaN,£16660,6715
+2022-03-07,bmw, CIVIC ,petrol,Manual,NaN,BLACK,Rwd,luxury,ex-lease,ULEZ,D-Mid-Size,DEMO,36,in-warranty, UK ,918,3381,19212,£12042,15386,NA,"19,941",7644,10760,3395
+18/05/2024,Toyota,320i,diesel,Dual-Clutch,coupe,white,FWD,SPORT,new, euro4 ,D-MID-SIZE,private,46,in-Warranty,eu,6715,14951,6790,"19,732",18268,15828,"15,644",-999,15166,NaN
+2023-06-25,Tesla,corolla,hydrogen,automatic,missing,GREY,Fwd,sport, used ,-999,b-supermini,demo,35,extended,US,missing,16470,9446,18437,£9818,£10432,6401,8268,£15908,missing
+2023-10-11,Vw,corolla,,CVT,missing,grey,4wd,SPORT,New,euro_6, a-city ,demo,50,EXTENDED,eu,1265,15398,£16170," 8,583",8841,11749,13674,£5528," 1,344",£19261
+24/11/2021,Bmw,COROLLA, petrol ,Manual,NA,GREY,fwd,performance,Ex-Lease,euro 6,NA,PRIVATE,49,OUT-OF-WARRANTY,US,13251,"13,467","16,851",£4634,missing,5299,1597,NaN,£11595,7371
+2023-07-10,honda,CIVIC, ELECTRIC ,manual,SUV,silver,4wd,SPORT,ex-lease,Euro 6,C-COMPACT,Hire,5,out-of-warranty,-999,7143,NaN,932,270,£18578,2051,5740,NA,11713,231
+2024-07-28,bmw,-999,Hybrid,automatic,coupe,RED,-999,premium,new,euro6,D-Mid-Size,demo,24,Extended,eu,"17,364",£11646,13240,£14974,"14,413",10278,£10618," 7,828",NA,missing
+09/09/2021,AUDI,s60,Petrol,Cvt,suv,SILVER,NA,performance,used,Euro 5,E-EXEC,hire,6,extended,,10276,18648,6196,9566," 4,056",missing,15313,365,7824,8074
+2024-12-19,bmw,civic,hydrogen,automatic,Saloon,red,4wd, performance ,new,euro 6,b-supermini,demo,43, in-warranty ,uk,10710,1002,1778,12808,£6093,£14630,11397," 3,138",,19144
+22/11/2023,NaN, focus ,hybrid,AUTOMATIC,saloon, black , Fwd ,luxury,,Euro 6,a-city,-999,31,-999,apac,3282,,17629,8731,£12710,2926,NA,9493,11132,15372
+23/03/2023,Audi,corolla,missing, Cvt ,missing,grey,FWD, PREMIUM ,ex-Lease,EURO 6,b-supermini,HIRE,16,Extended,US,6985,NA,NA,9783,17502,NA,18699,10152,8081,18466
+03/02/2021,tesla,320I,hydrogen,dual-clutch,saloon,BLUE,AWD,luxury,-999,,C-Compact,fleet,23,,Eu,6720,4143,,£11673,13796," 9,212",£12315,1051,£11708,14640
+28/03/2021, volvo ,Focus,Petrol,cvt,estate,silver,4wd, Base ,imported,NA,d-mid-size, demo ,42,in-Warranty,MEA,4063,6721,1761,£12343,14039,7512,"14,671","12,789",£2992,-999
+2021-10-13,audi,golf,NaN,dual-clutch,Estate,BLUE,awd,PERFORMANCE,Used,EURO 5, d-mid-size ,HIRE,8,extended, uk ,2653,17361,"11,790",7336,11840,905,£17796,17820,,19645
+2023-04-05,ford,Golf,,cvt,suv,red,FWD,SPORT,-999,euro 5,NA,Hire,32,extended,Uk,18471,£9157,1737,missing,"10,004",missing,10796,13469,625,£2391
+12/03/2021,-999,s60, DIESEL ,automatic,suv,RED,Awd,missing,Used,euro6,b-Supermini,fleet,39,NA,Apac,"14,870",£8862,3402,13596,3638,"15,148",13577,NaN,8374,18076
+17/06/2024, tesla ,civic,petrol, automatic ,coupe,BLACK,AWD,base,imported,NaN,a-city,hire, 2 ,OUT-OF-WARRANTY,eu,148,£3370,£14793,5505,,4194,,NaN,missing,£16285
+2021-08-18,volvo,320I,petrol, cvt ,SALOON,BLACK,Rwd, Base ,new,euro6,E-EXEC,demo,16,out-Of-Warranty,Eu,£12892,"10,865",12280,NA,missing,19658,4355,£5941,11881,4330
+16/02/2023,audi,golf,Hybrid,NaN,HATCHBACK,grey,Rwd,base,-999,EURO 6,-999,Demo, 43 ,in-warranty,NaN," 6,382","13,112",17235,15681,NA,6906,9608,2619,"14,568",NA
+12/04/2021,Volvo,model 3,hybrid,DUAL-CLUTCH,saloon,black,4wd,premium,used,ULEZ,,FLEET,18,extended,uk," 3,474",14806,5831,"13,582"," 2,593",,14131,17689,13207,9938
+08/08/2021,vw,Golf,Hybrid,NA,hatchback,black,awd,Performance, imported ,ulez,A-City,Private,37,IN-WARRANTY,mea,9851,"10,271",7130,14418,16856,£12977,15197,11615,6484," 8,994"
+2021-07-08,VOLVO,focus,missing,cvt,Coupe,blue,missing,Luxury,EX-LEASE,Euro 6,E-Exec,hire,NaN,IN-WARRANTY,Eu,,NaN,11697,1758,£3515,5774,,£1424,£16160," 4,402"
+23/09/2023,vw,Golf,Diesel,DUAL-CLUTCH,coupe,black,Awd,sport,USED,euro6,e-exec,Private,2,IN-WARRANTY,apac,18873,£3935,"10,645","19,497","11,105",18280,9127,£17925,-999,£8110
+27/08/2023,Honda,Civic,electric,cvt,hatchback,white,fwd,LUXURY,Used,missing, A-City ,fleet,9,Out-Of-Warranty,uk,3424,11420,7616,18048,15168,"15,769",£5265,1267,£19848,£16987
+29/12/2024,ford,civic,hybrid,Cvt,Coupe,BLUE,Awd,performance,imported,NA,d-mid-size,FLEET,47,-999,us,£15083,-999,£5034,7796,"12,116",9698,11063,4928,NaN,7701
+-999,Vw,S60,PETROL,automatic, coupe ,white,4wd,-999,missing,EURO 6,a-city,DEMO,-999,EXTENDED,APAC,"15,618",1068,£1130,8519,12220,4075,9859,8489,7755,missing
+2023-01-18,Volvo,golf,hydrogen,dual-Clutch,Hatchback,black,Rwd,Luxury,New,EURO 4,a-City,Demo,14, extended ,us,1217,"14,024",1099,14091,,12337,£16639,-999,NaN,£9395
+2023-10-25,Bmw,S60,diesel,,coupe,blue,rwd, LUXURY ,Imported,Euro 5,-999,NA, 5 ,OUT-OF-WARRANTY,us,NaN,16009,9520,15595,£16601,12154,£18794,1478,6663,9972
+30/12/2021,tesla,-999,HYBRID,manual,NA,blue,awd,performance,used, ulez ,b-supermini,DEMO,11,NA,NaN,NA,18442,2301,"12,307",15227," 3,220"," 1,469",14064,£7152,7029
+"Aug 06, 2023",ford,golf,NaN,cvt,saloon,GREY,Rwd,base,Used,euro_5, d-Mid-Size ,Fleet,20,extended,NA,847,£17663,missing,891,7801,7262,1516,£8779,2525,10088
+15/05/2023,ford,Golf,Petrol,MANUAL,-999,BLUE,awd,Performance,ex-Lease,euro_6,E-Exec,Private,29,extended,eu,"17,950",12962,£8943,1754,NA,8381,10082,,18662,2617
+NA, vw ,missing,Hybrid,Cvt,coupe,blue,awd,Base,new,Euro 5,E-Exec,HIRE,30,OUT-OF-WARRANTY,mea,£627,"15,861",9394,£2409,£3520,13197,4784,£5964,10036,£18507
+26/06/2022,tesla,corolla,hybrid,NaN,COUPE,black,AWD,PREMIUM,ex-Lease,euro 4,a-city,NA,45,EXTENDED,uk,,"18,069",£9908,19128,£19778,2472,2758," 3,305",£5514,17773
+2024-06-12,tesla,Corolla,PETROL,cvt,suv,red,4wd,PREMIUM,Used,euro 4,b-Supermini,hire,29,in-Warranty,uk,13484,£18902,"17,154",16230,,NA,£17855,13555,9306,8830
+2024-11-15,vw,S60,diesel,NaN,Suv,Red,Fwd, Sport , used ,euro_4,E-EXEC,FLEET,-999,in-warranty, uk ,,8614," 1,333",472,NaN,8689," 2,927",missing,12462,-999
+11/02/2023,bmw,NaN,DIESEL,manual,Hatchback,blue,rwd,premium,ex-Lease,EURO 5,e-exec,Private,44,EXTENDED,eu," 4,489",missing,18181,missing,17453,10563,missing,NaN,£12283," 4,549"
+07/02/2022,toyota,s60,petrol,cvt,Saloon,RED,awd,Luxury,-999,Euro 5,b-supermini,Fleet, 43 ,in-Warranty, eu ,4652," 1,502",7890,£16202,"19,517",19228," 8,348",£17967,9151,"13,117"
+2024-09-29,honda,COROLLA,NA,automatic,NA, Blue ,fwd,SPORT,IMPORTED,euro_4,a-city,hire,8, IN-WARRANTY ,us,14354,"18,332",   325,NaN,16306,19770,17247,£17925," 5,043",missing
+15/11/2021,bmw,,hybrid,NaN,-999,red,awd,, new ,euro 5,E-EXEC,missing,35,NaN,Us,NA,,13464,10944,"16,313",19168,£14717,"11,526",17882,missing
+NaN,ford,320i,missing,-999,missing,Silver,rwd,Base,new, ulez ,d-Mid-Size,fleet,19,Extended,Uk,missing,£547,2136,894,10728,£6947,"13,769","14,164",1619,18611
+"Jul 05, 2024",tesla,corolla,Petrol,dual-Clutch,Coupe,BLACK,4WD,PREMIUM,new,euro 5, D-MID-SIZE ,private,17,extended,us," 6,338",,£204,16270,1536,852,NaN,18604,-999,14096
+2024-09-06,volvo,Focus,missing,,ESTATE,blue,4wd,LUXURY,Imported,Euro 4,e-exec,DEMO,42,Extended,EU,16973," 9,067",11519,4085,NaN,NA,"16,605",10197,NA," 1,857"
+2021-12-14, bmw ,s60,PETROL,automatic,suv,grey,awd,PREMIUM,used,EURO 4,e-exec,fleet, 11 ,In-Warranty,Eu,5226,1471,15781,17686,13717,   443,5076,13965,,5295
+"Dec 27, 2021",honda,s60,diesel,Automatic,coupe,black,awd,sport, Imported ,euro 5,NA,hire,13,out-of-warranty,missing,14936,1684,£15477,13081,£6804,£18232,7695,£7369,817,10747
+30/03/2023,honda,golf,hybrid,Dual-Clutch,coupe,blue,missing,premium,IMPORTED,Euro 4,d-Mid-Size,private,2,in-warranty,UK,6010,13420,17099,£19165,£14354,£14854,NA,16915,14729,"10,159"
+"Mar 17, 2021",audi,model3,diesel, automatic ,suv,red,awd,sport,ex-lease, ulez ,a-city,Demo,4,EXTENDED,Uk," 9,173",4501,12950,3317,£10777,£1610,11652,11774,17900,"12,932"
+06/06/2021,tesla,Golf,-999,Dual-Clutch,SALOON,Silver,4wd,performance,NEW,euro6,E-EXEC,Hire,22,In-Warranty,us,16865,£2450,14558,2022," 8,628",8895,£9663,,12618,NaN
+2021-04-23, honda ,,HYBRID,Manual,COUPE,RED,rwd, base ,New,Euro 4,B-SUPERMINI,DEMO, 27 ,Out-Of-Warranty,apac,7072,£9788,"16,353",8897,£1748,8825,3514,£14037,19706,£8364
+31/08/2022,volvo,-999,hybrid,CVT,Suv,BLUE,4WD,Luxury, imported , euro 5 ,c-Compact,-999,49,OUT-OF-WARRANTY,mea,17146,10205,7335,£17579,,missing,13494,£1185,15915,£12432
+"Jun 25, 2021",volvo,a4,electric,automatic, HATCHBACK ,red,rwd,-999,used,EURO 4,e-exec,fleet,28,OUT-OF-WARRANTY,EU,18223,1605,15512,19091,-999," 9,151",17160,19936,10862,19865
+30/10/2021,volvo,focus,DIESEL,NA,COUPE,RED,4wd,sport,Imported,EURO 6,C-COMPACT,-999,NaN,Out-Of-Warranty,MEA,1317,14312,15157,,2970,,NA,3319,12668," 8,398"
+2021-11-01,Bmw,a4,HYBRID, cvt ,hatchback,white,4wd,Premium,-999,EURO 6,a-city,DEMO,10,out-of-warranty,Us,NaN,£3357,"12,798",8056,7046,£2707,11944," 8,710","17,699",missing
+-999,,320i,HYBRID,Manual,saloon,grey,RWD,luxury,New,euro4,e-exec,hire,34,in-warranty,APAC,6865,4542,16069,4516," 9,534",£15320,11766,6224,11450,missing
+, tesla ,missing,hybrid,automatic,coupe,blue, Rwd ,-999, new ,Ulez,a-City,Demo,2,in-warranty,mea,7609,16273,£10540,8635,,£16261,"11,491",£14991,missing,17444
+01/12/2024,audi,focus,hybrid,NaN,saloon,black,rwd,performance,new,euro6,C-Compact,missing,16,extended,us,7911,8154,19593," 2,679",,NaN,15770,15167,£6106,£11014
+2021-08-17,,GOLF,hybrid,manual, hatchback ,Grey,FWD,,New,,e-exec,demo,37,extended,mea,13992,,£9323,8012,14111,10773,8251,6740,14618,£14121
+NaN,bmw,model 3,electric,AUTOMATIC,NaN,red,fwd,luxury,USED,euro 5,D-MID-SIZE,hire,13,IN-WARRANTY,APAC,NaN,£3942,£18722,£9214,17142,£3689,16140,1405,8679,16540
+2021-11-19,-999, corolla ,NaN,dual-Clutch, SUV ,red,4wd,luxury, NEW ,ULEZ,D-Mid-Size, private ,47,In-Warranty,Apac,£10842," 5,899",-999,"16,305",£5843,2780,NaN,£3247,14821,14464
+"Apr 06, 2021",-999,a4,NaN,dual-Clutch,coupe,,4wd,base,new,Ulez, b-supermini ,fleet,47,extended,,5617,19197,-999,13747,-999,15721,3717,4912," 1,308",4750
+2023-12-17,bmw,Civic,hydrogen,cvt,Saloon,blue,Awd,NA,-999,euro_5,A-City,hire, 37 ,missing,eu,8610," 9,461",NaN,3470,£9762,NaN,3569,16121,13324,
+06/08/2024,ford,corolla,hybrid,dual-clutch, suv ,grey,FWD,Base,new,NaN,A-CITY,Fleet, 47 ,NaN,us,9181,17694,"10,191",8054,10744,459," 1,635",13674,19807,£5384
+2023-02-22,Ford,civic,hydrogen, cvt ,saloon,red,awd,performance,used,EURO 6,D-Mid-Size,hire,9,in-Warranty,uk,13861,6037,822,£11757,£16062,10744,2375,3874,6170,NA
+15/04/2021,VOLVO,FOCUS,Hydrogen, manual ,SALOON,white,missing,luxury,NEW, euro_5 ,d-mid-size,hire,1,,mea,12549,NaN,8873," 9,796",,11188,£15983,£4174,9973,8755
+26/10/2024,toyota,320I,HYBRID,cvt,hatchback,blue,FWD,missing,missing,euro4,c-Compact,HIRE,46,in-warranty,MEA,18635,"11,969",9894,12628,   276,"16,876",9357," 3,663",18051," 8,463"
+01/01/2021,Toyota,GOLF,diesel,Dual-Clutch,ESTATE,missing,4wd,performance,new,euro5,D-MID-SIZE,private,50,extended,apac," 6,187","15,615"," 7,978",£6509,19276,missing," 8,433",£9894,19558,6783
+-999,vw,Model 3, Hybrid ,Automatic,Suv,NA,fwd, sport ,used,euro 6,A-CITY,fleet,35,In-Warranty,missing," 1,326",2732,NaN,18723,5197,6413,£15150,£12374,14201,6565
+06/03/2022, vw , 320i ,Electric,DUAL-CLUTCH,hatchback,Red,4wd,sport,new,Euro 5,c-Compact,hire,11,Out-Of-Warranty,EU,£15573,"15,771",3971,£12834,13713,18120,£12748,£18755,19182,5572
+22/08/2024,audi,a4,Hydrogen,automatic,-999,Blue,-999, performance ,ex-lease,euro 5,c-compact,private,3,in-Warranty,Apac,80,£19683,,10719,16950,6415,-999,"11,024",3569,320
+2023-07-30,toyota,golf,petrol,automatic,coupe,grey,4wd,Performance,IMPORTED,euro 5,A-City,demo,12,in-Warranty, Uk ,18899,11082,12663,14975,£2300,11553,-999,,-999,13530
+24/03/2023,Bmw,golf,hybrid,missing,Suv,BLACK,NA,sport,Imported,euro 4,c-compact,private,42, IN-WARRANTY ,MEA,5336,£5839,16572,11670,"11,107",3609,£5179,11806,11086,11611
+2022-09-28,toyota, GOLF ,hybrid,,Suv,BLUE,missing,luxury,new,missing,d-Mid-Size,demo,37,Extended,UK,8262,7128,5967,"13,597",15188,,-999,NaN,620,NA
+29/08/2024,AUDI,corolla,diesel,Cvt,,black,-999,luxury,imported,euro4,a-city,hire,28,Extended,eu,3010,£18750,11798,7686,12499,"12,814"," 6,917",10531,"19,416",2459
+01/01/2024,honda,S60,diesel,Cvt,saloon,RED,RWD,base,Imported,NaN,B-Supermini,FLEET,25,out-of-warranty,,650,£16656,NaN,10199,-999,"14,004"," 3,905",£5321,£13511,missing
+07/05/2022,HONDA,s60,hydrogen,manual,SALOON,black,rwd,LUXURY,USED,euro6,C-Compact,HIRE,28,OUT-OF-WARRANTY,NaN,11183,"18,486",3345,10366,6531,"10,527",-999,"15,274",£11896,19149
+31/12/2021,ford,COROLLA,electric,CVT,-999,grey,4WD,Premium,imported,ulez,A-City,demo,8,, APAC ,2042,"16,117"," 5,122",11495,£2114," 4,451",NaN,512,11970,7470
+2021-11-18, tesla ,Golf,diesel,automatic,NA,blue,AWD,missing,ex-Lease, Ulez ,b-Supermini,private,20,In-Warranty,US,-999,8191,19893,missing,12097,17985,19857,5623,18999,£8376
+11/10/2024,missing,A4,Petrol,automatic,hatchback,blue,awd,LUXURY,used,Ulez,d-mid-size,private,48,missing, Uk ,£8209,12417,10055,£17808,15832,£11063,6366,17163,15662,missing
+NA,honda,a4,hybrid,automatic,saloon,red,4wd,PREMIUM,NA,EURO 6,e-exec,demo, 48 , out-of-warranty ,MEA,17167,16325,14530,,£11489,13719,5034,5097,"11,897",17288
+2022-08-25,volvo,a4,hydrogen,dual-clutch,hatchback,NA, rwd ,Luxury,new,ULEZ,c-Compact,fleet,7,extended,UK,£19893,3288,19005," 9,931",6426," 7,955",£2092," 3,253",£17954,NaN
+2024-01-03,vw,COROLLA,HYBRID,automatic,estate,,rwd,sport,used,-999,NaN, private ,42,in-warranty,uk,8507,4532," 7,339"," 6,835",£15608,,£17703,£19079,8266,£931
+2022-02-14,Toyota, corolla ,electric,cvt,estate,silver,Awd, Luxury , New ,Euro 4,b-supermini,demo,14,out-Of-Warranty,us,18979,£4797,13315,11342,12349,19163," 6,654",10959,16421,19146
+05/09/2021,Audi,civic,Hybrid,cvt,SUV,Silver,fwd,-999,IMPORTED,EURO 5,C-COMPACT,Demo,35,out-of-warranty,apac,13051,254,   596,14997,"19,387"," 9,508",16124,£18025,"11,364",1429
+24/06/2022,Tesla,corolla,DIESEL,NaN,hatchback,Silver,fwd,sport,used,Ulez,E-EXEC,demo,15,In-Warranty,mea,12818,18173,NA,19,8017,£1984,13998,NA,2664,16725
+02/08/2023,honda,golf,diesel,MANUAL,hatchback,BLUE,Awd,LUXURY,Ex-Lease,EURO 5,D-Mid-Size,fleet,,out-of-warranty,uk,9009,NaN,8816,14813,£18155," 1,044",2363,£13364,1986,"18,053"
+2023-01-28,ford,320i,diesel,manual,Estate,blue,fwd,performance,imported,missing,,fleet,44, extended ,EU,9070,8658,NA,12408,3887,missing,6249,7617,9701,3336
+02/09/2021,bmw,S60,electric,manual,Hatchback,BLUE,fwd,performance,imported,ulez,D-Mid-Size,Fleet,4, in-warranty ,MEA,8386,9045,NA,12255,2003,£15805,608,   870,13633,10603
+"Mar 20, 2024",VW,civic,Petrol,cvt,Estate,BLUE,Awd,premium,ex-lease,Euro 5,d-Mid-Size,hire,41,out-Of-Warranty,missing,6715,£3935,11311,666," 6,212",£16383,19742,NA,£9149,NaN
+2022-11-13,TOYOTA,corolla, HYDROGEN , Manual ,saloon,Black,RWD,BASE,New,ULEZ,D-Mid-Size,private,NaN,in-warranty,eu," 4,241"," 2,070",8908,16219,6329,5913,15811,16625,12789,14592
+2023-10-11,Tesla,model3,hybrid,dual-Clutch,missing,blue,awd,Performance,IMPORTED,ulez,d-mid-size,private,8,in-Warranty,us,14094,4424,18973,"14,168"," 5,794",8104,14225,16320,£18148,9450
+2021-11-29, volvo ,s60,hybrid,manual,saloon,Grey,,,NEW,EURO 6, E-EXEC ,fleet,44, Extended ,Us,14280,15310,3128,16787,9010,"15,830",NA,"14,691","15,977"," 7,804"
+2023-09-18,audi,model 3,petrol,automatic,COUPE,grey,4wd,luxury,, Euro 4 ,d-mid-size,private,6,EXTENDED,EU,3480,£7774,missing," 9,236",18125,7819,-999,NaN,19274,£7303
+2024-12-17,bmw,Corolla,electric, manual ,estate,silver,rwd,Sport,EX-LEASE,euro 4,e-Exec,-999,-999,in-warranty,uk,16106,3512,12366,   513,£12443,2414,9317,4735,£9034," 1,887"
+2023-07-03,-999,model 3,HYDROGEN,manual,estate,GREY,rwd,PERFORMANCE,new, EURO 6 ,C-COMPACT,hire,-999,In-Warranty,uk,12782,18123,9752,£4914,2272,£2711," 4,647",12446,17912,778
+2024-10-30,honda,s60,Hybrid,missing,missing,grey,Rwd, base ,Ex-Lease,euro4,E-Exec,DEMO,40,out-of-warranty,EU,-999,14182,"10,511",9893," 5,639",£2701,6662,12159,6169,6742
+08/03/2024, TESLA ,,Diesel,AUTOMATIC,estate,NA,Fwd,Performance,new,euro_4,B-Supermini,Fleet,40,missing,mea,13653,134,15216,16525," 5,032",4592,£10935,"13,091",£15962,16299
+21/04/2022,audi,s60,NaN,cvt,coupe,-999,rwd,base,new,EURO 4,A-City,fleet, 35 ,OUT-OF-WARRANTY,mea,NA,£18155,17874,£4396,11318,15073,NA,7691,11322,£3064
+missing,volvo,golf,petrol,NaN,COUPE, grey ,4wd,PERFORMANCE,new,EURO 5,c-compact,Hire,34,Extended,APAC,10494," 1,992",12555,18735,"18,009",9901,19097,,NaN,"16,377"
+missing,Bmw,Corolla,hydrogen,AUTOMATIC,Estate,black,awd,premium,used,Euro 6,A-CITY,Fleet,-999,-999, mea ,10793,12924,19674,£15563,9297,"13,194",6937,"17,039","16,920",15854
+26/05/2023,tesla,corolla,Diesel,cvt,Suv,grey,4wd,,imported,ulez,c-Compact,Private,31,extended,mea,1675,"18,270",16856,£7587,NA,6636,"13,662",7150,6085," 2,190"
+27/01/2021,tesla,GOLF,Diesel,dual-clutch,missing,silver,awd,LUXURY,USED,euro_6,missing,fleet,28,Out-Of-Warranty,Mea,6287,17167,2632,-999,16562,2470,10161,534,18859,"12,460"
+2021-11-06,audi,320i,electric,CVT,Suv,Red,rwd,Luxury,Ex-Lease,Euro 5,C-COMPACT,HIRE,40,out-of-warranty,Mea,17768,£14161,471,8500,12285,£12806,4301,867,6685,"11,095"
+2021-07-07,toyota,model_3,electric,dual-clutch,estate,,fwd,luxury,New,EURO 6,-999,demo,12,Out-Of-Warranty,UK,7770,18723,5847,12919,11647,8597,16835," 2,128",19388,missing
+2023-03-23,BMW, A4 ,petrol,automatic,suv,grey,4wd,sport,Used,EURO 5,c-compact,fleet,42,NaN,uk,£11962,3911,£5061,NaN,13407,£949,2185,£15178,1743,10722
+16/03/2023,vw, 320I ,DIESEL,DUAL-CLUTCH,coupe,red,4wd, premium ,imported,ulez,a-City,hire,19,In-Warranty, eu ,13724,,13380,£2064,9760," 6,882",£11710,14212,4707,   773
+04/11/2023,HONDA,320I, Electric ,cvt,saloon,White,AWD,luxury,Used,euro 6,c-compact,Fleet,39,in-warranty,Apac,£12716,"16,245",-999,2256,12873,6917,16546,£11470,£14805,£3316
+2024-02-04,bmw,FOCUS,NaN,MANUAL,coupe,silver,Rwd,Base,Used,euro 5,b-Supermini,HIRE,24,out-of-warranty,APAC,7078,£5096,-999,-999,3263,4827,,"15,967",£1611,£9657
+2024-04-01,AUDI,S60,diesel,Manual,suv,black,fwd, Performance ,-999,Ulez,b-supermini,,45,EXTENDED, us ,missing,10575,NaN,-999,7630,"17,448",£8071,1280,15782,6963
+"Feb 09, 2022",audi,Model 3,Petrol,Manual,COUPE,BLACK, 4wd ,performance,ex-Lease,EURO 5,a-city,Hire,20,OUT-OF-WARRANTY,mea,-999,12960,19809,£4208,5488,8,4535,13510,"16,616",£13038
+"Mar 09, 2024",Bmw,NaN,hydrogen,Dual-Clutch,-999,grey,rwd,Base,ex-lease,Euro 4,a-city,private,7,out-Of-Warranty,eu,£4565,£3939,7442,£540,18906,5825,7823,£12106," 8,167",NA
+02/08/2021,tesla,focus, Petrol ,dual-Clutch,coupe,grey,fwd,Performance,Used,ulez,NaN,hire,41,NA,NaN,"10,044",-999,5090,£272,16697,£16092,14121,-999,£15786,£867
+2022-06-09, VW , corolla ,Hybrid,Cvt,Coupe,Grey,Rwd,NaN,IMPORTED,ulez,E-EXEC, private ,25,extended,apac,14262,"14,808",missing,£15233,17838,£7838,"11,718",17021,NA,7374
+04/09/2024,,FOCUS,hydrogen,Dual-Clutch,saloon,NA,rwd,,imported,EURO 6,D-MID-SIZE,fleet,25,missing,Uk,14358,£5362,missing,12159,13442,NaN,18230,10201,4285,17159
+10/08/2022,honda,MODEL 3,PETROL,Cvt,saloon,grey,fwd, Performance ,NEW,euro_4,d-mid-size,HIRE,37,extended,Us,15680,6357,"10,833",NA,missing,1147,£12732,11217,£9813,16753
+27/04/2023,Bmw,Focus,missing,cvt, ESTATE ,red,awd,PREMIUM,IMPORTED,Ulez,a-city,fleet,40,In-Warranty, mea ,15256,16857,6898,   409," 8,384",18535," 7,976",£13232,"18,760",19525
+25/01/2024,TOYOTA,civic,Hydrogen,CVT,hatchback,silver,4wd, premium ,new,EURO 4,e-Exec,,42,Out-Of-Warranty, MEA ,8298,4763,13349,18454,1341,12683,4454,,10946,£15839
+28/09/2022, vw ,a4,electric,Manual, estate ,Red,fwd,luxury,Ex-Lease,euro_4,c-compact,HIRE,26,in-warranty,Eu,19344,8601,15184," 3,644",13468,17342,12661,4987,"19,299",£10232
+"Dec 17, 2021",vw,s60,petrol, Automatic ,suv,White,4wd,premium,ex-Lease,ulez, c-Compact ,hire,16,in-Warranty,MEA,NaN,348,8144,18204,9884,"14,552",£18103," 1,524",£8827,18495
+"May 25, 2021",Audi,civic,petrol,cvt,ESTATE,SILVER,4wd, LUXURY ,used,missing, E-Exec ,private, 10 ,extended,mea,NA,"17,913",£4116,3045,missing,1946,7675,£18521," 4,698",18042
+"May 07, 2024",Toyota,Corolla,petrol, Manual ,saloon,red,4wd,Performance,Used,Euro 4,D-Mid-Size,Private,32,extended,Apac,£8211,14950,£557,1744,-999,12216,4642," 8,953",missing,1912
+2023-10-26,Audi,golf,diesel,Automatic, coupe ,red,4wd,-999,imported,Euro 4,E-Exec,demo,47,Extended, us ,"13,866",£9906,-999," 1,248",missing,16744,3421,£12993,NA,8703
+"Jun 10, 2023",,model3,,automatic,hatchback,NA, fwd ,sport,NEW,Euro 4,-999,hire,50,Out-Of-Warranty, Us ,NaN,£11591,"12,757",£4487,13112,£18209,16875,,£15403,£6153
+"Dec 25, 2024",vw,a4,Petrol,dual-clutch,COUPE,RED,rwd,,-999,euro5,b-Supermini,demo,9,OUT-OF-WARRANTY,apac,5341,£284,16983,18070,17941,16243," 2,836",,£1918," 3,176"
+14/12/2023,Volvo,model_3,hybrid,dual-Clutch,hatchback,silver,NaN,base, USED ,euro_4,d-Mid-Size, PRIVATE ,40,IN-WARRANTY,us,9264,," 4,529",£6718,9974,NA,missing,2708," 1,731",£11384
+2021-01-28,Honda,a4,Hybrid,CVT,estate,silver,Fwd,performance,Ex-Lease,euro 4,a-city,DEMO,2,EXTENDED, MEA ,8266,2492,,11011,1485,16686,-999,15631,"15,539",£12303
+2022-06-16,ford,320I,hydrogen,manual,NaN,missing,Fwd,sport,,euro6,B-Supermini,Private,4,OUT-OF-WARRANTY,uk,£3898,£8470,3416,2144,5338,£1477,£9875,1277,13715,
+29/06/2022,volvo,CIVIC,PETROL,cvt,SUV,White,4wd, SPORT ,imported,euro 6,E-EXEC,fleet,37,extended,uk,£11750,16087," 6,301",£9615," 3,246",2365,£12288,15768,"11,762"," 6,615"
+2022-10-23,Vw,A4,Hybrid,dual-Clutch,saloon,white,awd,luxury,NaN,EURO 5,a-city,PRIVATE,6,out-of-warranty,APAC," 9,655",3466,3764,17013," 8,396",7169,5078,12076,19710,12886
+2021-01-25,volvo,320i,DIESEL,MANUAL,estate,silver,awd,performance,imported,NA,a-city,demo,5,In-Warranty, apac ,£7258,10048,13815,15373,9804,10837,,missing,£12601,£10930
+NaN,Ford,focus,petrol,Cvt,Coupe,white,4wd, base ,-999, euro 6 ,E-EXEC,hire,NA,in-warranty,apac,£10037,16079,12995,5747,NaN,18323,11333,17438,9193,-999
+19/12/2022,VW,focus,petrol,-999,suv,BLUE,rwd,Base,IMPORTED,Euro 5,D-MID-SIZE,demo,-999,in-warranty,apac,6116,19603,16591,"18,006",£1085,2820,15953,NaN,,10296
+19/02/2022,volvo, S60 ,Electric,dual-clutch,saloon,BLACK,rwd,luxury,new, ulez ,E-Exec,NaN,NA,missing,US,£4835,6007,18271,6894," 1,041",7497,-999,£13829,2251,-999
+"Jan 23, 2022",NaN,NA,petrol,Manual,hatchback,missing,awd,SPORT,USED,EURO 4,NA,hire,35,out-of-warranty, Mea ,£1246,NA,7740,1057,£555,12815," 8,182",10075,missing," 5,793"
+2024-04-07,honda,FOCUS,electric,automatic,saloon,Grey,Fwd,luxury,New,ulez,B-SUPERMINI,demo,35,Extended,us,"19,720"," 3,170",£15669,-999,£17187,4012,£1058,NaN,11064,NA
+24/01/2021,ford,model3,hybrid,,hatchback,black,4wd,luxury,new,euro 4,,Private, 12 ,extended,US,8418,"12,702",9317,4241,NaN,16276,NA,,14437,11599
+27/08/2022,BMW,GOLF,PETROL,CVT,Estate,silver,FWD,performance,USED,NA,E-EXEC,hire,17,Out-Of-Warranty,Apac,NA,NaN,7582,8697,£17579,,16962,9452,NA,£14363
+22/06/2023,vw,COROLLA,hybrid,Automatic,suv,SILVER,,performance,ex-lease,ulez,E-EXEC, hire ,35,In-Warranty, uk ,9610,£16271,"15,996",16095,NA,,-999,"16,526",15249,4847
+NA,HONDA,focus,missing,Automatic,saloon,white,4wd,sport,ex-lease,EURO 5,E-Exec,Hire,15,out-of-warranty,mea,£5761,£6491,7753,19744,14333,"10,858",NaN,7161,7438,17182
+2023-10-06,bmw,320i,petrol,manual,estate,blue,AWD,BASE,imported,Ulez,E-EXEC,NaN, 20 ,in-warranty,uk,15070,13408,NA,17448," 1,722",5051,6607,3641,584,877
+"Mar 10, 2022",NaN,a4,diesel,cvt,SUV,-999,RWD,sport,ex-lease,euro 5,B-SUPERMINI,demo,24,Out-Of-Warranty,,£103,"12,515",18127,5230,£7714,9414,14898,17733," 5,870",2088
+03/03/2021,vw, civic ,NaN,AUTOMATIC,Coupe,silver,Awd,Base,Ex-Lease,EURO 4,E-Exec,hire,26,out-Of-Warranty,apac,18507,7345," 5,485",£13657,2175,NaN,£16725,£17079,16224,7762
+05/04/2023,Vw,Model 3,NA,DUAL-CLUTCH,hatchback,grey, 4wd ,SPORT,used,Euro 5,e-Exec, fleet ,12, out-of-warranty ,Mea,16293,£1826," 8,996",missing,"18,352",NA,£7919,2343,948,9423
+2023-02-25,tesla,320I, Diesel ,dual-Clutch,COUPE,white,Fwd,missing,New,missing,a-city,demo,16,EXTENDED,APAC,NaN,£11462,9207,£19241,3025,7323,£8096,16388,7511,14481
+2021-01-23,NA,model3,Diesel,dual-Clutch,estate,-999,AWD,Premium,new,ulez,A-City, DEMO ,NA,extended,missing,11849,7726,13934,9646,1241,-999,11584,missing,1906,£18575
+2023-11-24,tesla,focus, diesel ,MANUAL,Estate,white,awd,performance,USED,euro4,B-SUPERMINI,Private, 26 ,extended,,13910,13690,6199,4899,1289,7719,17190,,4837,4715
+2022-09-23,toyota,COROLLA,Petrol,automatic,Suv,black,Rwd,Luxury,IMPORTED,EURO 5,-999,Demo, 33 ,OUT-OF-WARRANTY, EU ,5959,"19,402",16076,NaN," 3,718"," 4,200",£9733,NA,12156,
+2021-06-26,bmw,model 3,diesel, manual ,coupe,black, AWD ,BASE,NEW,Euro 5,B-SUPERMINI,Hire,31, extended ,eu," 4,961"," 5,886",8857," 1,766",£795,12567,"17,330",17433," 2,671",12058
+09/03/2023,Volvo,320i,NA,cvt,estate,RED,Awd,Base,ex-lease,Ulez,b-supermini,hire,-999,In-Warranty,,14981,5802," 2,756",NA,NaN,£13396,£16593," 9,143",£1009,NA
+2021-06-03,Audi, A4 ,Petrol,-999,suv,White,4wd,performance,NEW,euro6,NA,Hire,missing,extended,apac,-999,16723,£4371,,9316,-999,11382,9619,10516," 7,468"
+10/03/2024,audi,missing,,DUAL-CLUTCH,NA,-999,rwd,-999,Ex-Lease,euro 4,c-Compact, hire ,,out-Of-Warranty,EU,-999,18853,£11383,5729,8207,"14,619",3270," 8,867",2997,"19,818"
+"Feb 24, 2024",ford,320i,electric,Dual-Clutch,estate,BLACK,missing,premium,imported,,a-city,private,19,out-of-warranty,mea,17405,5046,10973,missing,3855,6130,   265,13577,12372,7807
+"May 19, 2021",volvo,320i,hydrogen,-999,coupe,BLUE,rwd,premium,new,ulez,NA,PRIVATE,3, extended ,apac,11440,,13975,16540,missing,"14,202",15261,13314,13091,
+03/06/2021, Vw , golf ,electric,CVT,Suv,,4wd,performance,Used,euro 5,b-supermini,fleet,2,out-of-warranty,Mea,2548,"16,782",£1791,7031,"17,319"," 5,727",12834,£17398,£17264,£17707
+2021-02-08,honda, 320i ,hydrogen, manual ,suv,BLUE,awd,premium,ex-Lease,ulez,missing,NA,33,out-of-warranty,UK,NaN,   125,£12066,17960,15235,12750,14974,NaN,7435,3585
+18/02/2024,TESLA,S60,Petrol,automatic,suv,BLUE,missing, Base ,new,EURO 6,NA,FLEET,11,in-warranty,NaN,£249,533,£449,6963,,237,5896,10389,14906,-999
+22/11/2023,bmw,320i,DIESEL,CVT,COUPE,Silver,Fwd,sport,ex-lease,EURO 5,c-Compact,HIRE,35,Extended,us,12896,9074,635,5703,2008,NA,,14856,14214,6429
+21/04/2023, bmw ,Model 3,ELECTRIC,manual,Estate, grey ,NaN,sport,EX-LEASE,euro4,NA,HIRE,33,extended,eu,12640,-999,NA,6305,2620,2401," 7,616",£17389,16239,18845
+2024-10-08,honda, Corolla ,electric,manual,COUPE,red,rwd,luxury,used,Euro 4,a-City,hire,15, Extended ,APAC,£8718,18516,£14208,£16482,18554,NaN,-999,7423," 9,471",10339
+2023-10-06,NA,a4,NaN,,HATCHBACK,Black,rwd,sport,,euro 6, a-city ,HIRE,,out-of-warranty,eu,9845,7583,13299,"14,792",,17001,455,15882,19277,12952
+30/10/2024,NaN,COROLLA,Electric,manual,hatchback,Red,awd,PERFORMANCE,used,euro 6,E-Exec,fleet,45,out-of-warranty,us,17115,13434,NA,2016,4686,16577,17992,£2063,missing,£6131
+26/05/2022, bmw ,civic,diesel,cvt,suv,NA,Fwd,PREMIUM,EX-LEASE,Euro 6,E-Exec,Hire,34, out-of-warranty ,Us,NA,£9601,6502,"16,518",£6290,"13,973",87,7266,9985,7074
+2022-08-27,toyota,civic,Electric,dual-Clutch,estate,GREY,rwd,missing, imported ,EURO 5,c-compact,demo,49,NA,US,15822,"10,847",3290,£19367,5356,17237,12859,-999,6720,"18,446"
+12/03/2021,tesla,,DIESEL,dual-clutch,estate,black,Awd,PREMIUM,ex-lease,Euro 4,C-COMPACT,fleet,45,in-warranty,us,12761,"19,295",7088,,-999,12989,6592,18918,9091,19313
+2023-05-25,honda,a4,HYBRID,automatic,Suv,red, rwd ,base,missing,NA,a-city,hire,NaN,extended,US,£3771,£9459,£6745,-999,"14,180",7795," 6,070",12258,8894,
+27/08/2021,AUDI, S60 ,Hydrogen,AUTOMATIC,Suv,Black,missing,-999,used,missing,,NaN,NA,NaN,uk,16962,13353,9924," 8,777",7518,13416,£5306,£5665,8355,£11402
+2022-12-26,NA,CIVIC,HYBRID,,coupe,grey,rwd,NaN,New,euro6,NaN,Demo,NaN,out-of-warranty,missing,£5023,16246,17861,17967,£3127,5727,NA,12172,4897," 9,013"
+26/06/2021,toyota,a4,hybrid,Cvt,Coupe,WHITE,AWD,PERFORMANCE,used,euro_5, c-Compact ,demo,28,In-Warranty,UK,"12,490",£16575,14562,£6696,-999,1001,3315,14906,£13395,9513
+2024-02-01,BMW,A4,electric,manual,Suv,GREY,AWD,LUXURY,used,Euro 4,e-Exec,fleet,7,out-of-warranty,Us,15658,11041,12123,10013,9535,£9821,13659,NaN,14634," 1,851"
+"Feb 15, 2021",honda,Model 3,electric,automatic,suv,White,AWD,sport, imported ,ulez,d-Mid-Size,demo,1,extended,Mea,15378,9175,missing," 5,344",5904,£19030,4486,11302,"19,695",
+2023-08-18,NA,A4,ELECTRIC,AUTOMATIC,estate, silver ,4WD,Sport,new,EURO 6,C-Compact,Hire,44,Extended, uk ,15208,784,19594,18570,12258,5752,16999,"18,202",6048," 3,262"
+2022-11-22,vw,Model 3,Petrol,dual-clutch,missing,White,NA,luxury,new,ulez,missing,Hire,24,in-warranty,uk,-999,4522,"18,944",6635,16557,6895,15882,"18,862",184,"18,431"
+03/10/2021,NA,320i,DIESEL,automatic,suv,Grey,fwd,base,NA,euro 4,missing,private,10,OUT-OF-WARRANTY,apac,16304,1573,3725,missing,13743,   117,12261,"10,949",NaN,18022
+2023-05-17,honda,civic,electric,dual-Clutch,SALOON,,rwd,Sport,used,euro6,A-City,private,42,Out-Of-Warranty,apac,3312,6366,£5576,12096,8848,NaN,6089,15174,9628,"14,437"
+22/12/2022,audi,NaN, DIESEL ,AUTOMATIC,SUV,grey,awd,SPORT,imported,Euro 4,missing,hire,33,Extended,eu,,£17208,-999,£2624,10967,£11981,19668," 7,627","14,769",6823
+18/10/2022,volvo,model_3,NaN,Automatic,Hatchback,grey,fwd,LUXURY,used,Euro 6,E-Exec,Hire,32,out-of-warranty,-999,NA,16956,18485,£9367,£12547,18182,£7349,5694,£18523,   284
+19/10/2024,bmw,corolla,Petrol,automatic,,grey,awd,premium,new,NA,e-exec,private,missing,IN-WARRANTY,us,5956,-999,13931,14270,4615,11027,8819,£9680,NA,14026
+13/07/2023,honda,focus,hybrid,dual-clutch,suv,missing,awd,,ex-lease,ULEZ,NaN,private,22,in-warranty,NaN,17632,£13792,17229,6054,7498,11488,16775,15271,10247,8796
+2021-11-17,-999,a4,petrol,manual, Suv ,RED,fwd,LUXURY,new,euro 4,A-City,hire, 16 ,in-Warranty,EU,"15,216",12701,NaN," 7,896",313," 1,240",£3359,"14,307"," 3,156",4803
+-999,honda,320i,hydrogen,cvt,hatchback, Black ,fwd,sport,ex-lease,euro 6,A-City,DEMO,1,out-Of-Warranty,mea,1923,13633,9029,5270,£5230,6369,19948,-999,16802,
+2021-09-02,NA,320i,, DUAL-CLUTCH ,Hatchback,NaN, fwd ,premium,used, ULEZ ,a-City,Demo,31,Out-Of-Warranty, mea ,18379,NA,8486,10677," 9,125","11,551",12053,16370,13397,13847
+-999,Volvo,golf,hydrogen,manual,-999,white,FWD, luxury ,-999,-999,E-Exec,Private, 38 , EXTENDED , apac ,NA,10066,8706,missing,missing,£12479,,-999,£8949,18903
+06/10/2021,NA,320i,diesel,dual-clutch,Estate,black,FWD,LUXURY, new ,euro 5,B-SUPERMINI,demo,6, out-of-warranty ,Apac,5573,6915,NaN,10050,"13,429",£10166,11508,2092,£608,17470
+2023-01-15,tesla,A4,electric,Manual,COUPE,red,rwd,Base, NEW ,Euro 4,D-MID-SIZE, private ,31,Extended,apac,14532,1817,"13,605"," 4,423","17,642",8336,"19,945",711,9139,10832
+2022-04-14,ford,model_3,NaN,automatic,Estate,,Rwd,base, EX-LEASE ,-999,C-Compact,Private,29,in-warranty,APAC,£17106,-999," 2,207",6339,19156," 3,516",14100,missing,5471,12352
+04/04/2021,audi,a4,hydrogen,Manual,estate,blue, awd ,base,, euro_5 , a-city ,-999,24,extended,mea,2190,NaN,£3126,missing,£12938,NA,missing,7744,NA,3973
+2023-03-20, honda ,civic,hybrid,dual-clutch,,white,fwd,Performance,new,missing, e-exec ,,, EXTENDED ,Uk,-999,15250,£6580,£9373,£9762,missing,£4964,,9682,NaN
+2024-12-04,AUDI,s60,Petrol,dual-Clutch,coupe,black,awd,PREMIUM,imported,ULEZ,C-Compact,HIRE,20,Extended,uk,   613,-999,19603,NA,missing,"14,084",17407,,1743,2823
+NA,bmw,s60,hydrogen,cvt,coupe,Grey,4WD,BASE,,Ulez,b-supermini,hire,22,extended,us,3906," 4,333",10476,NA,missing,8653,"13,959",£6506,NaN,£19938
+2023-02-27,tesla,Focus,Diesel,automatic,SUV,Red,4wd,sport,new,ULEZ,NaN,hire,16,EXTENDED,EU,"15,430",£1222,14993,NA,14426,3297,"11,256",15627,13622,£18337
+2023-10-26,vw,a4,hydrogen,dual-clutch,estate,red,NA,luxury,imported,ulez,a-city,hire,NaN,extended,eu,13172,£13728,£5230,13478,17194,"13,417",5761,"11,020",16918,£7
+2022-08-21, honda ,corolla,hybrid,automatic,coupe,RED,,base,Imported,Ulez,B-Supermini,demo,6,EXTENDED,Mea,14627,22,2146,1668,8222,15574,missing,690,10736,missing
+23/04/2021,toyota, civic ,HYDROGEN,Cvt,coupe,blue, Awd ,-999,imported,ULEZ,B-SUPERMINI, hire ,38,in-Warranty,uk,5516,9943,£9960,17396,   117,NA,5234,3094,12295,5782
+24/05/2024,Volvo,S60,Petrol,missing,hatchback,NA,NaN,NaN,ex-lease,euro6,C-COMPACT,NaN,46,Extended,-999,5556,-999,£17500,NaN,NA,4451,NaN,8948,NaN,8624
+2021-06-12,ford,s60,electric,Automatic,Coupe,silver, 4WD ,luxury,ex-Lease,Euro 4,E-EXEC,hire,7,extended,APAC,£18272,14693,13377,£6655,13852,1111,17254,,19225,"14,004"
+10/10/2021,Ford,model 3,NA, automatic ,estate,Silver,4wd,PERFORMANCE,NaN,EURO 5,d-Mid-Size,fleet,32,extended,mea,NaN,783,420,6807," 4,346",NA,861,6178,2831,£16894
+2022-02-06,tesla,golf,Hydrogen,dual-Clutch,suv,blue,rwd,base,IMPORTED,euro6,b-supermini,private,22,extended,us,-999,3627,8342," 6,132",5499," 7,910",missing,11745,6761,£14223
+-999,volvo,Focus,hydrogen,dual-clutch,Coupe,silver,AWD,performance,used,EURO 5,D-MID-SIZE,PRIVATE,-999,out-of-warranty,,NA,11446,18821,15028,,missing,,3661,3807,16054
+23/04/2021, TESLA ,320i,electric,MANUAL,estate, WHITE , RWD ,SPORT,Used,euro4,c-compact,,49,NaN,us,2315,17234,5553,NA,14676,£7865,433,19430,£8205,16096
+2023-05-19,Vw, 320i ,hydrogen,AUTOMATIC,saloon, blue ,4wd,sport,imported,Ulez,e-Exec,fleet,39,NA,mea,£7398," 4,863",6050,8806,1911,£3721,3630,"10,610",13714,"13,904"
+"Aug 16, 2024",VOLVO,320i, Hybrid ,CVT,hatchback,NaN,rwd,Premium,used,ulez,e-Exec,private,-999,missing,eu,NA," 2,015",-999,13564,-999,1850,3020,1563,£9831,9694
+"Jun 10, 2023",ford,NA,Hydrogen,cvt, estate ,white,FWD,missing,missing, Euro 5 ,B-SUPERMINI,demo,48,extended,eu,11759,missing,6531," 7,054",£13035,1160,11489,11542,18956,10491
+"Dec 12, 2022",HONDA,COROLLA,electric,Automatic,suv,silver,,Performance,ex-lease,EURO 5,e-exec,private,42,out-Of-Warranty,mea,8422,2651," 7,730",686,10758,-999,17962,18625,10959,"16,954"
+2023-02-17, tesla ,Corolla,petrol,-999,estate,silver,rwd,BASE,used,euro 5,c-compact,fleet,12,NaN,,17940,-999,14506,385,7076,missing,2304,11167," 8,805"," 6,205"
+21/09/2024,volvo,NA,diesel,NaN,NaN,RED,4WD,SPORT,EX-LEASE,ulez,a-City,demo,28,Extended,EU,-999,15835,19143,10181,"10,010",NaN,missing,£4954,"14,166",missing
+14/10/2022,ford,s60,diesel, cvt ,missing,Silver,4WD,SPORT,USED,,d-Mid-Size,demo,24,in-Warranty,APAC,12341,14442,15152,8117,7206,£11320,£2421,"10,470",1126,12163
+03/08/2024,tesla,Golf,NA,automatic,coupe,red,fwd,premium,NEW,Euro 5,NaN,demo,19,Out-Of-Warranty,NaN," 4,967",18357,,12455,14652,19061,15058,7803,NA,7345
+30/06/2022,audi,A4,Diesel,missing,,black,FWD,premium,IMPORTED, ULEZ ,A-City,private,-999,extended,Eu,16175,£15123,2165,missing,19241,NaN,£10378,"12,133",-999,15840
+13/11/2021,audi, a4 ,diesel,Automatic,coupe,Black,4wd,Performance,imported,ulez,NA,DEMO,35,in-Warranty,us,6085,10568,£19360,17941,1331,19918,"18,910",3102,10787,-999
+06/01/2024,AUDI,320i,PETROL,manual,SALOON,White,4wd,luxury,,euro_5,b-supermini,Demo,28,extended,Eu,11015,7010,16235,11742,£1236,£1047,15548,8442,13475,10962
+18/03/2022,NaN,focus,HYBRID,manual,coupe,red,awd,BASE,used,Euro 4,b-supermini,demo,-999,Out-Of-Warranty, eu ,19100,19542,11110,5046," 6,761",£8375,,13173,16328,£13655
+11/10/2023,Bmw,A4,petrol,cvt,COUPE,red,fwd,premium,new,ulez,A-City, HIRE ,1,missing, uk ,15739,NaN,14560,,12164,7938,13300,£11799,10174,12324
+NaN,ford,320I,Hybrid,manual,hatchback,red,AWD,premium,ex-Lease,missing,b-supermini,NA,29,out-of-warranty,eu,£3274,1771,18887,"14,428",£8610,9581,-999,£8031,1235," 4,753"
+"Jun 14, 2021",bmw,A4,Petrol,cvt,hatchback,black,missing,,used,Euro 4,b-Supermini, hire , 6 ,extended,UK,17609,19877,£19250,10999,£1804,-999,11241,9746,NA,5320
+05/06/2024,tesla,S60,NaN,dual-clutch,Suv,NaN,4wd,luxury,ex-lease,NaN,d-Mid-Size,fleet,12,,apac,9658,17093,11085,   509,£3285," 1,797",5147,7865,-999,4592
+2024-04-09,Audi,civic, electric ,Dual-Clutch, SALOON ,White, 4wd ,performance,IMPORTED,,d-mid-size,hire, 1 ,extended,Us,NA,4358,14901,14524,19713,14446,7290,missing,5667," 4,829"
+2023-03-15,ford,missing,Petrol,cvt,coupe,missing,rwd,,used,,b-supermini, hire ,1,out-of-warranty,eu,missing,8442,1410,3416,£7662,18101,£4628,"14,911",11871,212
+"May 08, 2021",vw, s60 ,diesel,Automatic,saloon,red,4wd,NaN,NA,ulez,D-Mid-Size,,missing,extended,eu,£13941,319,11535,,8505,£14514,"10,327",18571,NaN,-999
+2024-04-29,audi,320I,Diesel,Manual,saloon,Blue,4wd, performance ,new,euro 5,B-SUPERMINI,fleet,15,OUT-OF-WARRANTY,mea,"12,229",12210,£8453,-999,,"12,406",4098,-999,8537,9181
+23/05/2021,audi,MODEL 3,Petrol,MANUAL,COUPE,NA,Rwd,sport,new,euro4,C-Compact,NA,21,Extended,apac,7993,5134,4941,4715,,3155,15852," 7,335",10323,"11,953"
+2023-12-15,honda,missing,hybrid,Automatic,,NaN,rwd,PERFORMANCE,USED,euro_6,e-exec,missing,14,IN-WARRANTY,US," 1,695",15729,17945,£2632,missing,"11,632",£973,NaN,10482,1050
+2023-03-06,audi,320i,diesel, automatic ,estate,blue,fwd,luxury,imported,EURO 6,a-city,demo,38,extended,Uk,NA,3665,£1430,5504,7220,14361,"14,457",19105,£5701,£5199
+2023-09-10,vw,S60,,automatic,,black,rwd,PERFORMANCE,New, euro_4 , D-MID-SIZE ,Fleet,20, extended ,apac,13735,10484,NaN,6868,2508,10051,9261,16054,7209,281
+20/03/2024,vw,focus,diesel,Dual-Clutch,ESTATE,Grey,RWD,premium,new,euro4,a-city,FLEET,39,,Apac,18127,£17834,4539,17605,£1682,£19512,-999,"16,845","18,452",1875
+2024-09-22,Tesla,civic,NaN,automatic,coupe, blue ,Rwd,NaN,New,euro 6,NA,NaN,11, in-warranty ,APAC," 2,253",9891,NA,14143,13342,£87,2312,£16536,3595,"19,734"
+2024-01-20,Bmw,a4,NA,manual,saloon,,Rwd,-999,NA,euro 4,e-Exec,demo,5,out-of-warranty,mea,17781,8910,£3036,9009,19604,£18511,13477,NA,9449,14148
+16/03/2021,toyota,missing,electric,cvt,NA,Red,4WD,sport,New,ulez,A-CITY,demo,23,extended,uk,NA,"10,381",-999,5988,16086,19786,3068,NA,£15249,£2078
+2022-05-12,tesla,Golf,Hydrogen,cvt,suv,Blue,,Performance,imported,-999,D-Mid-Size,hire,38,extended,uk,-999,3098,14390,,NaN,missing,12080,18971,"13,982",3135
+2024-12-02,audi,Corolla,NaN,-999,saloon,silver,4wd,sport,imported,ulez,E-Exec,Hire,32,Out-Of-Warranty,us,9429,NaN,19740," 1,324",£7278,£15480,9248,NA,18688,-999
+2022-10-10,audi,GOLF,electric,manual, saloon ,BLACK,4wd, base , USED ,EURO 5,B-SUPERMINI,-999,25,NA,apac," 5,819",14789,19063,£2875,8008,-999,12628,12675,11561,£9083
+"Oct 09, 2023",vw,a4,electric,Dual-Clutch,hatchback,silver,Awd,PERFORMANCE,USED,EURO 4,B-Supermini,PRIVATE,16, out-Of-Warranty , Uk ,NA,NaN,NA,13296,2237,18575,6824,8859,-999,19002
+17/09/2024,volvo,COROLLA,Hybrid,-999,saloon,black,fwd,Performance,USED,euro_6,-999,HIRE,7,NaN,EU,19298," 2,289",NA," 4,271",NaN,14761,19432,£4732,1156,11202
+2023-05-01, volvo ,missing,hydrogen,-999,estate,red,Fwd,PREMIUM,imported,missing,b-Supermini,demo,10,out-of-warranty,,NaN,2499,14275,1543,£10344,17014,2184,14936," 4,347",£8957
+2022-09-24,HONDA,320i,electric,DUAL-CLUTCH,HATCHBACK,silver,rwd,Base,USED,ulez,A-City,Private, 2 ,In-Warranty,US,missing,11863,missing,6596,17538,14123,"18,773",£4582,1431,
+2021-05-07,VOLVO,Focus,petrol,cvt,suv,Blue,fwd,Luxury,imported,euro6, B-SUPERMINI ,Hire,18,OUT-OF-WARRANTY,Us,£11793,9810,19536,5759,1686,1905,"15,635",16744,,£14467
+2023-08-27,bmw,corolla,HYBRID,Manual,HATCHBACK,NA,fwd,missing, ex-Lease ,missing,,PRIVATE,36,OUT-OF-WARRANTY,Uk,19864,missing,19200," 8,327",NaN,2872,15748,15836,NA,missing
+28/11/2022,Vw,Corolla,hydrogen,automatic,saloon,Silver, FWD ,Sport,-999, ULEZ ,a-City,hire,33,out-Of-Warranty, mea ,18574,£12149,NaN,6667,873,£15565,,12383,15971,18467
+18/08/2024, VOLVO ,s60,Hybrid,AUTOMATIC,NaN,NaN,4wd,BASE,ex-Lease,Euro 4,C-Compact,missing,35,IN-WARRANTY,us,£11408,14252,15347,6409,£8987,5864,£8864,15875,11297,19529
+01/05/2024,Bmw,COROLLA,hydrogen,,,silver,FWD,base,,EURO 4,C-COMPACT,Fleet,31,in-Warranty,eu,18582,4562,18544,"10,316",15349,"12,149"," 8,846",NaN,13329,7021
+06/02/2024,Bmw,Focus,Hybrid,cvt,COUPE,silver,4wd,Performance,NaN,NA,d-mid-size,NA,NaN, extended , Uk ,£3006,17611,£13434,34,£4053,8560,17852,"10,879",£876,13427
+29/03/2022,Vw,A4,,cvt,NaN,BLACK,rwd,premium,Ex-Lease,euro_6,e-Exec,Demo,22,extended,MEA,5819,12952,6297,10802," 1,496",£7358,1037,£19490,£13551," 8,079"
+"May 01, 2022",-999,s60,-999,automatic,suv, WHITE ,rwd,Luxury,Used,ULEZ,C-COMPACT,private,24,in-warranty,eu,,missing,4636,£5527,NaN,"10,818",£1424,4812,5766,701
+2021-11-27,FORD,,Hydrogen,dual-clutch,saloon,Black,Awd,performance,NA,EURO 6,b-supermini,hire,28,extended,UK,11789,NA,£15614,6723,-999,19911,5527,"19,233",£6612,£17184
+"May 11, 2023", bmw ,corolla,hybrid,MANUAL,SUV,grey,4wd,performance,Used,euro 5,e-Exec,fleet,,out-Of-Warranty,uk,18112,14033,5907,NaN,"10,871",-999,NA,NaN," 6,349",NaN
+06/11/2022,honda,golf,DIESEL,,coupe,BLACK,4wd,Premium,EX-LEASE, ulez ,D-MID-SIZE,DEMO,39,out-Of-Warranty,Uk,£7426,5006,-999,-999,207,"19,597",6873,12760,£7155,366
+2024-11-16,honda,Golf,,dual-Clutch,estate,black,missing, LUXURY ,new, Euro 5 , A-CITY ,NaN,23,in-Warranty,uk,NA,£11802,NaN,£2155,NaN,359,£10700,10018,"10,864",9105
+2021-07-16,bmw,320i,hydrogen,manual,suv,grey, awd ,NA,NEW,-999,b-supermini,hire,26, Out-Of-Warranty ,mea,5937,18448,2870,NaN," 1,769",13395,NA,"12,111",19215,13871
+"Oct 25, 2021",TESLA,golf,HYBRID,Automatic,saloon,blue,awd,BASE,ex-lease,Euro 5,c-Compact,,16, Out-Of-Warranty ,mea,,9440,7661,723,-999,14990,missing,"12,349",16124,14203
+2022-10-23,Audi,COROLLA,petrol,Cvt,hatchback,red,rwd,SPORT,USED,Euro 5,A-CITY,NA,missing,IN-WARRANTY,eu,5562,6479,   801,17664,8439,"12,857",15735,,18550,13812
+03/05/2023,bmw,COROLLA,petrol,automatic,suv,SILVER,awd,base,used,ulez,B-SUPERMINI,missing,-999,extended,APAC,12444,"14,486",926,5059,6440,"10,343",14409,5817,"13,479",17999
+2023-07-23,Volvo,civic,hydrogen,automatic,saloon,GREY,fwd,luxury,imported,euro6,B-SUPERMINI,FLEET,8,extended,EU,5114,232,14026,"11,331",£8301,£2262,11475,3622,NA,14234
+19/08/2024,TOYOTA,FOCUS,electric,Dual-Clutch,Estate,,rwd,NaN,used,EURO 6,a-city,PRIVATE,7,out-Of-Warranty,NaN,£1476,7928,4439,15749,3392,11351,£15757,17178,9711,£13033
+2021-04-30,volvo,Golf,hydrogen,automatic,-999,blue,fwd,base,imported,-999,missing,Hire,50,in-warranty,us,6022," 3,987",2863," 9,817",8447,NA,11297,missing,"11,063",710
+2021-05-12,vw,focus,DIESEL,automatic,suv,silver,awd,BASE, Ex-Lease ,Euro 5,d-mid-size,Fleet,23,IN-WARRANTY,APAC,NA,"19,825",17128,13981,18027,10822,-999,NA,NA,8937
+30/06/2022, audi ,Civic,DIESEL,manual,coupe,missing,NA,Performance,new,euro5, E-EXEC ,demo,42,missing, uk ,13677,NA,7279,13242,12631,17468,13297,14401,,1455
+12/09/2023,NaN,corolla, hybrid ,AUTOMATIC,suv,missing,,performance,NaN,euro6,B-Supermini,Demo,12,out-of-warranty,US,   632," 5,472",NA," 6,881",17781,£219,2401,12880,3773,NA
+2023-11-23,audi,a4,diesel,MANUAL,suv,NaN,fwd,Performance,ex-lease,Euro 5,E-EXEC,hire,27,out-Of-Warranty,UK,,14567,2595,6822,18701,-999,8713,8243," 8,446",5326
+09/11/2023,Volvo,missing,DIESEL,manual,estate,white,awd,sport,ex-lease,Euro 4,a-city,demo,28,extended, us ,NA,13696,NA,1325,14734,NA,16415,523,9609,£4219
+2024-12-09,Volvo,golf,HYDROGEN,AUTOMATIC,coupe,silver,awd,, used ,ulez,e-exec,HIRE,36,extended,apac,19340,11524,9292,£9409,10890,4772,16430,"19,743"," 2,613",10538
+31/03/2021,Audi,civic,hybrid,dual-clutch,suv,black,rwd,BASE,new,EURO 5,B-SUPERMINI,private,46,extended,mea,9239,missing,16296,13082,14301,NaN," 5,443",,7003,£5397
+17/02/2021,FORD,320i,petrol,NA,SUV,blue, AWD ,SPORT,used,euro_5,D-Mid-Size,,, EXTENDED ,Eu," 6,651",£6589,14036,"19,563",3189,6082,12934,2386,"16,664",11041
+2021-08-05,missing,s60,electric,Dual-Clutch,HATCHBACK,BLACK,4wd,missing,NEW,NaN,C-COMPACT,NaN,6, in-warranty ,apac,£12491,198,9097,missing,4911,£14426,£17862,   769,13886,15610
+2022-02-15,TESLA,golf,hybrid,Manual,hatchback,Red,rwd,luxury,new,euro 6,b-supermini,Fleet,44,NA,missing,-999,5777,74,14184,4064,   727,4539,10326,,"18,927"
+04/12/2022,Ford,model 3,,manual,Suv,red,4wd,LUXURY,Used,ulez,d-Mid-Size,demo,41,out-of-warranty,us,,£15034,2518,£12204,5398,3568,," 6,465",17345,"15,946"
+01/04/2023, tesla ,NA,ELECTRIC,Dual-Clutch,SUV,grey,NA, base ,Imported,-999,b-supermini, Hire ,3,NaN,Us,NA,16513,£19001,£7745,£1022,12880,£6335,NaN,"15,268",NA
+09/02/2022,missing,320i,electric,automatic,Saloon,red,4wd,luxury, used ,ulez,d-mid-size,private, 30 ,Extended,apac,£11814,13885,19893,404,NaN,£2588,11114,"10,446",£8852,£18260
+18/04/2023,FORD,-999,hybrid,DUAL-CLUTCH,Coupe,Black,RWD,sport,imported,euro_5,b-Supermini,private,-999,in-warranty,uk,12492,NaN,6122,13836,14714,,-999,8799,£2807,£18169
+"Jul 12, 2023",Ford,320i,diesel,manual,estate,black, awd , LUXURY ,Ex-Lease,,A-CITY,DEMO, 35 ,in-warranty,apac,14959,missing,563,1357,12295,£5341,    21,18837,,7139
+24/06/2022,TESLA,s60,hybrid,dual-clutch,coupe,grey,fwd,Luxury,new,euro 6,,DEMO,1,Extended,apac,3716,-999,£4452,£7913," 9,241",6044,19300,NA,16540,14521
+2021-07-31,NA,GOLF,DIESEL,dual-clutch,Hatchback,BLACK,FWD,Premium,New,ULEZ,B-SUPERMINI,Private,3,in-Warranty,us,468,602,7983,-999,18913,missing,4512,5983,17172,12413
+01/11/2021,vw,MODEL 3,-999,Manual,Hatchback, White ,rwd,luxury,ex-lease,ULEZ,e-Exec,hire,50,IN-WARRANTY,eu,"11,039",NaN,£17296,"16,320",£5862,16424,16079,missing,19317,15773
+2023-11-20,,model_3,electric,cvt,suv,BLACK,4wd,BASE,ex-lease,ulez,E-EXEC,Fleet,11,NA,mea,NA,543,4328,6216,"14,475",8989,£9255,14584,2246,£3388
+"Oct 26, 2022",ford,COROLLA,petrol,NA,suv, red ,Rwd,,NEW,EURO 6,a-city,private,50,in-warranty,UK,,,NA,"19,433",,"15,874",£4335,15190,9117,"15,705"
+2024-08-23,toyota,model3,electric,cvt,NaN,WHITE,Awd,base,NEW, euro 4 ,e-exec,demo,,extended,Apac,£1857,missing,-999,NA,"11,845",669,7800,17036,2904," 1,082"
+2021-05-30,HONDA,model3,NA,CVT,SUV,black,Rwd,performance,ex-Lease,Ulez,B-Supermini,PRIVATE,31,in-warranty,MEA,8739,17953,2371,1512,6661," 8,851",12786,NaN,"16,882"," 1,449"
+09/02/2023,bmw,COROLLA,,AUTOMATIC,-999,BLUE,4wd,Performance,NEW,euro 6,e-exec,demo,23,extended,APAC,£6992,"14,678",4793,-999,missing,£15567,13571,NaN,128,4466
+25/10/2022,bmw,320i,ELECTRIC,cvt, coupe ,silver,4wd,base,ex-lease,,c-compact,hire, 25 ,EXTENDED,apac,7140,7876,,16562,missing,1406,19463,7968,5579,£7687
+01/11/2024,FORD,s60,-999, cvt ,Hatchback,grey,4wd,performance,imported,euro6,NA,fleet,22,out-of-warranty,mea," 1,362",£7814,14871,2928,16668,11318,NaN,,4976,NaN
+15/10/2024,Tesla,NaN,hybrid,dual-Clutch, hatchback ,NA,Awd,base,NA,,A-City,private, 11 ,missing,MEA,14725,"16,424","11,978","11,888",£11906,"12,628",,11552,£4534,9056
+13/05/2022,Vw,GOLF,petrol,dual-Clutch,saloon,white,4wd,NA,Used,ulez,D-Mid-Size,HIRE,32,Out-Of-Warranty,MEA,"13,684",missing,1681,£12281," 3,497",14603,15072,11192,18346,10665
+16/05/2022,Bmw,S60,NaN, automatic ,-999,black,4wd, premium ,EX-LEASE,euro_5,e-Exec,fleet,25,out-of-warranty,us,5306,12682,-999,£8165,14900,4133,NA," 2,295",2428,£12301
+NA,vw,320I,petrol,dual-clutch,coupe,silver, 4wd ,luxury,new,Euro 4,a-City,hire,28,IN-WARRANTY,missing,2505,£13841,2038,£1324,10769,,14034,10508," 9,843",3539
+NA,toyota,s60,hydrogen,automatic,SUV,BLACK,Rwd,sport,used,ulez,e-Exec,demo,48,in-Warranty,uk,-999,NaN,3652,,£15757,£12401,290,19496,£11401,9434
+2021-12-24,tesla,model3,petrol,dual-Clutch,suv,silver,awd,base, Used ,euro_5,A-City,PRIVATE,21,extended,us,12424,10603,"17,745",-999,£5719,19822,15418,4789,£14087,12475
+,FORD,S60,Petrol,Automatic,ESTATE,,awd,Luxury,Ex-Lease,ULEZ,A-City,fleet,14,in-warranty,NaN,14582,,NaN," 8,696",NA,£19359,8350,14382,8034,19062
+12/10/2024,Toyota,-999,hydrogen,CVT, estate ,white,awd,PREMIUM,,-999,A-CITY,FLEET,38,IN-WARRANTY,apac,£2077,13833,NaN,£16894,16361,11447,8833,£10849,missing,£16381
+2021-06-23,honda,focus,Hybrid,cvt,-999,black,AWD,luxury,NA,EURO 5,NA,NaN,19,Out-Of-Warranty,Us,1363,574,£1185,12415,13347,13935,£7072," 7,808",1875,8049
+16/07/2023,NaN, A4 ,electric,Automatic,coupe,Blue,Awd,NaN,New,ulez,B-Supermini,private,9,extended,eu,£15567,19123,   896,15741,3622,NA,12791,15279,   635,8219
+08/04/2022,honda,S60,diesel,MANUAL, estate ,grey,awd,SPORT,used,ulez,E-Exec,HIRE,18,Out-Of-Warranty,us,missing,7718,11094," 5,403",-999,1495,£2015,£5473,3674,NA
+21/06/2023,AUDI,corolla,, manual ,suv, white ,4WD,Performance,EX-LEASE,NA,b-supermini,private,36,in-warranty,EU,-999,NaN," 6,144",1369,£11661,missing,6989,missing,£8963," 5,385"
+22/02/2023,AUDI,S60,hybrid,Cvt,saloon,red,Rwd,base,new,Euro 5,A-City,Hire,NA,out-Of-Warranty,-999,10209,8163,"16,380",784,1127,-999,£13517,9563,8135,£10619
+14/06/2022, bmw ,civic,PETROL,DUAL-CLUTCH,Saloon,NaN,awd,PREMIUM,new,Ulez,A-City,fleet,40,in-Warranty, Apac ,NA,12334,12442,"18,350",,2985,5297,4291,8427,5265
+2022-05-12,honda,COROLLA,ELECTRIC,cvt,suv,white, awd ,performance,,ULEZ,A-City,fleet,14,extended,MEA,,NaN,£4177,14739,9925,9495,11047,7112,12951,13113
+"Oct 28, 2021",Audi,S60,petrol,automatic,Estate,Silver,4wd,performance, imported ,Euro 5,e-exec,NA,14,out-Of-Warranty,eu,10009,7040,10406,,16585,£8379,642," 6,199",15583,8691
+2023-08-23,TESLA,MODEL 3,electric,manual,coupe,silver,Fwd,luxury,-999,ulez,A-CITY,private,19,in-warranty,mea,1423,15434,"16,722",9176,18849,1372,-999,15207,13728,14650
+-999,bmw,golf,HYBRID,-999,estate,blue, fwd ,luxury,imported, euro_4 ,b-Supermini,Demo,50, EXTENDED ,eu,£2043,£7022,£17795,2936,£13381,£8979,NaN,£15536,£12707,7132
+2022-03-25, ford ,missing,hybrid,automatic,ESTATE,SILVER,rwd, Base ,ex-Lease,euro 6,D-MID-SIZE,demo,25,EXTENDED,eu,3923,£9570,£13884,£18456,18044,6661,14373," 6,280",19500," 8,728"
+2021-09-05,volvo,a4,hybrid,CVT,coupe,grey,4wd,premium,new,euro 4,C-COMPACT,private,41,EXTENDED,uk,"13,074","14,229",18932,NA,£2370,£8356,17856,£802,7953,17238
+2023-07-14, ford ,-999,electric,Cvt,saloon,black,4wd,LUXURY,Imported,ULEZ,D-Mid-Size,Fleet,12,in-warranty,Uk,52,13943,2261,-999,2814,19644,1764,£16422,3998,"17,806"
+2022-08-08,,FOCUS,NaN,manual,hatchback,Blue,rwd,performance,ex-lease,ulez,d-mid-size,private,24, in-Warranty ,Us," 5,429","10,116"," 2,916",10783,4623," 7,450",4954,9697,£16528,£19687
+15/06/2022, toyota ,s60,Diesel,MANUAL,SUV,WHITE,FWD,performance,used, EURO 4 ,C-Compact,private,18,in-warranty,Eu,£8805,15226,1356," 2,658",7729,NaN,NA,"14,297",,15564
+2024-02-28,volvo,320i,Hybrid,Manual,ESTATE,Silver,rwd,premium,new,euro_4,b-Supermini,HIRE,23,In-Warranty,Apac,£18293,1453,3494,9898,£10346,"13,151",17416,8737,16952,15829
+2021-07-26,vw,MODEL 3,,Dual-Clutch,hatchback,Silver,fwd,SPORT,imported,euro6,d-mid-size,Demo,47,out-Of-Warranty,uk,19376,15341,"14,867",£5277,19456,14773,£6686,£8890,13937,4062
+30/10/2021,Volvo,FOCUS,diesel,CVT,coupe,NaN,fwd,NaN,used,euro 6,c-Compact,private,50,in-warranty,eu,10589,12609,14704,13417,8885,,19896,£6984,3603," 4,776"
+NaN,Ford,COROLLA,hydrogen,manual,missing,silver,4wd,luxury, new ,euro4,c-compact,missing,12,IN-WARRANTY,mea,"17,193","19,658",,9372,1867," 5,682",10464," 5,543",NaN,7488
+05/12/2023,audi,model 3,hybrid,dual-clutch,SUV,WHITE,4wd,PREMIUM,USED, ulez ,,DEMO,43,out-of-warranty,UK,"13,360",,11981,10650,£573," 2,502",7590,missing,"15,232",-999
+"Oct 28, 2021",BMW,Model 3,petrol,automatic, estate ,BLACK,awd,base,EX-LEASE,EURO 5,A-CITY,fleet,15,missing, Us ,£14134,14464,11610,6015,12718,NaN,10568,5163,8980,12384
+14/05/2022,audi,320i,HYBRID,CVT,NaN, Blue ,4wd,sport,imported,ulez,C-Compact,Hire,28,In-Warranty,US,missing,-999,16847,14606,14177,£9638,missing,-999,missing,4744
+2024-02-21,ford,A4,diesel,Automatic,saloon,-999,4wd,premium,IMPORTED,euro 5,b-supermini,Fleet,35,missing,Uk,4917,5800,16012,£19566,-999,2528,11413,7085,9984,"10,855"
+2024-05-06,honda,S60,hydrogen,cvt,SALOON,RED,4wd,premium,NA,euro4,d-mid-size,demo,48,in-warranty,eu,4448,16002,2400,9363,£468,12184,801,9916,17928,NaN
+2023-09-16,bmw,GOLF,petrol,MANUAL,SALOON,Silver,NaN,SPORT,imported, Euro 5 ,A-City,PRIVATE,39,out-Of-Warranty,mea,£1700," 1,130","10,627",£729,NA,,£9384,782,19487,14746
+24/05/2024,Tesla,NaN,PETROL,dual-Clutch,NA,grey,4WD,luxury,new, EURO 5 ,e-exec,demo,35,Out-Of-Warranty,-999,16463,NaN,9349,1273," 5,073"," 5,992",,703,10519,NaN
+2021-12-25,BMW,320i,Electric,dual-clutch,COUPE,SILVER,fwd,NA,EX-LEASE,euro 4,-999,hire, 2 ,in-Warranty,mea,4123,15468,3308,7212,£14121,£1239,£14955,10598,10399,NaN
+2023-08-17,honda,Model 3,HYDROGEN,Manual,NaN,blue,4wd,SPORT,Ex-Lease,euro4,b-Supermini, DEMO ,10,In-Warranty,mea,missing,13654,,356,£2175,£3015,£10919,4687,1535,NA
+19/11/2022,audi,golf,electric,-999,,white,RWD,PERFORMANCE,imported,EURO 6,B-Supermini,fleet,50,out-of-warranty,eu,NaN,NA,9864,£4194,18414,£18870,6978,3562,12048,3375
+2024-07-12,bmw,corolla,hybrid,-999, estate , RED ,rwd,-999,IMPORTED,, d-mid-size ,missing,28,EXTENDED,EU,NaN,18957,16186,3494,£5272,10041,£2959,6216,NA,8410
+18/07/2022,vw,-999,petrol,AUTOMATIC,saloon,grey,Rwd,performance,EX-LEASE,ULEZ,D-MID-SIZE,Private,35,extended,Mea,£4056,14903,10787,£517,£1648,15504,16597,14268,8103,-999
+"Sep 12, 2024",HONDA,focus,petrol,cvt, estate ,RED,AWD,luxury,Imported,euro 5,B-SUPERMINI,PRIVATE, 32 ,OUT-OF-WARRANTY,MEA,missing,10617,1540,£5612,missing,£5756,,11303,16448,18050
+09/04/2022,vw,civic,electric,automatic,suv,,Rwd,Luxury,used,Euro 5,c-compact,,48,extended,APAC,17546,£18936,£6075,£4991,3991,NA," 1,741"," 2,258",14118,
+08/06/2023,vw,320i,diesel,Manual,saloon,NaN,-999,performance,ex-Lease,Euro 6,d-mid-size,Hire,28,in-warranty,eu,"12,097",17892,£16280,£16016,7416,1434,-999,8234,£13738,16552
+27/08/2024,Audi,corolla,petrol,Cvt,ESTATE,-999,missing,luxury,new,euro5,b-supermini,Hire,2,NA,Mea,13577,10632,£6920,10317,16492,8597,9117,"18,195",2312,NA
+18/09/2022, Volvo ,golf, diesel ,dual-Clutch,NA,Red,AWD,performance,ex-Lease,euro_6,C-Compact,hire,41,OUT-OF-WARRANTY,Eu," 8,690",506,"15,940",1637,NaN,7009,11398,£8401,NA,466
+2023-09-05,bmw,focus,electric, Automatic ,Estate,Red,4wd,LUXURY,Imported,euro_6,d-mid-size,NA,11,Extended,mea,17181,£4730,70,£7292,£13150,-999,925,7975," 1,142",NA
+16/04/2021,VW, Focus ,DIESEL,Automatic,estate,Silver,awd, premium , IMPORTED ,ulez,E-Exec,demo, 9 , Extended ,us,missing,,9738,NA,17700,5375,-999," 9,017",-999,£7300
+"Aug 22, 2022",-999,320i,diesel,manual,NaN,-999,4wd,sport,imported,euro_5,e-Exec,demo,19,IN-WARRANTY,UK,8217,11189,£9656,13260,17141,£1662,missing,,£17019,£16720
+22/04/2023,audi,320i,PETROL,MANUAL, hatchback ,blue,4wd,base,new,missing,B-Supermini,hire,37,Out-Of-Warranty, us ,-999,2178,2105,missing,5374,11202,4536,9856,"15,111",£5352
+2023-08-19,VOLVO,Model 3,Hybrid,Dual-Clutch,coupe,blue,NA,-999,New,Euro 5,b-Supermini,FLEET,42,extended,apac,£2194,4012," 4,426",£13022,£4864,,655,14629,-999,11288
+25/12/2021,bmw,Golf,DIESEL,MANUAL,Saloon,GREY,NA,NA,new,euro 5,C-COMPACT,demo,39,in-Warranty,EU,16398,£17641,19498,£9137,9468,16492,-999,£3952,12840,19397
+"Jul 24, 2024",honda,Corolla,HYBRID,Dual-Clutch,hatchback,black,FWD,premium,ex-lease,Euro 5,b-Supermini,Private,20,in-Warranty,Eu,£15644,£15706,£16533,£513,£2527,£17537,18472,5566,NaN," 7,443"
+NaN,vw,a4,diesel,automatic,NaN,white,awd,premium,Imported,euro4,a-City, hire ,31,out-Of-Warranty,Uk,£15202,NA,7574,5877,"12,085",9489,8752,4205," 3,158",19300
+2021-01-27,vw,COROLLA,electric,cvt,SALOON,Silver,4wd,luxury,ex-lease,EURO 5,A-City,private,,in-warranty,apac,194,£8083,14302,19895,818,£19422,4636,6212,14043,16114
+2023-10-20,BMW, Focus ,hybrid,Automatic,estate,Grey,awd,,imported,Ulez,D-Mid-Size,fleet,22,out-Of-Warranty, EU ,12800,"11,203",11298,£12650,   421,9441,£11807,710,6761,253
+06/05/2024, honda ,golf,electric,Cvt,missing,blue,4wd,performance,Ex-Lease,euro_4,e-exec,FLEET,,in-warranty,eu,"18,234",18597,12262,£9909,3153,8714," 5,782",£12404,£18025,NaN
+14/04/2023,NaN, COROLLA ,hybrid,dual-clutch,HATCHBACK,Red,fwd,luxury,ex-Lease,euro_5,NaN,hire,missing, out-of-warranty ,MEA,NA,,£1851,£18774,NaN,9604,-999,4897,9867,9802
+05/12/2024,Toyota,-999,Diesel,-999,suv,WHITE,NaN,SPORT,NEW,euro 6,NA,fleet,39,NaN,mea,15900,£10112,522,£6747,14965,6740,15616,£17257,908,5037
+02/02/2021,Honda,320i,diesel,cvt,Hatchback,Grey,rwd,Base,ex-lease, EURO 5 ,C-Compact,Fleet,50,extended,eu,4015,"19,066",£16025,"11,707",15469," 3,137",16304,19483,2142,614
+2021-06-20,vw,model 3,petrol,Manual, HATCHBACK ,white,Rwd,BASE,ex-Lease, euro4 ,NaN,Hire,NaN,out-of-warranty,eu,£12498,missing,10942,,NaN,4553,9367,1848,3660,3874
+"Aug 27, 2022",Toyota,320i,diesel, MANUAL ,COUPE,red,4wd,-999,imported,ulez,e-Exec,Demo,10,out-of-warranty,,-999,,£1989,£10236,507,7272,9641,17562,13370,missing
+01/03/2023,NaN,a4,petrol,automatic, suv ,GREY,missing,Luxury,New,euro_4,a-city,hire,33,extended,EU,-999,£7443,£17279," 7,915",£1652,11160,17180,10088,15930,16066
+23/01/2024,audi,320I,ELECTRIC,MANUAL,estate,black,4wd,performance,Imported,NA, c-compact ,hire,2,extended,EU,11233,£15328,7518,6366,13833,18493,£16459,14907," 9,101",-999
+"Sep 15, 2021",toyota, focus ,Diesel,automatic,,Silver,AWD,PERFORMANCE,imported,-999,e-exec,demo,NaN,EXTENDED,eu,-999,£19467,NaN,"19,725",18339,-999,10920," 1,468",missing,NA
+2024-09-27,Toyota,,electric,cvt,SALOON,red,fwd,Base,IMPORTED,Euro 5, a-City ,,34,out-of-warranty,eu,19650,3097,19550,"15,461",11107,missing,14379," 1,217",6851,13157
+2023-01-04,NA,s60,HYBRID,dual-clutch,saloon,blue,AWD,base,,euro 4,E-EXEC,NaN,1,,us,4956,5801,9262,407,£721,10458,10497,4151,"19,949",£14306
+10/10/2022,ford,civic,diesel,AUTOMATIC,saloon,white,Rwd,sport,imported,ulez,d-mid-size,hire,32,out-of-warranty,NaN,£15438,missing,3722,missing,"16,619",-999,-999,,19240,16536
+27/08/2024,ford,missing,NA,NA,estate,red,Rwd,premium,used, euro4 ,e-Exec,private,3,EXTENDED, apac ,6217,9515,-999,18420,9324,11821,NaN,"13,878",16277,9251
+2023-04-15,tesla,320i,NaN,manual,SUV,BLACK,4WD,PERFORMANCE, used ,NA,D-MID-SIZE,DEMO,11,out-of-warranty,missing,19381,£4947," 1,482",9680,17640,18296,£17061,19523,"13,499",-999
+21/02/2023,vw,golf,Hybrid, AUTOMATIC ,saloon,BLUE,fwd,Base,imported,euro 4,c-Compact,demo,2,OUT-OF-WARRANTY,apac,6512,14541,10336,14532,£10895,NA,NA,17936," 4,309",£10782
+2024-09-12,BMW, corolla ,hydrogen,Cvt,Coupe,GREY,rwd,sport, new , euro_5 ,A-CITY,fleet,NA, EXTENDED ,us,£9550,£17848,8009,5869,11595,NaN,14929,8121,-999,"17,566"
+03/08/2021,audi,a4,Hybrid,manual,hatchback,BLACK,rwd,premium,new, euro_6 ,c-compact,demo,3,out-of-warranty,UK,2130,5439,4941,NaN,10143,17861,6326,17082,16341,"10,249"
+03/01/2022,bmw,a4,NaN, Cvt ,ESTATE,red,Awd,base,Used,NA,E-EXEC, Demo ,26,IN-WARRANTY,eu," 9,822"," 3,728"," 5,147",NA,£11516," 2,801",8587,5782,£3339,NA
+"Jan 29, 2024",TESLA,corolla,hybrid,DUAL-CLUTCH,Suv,GREY,awd,base,ex-Lease,NaN,NA,demo,36,NA,uk,,6911,13743,4292,-999,13577,,9112,15720,"10,382"
+17/01/2021,Honda,s60,NaN,AUTOMATIC, HATCHBACK ,grey,NaN, Base ,ex-Lease,Euro 6,b-Supermini,demo,32,extended,eu,£19441,6201,8612,£1930,£5827,18047,£12128,6301,£14626,13743
+2021-01-10,bmw,CIVIC,hybrid,Cvt,suv,GREY,FWD,sport,EX-LEASE,euro 4,b-Supermini,PRIVATE,3,EXTENDED,Eu,8325,NaN,16392,6566,11056,2159,£18021,1080,5746,11552
+NaN,Toyota,civic,petrol,cvt,saloon,white,NaN,SPORT,new,Euro 6,c-compact,HIRE,3, In-Warranty ,apac,,£1698,7928,£8757,10774,3485,114,11008,18619,
+08/04/2023,toyota,corolla,petrol,automatic,estate,Black,4wd,sport,used,EURO 6,C-Compact,NA,23, OUT-OF-WARRANTY , Us ,19542,554,9921,15613,6303,9689," 2,939",12972,,
+NA,NA,Civic,electric,Automatic,hatchback,White,4wd,Base,New,Euro 5,NA,hire,2,EXTENDED,apac,17226,16489,4505,-999,3704,9208,5647,-999,13794,-999
+10/03/2021,vw,golf,Electric,cvt,coupe,blue,awd,Base,imported,ulez,b-supermini,demo,48,Out-Of-Warranty,-999,3829,-999,6967,£14075,NaN,11861,£10323,5217," 3,393",£3878
+2023-12-06,vw,corolla, hybrid ,MANUAL,Estate,BLUE, FWD ,Performance,new,euro_6,d-mid-size,PRIVATE,NaN,IN-WARRANTY,apac,NaN,-999,£7366,12757,2643,5117,NaN,£2639,£18053,1284
+2024-05-13, toyota ,model 3,petrol, MANUAL ,COUPE,Red,4WD,Luxury,new,Euro 4,B-SUPERMINI,hire,-999,out-of-warranty,us,"12,075",£7834,-999,£16190,16195,,   376,15219,NaN,£17367
+"Nov 02, 2024",Bmw,320i,ELECTRIC,manual,SUV,white,Rwd,PERFORMANCE,NEW, ulez ,B-SUPERMINI,demo,37,in-Warranty,APAC,1777,NA,1366,9304,£15105,5043,"13,697",missing,6926,18281
+"Nov 20, 2024",,s60,HYBRID,Manual,SALOON,Silver,FWD,base,ex-lease, Euro 5 ,c-compact,demo,26, in-warranty ,Mea,£6774,17627,,£15326,10036,£14518,£11376,£4162,7986,17546
+2024-07-06,Volvo,MODEL 3,Electric,manual,suv,Red,awd,Luxury,new,euro5,NaN,fleet,missing,extended, Uk ,594,11610,£17217,£15667,£628,6490,£18018,18368,missing,£6723
+2021-05-24,ford,Focus,Petrol,Automatic,SALOON,red,4wd, Base , used ,NaN,b-supermini,missing,27,in-warranty,Apac,2268,£14657,6150,,8985,missing,6983," 7,337",12857,"11,764"
+"Feb 02, 2021",Vw,s60,hydrogen,cvt,suv,Blue,missing,missing, Ex-Lease ,ULEZ,b-supermini,-999,28,IN-WARRANTY,uk,15951,18363,10011,missing,£15496,missing,NaN,5303,£8227,4091
+2022-05-04,honda,A4,DIESEL,cvt, hatchback , Grey ,Fwd,luxury,ex-lease,Euro 6,b-supermini,private,missing, Out-Of-Warranty ,uk,14869,NA,1997,190,NA,£15717,£17472,£9649,2143,6048
+09/05/2021,bmw, corolla ,diesel,Manual,estate,silver,,base,new,ulez,NA,Hire,16,extended,mea,6036,16362,"11,877",580,£11079,11743,14146,13106,£5263,11087
+04/10/2021, TESLA ,FOCUS,DIESEL,,estate,blue,4wd,premium,new,ulez,d-Mid-Size,private,44,Extended,MEA,16742,   163,NA,10401,17435,"12,894",19328,10490,14790,-999
+29/03/2022,VOLVO,missing,PETROL,Manual,suv,GREY,FWD,Luxury, Imported ,Ulez,c-compact,Private,28,extended,uk," 1,663",15732,-999,9020,NA,£1129,£5357,3147,-999,missing
+2021-04-14,VOLVO,320i,missing,dual-clutch,saloon,Red,4wd,SPORT,IMPORTED,Euro 5,missing,fleet,17,extended,missing," 3,173",   283,7021,£864,10220,£2392,14801,11273,8697,19746
+08/06/2022,,COROLLA,hybrid,dual-clutch, SUV ,black,AWD,luxury,NEW,Ulez,b-Supermini,NaN,18,-999,-999,£11334,NA," 4,038",1184,1500,£14513,8047,2815,£14888,£16415
+02/08/2023,VW,corolla,electric,dual-clutch,Coupe,red,rwd,base,NaN,euro_6,e-exec,hire,49,Out-Of-Warranty,US," 6,440",,6159,"15,208",3329,missing,£16705,919,2593,   494
+2023-01-27,honda,model 3,Hydrogen,MANUAL,coupe,silver,NA,premium, imported ,ulez,A-CITY,PRIVATE,NA,IN-WARRANTY,uk,NaN,4998,726,£4322,£18342,6790," 8,517",9849,15344,£11353
+2021-10-26,Vw,S60,petrol, cvt ,Estate,red,4WD,luxury, ex-lease ,euro_4,c-Compact,Private,22,in-Warranty,uk,missing,13009," 4,578",£18696,missing,"10,181",14190," 8,265",11932,4586
+2022-08-01,NA,A4,Diesel,manual,Suv,silver,4wd,Base,ex-lease,NA,c-compact,fleet,26,extended,uk,7221,11425,£9227,"10,742",-999,7462,3778,12940,NaN,3505
+08/10/2022,toyota,,Electric,automatic,hatchback,Red,4wd,Performance,Imported,ulez,A-City,PRIVATE,36,NaN,Mea,17770,539,£9593,16743,4212,," 9,737",£904,"18,616",
+10/04/2021,HONDA,-999,petrol,NA,missing,white,,premium,new, EURO 5 ,a-city,fleet,19,NaN,uk,7784,3823,5870,8530,704," 6,509",,NA,£6590,6318
+2023-08-04,vw,COROLLA,electric,CVT,ESTATE,Red,4wd,missing, Used ,Euro 5,E-EXEC,,,NaN,mea,5200,8912,£18061,929,12450,5008," 1,921",NaN,£2495,£18198
+"Jun 03, 2024",audi,model3,hybrid,manual,suv,BLUE,awd,base,-999,EURO 6,e-exec,demo, 49 ,in-warranty,apac,11600,NaN,-999,12856,£1859,7499,3471,14892,12752,£5699
+2024-01-31,Tesla,GOLF,HYDROGEN,MANUAL,hatchback,red,rwd,premium,new,ULEZ,c-Compact,DEMO,17,, EU ," 6,127","16,821",14201,NaN,3511,19497,19125,8873,-999,£19518
+11/06/2024,ford,Model 3,hydrogen,dual-clutch,estate,BLACK,awd,Base,Imported,missing,B-Supermini,private,1, in-warranty ,NA,,-999,1561,£1915,10919,NA,£5358," 9,177",6938,12414
+25/03/2022,BMW,model 3, diesel ,DUAL-CLUTCH,estate,white,Awd,sport,NEW,Euro 6,c-Compact,PRIVATE,22,EXTENDED,US,"19,381",18631,18614,9727,£14618,580,6133,7093,625," 7,084"
+NA,VW,s60,electric,MANUAL,saloon,silver,4wd,luxury,IMPORTED,euro 6,E-EXEC,demo,25,OUT-OF-WARRANTY,mea,missing,199,£16665,£15777," 5,843",16497,12461,£251," 7,929",10613
+2023-12-18,bmw,NA,petrol,automatic,Hatchback, BLUE ,4wd,NA,used,Euro 4,b-supermini,demo,25,extended,UK,17115,NaN,13798,19528,£8298,-999,10876,2797,NaN,"17,745"
+,bmw,,hybrid,Cvt,suv,red,rwd,performance,imported,ulez,A-City,demo,NaN,Out-Of-Warranty,Us,263,11061," 8,310",," 5,943",NaN," 4,803",13036,8330,782
+"Jul 30, 2022",vw,model3,diesel,Cvt, COUPE ,SILVER, Fwd ,Premium,IMPORTED,Euro 5,a-city,private,7,Out-Of-Warranty,Mea,missing,8720,7393,14122,"16,887","15,723",NA,£13274,18033,"12,436"
+2023-03-25,NA, s60 ,Hybrid,automatic,SUV,silver,4wd,Sport,IMPORTED,Euro 6,-999,hire,18,OUT-OF-WARRANTY,NA,£16820,13464,£4230,£18225,15608,6770,-999,12753,missing,
+"Nov 10, 2023",BMW,MODEL 3,hybrid,manual,Coupe,silver,rwd,BASE,ex-lease,euro6,d-Mid-Size,hire,,in-warranty,eu,£16014,£4180,11225,12908," 3,883",£4129,-999,19846,13468," 8,442"
+28/11/2021,ford,s60,NA,,hatchback,black,AWD, Performance ,imported,EURO 6,missing,hire,26,in-warranty,mea,12804,7913,9561," 8,837",£18400,£867,11251,£12210,10428,NA
+NaN,audi,golf,hybrid,manual,hatchback,silver,4wd,premium,EX-LEASE,euro_6,d-mid-size,Fleet,41,EXTENDED,,5921,970,18691,4772,2010,NA,,3725,938,10854
+2021-09-06, tesla ,COROLLA,hybrid,NA,SALOON,grey,RWD, Premium , Ex-Lease ,NaN,E-Exec,NA,26,out-of-warranty,EU,16872,5292,missing,5818,£8484,11139,13794,£19547,£11659,"16,314"
+21/02/2024,bmw,A4,electric,automatic,Hatchback, black ,missing,NA,missing,euro 4,E-Exec,hire,45,out-of-warranty,Eu,£18543,16586,£4197,£19470,"12,392",13580,17285,4909,-999,14130
+"Jun 17, 2024",-999,a4,NA,NaN,coupe,white,rwd,,NA,euro_5,C-Compact,Fleet,15,extended,us,"15,084",10583,,7398,11890,608,   735,£11068,8579,£6404
+2023-05-09,-999,Focus,DIESEL,Manual,suv, blue , fwd , premium ,-999,euro6,-999,private,13,NaN,eu,£18159,12942,NaN,3999,16902," 9,295",£17233,"11,782",-999,NaN
+08/01/2022, ford ,focus,diesel,Automatic,Saloon,WHITE,4wd,performance,Used,NA,C-COMPACT,hire,12, OUT-OF-WARRANTY ,UK,17090,1079,,3572,7901,12923,4271,-999,15998,missing
+-999,Honda,COROLLA,electric,automatic,suv,grey,RWD,luxury,new,euro 4,c-Compact,fleet,42, Out-Of-Warranty ,Us,£912,10378,3587,11775,5175,£11527,£7672,19096,£11477,£10268
+2024-07-20,honda,Golf, Hydrogen ,MANUAL,SALOON,missing,4wd,premium,NaN,euro 4,b-supermini,hire,21,out-Of-Warranty,eu,6264,£18318,NaN,2778,12060," 5,761",3826," 6,351",NA,2119
+2023-08-16,FORD,corolla,electric, dual-clutch ,Saloon,red,4wd, base ,NaN,euro6,a-city,fleet,19, in-warranty ,UK,4154,£3041,255," 3,978","15,270",11318,£6967,12507,   271,14727
+2024-06-07,tesla, golf ,DIESEL,Dual-Clutch,suv,grey,4wd,SPORT,imported,Euro 5,B-SUPERMINI,hire,20,out-Of-Warranty,us,-999,£18375,£15448,NaN,17632,£5563,11659,£12778,8845,£14508
+2024-05-13,VOLVO,missing,DIESEL,automatic,HATCHBACK,white,4wd,SPORT,new,EURO 6,b-supermini,hire,29,out-of-warranty,apac,£9380,16745,7899,6056,3629,-999,missing,18869,15870,
+2021-09-09,honda,CIVIC,diesel,manual,SUV, blue ,rwd, sport ,USED,ulez,C-COMPACT,hire, 44 ,EXTENDED,uk,18163,£377,17011,,14994,11023,11093,10412,"10,333",NaN
+19/05/2023,vw, model 3 ,hydrogen,cvt,coupe,grey,rwd,Sport,used,ulez,d-mid-size,Demo,25,Extended,Mea," 3,798",£13520,"16,077",4890,£16734,-999,563,13618,£19971,16005
+"Sep 16, 2022",audi,missing,Hybrid,Cvt,HATCHBACK,white,awd,luxury,IMPORTED,Ulez,a-city,-999,15,in-Warranty,eu,,13272,19352,18032,£6620,15939," 4,253",1987,£9921,£661
+19/03/2022,missing,s60,petrol,MANUAL,estate,NA,awd,Sport,EX-LEASE,euro 4,E-EXEC,PRIVATE,25,out-of-warranty,uk,£11324," 7,485",£4741,7102,,295,£14395,14786,£12504,£5502
+01/02/2021,Vw,Focus,HYDROGEN,Cvt,COUPE,black, rwd ,sport,ex-lease,ulez, d-Mid-Size ,FLEET,29,extended,mea,13196,4547,"10,853",£6571,£4166,869,15379,-999,NA,2202
+17/03/2022,bmw,golf,hybrid,manual,ESTATE,red,4wd,PERFORMANCE,NaN,ulez,d-mid-size,PRIVATE,16,in-warranty,eu,218,2178,£7615,5236,10901,4054,£4154,missing,,15474
+2023-01-18,Tesla,model 3,PETROL,Automatic,Suv, White ,NaN,base,imported,EURO 4,NA,PRIVATE,11,IN-WARRANTY,missing,5548,,6450,4388,3683,"10,568",17979,3980," 7,093",£9195
+05/01/2021,Toyota,A4,DIESEL,MANUAL,NaN,blue,rwd,missing,EX-LEASE,euro 6,c-compact,demo, 26 ,extended,apac,15111,8713,13318,5585,767,12597,8320,£5510,-999,3971
+2024-12-06,ford,S60,hydrogen,cvt,missing,silver,rwd,NA,Imported,-999,e-exec,missing,20,in-warranty,eu,1286," 7,260",19959,8151,19027,13595,£8009,"12,099",862,NaN
+2023-02-07,AUDI,-999,hybrid,cvt,saloon,black,AWD,NA,new,Ulez,b-Supermini,DEMO,24, extended ,Uk,18473,£1965,2105,9523,£5683,11561,13388,8068,537,10374
+05/04/2023,ford, model3 ,DIESEL,Dual-Clutch,hatchback,blue,-999,Base,EX-LEASE,euro_4,b-Supermini,PRIVATE,14,Out-Of-Warranty,mea,10436,7473,"16,466",missing,17465,6252,£15974,-999,£2426,12331
+21/12/2021,-999,A4,diesel,dual-clutch,hatchback, Red ,rwd,Premium,used,,C-COMPACT,Private, 10 ,in-Warranty,Uk,£8250,,3376,19865,2408,£14112,16187,£5475,"13,279",2274
+2023-06-25,,s60,ELECTRIC,cvt,saloon,red,fwd,Performance, imported , Euro 6 ,,PRIVATE,NA,In-Warranty, mea ,7032,4985,16725,NaN,16717,1658,missing,"10,231","14,953",16972
+2023-11-11,vw,Model 3,Hybrid,Automatic,Coupe,black,FWD,premium,ex-lease, EURO 5 ,D-MID-SIZE,demo,3,Extended,UK,£7535,"17,518",11605,17423,9665,16116,19323,9282,4531,£977
+2021-03-23,bmw,a4,NaN,cvt, coupe ,BLUE,Awd,sport,NEW,euro 5,b-supermini,hire,48,In-Warranty,APAC,£553,18648," 5,830",£2757,£14693,16784,"11,689",14139,,"14,401"
+NaN,vw,a4,PETROL,CVT,estate,grey,4wd,SPORT,, euro5 ,NA,private,9,out-Of-Warranty,MEA,£15744,£10434,4813,-999,15272,12148,missing,-999,19261,14066
+01/08/2024,FORD,S60,hydrogen,NaN,hatchback,grey,awd,SPORT,,ulez,E-EXEC,PRIVATE,28, in-warranty ,mea,£17561,9546,"15,584",£10478,"13,670",6453," 8,177",6787,596,£11716
+2023-04-17,ford,s60,HYBRID,manual,hatchback,red,Fwd,sport,imported, EURO 5 ,a-city,PRIVATE,2,IN-WARRANTY,uk,3374,£16803,4381,15239,,£8535,19543,8423,£7004," 5,014"
+"May 25, 2022",tesla,focus,hybrid,cvt,NaN,NA,FWD,, imported ,euro_6,c-compact,hire,39, IN-WARRANTY ,-999,7368,"14,515",18830,£1910,£17108,,1552,11626,1285,NaN
+"Dec 19, 2023",bmw,,HYBRID,NaN,hatchback,BLUE,4wd,sport,used,Euro 5,E-EXEC,hire,10,Out-Of-Warranty,Uk,£17683,13605,4248,6598,"19,821",334,,18089,11780,12444
+22/04/2024,Honda,A4,Petrol, cvt ,estate, Blue ,-999,sport,EX-LEASE,EURO 6,D-Mid-Size,private,37,extended,mea,15942,£2725,,1416,17866,19709,£15939,3127,3399,£13425
+08/08/2021,bmw,civic,,AUTOMATIC, COUPE ,Red,rwd,luxury,ex-lease,NaN,,PRIVATE,48,EXTENDED,eu,11614,-999,£10431,"16,765",15806,"17,981",£13114,15659,"17,377",NaN
+02/09/2023,TOYOTA,civic,hydrogen,Manual, hatchback , red ,awd,Premium, imported ,euro_6,a-city, demo ,26,missing,Mea,"18,693",NA,,£14252,4273,16211,2641,missing,5604," 7,509"
+2022-03-04,audi,Focus,,NA,saloon,silver,FWD,BASE,new, ulez ,a-city,demo,NaN,Out-Of-Warranty, eu ,£14308,-999,£18311,missing,   227,£165,15783,2056,2803,"13,858"
+26/08/2023,TESLA,NaN,hybrid,AUTOMATIC,Coupe,white,-999, premium ,EX-LEASE,euro 5,a-City,Private,21,EXTENDED,APAC,8598,17484,4162,17413,3279,13917,"11,748",3807,3795,£14002
+2022-01-30,Toyota,Civic, petrol ,NA,NaN,red,4WD,Base,ex-lease,euro_6,c-compact,NaN,13,in-Warranty,us,3113,7475,12100,10727,£18022,NA,13188,13096,7837,"13,665"
+07/10/2021,ford,FOCUS,electric,NaN,Suv,blue,rwd,missing,Ex-Lease,euro 6,A-CITY, Private ,26,IN-WARRANTY, mea ," 1,260","19,640",3773,£7079,£8704,6392,8121,£2378,NaN,5648
+2024-12-25,tesla,-999,diesel,Cvt,SUV,Blue,Fwd,PERFORMANCE, used ,euro4,E-Exec,Demo,15, extended ,apac,,18044,6681,15337,"18,049",£6397,2905,10575,11305,5685
+"Jul 24, 2023",toyota,s60,hybrid,Manual,saloon,red,FWD,BASE,ex-Lease,euro6,d-Mid-Size,private,9,extended,us,3954,£7846,19537,"13,895",13748,£3129," 5,420",4699," 7,655",NA
+"Feb 25, 2023",tesla,model 3,diesel, automatic ,Hatchback,SILVER,missing, premium ,,NaN,e-exec,demo,13,EXTENDED,us,£3526,15942,16145,13539,£9047,17556,7343,8826,£19665,13607
+04/08/2023,ford,model_3,hydrogen,automatic,saloon,blue,fwd,PREMIUM,imported,euro 4,B-Supermini,private,50,out-of-warranty,APAC,-999,"16,983",£18521,£1672,17216,£16791,£19681,missing,18595,15466
+2023-03-12,honda,civic,-999,cvt,SUV,White,rwd,sport,NaN,EURO 4,c-Compact,fleet,-999,NA,MEA,£3353,357,£3987,£11789,6215,£13877,"15,444",5949,NA,missing
+02/04/2023,NaN,FOCUS,hydrogen, Dual-Clutch ,suv,Black,Rwd,luxury,USED,EURO 4,A-City,Private,18,OUT-OF-WARRANTY,APAC,£7,7567,14284,,10222,£4405,7825,5172,£13102,£14855
+"Nov 22, 2022",NA,model3,ELECTRIC,automatic,Suv,black,fwd,performance,new,Ulez,d-mid-size,PRIVATE,17,EXTENDED,uk,NaN,10132,13298,8847,6544,-999,41,16088,missing,4844
+18/07/2021,VW,NA,Hydrogen,Cvt,Coupe, Silver ,awd,premium,Ex-Lease, euro6 ,C-COMPACT, hire ,2,Extended,eu,1855,£17577,£6788,4589,£3111,13621,missing,-999,13145," 6,871"
+23/12/2021,TOYOTA,model3,Hydrogen,CVT,coupe,white,4wd,performance,ex-lease,ulez,-999,hire,37,extended,Us,17540,,4004,£6027,missing,13321,8626,12257,3360,9967
+05/04/2021,volvo,GOLF,ELECTRIC,manual,ESTATE,black,NaN,performance,Ex-Lease,Euro 5,b-Supermini,DEMO,32,-999,eu,-999,1285,NaN,6608,NaN,£13420,£1680,6897,-999,£58
+20/11/2024,toyota,a4,diesel,dual-clutch,Saloon,WHITE, 4wd ,sport,Imported,ULEZ,e-Exec,private,46,Extended,Uk,10821,4027,15985,NA,16291,11321,7406,1179,£14329,15454
+2022-09-13,honda,Focus,petrol,manual,Suv,blue,NaN,Luxury,Ex-Lease,EURO 5,b-Supermini,Private,43,out-of-warranty,missing,10986,,missing,411,4728,9557,"17,363",£8251,NaN,£19535
+24/03/2024,Ford,golf, electric ,manual,, GREY ,awd,premium,used,euro 5,C-COMPACT,missing,17,in-warranty,Eu,18801,7078,NaN,,15178,,missing,4034,NA,£19514
+2023-05-24,audi,corolla,hydrogen,manual,suv,-999,Fwd,NA,ex-lease,euro_5,missing,-999,NaN,NA,mea,12556,£7459,7760,NaN,10227,14495,,13963,£7498,2158
+23/02/2023,bmw,320i,Diesel,NaN, Estate ,GREY,4wd,SPORT, imported ,Euro 6,B-Supermini,demo,47,NaN, Mea ,£3159,14477,£6529,NA,19860,5707,7181,9526,17219,10805
+2023-11-21,vw,S60,DIESEL,Automatic,ESTATE,Blue, rwd ,base,Ex-Lease,EURO 6,a-city,Fleet,40,out-Of-Warranty,uk,18964,£15753,10938,,12427,3611,NaN,," 5,429",12530
+24/04/2023,ford,s60,petrol,MANUAL,COUPE,red,Awd,premium,new, euro6 ,NaN,fleet,17,Extended,mea,£6013," 3,446",6610,18277,£13349,4952,5385," 2,129",11870,7939
+26/09/2024,vw,model3,diesel, dual-Clutch ,coupe,Blue,4wd,sport,new,euro 6,e-exec,Hire,42,IN-WARRANTY,Uk,5412,16790,£16927,£6051,"11,765",8938,NA," 4,393"," 9,382",19916
+24/09/2021,honda,s60,hybrid,AUTOMATIC,suv,BLACK,missing,SPORT,new,EURO 6,b-Supermini,hire,4,in-warranty,eu,£4957,-999," 2,810"," 9,272",12614,11920,11735,18614,£18669," 4,355"
+"Jul 04, 2024", volvo ,civic,hybrid, manual ,suv,white,4wd,missing,new,,c-Compact, DEMO ,NA,extended,eu,1604,19706,"18,266",19976," 6,022"," 4,234",missing,13966,17795,1825
+"Jun 03, 2022",ford,focus,diesel,Manual,suv,-999,fwd,premium,NaN,EURO 6,-999,Hire,NA,OUT-OF-WARRANTY,Apac,12610,15537,NA,306,9095,12709,NA,-999,17726,3817
+"May 12, 2022",audi,focus,hybrid, cvt ,SUV,silver,FWD,base,-999,ULEZ,missing,hire,14,in-warranty,Uk,13490,1541,872,NA," 2,945",13317,13594,"14,746",8744,8417
+2022-01-24,-999,A4,hybrid,MANUAL,suv,black,Rwd,NA,Ex-Lease,ulez,,DEMO,11,NA,,10613,£6785,8384,missing,missing,18156,19894,1949,£276,NaN
+12/06/2022,audi,FOCUS,electric,dual-clutch,Hatchback,SILVER,4wd,NA,Used,Euro 5,e-Exec,demo,4,in-warranty,eu,NA,18083,19738,£12287,12697,£18574,10123," 6,630","10,608",11445
+2022-09-10,AUDI,a4,,manual,-999,Silver,fwd,luxury,USED,EURO 4,d-mid-size,hire,missing,out-of-warranty,Mea,missing,," 1,696",NaN,18678," 6,068","11,294",£17467,£7186,"10,793"
+2024-04-12, bmw ,320i,diesel,manual,saloon,WHITE,rwd,BASE,used,euro6,b-supermini,hire,22,Extended,NA,£6664,1420,19408,NaN,missing,7334,15440,18003,£1243,£11112
+2023-03-17,TOYOTA,320i,hybrid,NA,hatchback,blue,RWD,base,NA,-999,d-Mid-Size,hire,28,EXTENDED,APAC,3007,18911,10730,9183,27,15705,6159,"19,150",19792,7193
+2022-02-04,honda,focus,Diesel,Dual-Clutch,Estate,Silver,fwd,Base,ex-lease,euro_4,a-City,demo,3,missing,Apac,£1007,"14,122",£10270,£13876,£10586,5123,"15,753",-999,£16311,7997
+24/07/2023,ford,focus,hybrid,automatic,hatchback,white,missing,performance,Ex-Lease,ULEZ,B-Supermini,hire,28,OUT-OF-WARRANTY, MEA ,"17,571",2965,NaN,£19478,"12,835",,12176,£4084,   671," 7,701"
+2021-05-06,vw,corolla,missing,Dual-Clutch,hatchback,White,awd, base ,Imported, euro 6 ,C-COMPACT,,35,Extended,uk,19990,9668,£19953,18644,19098,1502,3399,6914,5357,16163
+2024-04-02,honda,model3,electric,NaN,estate,silver, fwd ,luxury,ex-lease, Euro 6 , b-supermini ,demo,41,OUT-OF-WARRANTY,mea,499,15679,12467," 7,161",16102,,£4311,NaN,11152," 5,689"
+2022-06-06,NaN,320i,HYDROGEN,missing,estate,silver,4WD,Performance,NA, EURO 6 ,a-city,missing,34,Out-Of-Warranty, apac ,231,3441,2777,£13517,396,4738,,15821,NaN,1161
+2021-10-31,tesla,Focus,HYBRID,automatic,Coupe,NaN,awd,luxury,used,EURO 4,B-Supermini,FLEET,39,IN-WARRANTY,us,£15666,6019,"16,075",9836,13523,£10532,6429,6231,NaN,18681
+"Dec 04, 2023",honda,NaN,HYBRID,automatic,Suv, Red ,,base,new,ulez,b-supermini,FLEET,,out-Of-Warranty,apac,"11,032",17067,£6887,11125,18433,£7483,15024,1159,17306,£14782
+2021-10-26,bmw,Model 3,hydrogen,Cvt,saloon, white ,fwd, SPORT ,new,euro 6,A-City,private,-999,in-Warranty,uk,6177,-999,£1764,£6908,£3750,NA,16191,£166,£2313,3266
+13/08/2023,missing,FOCUS,petrol,dual-Clutch,missing,red,awd,-999, imported ,NaN,B-Supermini,DEMO,18,IN-WARRANTY,NaN,7547,17037,   889,16316,10231,1028,1557,£11328,,19738
+18/11/2022,volvo,320i,Petrol,manual,saloon,RED, awd , base ,used,euro_6,b-supermini,Demo,40,NaN,APAC,£15908,8795,-999,£25,NA,NA,13361,14921,15838,
+28/01/2022,NA,Civic,ELECTRIC,Manual,Estate,silver,4wd,NaN,IMPORTED,EURO 4,A-CITY,Private,32,OUT-OF-WARRANTY,US,   113,2694,18528," 6,899",9645,"16,204",8379,16494," 2,158",6876
+27/06/2021, volvo ,missing,hydrogen,DUAL-CLUTCH,NA,silver,FWD,Performance,-999, euro 6 ,c-compact,fleet, 17 ,out-of-warranty,EU,£15359,£7846,,19450,   462,12833,19193,£16833,18289,18119
+24/09/2022,honda,320I,petrol,dual-clutch,Estate,grey,4wd,luxury,ex-lease,euro_5,e-Exec,hire,13,in-warranty,missing,£15886,£15104,4817,NaN,NaN,15728,"16,542",£9121,2901,"16,981"
+25/06/2024, HONDA ,320i,DIESEL,cvt,,silver,RWD,Luxury,ex-lease,euro4,NaN,private,40, extended ,Eu,13820,19722,6220,£6672,"13,632",£16541,£8577,18785,10953,13158
+2021-12-31,Bmw,NaN,NaN,cvt,NaN, black ,RWD,Luxury,imported,euro 4,b-supermini,hire,44,NaN,eu,17673,NaN,17619,3782,527,"10,949",NA," 3,787"," 6,613",NA
+"Apr 27, 2021",toyota,GOLF,diesel,Automatic,Estate,-999,4wd,premium, new ,EURO 6,B-Supermini,Demo,11,,Mea,850,£14681,"14,171",17674,4139,£9568,5857,missing,18580,9590
+2023-04-10,-999,s60, diesel ,Manual,coupe,silver,Fwd,premium,Used,euro 5,a-city,NA, 1 ,Out-Of-Warranty,apac,1123," 7,418",£17389,£11611,,£16988,7679," 9,697",2048,NA
+2022-12-06,ford,model 3,ELECTRIC,Dual-Clutch,SALOON,SILVER,4WD,luxury, new ,Euro 4,d-mid-size,demo,21,IN-WARRANTY,Uk,7695,"18,610",600,£12735,1433,NA,6616,17316,£8461,11760
+2021-04-27,TESLA,320I,electric,NA,suv,BLACK,fwd,base, new ,euro6,C-COMPACT,private,34,Extended,UK," 2,827",3132,12454,,2492,4887,14255,£894,17543,£8360
+"Jan 21, 2022",NaN,civic,petrol,manual,saloon,grey, fwd ,BASE,EX-LEASE, euro 6 ,a-city,NA,19,IN-WARRANTY,Uk,18388,4595," 4,626","13,561",1710,48,10876,£13802,10188,18307
+2022-05-19,toyota,golf,, dual-clutch ,Estate,blue,rwd,sport,used,EURO 6,e-exec,,34,in-warranty,eu,1523,"17,293",NaN,," 5,857",,£18486,-999,7558,-999
+2021-11-28,Ford,MODEL 3,Petrol,manual,SUV,grey,4WD,base,new,Euro 4,b-supermini,DEMO,27,extended,Apac,8940,missing," 5,572",14163,missing,£16919,NaN,7781,NA,2847
+10/07/2022,audi,golf,electric,DUAL-CLUTCH,Suv,grey,4wd,performance,used,euro4,d-mid-size, DEMO ,NA,extended,US,4381,11846,3695,19175,-999,NA,3080,14171," 6,850",£6619
+2024-12-31,TOYOTA,Model 3,diesel,automatic,coupe,,-999,Performance,Imported,ULEZ,b-Supermini,demo,32,EXTENDED,NA,6545,1266,£6418,£14703,18007,missing,,349,-999,5016
+NaN,BMW, GOLF ,petrol,CVT,saloon,white,rwd,,imported,euro5,b-Supermini,Demo,3,In-Warranty,uk,5031,8999,28,19288,4532,£490,12048,9123,missing,4312
+"Jan 31, 2024",toyota,model 3,hybrid,cvt,saloon,blue,NA,Base,Ex-Lease,EURO 4,d-mid-size,hire, 30 ,,-999,13975,£12508,4474,£15462,£17555,15667,NA,£4383,3992,"15,717"
+20/08/2022,VOLVO,NA,Electric,Manual,NA, blue ,fwd,premium,used, Euro 4 ,c-compact,private,28,extended,apac,15556,2115,10676,£9761,missing,"10,346",£15424,18980,11107,£18284
+24/06/2024,ford,focus,Diesel,automatic,saloon,black,RWD,luxury,ex-lease, euro 4 ,D-MID-SIZE,fleet,17,In-Warranty,us,NA,15438,,16839,16397,16450,12109,17756,,18881
+2024-02-17,audi,FOCUS,Diesel,cvt,suv,grey,4wd,premium,imported,ulez,c-compact,DEMO,14,out-Of-Warranty,NA,6170,NA,964,3104,9705,missing,"13,790",NA,£13634,2285
+2022-09-26,Audi,NA,hydrogen, automatic ,Suv,silver,4WD,NaN,imported,Ulez,A-City,missing,39,NaN,us," 7,769",1831,15364,3765,7161,10266,£17100,"17,201",18898,£2191
+12/05/2022,TESLA,A4,Hybrid,automatic,estate,BLACK,NaN,-999, new , Ulez ,d-Mid-Size,hire,14,Extended,NaN,9457,£15813,10243,2245,4278,"17,422",NA,18250,18681,18303
+2024-02-08,Audi,NaN,hybrid,dual-clutch,hatchback,missing,rwd,LUXURY,ex-lease,ulez,D-Mid-Size,DEMO, 9 ,extended,apac,"11,594",8294,£18361,£10721,5598,5692,19001,10596,5365,13253
+25/06/2021,Vw,S60,Diesel,missing,SALOON,blue,FWD,Premium,used,Euro 4, a-City ,missing,21,,Apac,14651,16353,265,4888,1609,£13179,729,£18730,15107,
+NaN,NaN,a4,Hybrid,cvt,hatchback,white,,BASE,Imported,euro5,NaN,private,NA,OUT-OF-WARRANTY,eu,8135,£5832,16353,£12895,5284,19482,missing,9861," 6,275",£4986
+"Jan 26, 2021",NaN,model3, petrol ,Automatic,SALOON,NA,NA,sport,used,euro 5, e-Exec ,hire,31,Out-Of-Warranty,eu,19941,5329,-999,2666,14725,"11,321","19,468",missing,£19475,14269
+2021-08-04,NaN,model 3,electric, manual ,Saloon,Red, rwd ,premium, ex-lease ,euro_6,,demo,47, extended ,UK,"13,742",16654,NA,£11110,18793,£2398,14479,7264,17605,"18,817"
+15/02/2021,toyota,A4,petrol, MANUAL ,hatchback,black,missing,luxury,imported,Euro 6,A-City,private,24,In-Warranty, eu ,"16,366",17532,£5777,14099,"12,294",£15862,"13,157",2293,"11,270",£10187
+16/06/2022, TESLA ,golf,diesel,CVT,SALOON,black,fwd,BASE,NA,,,FLEET,45,-999,uk,£9740,£17539,£4896,9064,9631,£16224,8401,19248,19076,
+2022-11-22,bmw,A4,electric,,COUPE, blue ,4wd,sport, IMPORTED ,missing,b-supermini,hire,42,extended,uk,2492,£16901,3015,,£18237,-999,4537,NaN,7317,1668
+"Jan 04, 2022",Honda,320i,Hybrid,automatic,Estate,White,rwd,luxury,Imported,ulez,B-Supermini,DEMO,missing,extended,Us,700,1941,-999,£13531,£13487,13757,13286,-999,£4141,£11658
+NA,NaN,model_3,electric,CVT, suv ,grey,awd,SPORT,Ex-Lease,Euro 6,C-Compact,PRIVATE,42,extended,mea," 1,734",£19316,12162,10868,14778,19118,-999,,18402,18369
+2024-05-17,honda,s60,electric,cvt,SALOON,blue,FWD,Sport,NEW,ulez,D-MID-SIZE,Demo,36,Out-Of-Warranty,apac,"17,673",NaN,16084,1283,missing,6553,£436,18149,5244,"12,846"
+2021-04-11,volvo,civic,PETROL,MANUAL,Saloon,white,4wd,base,imported,euro 5,e-Exec,private,49,extended,uk,," 7,981",,1536,8980,£582,"15,038","16,517",5356,5862
+12/07/2023,ford,MODEL 3,PETROL,DUAL-CLUTCH,suv,black,missing,premium,imported,euro5,c-Compact,HIRE,29,in-warranty, Apac ,16083," 7,825"," 5,889",14269,"18,361",£19467,"10,743","13,456",7550,missing
+2021-06-15,ford,-999,hybrid,automatic,hatchback,White,4wd,NaN,used,euro 5,NaN,Fleet,41,in-warranty,EU,"18,692",1541,£5022,5283,£2484,9323," 2,403",£17674,18257,"11,866"
+2023-07-02,ford,S60,Hybrid,Automatic,estate,NaN,FWD,sport,USED,Euro 6,E-Exec,Hire,23,Out-Of-Warranty,APAC,missing,,NA,"19,498",4252,8645,11196,£16172,,19932
+2022-03-19,,missing,Diesel,Dual-Clutch,ESTATE, BLACK ,missing,LUXURY,new,Ulez, D-MID-SIZE ,FLEET,16,In-Warranty,Us,10672,missing," 7,017",16089,12355,1422,19789,8217,12084,17856
+19/11/2022,volvo,focus,hydrogen,cvt,hatchback,,awd,premium,IMPORTED, euro_5 ,a-city,hire,missing,extended,us,11988,13557,3599,8362,£6090,12341,5193,11537,"17,898","11,741"
+2021-06-16,vw,model 3,electric,automatic,-999,Red,rwd,sport, imported ,,NaN, hire ,5,out-of-warranty,us," 9,881",missing,14465,£11260," 2,349",19908,7160,1543,NA,12825
+04/02/2023,NA,320i,electric,cvt,hatchback,blue,fwd,base,missing,ulez,D-Mid-Size,private,14,in-Warranty,Apac,10353,5507,10515,12284,NaN,£19805,13739,3676,£6740,NA
+04/07/2022,VW,model3,Diesel,,Estate,red,missing,NaN,ex-Lease,euro 5, a-city ,private,22,extended,Eu,8468,£8620,£7717," 9,652",15367,NA,5569,"13,893",9736,   981
+NA, volvo ,civic,electric,dual-clutch,NA,-999,4wd,BASE,imported,NA,A-CITY,Private,37,in-warranty,NA,NA,2295,4141,13566," 5,693",9824," 6,427",13519,14098,3177
+"May 30, 2022",Audi,-999,electric,AUTOMATIC,COUPE,missing,awd,NA,new, ulez ,c-Compact,,-999,OUT-OF-WARRANTY,uk,4682,18059,4950,£14469,"19,874",18004,-999,3413,,18663
+14/12/2023,Vw,COROLLA,hybrid,Manual,suv, silver ,fwd,sport,Used,Euro 6,b-supermini,hire, 27 ,out-of-warranty,NaN,5069,,10859,11977,1634,£4070,   630,19335,"15,060",5742
+2024-06-23,audi,320i,,Cvt,suv,blue,awd,sport,missing,euro_4,A-CITY,NaN,32,,UK,£10478,NA,£14023,NaN,9841,10054," 9,512",8715,"18,437",£19037
+2021-09-02,audi,golf,NaN,dual-clutch,suv,white,awd,luxury,USED,,b-Supermini,NaN,32,in-warranty,uk,19283,3571,1666,15535,884,"12,228",8010,16557,-999,11686
+26/02/2024,tesla,320i, ELECTRIC ,,hatchback,Silver,4wd,sport,imported,euro 4, c-Compact ,PRIVATE,6,out-of-warranty,us,15524,12946,11809,8072,7518,"14,872",,£2546,£8306,£2752
+02/08/2023,NA,A4,petrol,cvt,hatchback,blue,Rwd,performance,NEW,Ulez,missing,FLEET,18,missing,US,NaN,17118,7675,8921,NA,11077,15346,£1435,£15622,7251
+15/03/2023,tesla,civic,electric,Dual-Clutch,saloon,missing,4wd,BASE,EX-LEASE,ULEZ,D-Mid-Size,fleet,21,EXTENDED,Us,£8796,11201,13583,13135,10717,12030,13490,921,14638,11405
+"May 11, 2023",FORD,320I,Petrol,Cvt,NaN,-999,awd,base,,ulez,D-Mid-Size, PRIVATE ,47, Extended ,us,,3468,NA,"12,175",19602,3736,"10,285",4334,12840,17723
+01/01/2021,ford,320i,-999,DUAL-CLUTCH,estate,Blue,missing,performance,ex-Lease,ulez,a-city, private ,29,EXTENDED,missing,11821,9026,-999,£11800,15217,NaN,2853,3084,6700,£4403
+2022-11-11,AUDI,civic,hydrogen,Cvt,COUPE, Silver ,rwd,Premium,ex-lease,euro 5,b-supermini,NA,,extended,NaN,"11,785",462,8039,missing,10379,5477,-999,£749,£12797,9522
+04/04/2024,Ford,Civic,ELECTRIC, Cvt ,Saloon, black , awd ,sport,imported,euro5,B-Supermini, private , 15 , in-warranty ,eu,11942,"18,807",5031,19538,-999,14630,16041,6265,missing," 2,605"
+06/02/2024,bmw,missing,ELECTRIC,NA,saloon,white,awd,Premium, ex-lease ,euro4, e-Exec ,HIRE,29,in-warranty,Mea,1525,-999,17027,10624,£15789,16175,19831,NaN,missing,NA
+2023-04-06,,FOCUS,Diesel,manual, COUPE ,missing,AWD,base,imported,ULEZ, E-Exec ,demo,4, EXTENDED ,mea,NaN,£17775,3580,NaN,10065,NaN,1587,11659,11969,NA
+2024-10-30,Ford,320i,petrol,automatic,COUPE,blue,NA,NaN,NA,EURO 5,C-COMPACT,fleet,34, in-Warranty ,us,13072,10633,3786,10454,8253,5968,16749,NA," 4,362",missing
+20/09/2021,,320i,electric,Cvt,coupe,grey,NaN,luxury,-999,ulez,e-Exec,fleet,,NA,MEA,18721," 2,717",£2004," 1,729",3407,,NA," 6,323",145,1528
+01/03/2021,honda,MODEL 3,diesel,manual,coupe,silver,Rwd,base,imported,euro5,,Hire,13,Out-Of-Warranty,missing,10170,10522,1950,13901,£11157,missing,3338," 4,897",5385,12300
+09/03/2024, vw ,civic,hybrid,cvt,NaN,NaN, rwd ,performance,Ex-Lease,EURO 6,e-exec,Fleet,10,Out-Of-Warranty,APAC,-999,14951,7006,2275,689,14178,13774,4181,19046,16531
+"Dec 21, 2024",Tesla,CIVIC,Hydrogen,missing,suv, SILVER ,rwd,premium,new,EURO 6,e-exec,fleet,9,OUT-OF-WARRANTY,uk,-999,£17706,£15305," 2,601",£12567,6877,18464,18346,"11,176",2578
+"Apr 05, 2022",Honda, Civic ,HYDROGEN,manual,suv,Blue,fwd,base,new,euro 6, B-SUPERMINI ,,28,in-Warranty,uk,1926,£2897,missing,7904,£12536,17500,£3631,2996,15959,1794
+NaN,bmw, Focus , electric ,,coupe,White, Awd ,base,Ex-Lease,euro 4,a-City,DEMO,38,out-of-warranty,Uk,£11560,18799,5453,-999," 5,297"," 4,715",6233,11299,10717,10059
+,VW,320i,hydrogen,manual,-999,NA,awd,performance,missing,EURO 5,E-Exec,PRIVATE,47, Out-Of-Warranty ,apac,2182,£15647,," 6,843","13,307",4613,£5210,14477,2909,2275
+2022-03-07,BMW,golf, hybrid ,Manual,hatchback,SILVER,fwd,performance,NEW,NaN,d-mid-size,fleet,32,out-of-warranty,apac,11613,7565,237,19345,10045,12679,17071,16552,15104,13159
+17/06/2021,HONDA,Corolla,petrol, Dual-Clutch ,saloon,black,NaN,NaN,new, euro 5 ,D-Mid-Size,Fleet,31,OUT-OF-WARRANTY, us ,£3664,£19103,NA,6342,8749,-999,£2189,"13,149",16807,"14,467"
+2021-12-31,TOYOTA,-999,diesel,DUAL-CLUTCH,saloon,silver,FWD,premium,imported,euro4, e-exec ,Hire,15,IN-WARRANTY,Mea,-999,14199,NA,£10046,18974,"17,693",£13744,£1034,£4138,"14,237"
+2022-12-16,tesla,NaN,petrol,, Suv ,WHITE,Rwd,LUXURY, imported , EURO 4 ,b-supermini, demo ,28,in-Warranty, apac ,-999,£7412,2837,8455,4292,2574,19962,£15894,18360,£3394
+2024-12-28,TESLA,MODEL 3,DIESEL,DUAL-CLUTCH,coupe,NA,awd,Sport,used, Euro 4 , B-SUPERMINI ,NaN,8,NA,MEA,15986,5256,582,6800,7675,11149,NaN,14039,18217,15703
+11/02/2023,Toyota,GOLF,missing,Manual,suv,-999,NaN,performance,ex-lease,euro_6,E-EXEC,Fleet,49,In-Warranty,MEA,18338,4581,£15242,7642,£7944,"16,162",18256,£11559,16000,"10,761"
+25/08/2022,audi,320i,HYDROGEN,,Estate,missing, 4wd ,Luxury,used,Euro 4, e-Exec ,HIRE,29,in-warranty,Apac,12662,17293,6032," 2,350",7520,"15,011",missing,6116," 4,131",£3434
+2023-01-04, Bmw ,Golf,ELECTRIC,dual-Clutch,SALOON,Grey,FWD,BASE,IMPORTED,Ulez,NaN,private,15,out-of-warranty, Us ,NaN," 4,014",£19751," 1,500",17070,301,12457,17688,16679,1743
+2021-02-02,tesla,civic,hydrogen,MANUAL,saloon,NA,awd,LUXURY,Used,euro 6,C-Compact,fleet,NA,Extended,mea,£10693,£13152,,£13356,13753,missing,4479,13275,missing,£3744
+NaN,bmw,focus,-999,automatic,estate,BLACK,NaN,base,ex-lease,NaN,d-Mid-Size,FLEET,NaN,extended,NA,£15608,£11997,18281,£10797,9760,2923," 3,439",£4583,missing,3191
+2022-06-16,toyota,320I, HYBRID ,cvt,hatchback,white,Rwd,SPORT,Imported,euro_4,D-Mid-Size, HIRE ,10,IN-WARRANTY, uk ,£10113,2784,missing,3900,NaN,4970,NaN,16471,"10,635",8971
+07/11/2021,bmw, focus ,petrol,cvt, COUPE ,blue,RWD,Base, ex-lease ,NA,-999,fleet,16,extended,MEA,654,£4330,-999,14134,NA,4232,6849,6474,7842,8035
+19/05/2021,-999,focus,hydrogen,Cvt,SALOON,Black,NaN,base,new,Ulez,a-City,NA,9,extended,APAC,-999,12521,17200,3216,7645," 6,364",14572,16726,5034,5866
+16/07/2024,NaN,320i,missing,cvt,coupe,White,Rwd,SPORT,Imported,EURO 6,C-Compact,private,6,Extended,apac," 4,066",   454,"19,655",13667,12741,missing,£5857,2470,16361," 1,428"
+2022-08-13,NaN,320i,Diesel,manual,coupe,red,NA,premium,Imported,euro 6, e-exec ,PRIVATE,missing,out-of-warranty,apac,423,16523,18898,3978,3208,16584," 6,003"," 2,424",7899,17479
+"Mar 12, 2023",TESLA,corolla,NA,dual-Clutch, Estate , blue ,Fwd,NaN,imported,ulez,a-city,private,35,out-of-warranty,us,-999,-999,13053,-999," 8,991",4537,18652,16551,-999,14937
+-999,Audi,NaN,hydrogen,automatic,suv,black,rwd,sport,ex-lease,EURO 5,a-City,hire,42,Extended,us,"19,580",13489,£9473,£10610,missing,-999,£8646,3428,NaN,8573
+14/07/2021,TOYOTA,320i,,manual,estate,red, AWD ,sport,new,euro 4,d-mid-size,hire,missing,in-warranty,missing,-999," 1,832",£6766,5087,9371,3080,NA,19556,-999,12080
+2023-03-22,bmw, a4 ,petrol, manual ,NaN,NA,Fwd,Base,new,NaN,D-Mid-Size,NaN,15,Extended,eu,3327,16486,£11171,93," 9,445","17,512",NA,13937,£8975,NA
+"Nov 03, 2024",Volvo,320i,HYBRID,dual-Clutch,saloon,Silver,Rwd,PERFORMANCE,EX-LEASE,Euro 4,-999,hire,22,in-warranty,eu,9325,NA,11955,£17791,14986,£17562,missing,1574,missing,£13743
+"Jun 16, 2024",BMW,GOLF,electric,manual,saloon,white,FWD,missing, IMPORTED ,EURO 5,b-supermini,demo,48,in-Warranty,UK,NA,£1424,14025," 2,251",9335,6232,12428,16176,2733,
+2022-08-09,NaN,A4,hybrid,Automatic,Hatchback,Black,awd,base,ex-lease,euro 6,,demo,5,extended,apac,294,£13993,,18008," 5,011"," 6,282",5909,£10303,17128,8788
+2023-05-11,volvo,focus,HYDROGEN,dual-clutch,,grey,fwd,sport,used,euro_5, e-exec ,demo, 16 ,out-Of-Warranty,NaN,5034," 6,566",£4717,15022,-999,£12795,16645,2455,missing,£12202
+25/10/2022,Vw,NA,Diesel,dual-clutch,estate,black,4wd, base ,Ex-Lease,euro_4,a-city,NA,39, extended ,NaN,2568,,8788,£2355,£14380,,2318,15563,16333,£714
+04/04/2024,volvo, golf ,hydrogen,dual-clutch,HATCHBACK,white,4wd,-999,NaN, euro4 ,b-Supermini,fleet,40,out-of-warranty,missing,-999,15245,7157,18114,9704,"10,127",missing,11083,15676,
+2021-12-17,volvo,a4,petrol,-999,estate,red,fwd,sport,NA,EURO 5,C-Compact,hire,28,extended,Us,18750,15906,10302,-999,7517,£13274,13446,NaN,missing,768
+30/08/2024,Vw,civic,NA,cvt,Estate,Red,4WD,NaN,imported,Euro 4,d-Mid-Size,DEMO,missing,NA,NaN,£19897,4700,£18,£1644,"10,579",missing,11061,17895,"10,273",18735
+NaN,Tesla,missing,diesel,Manual,estate,Red,4wd,premium,used,ulez,A-City,DEMO,24,Extended,uk,2713,8764,,19117,5788,£9819,14388,8618," 9,647",
+"Sep 09, 2022",volvo, golf ,hybrid,DUAL-CLUTCH,ESTATE,Blue,fwd,sport, imported ,ulez, d-Mid-Size ,Hire,37,IN-WARRANTY,eu,£16704,12703,7054,19306,£767,12779,1477,NA,4787,£6396
+2022-11-03,,NaN,petrol,,estate,missing,rwd,Sport,new,euro 6,a-city, demo ,33,out-of-warranty,," 6,996",12332,17823,£12903,£343,12781,18794,missing,17409,2713
+18/03/2023,FORD,golf,NA,dual-clutch,suv,WHITE, awd ,,new,euro6,C-Compact,demo,43,extended,eu,£12231,15898,12758,9453,6815,884,missing,12344,"17,078",missing
+12/02/2021,volvo,s60,-999,automatic,estate,silver,missing,LUXURY,,EURO 6,b-Supermini,FLEET,5,NaN,Mea,NaN,11618,"18,826","10,753",£12775,-999,"10,202",3513,£10656,£10103
+04/03/2022,FORD,focus, Electric ,Dual-Clutch,missing,silver,4WD,PERFORMANCE,USED,euro 5,B-Supermini,hire,18,OUT-OF-WARRANTY,us,10768," 9,770",missing,5796,14277,-999,15024,8576,11603,£15595
+2023-03-24,AUDI,golf,Hydrogen,AUTOMATIC,estate,Blue, awd ,premium,Imported,euro_4,D-MID-SIZE,fleet,12,In-Warranty,Us,NaN,2490,7824,12869," 4,561",£16889,1978,15449,£3272,10239
+06/09/2022,VW,,hydrogen,AUTOMATIC,coupe,BLACK,4wd,performance,USED, EURO 6 ,-999,demo,32,In-Warranty,mea,NA,12344,1535,12928,18977,11867,£17768,17023,11393,
+NaN,Audi,NA,hybrid,manual,estate,BLACK,Rwd,performance,new,Euro 4,C-COMPACT,-999,46,in-warranty,mea," 9,008","13,418",1542," 9,022",10355,12804,missing,£11256," 7,592","13,263"
+2022-05-14,VW,S60,petrol,Automatic,HATCHBACK,Silver,fwd,premium,used,euro 5,NaN,fleet,8,In-Warranty,mea,15641,11326,3551,11213,6642,19047,10366,15464,17648,"10,086"
+08/07/2022,volvo,320i, DIESEL ,cvt,hatchback,black,Rwd,base,used,ulez, e-exec ,PRIVATE,46,,eu,3435," 8,058",NA,5848,6441,"12,977",593,18283,£2574,missing
+"Mar 09, 2024",ford,a4,ELECTRIC,cvt,hatchback,missing,rwd,sport,USED,EURO 6,c-compact,private,45,In-Warranty,uk,missing,,9415,15068,19189,221,3813," 2,973",17918,13926
+13/03/2021,audi,320i,PETROL,Dual-Clutch,NaN,BLACK, FWD ,base,new,Euro 5,b-supermini,demo,,EXTENDED,apac,9152,6729,14504,2384,13189,18924,13495,16739,"13,754",8734
+2024-08-12,Toyota,MODEL 3, petrol ,dual-clutch,hatchback,,fwd,Premium,IMPORTED,Euro 6,-999,NA,45,out-of-warranty,mea,11485,1149,£18811,955,£14869,£5927,NA,NA,15306,8710
+2024-12-29,vw,Model 3,hydrogen,cvt,estate,silver,rwd,-999,ex-lease,ulez,D-MID-SIZE, Private ,40,OUT-OF-WARRANTY,uk,15693,"10,569",8584,missing,12898,7235,12288,-999,£19448,£4908
+2022-07-09,audi,civic,petrol, Dual-Clutch ,saloon,,Fwd,base,ex-lease,euro_5,c-Compact,-999,NA,out-of-warranty,Us,11099,8786,£5593,16055,922,2775,£3260,95,£18210,12314
+-999,Volvo,golf,Petrol,dual-clutch,estate,red,awd,performance,imported, ULEZ ,c-compact,demo,47,extended,NaN,"16,748","12,409",,NA,1710,£15174,-999,2814,13717,£19025
+2024-07-20,vw,golf,petrol,dual-clutch,saloon,missing,NaN,luxury, New , euro4 ,NA,HIRE,4,in-warranty,Eu,17274,3304,16998,," 4,616",NA," 6,164",£5491,£3965," 9,274"
+2022-06-19,VOLVO,320i,PETROL,automatic,,Black,missing,Luxury,New,Euro 5,A-City,NA,13,In-Warranty,apac,18010,11858,17701,3901,6800,8941,£2541,6138,2500,14371
+2021-07-05,VW,golf,petrol,dual-Clutch,hatchback, black ,4WD,sport,Ex-Lease,Euro 6,a-city,HIRE,20,-999,uk,13906,£6800,£11575,,NA,NA,£8564,18796,13900," 1,743"
+2021-06-06,vw,320i,hydrogen,manual,COUPE,Grey,rwd,NaN,imported, euro_6 ,b-supermini,hire,28,extended,Us," 7,899",1061,8719,12662,17004,"18,598",missing,5304,£1640,3947
+23/03/2024,TOYOTA,COROLLA,NaN,Manual,estate,white,,-999,ex-lease,euro6,B-Supermini,DEMO,21,out-of-warranty,mea,-999,15938," 7,670",13295,19537,missing,2370,17637," 1,724",9426
+11/04/2023,audi,missing,hydrogen,Manual,,black,rwd,-999,IMPORTED,euro 6,a-city,private,,out-Of-Warranty,eu,13888,4635,18490,12698,NA,8411,2758,£8719," 2,318",2771
+08/11/2024,volvo,missing,Electric, Cvt ,estate,NaN, Rwd ,premium,Used,Euro 6,c-Compact,Fleet,-999,extended,us,10265,"15,906",19518,NA,£2791,4359,1898,14320,10360,£12682
+"Jan 12, 2023",missing,320i,DIESEL, cvt ,coupe,Silver,4wd,Sport,EX-LEASE,ulez,e-Exec, private ,9,In-Warranty,UK,NaN,19077,-999,19460,10998,13592,"18,891"," 2,951",5509,13377
+21/04/2023,AUDI,S60, Electric ,automatic,hatchback,Blue,4wd,base,-999,euro4, d-mid-size , demo ,43,EXTENDED,mea,9145,missing,"14,670",,2690,4615,£1832,8562,£11766,£19351
+2021-05-02,audi,Civic,diesel,manual,,NA,awd,Luxury,imported,euro5,C-COMPACT, fleet ,46, IN-WARRANTY ,EU,£16501,14720,941,2877,5575,2337,£5458,NaN,-999,9335
+11/10/2024,vw, golf ,ELECTRIC,dual-Clutch,NaN,Black,4WD,performance, EX-LEASE ,euro 4,b-supermini,demo,,EXTENDED,uk,14569,"10,640",£9253,5537," 8,412","11,027",12344,   309,3343,9516
+"Nov 24, 2022",ford,,missing,manual,estate,WHITE,awd,sport, ex-lease ,euro_5,c-Compact,fleet,30, in-Warranty ,uk,"14,974",16961,10230,"11,521",17664,"14,286",249,NaN,£17348,4778
+2024-03-05,ford,corolla,diesel,manual,COUPE,silver,awd,sport,NA,missing,a-city, demo ,2,Out-Of-Warranty,uk,£13326," 9,830",7028,5,8069,NaN,,missing,1590,£7711
+2024-12-28,tesla,model_3,petrol,dual-clutch, suv ,silver,AWD,sport,Imported,EURO 5,-999,demo,21,extended,Apac,7381,-999,5973,"18,968",18445,£9448," 6,908",15602,3561,
+"Sep 10, 2024",-999,CIVIC,-999,automatic,hatchback,red,awd,SPORT,New,ulez,c-compact,private,missing,in-Warranty, eu ,15644,NaN,missing,£9153,9398,1483,2620," 7,375",9602,10754
+"Jun 13, 2022",audi,NA,-999,dual-Clutch,coupe,Silver,RWD,sport,new,Euro 6,c-compact,hire,6,extended,Uk,"12,163",4382,"15,676",8211,"10,346",7625,18023,£6497,1080,13310
+2023-05-27,HONDA,a4,hybrid,DUAL-CLUTCH,hatchback,red,Rwd,performance,used,EURO 6,A-CITY, PRIVATE ,18,EXTENDED,eu,7457,£14372,NaN,16049,£1708,"10,193",£12195,"19,158",NaN,"17,142"
+29/05/2022,ford, model3 ,hydrogen,-999,hatchback, white ,Rwd,sport,new,Euro 6,B-SUPERMINI,demo,40, IN-WARRANTY ,Us,"14,278",5522,7875,8107,16193,2047,14501,£2579,9617,£17499
+2022-03-05,VW,corolla,electric,cvt,saloon, Grey ,fwd,Sport,,euro 5,a-city, Demo ,39,out-of-warranty,UK,NaN," 6,261",-999,4030,NA,missing,5810,12551,missing,4941
+16/09/2024,missing,golf,petrol,AUTOMATIC,saloon,red,awd,SPORT,used,EURO 4,NaN,HIRE,2,in-warranty,," 7,844",5010,NaN,NA,5519,NA,556,4018,17454," 2,940"
+"Oct 15, 2023",Volvo,NaN,hybrid,automatic,estate,GREY,NaN, performance ,imported,Euro 4,b-supermini,hire,30,In-Warranty,uk,missing,19163," 2,320",19426,18294,£15708,£8149,14510,3529,4981
+2023-01-13,FORD,NA,-999,CVT,COUPE,Black,fwd,BASE,USED,EURO 4,,HIRE,3,in-Warranty,MEA," 5,211","13,407",8791,16361,£17935,1888,£9258,4545,6866,£18195
+05/09/2022,honda,golf,hydrogen,Manual,estate,white,rwd,PERFORMANCE,NA,EURO 5, B-SUPERMINI ,hire,,in-Warranty,apac,18562,"12,987",9548,8118,"12,465",18513,11804,7651,"14,688",£19448
+2024-02-12,honda,golf,Petrol,automatic,saloon,silver,FWD,luxury,Ex-Lease,euro5,e-exec, demo ,25,in-warranty, Uk ,13638,£6586,3458,missing,,"19,614",-999,NA," 3,192",19861
+2023-05-08,volvo,golf,hydrogen,manual,Coupe,Blue,rwd,sport,NA,Euro 4,b-supermini,PRIVATE,32,extended,Apac,"17,392",£17410,14419,906,9674," 8,442",missing,missing,382,14434
+2023-07-30,AUDI,320i,diesel,Dual-Clutch,saloon,white,rwd,NaN,ex-lease,Euro 4,e-Exec,private, 48 ,out-of-warranty,apac,7324,7820,"19,442",NaN,8827,NA,9116,£17768,16815,10801
+missing,tesla,S60,PETROL,cvt,,NaN,Fwd, luxury ,new,Euro 4,d-mid-size,PRIVATE,3,Extended,apac,7855,£16823,12940," 9,159",,3213,4247,12188,8383,5663
+2022-11-10,audi,missing,hydrogen,manual,saloon,grey, 4wd ,PREMIUM,Ex-Lease,ulez,A-City,demo,45,In-Warranty,eu,17598,395,,-999,5849,15762,10864," 9,349",3064,£16247
+28/07/2024, toyota ,Civic,PETROL,cvt,NA,GREY,RWD,luxury,new,Euro 5,NaN,Hire,12,IN-WARRANTY,us,"18,558",1818,1019,NaN,£15061,NA,14080,10497,18115,13312
+2024-09-11,AUDI,focus,NaN,Dual-Clutch,coupe,black,Fwd,performance,imported,euro6, a-city ,private,28,,Mea,"15,854",7401,4976,10446,11391,3291,290,14368,15627," 8,671"
+2022-11-10,vw,Golf,Electric,Automatic,coupe,-999,rwd,SPORT,imported,euro 6,d-mid-size,private,-999,extended,apac,NA,7713,£6872,4314,12246,4160,missing,13851,17478,missing
